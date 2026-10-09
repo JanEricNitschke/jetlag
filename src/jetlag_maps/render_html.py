@@ -57,6 +57,33 @@ def render(args: WebArgs) -> None:
             [(f"Season {season.season}: {season.name}", season) for season in seasons],
             args.markers,
         ).save(str(args.out / "all.html"))
+    (args.out / "index.html").write_text(index_content(seasons), encoding="utf-8")
+
+
+def index_content(seasons: Sequence[SeasonFile]) -> str:
+    """Render the landing page linking the combined and per-season maps."""
+    items: list[str] = []
+    if len(seasons) > 1:
+        items.append('<li><a href="all.html">All seasons</a></li>')
+    for season in seasons:
+        label = html.escape(f"Season {season.season}: {season.name}")
+        items.append(f'<li><a href="{season.slug}.html">{label}</a></li>')
+    links = "\n".join(items)
+    return (
+        "<!DOCTYPE html>\n"
+        '<html lang="en">\n'
+        "<head>\n"
+        '<meta charset="utf-8">\n'
+        "<title>Jet Lag Maps</title>\n"
+        "</head>\n"
+        "<body>\n"
+        "<h1>Jet Lag: The Game - Maps</h1>\n"
+        '<ul style="font-family:sans-serif;font-size:16px;line-height:1.8">\n'
+        f"{links}\n"
+        "</ul>\n"
+        "</body>\n"
+        "</html>\n"
+    )
 
 
 def _stop_players(stop: Stop, journey: Journey) -> Sequence[str]:
