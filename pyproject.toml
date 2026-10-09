@@ -1,0 +1,97 @@
+[build-system]
+requires = ["uv_build>=0.11.6,<0.12.0"]
+build-backend = "uv_build"
+
+[project]
+name = "jetlag-maps"
+version = "0.1.0"
+description = "Google Earth KML to interactive maps, KML exports and episode-synced animations for Jet Lag: The Game."
+readme = "README.md"
+authors = [{ name = "Jan-Eric Nitschke", email = "janeric.nitschke@tngtech.com" }]
+requires-python = ">=3.14"
+dependencies = [
+    "folium>=0.20.0",
+    "pyyaml>=6.0.3",
+    "requests>=2.34.2",
+]
+
+[project.scripts]
+jetlag-maps = "jetlag_maps.cli:main"
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.6.2",
+    "pyrefly>=1.3.2",
+    "ruff>=0.16.9",
+]
+
+[tool.ruff]
+target-version = "py314"
+line-length = 88
+exclude = [".venv", "maps", "kml", "animations", "data"]
+
+[tool.ruff.lint]
+select = ["ALL"]
+ignore = [
+    # Due to formatter conflict
+    "W191",
+    "E111",
+    "E114",
+    "E117",
+    "D206",
+    "D300",
+    "Q000",
+    "Q001",
+    "Q002",
+    "Q003",
+    "COM812",
+    "COM819",
+    "ISC002",
+    "C901",   # Complex functions are fine at this project size
+    "FA100",   # Do not want __future__ imports everywhere
+    "PERF",    # Too many false positives
+    "CPY001",  # No copyright notices
+    # No docstrings in this project
+    "D100",
+    "D101",
+    "D102",
+    "D103",
+    "D104",
+    "D105",
+    "D106",
+    "D107",
+]
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+[tool.ruff.lint.per-file-ignores]
+"src/jetlag_maps/cli.py" = ["T201"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "numpy"
+
+[tool.ruff.lint.pylint]
+max-args = 10
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+
+[tool.pyrefly]
+project-includes = ["src"]
+project-excludes = ["data", "maps", "kml"]
+preset = "strict"
+infer-with-first-use = true
+
+[tool.pyrefly.errors]
+
+[tool.typos.files]
+extend-exclude = [
+    "data",
+    "maps",
+    "kml",
+    "animations",
+    "uv.lock",
+    "*.kml",
+    "*.kml:Zone.Identifier",
+]
