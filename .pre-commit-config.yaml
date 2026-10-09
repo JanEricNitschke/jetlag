@@ -27,6 +27,6 @@ repos:
     hooks:
       - id: pyrefly
         name: pyrefly
-        entry: pyrefly check
+        entry: uv run pyrefly check
         language: system
         types: [python]
