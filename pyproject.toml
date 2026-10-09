@@ -11,6 +11,7 @@ authors = [{ name = "Jan-Eric Nitschke", email = "janeric.nitschke@tngtech.com" 
 requires-python = ">=3.14"
 dependencies = [
     "folium>=0.20.0",
+    "pydantic>=2.13.5",
     "pyyaml>=6.0.3",
     "requests>=2.34.2",
 ]
@@ -68,6 +69,9 @@ dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
 
 [tool.ruff.lint.pydocstyle]
 convention = "numpy"
+
+[tool.ruff.lint.flake8-type-checking]
+runtime-evaluated-base-classes = ["pydantic.BaseModel"]
 
 [tool.ruff.lint.pylint]
 max-args = 10
