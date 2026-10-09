@@ -36,19 +36,44 @@ train
     endpoints.
 plane
     Great-circle spherical interpolation between the endpoints. When the
-    ``note`` contains a flight designator (e.g. ``"UAL1"`` or
-    ``"UAL1@2026-10-07"`` for a specific date), the actually flown track
-    is scraped from FlightAware instead: the live-flight pages
-    (``https://www.flightaware.com/live/flight/...``) embed the full
-    position history of a flight as JSON in an inline
-    ``trackpollBootstrap`` script, including for completed historical
-    flights (resolved via the activity-log permalinks of the flight
-    number's page). This is HTML scraping without an official API and
-    breaks whenever FlightAware changes its page layout; on any failure
-    (blocked, restructured page, unknown flight) the great-circle path is
-    returned with a warning. The OpenSky Network
-    (https://opensky-network.org/) remains a possible API-based
-    alternative for actually flown paths.
+    ``note`` contains a flight designator, the actually flown track is
+    scraped from FlightAware instead, by descending the resolution chain
+    described in ``fetch_geometry``: an explicit designator constructs a
+    history permalink directly; otherwise the flight number's live page
+    (``https://www.flightaware.com/live/flight/...``) is fetched and the
+    track taken from the inline ``trackpollBootstrap`` JSON or resolved
+    via the page's activity-log permalinks. A dated designator whose
+    flight is not on the first activity-log page is additionally looked
+    up in the ``logpoll.rvt`` AJAX endpoint that the page's "show more"
+    UI uses, but anonymous access only ever exposes about two weeks of
+    activity-log history, so years-old flights are only reachable via
+    the explicit designator form. When no track of the flight number
+    can be found, a dated designator prefers a representative same-route
+    flight over the most recent finished flight of the same number,
+    because a current flight of a number may serve a completely
+    different route; an undated designator keeps the opposite
+    preference. A representative flight of the same route is resolved
+    as follows: the route airports come from the designator's
+    ``ORIG-DEST`` or, when absent, from OpenStreetMap
+    ``aeroway=aerodrome`` elements (nodes, ways, or relations) within
+    5 km of the leg's endpoints (``icao``/``iata`` tags queried via
+    Overpass), and the current and recent flights between them are
+    listed from
+    ``https://www.flightaware.com/live/findflight?origin=...&destination=...``.
+    That page does not render flight links server-side; its rows live in
+    an inline ``FA.findflight.resultsContent`` JSON array whose
+    ``flightIdent`` HTML anchors each row's concrete flight instance at
+    ``/live/flight/id/...``. The concrete instance link is used because
+    the bare ``/live/flight/{ident}`` page can resolve to a different
+    leg of the same flight number (observed: the reverse route), and the
+    track of the first listed landed or airborne same-route flight wins.
+    The result is representative geometry, not the leg's actually flown
+    path, which is called out in a warning. This is HTML scraping
+    without an official API and breaks whenever FlightAware changes its
+    page layout; on any failure (blocked, restructured page, unknown
+    flight) the great-circle path is returned with a warning. The
+    OpenSky Network (https://opensky-network.org/) remains a possible
+    API-based alternative for actually flown paths.
 """
 
 from __future__ import annotations
@@ -62,7 +87,7 @@ import warnings
 from typing import NamedTuple
 
 import requests
-from pydantic import BaseModel, ConfigDict, ValidationError
+from pydantic import BaseModel, ConfigDict, TypeAdapter, ValidationError
 from pydantic.alias_generators import to_camel
 
 from jetlag_maps.format import Coordinate, TravelMode
@@ -103,6 +128,11 @@ _MAX_RELATION_CANDIDATES = 8
 _M_PER_DEGREE = 111_000.0
 
 _FLIGHTAWARE_BASE = "https://www.flightaware.com/live/flight"
+_FLIGHTAWARE_FINDFLIGHT = "https://www.flightaware.com/live/findflight"
+_FLIGHTAWARE_LOGPOLL = "https://www.flightaware.com/ajax/logpoll.rvt"
+_MAX_FINISHED_ATTEMPTS = 3
+_MAX_ROUTE_ATTEMPTS = 3
+_AIRPORT_QUERY_RADIUS_M = 5_000.0
 _FLIGHTAWARE_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0"
@@ -110,9 +140,18 @@ _FLIGHTAWARE_HEADERS = {
     "Accept-Language": "en-US,en;q=0.5",
 }
 _TRACKPOLL_RE = re.compile(r"var trackpollBootstrap = ")
+_TRACKPOLL_TOKEN_RE = re.compile(r'trackpollGlobals\s*=\s*\{"TOKEN":"([^"]+)"')
 _PERMALINK_DATE_RE = re.compile(r"/history/(\d{8})/")
-_FLIGHT_DESIGNATOR_RE = re.compile(
-    r"\b([A-Z]{2,3}\d{1,4})(?:@(\d{8}|\d{4}-\d{2}-\d{2}))?\b"
+_FINDFLIGHT_RESULTS_RE = re.compile(
+    r"FA\.findflight\.resultsContent\s*=\s*(\[.*?\]);", re.DOTALL
+)
+_FINDFLIGHT_IDENT_RE = re.compile(r">\s*([A-Z0-9]+)\s*</a>")
+_FINDFLIGHT_LINK_RE = re.compile(r'href="([^"]+)"')
+_FLIGHT_NOTE_RE = re.compile(
+    r"\b(?P<ident>[A-Z]{2,3}\d{1,4})"
+    r"(?:@(?P<date>\d{4}-\d{2}-\d{2}|\d{8}))?"
+    r"(?:\s+(?P<time>\d{2}:?\d{2})Z)?"
+    r"(?:\s+(?P<origin>[A-Z]{3,4})-(?P<destination>[A-Z]{3,4}))?"
 )
 
 
@@ -224,6 +263,7 @@ class _ActivityLog(BaseModel):
     """The activity log of a FlightAware flight page."""
 
     flights: list[_ActivityLogFlight] = []
+    additional_log_rows_available: bool = False
 
 
 class _TrackFlight(BaseModel):
@@ -241,6 +281,48 @@ class _TrackpollBootstrap(BaseModel):
     flights: dict[str, _TrackFlight] = {}
 
 
+class _OverpassAirportTags(BaseModel):
+    """The ``iata``/``icao`` tags of an OSM aerodrome way."""
+
+    iata: str = ""
+    icao: str = ""
+
+
+class _OverpassAirportElement(BaseModel):
+    """An Overpass aerodrome element from an ``out tags center`` query."""
+
+    lat: float | None = None
+    lon: float | None = None
+    center: _LonLat | None = None
+    tags: _OverpassAirportTags | None = None
+
+    @property
+    def point(self) -> _LonLat | None:
+        """The element position from ``center`` (ways) or ``lat``/``lon``."""
+        if self.center is not None:
+            return self.center
+        if self.lat is not None and self.lon is not None:
+            return _LonLat(lat=self.lat, lon=self.lon)
+        return None
+
+
+class _OverpassAirportsResponse(BaseModel):
+    """An Overpass response to an aerodrome query with ``out tags center``."""
+
+    elements: list[_OverpassAirportElement] = []
+
+
+class _FindflightResult(BaseModel):
+    """A route-row of the inline ``FA.findflight.resultsContent`` array."""
+
+    model_config = ConfigDict(alias_generator=to_camel)
+
+    origin: str = ""
+    destination: str = ""
+    flight_ident: str = ""
+    flight_status: str = ""
+
+
 class _RouteRelation(NamedTuple):
     """A `route` relation from Overpass with the fields needed for matching."""
 
@@ -251,6 +333,41 @@ class _RouteRelation(NamedTuple):
     max_lon: float
     ref: str
     name: str
+
+
+class _FlightDesignator(NamedTuple):
+    """A flight designator parsed from a leg note.
+
+    ``date`` is ``YYYYMMDD``, ``time`` is departure ``HHMM`` Zulu, and
+    ``origin``/``destination`` are ICAO airport codes.
+    """
+
+    ident: str
+    date: str | None = None
+    time: str | None = None
+    origin: str | None = None
+    destination: str | None = None
+
+    @property
+    def is_explicit(self) -> bool:
+        """Whether all pieces of a full history permalink are present."""
+        return None not in (self.date, self.time, self.origin, self.destination)
+
+
+class _RouteFlight(NamedTuple):
+    """A current FlightAware flight on a requested route."""
+
+    ident: str
+    link: str
+
+
+class _RepresentativeTrack(NamedTuple):
+    """A same-route flight's track standing in for another flight."""
+
+    ident: str
+    origin: str
+    destination: str
+    track: list[Coordinate]
 
 
 def fetch_geometry(
@@ -274,10 +391,21 @@ def fetch_geometry(
         or ``name`` is contained in ``note`` (case-insensitive, e.g. a
         note of ``"Took the のぞみ to Osaka"`` matches the ``のぞみ``
         Shinkansen relations) are preferred over the generic railway
-        corridor. For ``plane``, a flight designator in ``note``
-        (``"UAL1"`` or ``"UAL1@2026-10-07"`` for a specific date)
-        selects the actually flown track scraped from FlightAware.
-        Ignored for other modes.
+        corridor. For ``plane``, a flight designator in ``note`` selects
+        the actually flown track scraped from FlightAware. The accepted
+        grammar is ``IDENT[@YYYY-MM-DD][ HH:MMZ][ ORIG-DEST]`` where
+        ``IDENT`` is an airline code plus 1-4 digits (e.g. ``"UAL1"``),
+        the optional date pins a specific day, the optional Zulu
+        departure time (colon optional) and the optional
+        ``ORIG-DEST`` ICAO pair complete a fully explicit designator
+        (e.g. ``"UAL1@2026-09-27 05:50Z KSFO-WSSS"``) whose history
+        permalink can be constructed directly, reaching flights far
+        beyond the ~two weeks of activity-log history that anonymous
+        FlightAware access exposes. When no track of the named flight
+        can be found, a representative current flight on the same route
+        is used with a warning; a dated designator prefers it over the
+        most recent finished flight of the same number, an undated one
+        only falls back to it after that. Ignored for other modes.
 
     Returns
     -------
@@ -408,13 +536,12 @@ def _fetch_plane(start: Coordinate, end: Coordinate, note: str) -> list[Coordina
     designator = _parse_flight_designator(note)
     if designator is None:
         return _great_circle(start, end)
-    ident, when = designator
     try:
-        return _fetch_flightaware_track(ident, when)
+        return _fetch_flightaware_track(designator, start, end)
     except RouteError as exc:
         warnings.warn(
-            f"could not scrape a FlightAware track for flight {ident!r} ({exc});"
-            " using a great-circle path",
+            f"could not scrape a FlightAware track for flight {designator.ident!r}"
+            f" ({exc}); using a great-circle path",
             stacklevel=2,
         )
         return _great_circle(start, end)
@@ -427,27 +554,103 @@ def _great_circle(start: Coordinate, end: Coordinate) -> list[Coordinate]:
     ]
 
 
-def _parse_flight_designator(note: str) -> tuple[str, str | None] | None:
-    """Extract a flight ident and optional ``YYYY-MM-DD`` date from a note."""
-    match = _FLIGHT_DESIGNATOR_RE.search(note.upper())
+def _parse_flight_designator(note: str) -> _FlightDesignator | None:
+    """Extract a flight designator with optional date, time, and route."""
+    match = _FLIGHT_NOTE_RE.search(note.upper())
     if match is None:
         return None
-    ident, when = match.group(1), match.group(2)
-    return ident, (when.replace("-", "") if when else None)
+    date = match.group("date")
+    time = match.group("time")
+    return _FlightDesignator(
+        ident=match.group("ident"),
+        date=date.replace("-", "") if date else None,
+        time=time.replace(":", "") if time else None,
+        origin=match.group("origin"),
+        destination=match.group("destination"),
+    )
 
 
-def _fetch_flightaware_track(ident: str, when: str | None) -> list[Coordinate]:
-    bootstrap = _parse_trackpoll(_flightaware_get(f"{_FLIGHTAWARE_BASE}/{ident}"))
-    track = _extract_track(bootstrap)
-    if track is None:
-        link = _resolve_history_link(bootstrap, when)
-        track = _extract_track(
-            _parse_trackpoll(_flightaware_get(f"https://www.flightaware.com{link}"))
+def _fetch_flightaware_track(
+    designator: _FlightDesignator, start: Coordinate, end: Coordinate
+) -> list[Coordinate]:
+    if designator.is_explicit:
+        permalink = (
+            f"/live/flight/{designator.ident}/history/{designator.date}/"
+            f"{designator.time}Z/{designator.origin}/{designator.destination}"
         )
+        try:
+            return _fetch_permalink_track(permalink)
+        except RouteError:
+            pass
+    bootstrap: _TrackpollBootstrap | None = None
+    try:
+        page = _flightaware_get(f"{_FLIGHTAWARE_BASE}/{designator.ident}")
+        bootstrap = _parse_trackpoll(page)
+        if designator.date is None:
+            track = _extract_track(bootstrap)
+            if track is not None:
+                return track
+        link = _resolve_history_link(bootstrap, page, designator.date)
+        return _fetch_permalink_track(link)
+    except RouteError:
+        pass
+    if designator.date is None and bootstrap is not None:
+        fallback = _recent_finished_track(bootstrap)
+        if fallback is not None:
+            warnings.warn(
+                f"no exact FlightAware match for {designator.ident!r};"
+                " using the most recent finished flight of that number",
+                stacklevel=3,
+            )
+            return fallback
+    representative = _same_route_track(designator, start, end)
+    if representative is not None:
+        warnings.warn(
+            f"no exact FlightAware match for {designator.ident!r}"
+            f"{f' on {designator.date}' if designator.date else ''};"
+            f" using a representative same-route flight {representative.ident!r}"
+            f" ({representative.origin}->{representative.destination})"
+            " instead; its geometry is representative, not the actually"
+            " flown path",
+            stacklevel=3,
+        )
+        return representative.track
+    if designator.date is not None and bootstrap is not None:
+        fallback = _recent_finished_track(bootstrap)
+        if fallback is not None:
+            warnings.warn(
+                f"no exact FlightAware match for {designator.ident!r}"
+                f" on {designator.date};"
+                " using the most recent finished flight of that number",
+                stacklevel=3,
+            )
+            return fallback
+    msg = f"no usable FlightAware track for {designator.ident!r}"
+    raise RouteNotFoundError(msg)
+
+
+def _recent_finished_track(
+    bootstrap: _TrackpollBootstrap,
+) -> list[Coordinate] | None:
+    for link in _activity_log_permalinks(bootstrap)[:_MAX_FINISHED_ATTEMPTS]:
+        try:
+            return _fetch_permalink_track(link)
+        except RouteError:
+            continue
+    return None
+
+
+def _fetch_permalink_track(link: str) -> list[Coordinate]:
+    """Fetch the flown track of the FlightAware flight behind ``link``."""
+    track = _extract_track(_parse_trackpoll(_flightaware_get(_permalink_url(link))))
     if track is None:
-        msg = f"flight {ident!r} has no usable flown track on FlightAware"
+        msg = f"the FlightAware flight at {link} has no usable flown track"
         raise RouteNotFoundError(msg)
     return track
+
+
+def _permalink_url(link: str) -> str:
+    return link if link.startswith("http") else f"https://www.flightaware.com{link}"
 
 
 def _flightaware_get(url: str) -> str:
@@ -481,14 +684,17 @@ def _extract_track(bootstrap: _TrackpollBootstrap) -> list[Coordinate] | None:
     return None
 
 
-def _resolve_history_link(bootstrap: _TrackpollBootstrap, when: str | None) -> str:
-    permalinks = [
-        entry.perma_link
-        for flight in bootstrap.flights.values()
-        if flight.activity_log is not None
-        for entry in flight.activity_log.flights
-        if entry.perma_link
-    ]
+def _resolve_history_link(
+    bootstrap: _TrackpollBootstrap, page: str, when: str | None
+) -> str:
+    permalinks = _activity_log_permalinks(bootstrap)
+    if when is not None and _more_log_rows_available(bootstrap):
+        token = _trackpoll_token(page)
+        if token is not None:
+            permalinks = [
+                *_activity_log_permalinks(_logpoll_bootstrap(token)),
+                *permalinks,
+            ]
     if when is not None:
         for permalink in permalinks:
             date = _PERMALINK_DATE_RE.search(permalink)
@@ -500,6 +706,170 @@ def _resolve_history_link(bootstrap: _TrackpollBootstrap, when: str | None) -> s
         return permalinks[0]
     msg = "the FlightAware page lists no recent flights of this number"
     raise RouteNotFoundError(msg)
+
+
+def _activity_log_permalinks(bootstrap: _TrackpollBootstrap) -> list[str]:
+    return [
+        entry.perma_link
+        for flight in bootstrap.flights.values()
+        if flight.activity_log is not None
+        for entry in flight.activity_log.flights
+        if entry.perma_link
+    ]
+
+
+def _more_log_rows_available(bootstrap: _TrackpollBootstrap) -> bool:
+    return any(
+        flight.activity_log is not None
+        and flight.activity_log.additional_log_rows_available
+        for flight in bootstrap.flights.values()
+    )
+
+
+def _trackpoll_token(page: str) -> str | None:
+    match = _TRACKPOLL_TOKEN_RE.search(page)
+    return match.group(1) if match is not None else None
+
+
+def _logpoll_bootstrap(token: str) -> _TrackpollBootstrap:
+    """Fetch the extended activity log behind the page's "show more" UI."""
+    text = _flightaware_get(f"{_FLIGHTAWARE_LOGPOLL}?token={token}")
+    try:
+        return _TrackpollBootstrap.model_validate(json.loads(text))
+    except json.JSONDecodeError as exc:
+        msg = "the FlightAware logpoll data is malformed"
+        raise RouteNotFoundError(msg) from exc
+
+
+def _same_route_track(
+    designator: _FlightDesignator, start: Coordinate, end: Coordinate
+) -> _RepresentativeTrack | None:
+    """Scrape the track of a current flight on the designator's route.
+
+    Parameters
+    ----------
+    designator
+        The parsed flight designator whose own track was not usable.
+    start
+        Start coordinate of the leg, used to infer the origin airport.
+    end
+        End coordinate of the leg, used to infer the destination airport.
+
+    Returns
+    -------
+    _RepresentativeTrack | None
+        The first usable same-route track, or ``None`` when the route
+        airports cannot be determined or no listed flight has a track.
+    """
+    airports = _route_airports(designator, start, end)
+    if airports is None:
+        return None
+    origin, destination = airports
+    try:
+        page = _flightaware_get(
+            f"{_FLIGHTAWARE_FINDFLIGHT}?origin={origin}&destination={destination}"
+        )
+        flights = _route_flights(page)
+    except RouteError:
+        return None
+    for flight in flights[:_MAX_ROUTE_ATTEMPTS]:
+        try:
+            track = _extract_track(
+                _parse_trackpoll(_flightaware_get(_permalink_url(flight.link)))
+            )
+        except RouteError:
+            continue
+        if track is not None:
+            return _RepresentativeTrack(
+                ident=flight.ident,
+                origin=origin,
+                destination=destination,
+                track=track,
+            )
+    return None
+
+
+def _route_airports(
+    designator: _FlightDesignator, start: Coordinate, end: Coordinate
+) -> tuple[str, str] | None:
+    if designator.origin is not None and designator.destination is not None:
+        return designator.origin, designator.destination
+    return _overpass_airport_codes(start, end)
+
+
+def _overpass_airport_codes(
+    start: Coordinate, end: Coordinate
+) -> tuple[str, str] | None:
+    clauses = ";".join(
+        f'nwr["aeroway"="aerodrome"](around:{_AIRPORT_QUERY_RADIUS_M:.0f},'
+        f"{point.latitude},{point.longitude})"
+        for point in (start, end)
+    )
+    query = f"[out:json][timeout:25];({clauses};);out tags center;"
+    try:
+        data = _overpass_request(query, _OverpassAirportsResponse)
+    except RouteError:
+        return None
+    start_code = _nearest_airport_code(data.elements, start)
+    end_code = _nearest_airport_code(data.elements, end)
+    if start_code is None or end_code is None:
+        return None
+    return start_code, end_code
+
+
+def _nearest_airport_code(
+    elements: list[_OverpassAirportElement], point: Coordinate
+) -> str | None:
+    best_distance = math.inf
+    best_code: str | None = None
+    for element in elements:
+        position = element.point
+        if position is None or element.tags is None:
+            continue
+        code = element.tags.icao or element.tags.iata
+        if not code:
+            continue
+        distance = _haversine_m(
+            (point.longitude, point.latitude), (position.lon, position.lat)
+        )
+        if distance < best_distance:
+            best_distance = distance
+            best_code = code
+    return best_code
+
+
+def _route_flights(page: str) -> list[_RouteFlight]:
+    match = _FINDFLIGHT_RESULTS_RE.search(page)
+    if match is None:
+        msg = "the FlightAware route page has no findflight results"
+        raise RouteNotFoundError(msg)
+    try:
+        results = TypeAdapter(list[_FindflightResult]).validate_json(match.group(1))
+    except ValidationError as exc:
+        msg = "the FlightAware findflight results are malformed"
+        raise RouteNotFoundError(msg) from exc
+    flights: list[_RouteFlight] = []
+    seen: set[str] = set()
+    for result in sorted(results, key=_route_flight_rank):
+        ident_match = _FINDFLIGHT_IDENT_RE.search(result.flight_ident)
+        link_match = _FINDFLIGHT_LINK_RE.search(result.flight_ident)
+        if ident_match is None or link_match is None:
+            continue
+        ident = ident_match.group(1)
+        if ident in seen:
+            continue
+        seen.add(ident)
+        flights.append(_RouteFlight(ident=ident, link=link_match.group(1)))
+    return flights
+
+
+def _route_flight_rank(result: _FindflightResult) -> int:
+    status = result.flight_status.casefold()
+    if "arrived" in status:
+        return 0
+    if "en route" in status:
+        return 1
+    return 2
 
 
 def _corridor_samples(

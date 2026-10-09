@@ -1,0 +1,52 @@
+{
+  "season": 13,
+  "name": "Schengen Showdown",
+  "journeys": [
+    {
+      "team": [
+        "Sam Denby",
+        "Tom Scott"
+      ],
+      "color": "#00796B",
+      "stops": [
+        {
+          "name": "Placeholder",
+          "coordinate": {
+            "longitude": 0.0,
+            "latitude": 0.0
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Adam Chase",
+        "Ben Doyle"
+      ],
+      "color": "#D32F2F",
+      "stops": [
+        {
+          "name": "Placeholder",
+          "coordinate": {
+            "longitude": 0.0,
+            "latitude": 0.0
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

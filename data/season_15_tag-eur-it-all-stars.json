@@ -1,0 +1,75 @@
+{
+  "season": 15,
+  "name": "Tag Eur It: All Stars",
+  "journeys": [
+    {
+      "team": [
+        "Sam Denby",
+        "Toby Hendy"
+      ],
+      "color": "#7B1FA2",
+      "stops": [
+        {
+          "name": "Placeholder",
+          "coordinate": {
+            "longitude": 0.0,
+            "latitude": 0.0
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Adam Chase",
+        "Michelle Khare"
+      ],
+      "color": "#1976D2",
+      "stops": [
+        {
+          "name": "Placeholder",
+          "coordinate": {
+            "longitude": 0.0,
+            "latitude": 0.0
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Ben Doyle",
+        "Brian McManus"
+      ],
+      "color": "#42A5F5",
+      "stops": [
+        {
+          "name": "Placeholder",
+          "coordinate": {
+            "longitude": 0.0,
+            "latitude": 0.0
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

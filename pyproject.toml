@@ -79,6 +79,7 @@ runtime-evaluated-base-classes = ["pydantic.BaseModel"]
 [tool.ruff.lint.pylint]
 max-args = 10
 max-returns = 7
+max-branches = 13
 
 [tool.ruff.format]
 quote-style = "double"

@@ -1,0 +1,52 @@
+{
+  "season": 19,
+  "name": "Japanorama",
+  "journeys": [
+    {
+      "team": [
+        "Sam Denby",
+        "Ben Doyle"
+      ],
+      "color": "#F57C00",
+      "stops": [
+        {
+          "name": "Placeholder",
+          "coordinate": {
+            "longitude": 0.0,
+            "latitude": 0.0
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Adam Chase",
+        "Tom Scott"
+      ],
+      "color": "#00796B",
+      "stops": [
+        {
+          "name": "Placeholder",
+          "coordinate": {
+            "longitude": 0.0,
+            "latitude": 0.0
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

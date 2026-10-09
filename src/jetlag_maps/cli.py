@@ -3,13 +3,14 @@
 from __future__ import annotations
 
 import argparse
+import logging
 from enum import StrEnum
 from pathlib import Path
 from typing import TYPE_CHECKING
 
 from pydantic import BaseModel, ConfigDict
 
-from jetlag_maps import importer, render_html, render_kml, tabular
+from jetlag_maps import importer, leg_guess, render_html, render_kml, tabular
 from jetlag_maps.render_html import MarkerMode
 
 if TYPE_CHECKING:
@@ -22,6 +23,7 @@ class Command(StrEnum):
     IMPORT = "import"
     EXPORT = "export"
     IMPORT_TABLE = "import-table"
+    GUESS_LEGS = "guess-legs"
     RENDER = "render"
     WEB = "web"
 
@@ -68,6 +70,14 @@ class ImportTableArgs(BaseModel):
     out: Path
 
 
+class GuessLegsArgs(BaseModel):
+    """Arguments of the ``guess-legs`` subcommand."""
+
+    model_config = ConfigDict(from_attributes=True)
+
+    data: Path
+
+
 def _build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="jetlag-maps", description=__doc__)
     sub = parser.add_subparsers(dest="command", required=True)
@@ -112,11 +122,18 @@ def _build_parser() -> argparse.ArgumentParser:
     p_import_table.add_argument("--data", type=Path, default=Path("export.xlsx"))
     p_import_table.add_argument("--out", type=Path, default=Path("data"))
 
+    p_guess_legs = sub.add_parser(
+        Command.GUESS_LEGS.value,
+        help="Fill best-guess travel modes into season JSON files.",
+    )
+    p_guess_legs.add_argument("--data", type=Path, default=Path("data"))
+
     return parser
 
 
 def main(argv: Sequence[str] | None = None) -> None:
     """Entry point dispatching to the import/render/web subcommands."""
+    logging.basicConfig(level=logging.INFO, format="%(message)s")
     args = _build_parser().parse_args(argv)
     match Command(args.command):
         case Command.IMPORT:
@@ -129,3 +146,5 @@ def main(argv: Sequence[str] | None = None) -> None:
             tabular.run_export(ExportArgs.model_validate(args))
         case Command.IMPORT_TABLE:
             tabular.run_table_import(ImportTableArgs.model_validate(args))
+        case Command.GUESS_LEGS:
+            leg_guess.run_guess(GuessLegsArgs.model_validate(args))

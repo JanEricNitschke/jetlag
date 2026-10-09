@@ -1,4 +1,4 @@
-exclude: '^(maps|kml|animations|data|export)/'
+exclude: '^(maps|kml|animations|data|export|geo)/'
 repos:
   - repo: "https://github.com/pre-commit/pre-commit-hooks"
     rev: v6.0.0
