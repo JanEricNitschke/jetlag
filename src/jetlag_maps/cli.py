@@ -10,6 +10,7 @@ from typing import TYPE_CHECKING
 from pydantic import BaseModel, ConfigDict
 
 from jetlag_maps import importer, render_html, render_kml, tabular
+from jetlag_maps.render_html import MarkerMode
 
 if TYPE_CHECKING:
     from collections.abc import Sequence
@@ -45,6 +46,8 @@ class RenderArgs(BaseModel):
 
 class WebArgs(RenderArgs):
     """Arguments of the ``web`` subcommand."""
+
+    markers: MarkerMode = MarkerMode.CLUSTER
 
 
 class ExportArgs(BaseModel):
@@ -88,6 +91,12 @@ def _build_parser() -> argparse.ArgumentParser:
     )
     p_web.add_argument("--data", type=Path, default=Path("data"))
     p_web.add_argument("--out", type=Path, default=Path("maps"))
+    p_web.add_argument(
+        "--markers",
+        choices=[mode.value for mode in MarkerMode],
+        default=MarkerMode.CLUSTER.value,
+        help="How coincident markers of different teams are shown.",
+    )
 
     p_export = sub.add_parser(
         Command.EXPORT.value,
