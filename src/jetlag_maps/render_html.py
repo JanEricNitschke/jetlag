@@ -3,11 +3,13 @@
 from __future__ import annotations
 
 import html
+import json
 from enum import StrEnum
+from pathlib import Path
 from typing import TYPE_CHECKING
 
 import folium
-from folium.plugins import MarkerCluster
+from folium.plugins import MarkerCluster, PolyLineTextPath
 
 from jetlag_maps.format import (
     SeasonFile,
@@ -183,15 +185,38 @@ def _stop_tooltip(stop: Stop) -> str:
 
 
 def _add_leg_lines(group: folium.FeatureGroup, journey: Journey) -> None:
-    """Add one journey-colored polyline per ``to_next`` leg of the journey."""
+    """Add one journey-colored, arrowed polyline per ``to_next`` leg."""
     color = str(journey.color)
     for stop, nxt in zip(journey.stops, journey.stops[1:], strict=False):
         for leg in stop.to_next:
             coordinates = leg.geometry or [stop.coordinate, nxt.coordinate]
             points = [(c.latitude, c.longitude) for c in coordinates]
-            folium.PolyLine(
+            line = folium.PolyLine(
                 points, color=color, weight=4, opacity=0.8, popup=_leg_popup(leg)
-            ).add_to(group)
+            )
+            line.add_to(group)
+            _add_direction_arrows(group, line, color)
+
+
+def _add_direction_arrows(
+    group: folium.FeatureGroup, line: folium.PolyLine, color: str
+) -> None:
+    """Overlay travel-direction arrows along a leg polyline."""
+    PolyLineTextPath(
+        line,
+        text="          →          ",
+        repeat=True,
+        center=True,
+        offset=8,
+        attributes={
+            "fill": color,
+            "stroke": "#000000",
+            "stroke-width": "2",
+            "paint-order": "stroke",
+            "font-weight": "900",
+            "font-size": "24px",
+        },
+    ).add_to(group)
 
 
 def _journey_points(journey: Journey) -> list[tuple[float, float]]:
@@ -250,11 +275,66 @@ def _scale_cluster_icons(map_: folium.Map) -> None:
     )
 
 
+def _add_boundary_overlay(map_: folium.Map) -> None:
+    """Add combined admin-1 and admin-2 boundary GeoJSON overlay layers."""
+    geo_dir = Path(__file__).parent.parent.parent / "geo"
+    for level, label, visible in (
+        ("ADM1", "States/Regions", True),
+        ("ADM2", "Counties/Districts", False),
+    ):
+        features: list[dict[str, object]] = []
+        for path in sorted(geo_dir.glob(f"geoBoundaries-*-{level}_simplified.geojson")):
+            data = json.loads(path.read_text(encoding="utf-8"))
+            features.extend(data.get("features", []))
+        if not features:
+            continue
+        folium.GeoJson(
+            {"type": "FeatureCollection", "features": features},
+            name=label,
+            show=visible,
+            style_function=lambda _f: {  # pyrefly: ignore[implicit-any-lambda]
+                "fillOpacity": 0,
+                "weight": 1,
+                "color": "#555555",
+            },
+            tooltip=folium.GeoJsonTooltip(fields=["shapeName"], aliases=[""]),
+        ).add_to(map_)
+
+
 def _build_map(
     layers: Sequence[tuple[str, SeasonFile]], markers: MarkerMode
 ) -> folium.Map:
     """Build a folium map with one toggleable overlay layer per entry."""
-    map_ = folium.Map(tiles="OpenStreetMap")
+    map_ = folium.Map(tiles=None)
+    folium.TileLayer(
+        tiles="https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
+        attr="Esri",
+        name="World Topo",
+    ).add_to(map_)
+    folium.TileLayer(
+        tiles="OpenStreetMap",
+        name="OpenStreetMap",
+        show=False,
+    ).add_to(map_)
+    folium.TileLayer(
+        tiles="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+        attr="Esri",
+        name="Satellite",
+        show=False,
+    ).add_to(map_)
+    folium.TileLayer(
+        tiles="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+        attr="Esri",
+        name="Light Gray",
+        show=False,
+    ).add_to(map_)
+    folium.TileLayer(
+        tiles="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",
+        attr="OpenTopoMap",
+        name="OpenTopoMap",
+        show=False,
+    ).add_to(map_)
+    _add_boundary_overlay(map_)
     all_points: list[tuple[float, float]] = []
     for name, season in layers:
         group = folium.FeatureGroup(name=name)

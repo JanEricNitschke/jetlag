@@ -8,6 +8,18 @@ block with lines such as ``1) Sam<br>2) Brian<br>``. Descriptions may also
 contain ``Challenge: ...`` lines and season cross-references; members listed
 there may include players from other seasons, so consumers must filter them
 against the season's player roster.
+
+Descriptions may additionally carry structured visit data: ``Episode <n>
+<start> - <end>`` timing lines (one per visit of a repeatedly visited spot),
+``Arrival: <HH:MM>`` wall-clock lines and tab-separated BTS flight rows. These
+are parsed into dedicated fields while ``description`` stays plain text.
+
+Descriptions may also be split into team sections introduced by a
+``First and First:`` header (``and``, ``&`` or ``/`` separators). Each
+section carries its own timing lines, flight rows, unknown-timing lines and
+an optional ``datetime:`` value on the following line. A placemark-level
+``datetime:`` value is exposed through ``datetime_text`` for section-less
+placemarks.
 """
 
 from __future__ import annotations
@@ -30,6 +42,101 @@ _EOD_DAY_RE = re.compile(r"Day\s*#?\s*(\d+)")
 _BR_RE = re.compile(r"<br\s*/?>", re.IGNORECASE)
 _TAG_RE = re.compile(r"<[^>]+>")
 _BLANK_LINE_RE = re.compile(r"\n{2,}")
+_EPISODE_LINE_RE = re.compile(
+    r"^Episode\s*(\d+)\s*:?\s*"
+    r"(\d{1,2}:\d{2}(?::\d{2})?)\s*-\s*"
+    r"(\d{1,2}:\d{2}(?::\d{2})?)$",
+    re.IGNORECASE,
+)
+_EPISODE_UNKNOWN_RE = re.compile(
+    r"^Episode\s*(\d+)\s*:?\s*\?\?:\?\?\s*-\s*\?\?:\?\?$",
+    re.IGNORECASE,
+)
+_ARRIVAL_RE = re.compile(r"^Arrival:\s*(\d{1,2}:\d{2})$", re.IGNORECASE)
+_FLIGHT_ROW_RE = re.compile(
+    r"^([A-Z0-9]{2})\t(\d{2}/\d{2}/\d{4})\t(\d+)\t([A-Z0-9]+)\t"
+    r"([A-Z]{3})\t(\d{1,2}:\d{2})\t(\d{1,2}:\d{2})$"
+)
+_DATETIME_LINE_RE = re.compile(r"^datetime\s*:\s*$", re.IGNORECASE)
+_SECTION_HEADER_RE = re.compile(
+    r"^([A-Za-z]+(?:\s*(?:and|&|/)\s*[A-Za-z]+)+):$", re.IGNORECASE
+)
+_SECTION_SPLIT_RE = re.compile(r"\s*(?:and|&|/)\s*", re.IGNORECASE)
+
+
+@dataclass(frozen=True)
+class _VideoSegment:
+    """One timed visit of a placemark in an episode.
+
+    Attributes
+    ----------
+    episode
+        Episode number from an ``Episode <n> ...`` line.
+    start
+        Raw segment start, either ``MM:SS`` or ``HH:MM:SS``.
+    end
+        Raw segment end, either ``MM:SS`` or ``HH:MM:SS``.
+    """
+
+    episode: int
+    start: str
+    end: str
+
+
+@dataclass(frozen=True)
+class _FlightRow:
+    """One tab-separated BTS flight row of a placemark description.
+
+    Attributes
+    ----------
+    carrier
+        Two-character carrier code.
+    date
+        Flight date in ``MM/DD/YYYY`` form.
+    flight_number
+        Flight number, zero-padded in the source.
+    tail
+        Aircraft tail number.
+    airport
+        IATA code of the other airport of the leg.
+    scheduled
+        Scheduled departure or arrival time as ``HH:MM``.
+    actual
+        Actual departure or arrival time as ``HH:MM``.
+    """
+
+    carrier: str
+    date: str
+    flight_number: str
+    tail: str
+    airport: str
+    scheduled: str
+    actual: str
+
+
+@dataclass(frozen=True)
+class _TeamSection:
+    """One ``First and First:`` section of a placemark description.
+
+    Attributes
+    ----------
+    members
+        First names parsed from the section header, in header order.
+    video_segments
+        Episode timings of the section, in line order.
+    flight_rows
+        Structured BTS flight rows of the section.
+    datetime
+        Raw value of the section's ``datetime:`` line, ``None`` if absent.
+    unknown_video_lines
+        Raw section-scoped ``Episode <n> ??:?? - ??:??`` lines.
+    """
+
+    members: list[str]
+    video_segments: list[_VideoSegment]
+    flight_rows: list[_FlightRow]
+    datetime: str | None
+    unknown_video_lines: list[str]
 
 
 @dataclass(frozen=True)
@@ -54,6 +161,21 @@ class KmlPlacemark:
     end_of_day
         Day number parsed from ``"... Ending Spot Day N"`` names,
         ``None`` for regular stops and ending spots without a day number.
+    video_segments
+        Episode timings of repeated visits, in line order. Unknown-timing
+        lines are not included.
+    unknown_video_lines
+        Raw ``Episode <n> ??:?? - ??:??`` lines with unknown timings.
+    arrivals
+        Raw ``HH:MM`` wall-clock times from ``Arrival:`` lines.
+    flight_rows
+        Structured BTS flight rows found in tab-separated description lines.
+    datetime_text
+        Raw value of the placemark-level ``datetime:`` line, ``None`` when
+        absent or when the description is split into team sections.
+    sections
+        Team sections parsed from ``First and First:`` headers, empty when
+        the description has none.
     """
 
     name: str
@@ -63,6 +185,12 @@ class KmlPlacemark:
     description: str
     style_url: str | None
     end_of_day: int | None
+    video_segments: list[_VideoSegment]
+    unknown_video_lines: list[str]
+    arrivals: list[str]
+    flight_rows: list[_FlightRow]
+    datetime_text: str | None
+    sections: list[_TeamSection]
 
 
 @dataclass(frozen=True)
@@ -124,6 +252,120 @@ def _description_text(html_text: str) -> str:
     return _BLANK_LINE_RE.sub("\n", text).strip()
 
 
+def _scan_lines(
+    raw_lines: list[str],
+) -> tuple[list[_VideoSegment], list[str], list[str], list[_FlightRow], str | None]:
+    """Extract structured visit data from plain-text lines.
+
+    Parameters
+    ----------
+    raw_lines
+        Description lines as produced by :func:`_description_text`.
+
+    Returns
+    -------
+    tuple[list[_VideoSegment], list[str], list[str], list[_FlightRow], str | None]
+        Video segments, raw unknown-timing lines, raw arrival times, flight
+        rows and the first ``datetime:`` value (taken from the following
+        line), each in line order. Lines that match none of the patterns are
+        ignored.
+    """
+    segments: list[_VideoSegment] = []
+    unknown: list[str] = []
+    arrivals: list[str] = []
+    flights: list[_FlightRow] = []
+    datetime_text: str | None = None
+    lines = [line.strip() for line in raw_lines]
+    index = 0
+    while index < len(lines):
+        line = lines[index]
+        if _DATETIME_LINE_RE.match(line):
+            if datetime_text is None and index + 1 < len(lines):
+                datetime_text = lines[index + 1]
+            index += 2
+            continue
+        episode = _EPISODE_LINE_RE.match(line)
+        if episode is not None:
+            segments.append(
+                _VideoSegment(
+                    episode=int(episode.group(1)),
+                    start=episode.group(2),
+                    end=episode.group(3),
+                )
+            )
+            index += 1
+            continue
+        if _EPISODE_UNKNOWN_RE.match(line):
+            unknown.append(line)
+            index += 1
+            continue
+        arrival = _ARRIVAL_RE.match(line)
+        if arrival is not None:
+            arrivals.append(arrival.group(1))
+            index += 1
+            continue
+        flight = _FLIGHT_ROW_RE.match(line)
+        if flight is not None:
+            flights.append(
+                _FlightRow(
+                    carrier=flight.group(1),
+                    date=flight.group(2),
+                    flight_number=flight.group(3),
+                    tail=flight.group(4),
+                    airport=flight.group(5),
+                    scheduled=flight.group(6),
+                    actual=flight.group(7),
+                )
+            )
+        index += 1
+    return segments, unknown, arrivals, flights, datetime_text
+
+
+def _section_from_lines(members: list[str], lines: list[str]) -> _TeamSection:
+    """Build a :class:`_TeamSection` from its header members and body lines."""
+    segments, unknown, _arrivals, flights, datetime_text = _scan_lines(lines)
+    return _TeamSection(
+        members=members,
+        video_segments=segments,
+        flight_rows=flights,
+        datetime=datetime_text,
+        unknown_video_lines=unknown,
+    )
+
+
+def _parse_sections(text: str) -> list[_TeamSection]:
+    """Split a plain-text description into ``First and First:`` sections.
+
+    Parameters
+    ----------
+    text
+        Plain-text description as produced by :func:`_description_text`.
+
+    Returns
+    -------
+    list[_TeamSection]
+        Sections in document order. Lines before the first section header
+        are ignored; empty list when the description has no section headers.
+    """
+    sections: list[_TeamSection] = []
+    members: list[str] | None = None
+    lines: list[str] = []
+    for raw_line in text.splitlines():
+        line = raw_line.strip()
+        header = _SECTION_HEADER_RE.match(line)
+        if header is not None:
+            if members is not None:
+                sections.append(_section_from_lines(members, lines))
+            members = _SECTION_SPLIT_RE.split(header.group(1))
+            lines = []
+            continue
+        if members is not None:
+            lines.append(line)
+    if members is not None:
+        sections.append(_section_from_lines(members, lines))
+    return sections
+
+
 def _parse_placemark(placemark: ET.Element) -> KmlPlacemark:
     """Convert a KML placemark element into a :class:`KmlPlacemark`.
 
@@ -150,6 +392,20 @@ def _parse_placemark(placemark: ET.Element) -> KmlPlacemark:
         else ""
     )
     member_names = _parse_description(description) if description else []
+    text = _description_text(description) if description else ""
+    segments: list[_VideoSegment] = []
+    unknown: list[str] = []
+    arrivals: list[str] = []
+    flights: list[_FlightRow] = []
+    datetime_text: str | None = None
+    sections: list[_TeamSection] = []
+    if text:
+        segments, unknown, arrivals, flights, datetime_text = _scan_lines(
+            text.splitlines()
+        )
+        sections = _parse_sections(text)
+        if sections:
+            datetime_text = None
     coordinates_element = placemark.find(f"{ns}Point/{ns}coordinates")
     longitude, latitude = 0.0, 0.0
     if coordinates_element is not None and coordinates_element.text:
@@ -168,9 +424,15 @@ def _parse_placemark(placemark: ET.Element) -> KmlPlacemark:
         longitude=longitude,
         latitude=latitude,
         member_names=member_names,
-        description=_description_text(description) if description else "",
+        description=text,
         style_url=style_url,
         end_of_day=end_of_day,
+        video_segments=segments,
+        unknown_video_lines=unknown,
+        arrivals=arrivals,
+        flight_rows=flights,
+        datetime_text=datetime_text,
+        sections=sections,
     )
 
 

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Season 15: Tag Eur It: All Stars</name>
+    <Folder>
+      <name>Sam Denby &amp; Toby Hendy</name>
+      <Placemark>
+        <name>Placeholder</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>0.0,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adam Chase &amp; Michelle Khare</name>
+      <Placemark>
+        <name>Placeholder</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>0.0,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ben Doyle &amp; Brian McManus</name>
+      <Placemark>
+        <name>Placeholder</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>0.0,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
