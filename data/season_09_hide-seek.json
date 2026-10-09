@@ -1,0 +1,494 @@
+{
+  "season": 9,
+  "name": "Hide + Seek",
+  "journeys": [
+    {
+      "team": [
+        "Adam Chase"
+      ],
+      "color": "#D32F2F",
+      "stops": [
+        {
+          "name": "Adam Starting Location",
+          "coordinate": {
+            "longitude": 8.569644998957386,
+            "latitude": 46.61769560725016
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Question Spot",
+          "coordinate": {
+            "longitude": 8.567810099999999,
+            "latitude": 46.6188677
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Adam\nQuestion: Longitude (Adam)\nQuestion: 5 buildings (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Snowplow",
+          "coordinate": {
+            "longitude": 8.567632,
+            "latitude": 46.617708
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Question Spot",
+          "coordinate": {
+            "longitude": 8.568640499999999,
+            "latitude": 46.6193347
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Adam\nQuestion: Latitude (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Gasthaus Pizzeria zum Turm",
+          "coordinate": {
+            "longitude": 8.5675254,
+            "latitude": 46.61866209999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Adam\nQuestion: 25 mile radar (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Pfarrkirche Hospental",
+          "coordinate": {
+            "longitude": 8.567946899999999,
+            "latitude": 46.6194623
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Adam\nCurse: William Tell Curse (Sam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Hiding Spot",
+          "coordinate": {
+            "longitude": 8.5668828,
+            "latitude": 46.6186591
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hotel",
+          "coordinate": {
+            "longitude": 8.5672646,
+            "latitude": 46.618339
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Adam\nQuestion: Hotel Price"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hospental",
+          "coordinate": {
+            "longitude": 8.570959,
+            "latitude": 46.62108
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Sam Denby"
+      ],
+      "color": "#F57C00",
+      "stops": [
+        {
+          "name": "Seekers Starting Location",
+          "coordinate": {
+            "longitude": 8.3115959,
+            "latitude": 47.0513784
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2)  Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Question Spot",
+          "coordinate": {
+            "longitude": 8.3116746,
+            "latitude": 47.0508378
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nQuestion: Longitude (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Luzern",
+          "coordinate": {
+            "longitude": 8.3103841,
+            "latitude": 47.0494887
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nQuestion: Latitude (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Göschenen",
+          "coordinate": {
+            "longitude": 8.588762599999999,
+            "latitude": 46.6658534
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nCurse: William Tell Curse (Sam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Andermatt",
+          "coordinate": {
+            "longitude": 8.5933055,
+            "latitude": 46.6368392
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nCurse: William Tell Curse (Sam and Ben)\nQuestion: Hotel price (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "avec (inside train station, lower level)",
+          "coordinate": {
+            "longitude": 8.5939687,
+            "latitude": 46.63739590000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nCurse: William Tell Curse (Sam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Hiding Spot",
+          "coordinate": {
+            "longitude": 8.5668828,
+            "latitude": 46.6186591
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Apple Curse",
+          "coordinate": {
+            "longitude": 8.593443599999999,
+            "latitude": 46.6342994
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nCurse: William Tell Curse (Sam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Apple Curse",
+          "coordinate": {
+            "longitude": 8.589746,
+            "latitude": 46.635215
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nCurse: William Tell Curse (Sam and Ben)\nQuestion: 10 mile radar (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hospental",
+          "coordinate": {
+            "longitude": 8.570959,
+            "latitude": 46.62108
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Ben Doyle"
+      ],
+      "color": "#FFEE58",
+      "stops": [
+        {
+          "name": "Seekers Starting Location",
+          "coordinate": {
+            "longitude": 8.3115959,
+            "latitude": 47.0513784
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2)  Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Question Spot",
+          "coordinate": {
+            "longitude": 8.3116746,
+            "latitude": 47.0508378
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nQuestion: Longitude (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Luzern",
+          "coordinate": {
+            "longitude": 8.3103841,
+            "latitude": 47.0494887
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nQuestion: Latitude (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Göschenen",
+          "coordinate": {
+            "longitude": 8.588762599999999,
+            "latitude": 46.6658534
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nCurse: William Tell Curse (Sam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Andermatt",
+          "coordinate": {
+            "longitude": 8.5933055,
+            "latitude": 46.6368392
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nCurse: William Tell Curse (Sam and Ben)\nQuestion: Hotel price (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "avec (inside train station, lower level)",
+          "coordinate": {
+            "longitude": 8.5939687,
+            "latitude": 46.63739590000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nCurse: William Tell Curse (Sam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Hiding Spot",
+          "coordinate": {
+            "longitude": 8.5668828,
+            "latitude": 46.6186591
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Apple Curse",
+          "coordinate": {
+            "longitude": 8.593443599999999,
+            "latitude": 46.6342994
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nCurse: William Tell Curse (Sam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Apple Curse",
+          "coordinate": {
+            "longitude": 8.589746,
+            "latitude": 46.635215
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Ben\nCurse: William Tell Curse (Sam and Ben)\nQuestion: 10 mile radar (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hospental",
+          "coordinate": {
+            "longitude": 8.570959,
+            "latitude": 46.62108
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

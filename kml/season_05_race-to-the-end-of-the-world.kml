@@ -1,0 +1,4247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Season 5: Race to the End of the World</name>
+    <Folder>
+      <name>Sam Denby &amp; Toby Hendy</name>
+      <Placemark>
+        <name>Season 5 Cape Reinga Starting Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: New Zealand (Season 5)
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.677479176482,-34.42665960278735</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cape Reinga Parking Area</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5)
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.6822688,-34.4300349</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parking Sand Dunes</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+Challenge: Sandboard at Te Paki Sand Dunes&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.7734991295079,-34.52428476889317</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giant Sand Dunes</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+Challenge: Sandboard at Te Paki Sand Dunes&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.77394,-34.5248998</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coopers Beach Playground</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Dig a lucky hole at Coopers Beach&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.511223,-34.99077</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coopers Beach</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Dig a lucky hole at Coopers Beach&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.5118516,-34.9900031</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Four Square Kaeo</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Win the lottery in Kaeo&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.7806157,-35.1005271</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rainbow Falls NZMCA Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Take a lucky swim at Rainbow Falls&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.9428643,-35.2131573</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Tane Mahuta Car Park Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Admire Tāne Mahuta&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.5282665103031,-35.60053698913031</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tane Mahuta</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Admire Tāne Mahuta&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.5272196,-35.6008767</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Kai Iwi Lakes Car Park Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Make a new friend at Kai Iwi Lakes&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.6625214462651,-35.80923802185293</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Taharoa</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Make a new friend at Kai Iwi Lakes&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.6494727,-35.8062587</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Tokatoka Parking Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Give your partner a genuine compliment at Tokatoka Peak&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.977232402937,-36.05841447931346</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokatoka Lookout Track</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Give your partner a genuine compliment at Tokatoka Peak&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.9772556,-36.0586177</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokatoka Peak Lookout</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Give your partner a genuine compliment at Tokatoka Peak&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.975138,-36.057161</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Closing Door Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+The spot where Toby pulls over to close her car door&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.2682756642442,-36.11008734889045</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roadblock #1 Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The spot where Toby deployed the first roadblock of Season 5
+Roadblock: Destroy one ring&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.513021,-36.27412899999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Centennial Park Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Score a drop goal at Centennial Park&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.5308066148155,-36.30146142152621</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centennial Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Score a drop goal at Centennial Park&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.5320567,-36.3013679</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roadblock #2 Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The spot where Toby deployed the second roadblock of Season 5
+Roadblock: Handstand for 60 seconds&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.671204,-36.510617</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Ending Spot Day 1</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+The point where Sam and Toby end for Day #1&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.6638611,-36.6266389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Megazone Car Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Have 30 minutes of fun at the Megazone&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.6642591484621,-36.6353367190706</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Megazone Laser Tag</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Have 30 minutes of fun at the Megazone&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.6643218,-36.6349563</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Megazone Bench</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Have 30 minutes of fun at the Megazone
+Note: The bench in the video has been moved in Google Earth&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.6647642924761,-36.63509436403459</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McDonald's Wairau Road</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7402419,-36.7721119</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skycity Parking</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7618127,-36.8497689</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sky Tower</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The location of the first successful Nerf shot by Adam on Sam
+Challenge: Destroy 5 rings at 5 volcanoes 
+Curse: Only walk forward after rolling a die (Adam and Ben)
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.762191,-36.848448</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Albert Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Only walk forward after rolling a die (Adam and Ben)
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7678881,-36.8506426</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McDonald's Queen Street</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7649872,-36.8502279</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Auckland Domain</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Only walk forward after rolling a die (Adam and Ben)
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7754857,-36.858931</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nerf Spot #2</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The location of the second successful Nerf shot by Sam on Adam
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Only walk forward after rolling a die (Adam and Ben)
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7620247207327,-36.84988818266861</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Secure Parking - 67 Symonds Street Car Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7648330258476,-36.85694613613793</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Grafton Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7644026051888,-36.85742317163984</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Rangitoto Reserve</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Only walk forward after rolling a die (Adam and Ben)
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.8095355,-36.87561549999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Mount Hobson Parking Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7857753082731,-36.87606640384015</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ōhinerau / Mount Hobson</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7870336,-36.8783204</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McDonald's Greenlane</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7943601,-36.890154</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Knit World Hamilton</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.2794713,-37.7836222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toby Knitting Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Toby
+Challenge: Complete a ZORB track&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.7566003805414,-37.97714974303521</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BP</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Make cheese in front of the largest cheese factory&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.8719386,-38.215909</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Cheesemaking Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Make cheese in front of the largest cheese factory&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.8255875963411,-38.13673588158197</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huka Falls Car Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Waterfall at Huka Falls&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>176.088863192139,-38.64955744080557</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huka Falls Bridge</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Waterfall at Huka Falls&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>176.0894419,-38.6496786</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Waterfall Bench</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Waterfall at Huka Falls&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>176.0890847573816,-38.64940437554347</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roadblock #3 Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The spot where Toby deployed the third roadblock of Season 5
+Roadblock: Wear a new hat&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.4932665768407,-39.16029521042768</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New World Supermarket Ohakune</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Eat a carrot at the Ohakune Adventure Park&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.399076,-39.4177431</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ohakune Carrot Adventure Park Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Eat a carrot at the Ohakune Adventure Park&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.4034207808935,-39.42031273557817</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ohakune Carrot Adventure Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Eat a carrot at the Ohakune Adventure Park&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.4034257,-39.4200811</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ohakune Carrot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Eat a carrot at the Ohakune Adventure Park&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.4038002,-39.4200183</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taihape Gumboot Throwing Lane</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Throw a gumboot at the Taihape Gumboot Throwing Lane&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.7973255858932,-39.67765953331855</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Ending Spot Day 2</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+The point where Sam and Toby end for Day #2&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.5776172717238,-40.22098545558795</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Cleese Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Summit Mount Cleese&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.5785556,-40.3900833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Cleese</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Summit Mount Cleese&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.578019,-40.3899743</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roadblock #4 Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The spot where Sam and Toby deployed the fourth roadblock of Season 5
+Roadblock: Eat something grape flavored&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.4412967335633,-40.52633304135919</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roadblock #5 Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The spot where Sam and Toby deployed the fifth roadblock of Season 5 as well as where Toby violated the No E curse
+Challenge: Lead your teammate through the jungle blindfolded
+Roadblock: Play catch
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.3149722,-40.6221667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mangaone Walkway South Car Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Lead your teammate through the jungle blindfolded
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.1322868,-40.8774249</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mangaone Walkway Bridge</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Lead your teammate through the jungle blindfolded
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.134993599549,-40.87296840652839</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toby Campaign Spot #1 (Beehive)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1)  Toby
+Challenge: Run for Prime Minister
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7758056,-41.2785833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parking lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Run for Prime Minister
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7818553,-41.2910514</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toby Campaign Spot #2 (Te Papa)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Run for Prime Minister
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7811389,-41.2905</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toby Campaign Spot #3 (Waterfront Walk)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Run for Prime Minister
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7830796892432,-41.28938287213257</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toby Campaign Spot #4</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Run for Prime Minister
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7844167,-41.291</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waitangi Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Toby
+Challenge: Run for Prime Minister
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7852526,-41.2914566</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wellington Interislander Vehicle Check-in</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7901923,-41.2620703</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Interislander Ferry</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7885483,-41.26357369999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Picton Port</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0049603146314,-41.28401182250992</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hammer Hardware Picton</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Dock a boat in Picton Memorial Park
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.006548,-41.2904783</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Picton Memorial Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Dock a boat in Picton Memorial Park
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0064799,-41.2881972</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam Picton Boat Building Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+Challenge: Dock a boat in Picton Memorial Park
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0065622252967,-41.28850529829226</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waitohi bay and swimming area</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Toby
+Challenge: Dock a boat in Picton Memorial Park
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0069389,-41.2877284</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam Cake Eating Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+Challenge: Drink cake at a pink lake&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.1311463211538,-41.72866083326231</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Ending Spot Day 3</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+The point where Sam and Toby end for Day #3
+Curse: Listen to Tom Lehrer&amp;#x27;s The Element Song on repeat until you reach your next challenge&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 3&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.5863333,-42.4424722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bunnings Warehouse Parking lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.6073374,-43.5386681</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bunnings Warehouse Riccarton</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.6078605,-43.53830869999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Intenrnation Antarctic Center Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.5468008118137,-43.48887287463086</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>International Antarctic Centre</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.547093,-43.4884068</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Botanic Gardens Parking lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.6208245,-43.5281877</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Christchurch Botanic Gardens</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.6232211,-43.5306989</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Foot Bridge to Christchurch Botanic Garden</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.6205977,-43.5285383</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cuningham, Townend and Garrick House</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.6211214,-43.5298811</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Botanic Gardens Tree Stump</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.6213115861232,-43.52936851847241</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Plant Selfie Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.6205193324789,-43.52904572924945</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NZ Musuem of Toys &amp; Collectibles Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.63992804434,-43.53800103724823</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NZ Museum of Toys &amp; Collectibles</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.6400227,-43.5382559</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Air Force Museum Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.5478351,-43.5455653</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Air Force Museum of New Zealand</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Show a plant the Garden City&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.5478733,-43.5463065</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mitre 10 MEGA Hornby Parking lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Ride your snowboard at Timaru Skate Park&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.5287933100332,-43.54223462192574</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mitre 10 MEGA Hornby</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Ride your snowboard at Timaru Skate Park&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.5277279,-43.541857</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Community Skateboard Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Ride your snowboard at Timaru Skate Park&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>171.2474852,-44.3891096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elephant Rocks Car Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Remember at the Elephant Rocks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.6585671,-44.8934643</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elephant Rocks</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Toby
+Challenge: Remember at the Elephant Rocks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.6560906,-44.8935508</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elephant Rock #5</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Toby
+Challenge: Remember at the Elephant Rocks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.6557690169023,-44.89322210778779</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elephant Rock #2</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Toby
+Challenge: Remember at the Elephant Rocks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.6559335634613,-44.89300226850242</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elephant Rock #4</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Toby
+Challenge: Remember at the Elephant Rocks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.6562303069769,-44.89313634996638</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elephant Rock #6</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Toby
+Challenge: Remember at the Elephant Rocks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.6556267114803,-44.89330946952067</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elephant Rock #0</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Toby
+Challenge: Remember at the Elephant Rocks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.6564705310316,-44.89287862709359</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elephant Rock #3</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Toby
+Challenge: Remember at the Elephant Rocks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.6564045806223,-44.8930763477957</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elephant Rock #8</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Toby
+Challenge: Remember at the Elephant Rocks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.6556451058851,-44.89348100974924</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wanaka Tree Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Create content at That Wanaka Tree&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>169.1195696007297,-44.69990497658915</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>#ThatWanakaTree</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Create content at That Wanaka Tree&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>169.1174237,-44.6985828</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cardrona Bra Fence Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Find ten green bras on the Cardrona Bra Fence&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>169.0189610283838,-44.86344681357455</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cardrona Bra Fence</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Find ten green bras on the Cardrona Bra Fence&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>169.0187828,-44.8635902</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Ending Spot Day 4</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+The point where Sam and Toby end for Day #4&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 4&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.9454365970802,-44.97685814571964</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kawarau Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Go extreme in Queestown
+Curse: You get no reward for your next challenge (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.9007713,-45.0096136</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AJ Hackett Kawarau Bungy Centre</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Go extreme in Queestown
+Curse: You get no reward for your next challenge (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.900145,-45.009472</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kawarau Gorge Suspension Bridge</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+Challenge: Go extreme in Queestown
+Curse: You get no reward for your next challenge (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.8998691,-45.0088448</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Countdown Queestown Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Devil an egg at the Devil&amp;#x27;s Staircase&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.7416221376729,-45.01322565770707</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Countdown Queenstown</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Devil an egg at the Devil&amp;#x27;s Staircase&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.741984,-45.013503</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Toby Devil Eggs Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+Challenge: Devil an egg at the Devil&amp;#x27;s Staircase&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.7429069,-45.2458091</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stirling Point Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.3571111,-46.6133611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lookout Point</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.3283531,-46.6238337</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beautiful Lookout - edge of the Bluff - invercargill</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Battle for America (Season 4) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam 
+4) Ben
+The final location of Season 5 (Sam and Toby are victorious)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffa21f7b</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.3276065,-46.62399970000001</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adam Chase &amp; Ben Doyle</name>
+      <Placemark>
+        <name>Season 5 Cape Reinga Starting Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: New Zealand (Season 5)
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.677479176482,-34.42665960278735</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cape Reinga Parking Area</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5)
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.6822688,-34.4300349</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parking Sand Dunes</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+Challenge: Sandboard at Te Paki Sand Dunes&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.7734991295079,-34.52428476889317</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giant Sand Dunes</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+Challenge: Sandboard at Te Paki Sand Dunes&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.77394,-34.5248998</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PAK'nSAVE Kaitaia</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Make a plentiful sandwich at Kaitaia&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.2586007058295,-35.09936683005135</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bells Produce</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Make a plentiful sandwich at Kaitaia&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.2592101,-35.1010485</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaitaia Food Market</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Make a plentiful sandwich at Kaitaia&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.2645824,-35.114815</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Turkish Kebabs &amp; Pizzas</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Make a plentiful sandwich at Kaitaia&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.264888,-35.1156844</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaitaia Welcome Sign</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Make a plentiful sandwich at Kaitaia&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.2700016,-35.121054</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Okaihau Fire Station Parking Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Sing the Ōkaihau Express in Ōkaihau Rail Tunnel&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.7713584878085,-35.32081616868557</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Okaihau Rail Tunnel</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Sing the Ōkaihau Express in Ōkaihau Rail Tunnel&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.7704168452125,-35.32061184792749</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Paihia Parking Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a cream trip at the Bay of Islands&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0907621040839,-35.28247589245978</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Countdown Paihia Central</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a cream trip at the Bay of Islands&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0911481,-35.2822583</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bay Beach Hire</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a cream trip at the Bay of Islands&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0963249893803,-35.28479452289755</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Kayak Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a cream trip at the Bay of Islands&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0963449720739,-35.28468171814079</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Cream Island #1</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a cream trip at the Bay of Islands&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.1004819734409,-35.28342653993916</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Cream Island #2</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a cream trip at the Bay of Islands&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0975625387467,-35.27803795396172</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Cream Island #3</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a cream trip at the Bay of Islands&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0944584347295,-35.27640741646499</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Hundertwasser Parking Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Use the Hundertwasser Public Toilets&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0675385160644,-35.38018284649692</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hundertwasser Public Toilets</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Use the Hundertwasser Public Toilets&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0669235,-35.3799433</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adrenalin Adventure Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Go extreme at Adrenalin Adventure Park&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.2197426283345,-35.59221017959845</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McDonald's Whangarei</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.321501,-35.718649</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Claphams Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find the time at Clapham&amp;#x27;s National Clock Museum&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.3261685336935,-35.72546578349861</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Claphams National Clock Museum</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find the time at Clapham&amp;#x27;s National Clock Museum&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.3264949,-35.7251359</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Waipu Cave Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find glowworms at Waipu Caves&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.3483201185818,-35.93408453213588</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waipu Caves</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find glowworms at Waipu Caves&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.3495241247138,-35.93355937952389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roadblock #1 Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The spot where Toby deployed the first roadblock of Season 5
+Roadblock: Destroy one ring&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.513021,-36.27412899999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GAS Te Hana</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Roadblock: Destroy one ring&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.5090831,-36.2553267</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roadblock #2 Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The spot where Toby deployed the second roadblock of Season 5
+Roadblock: Handstand for 60 seconds&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.671204,-36.510617</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Ending Spot Day 1</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+The point where Adam and Ben end for Day #1&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.6481944,-36.4300556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Handstand Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+Roadblock: Handstand for 60 seconds&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.6726259165452,-36.51065599296669</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 Vogel Ln Parking</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Curse: Only walk forward after rolling a die (Adam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.76111,-36.84725</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>77 convenience store</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Curse: Only walk forward after rolling a die (Adam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7619077,-36.8479106</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sky Tower</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The location of the first successful Nerf shot by Adam on Sam
+Challenge: Destroy 5 rings at 5 volcanoes 
+Curse: Only walk forward after rolling a die (Adam and Ben)
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.762191,-36.848448</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Bike/Scooter Pick-Up Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Only walk forward after rolling a die (Adam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7617265108615,-36.84814082741705</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Albert Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Only walk forward after rolling a die (Adam and Ben)
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7678881,-36.8506426</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Grafton Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Only walk forward after rolling a die (Adam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7671264974496,-36.86037184010147</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Auckland Domain</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Only walk forward after rolling a die (Adam and Ben)
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7754857,-36.858931</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nerf Spot #2</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The location of the second successful Nerf shot by Sam on Adam
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Only walk forward after rolling a die (Adam and Ben)
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7620247207327,-36.84988818266861</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Nerf Waiting Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Only walk forward after rolling a die (Adam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7618816587658,-36.84978238256659</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Te Pou Haiwiki</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Only walk forward after rolling a die (Adam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7664896033503,-36.88191832538237</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Rangitoto Reserve</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+Challenge: Destroy 5 rings at 5 volcanoes
+Curse: Only walk forward after rolling a die (Adam and Ben)
+Curse: Eat at the next visible McDonald&amp;#x27;s (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.8095355,-36.87561549999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben ZORB Car Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a ZORB track&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>176.2214570097871,-38.1036835576226</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ZORB™ Rotorua</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a ZORB track&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>176.2179567578233,-38.10516656869251</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Countdown Fairy Springs</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Eat cheese at a relaxing hot spring&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>176.2284031,-38.1204139</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kerosene Creek Car Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Eat cheese at a relaxing hot spring&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>176.3861844850391,-38.33403739493104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kerosene Creek</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Eat cheese at a relaxing hot spring&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>176.3863009,-38.3345422</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roadblock #3 Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The spot where Toby deployed the third roadblock of Season 5
+Roadblock: Wear a new hat&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.4932665768407,-39.16029521042768</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Ending Spot Day 2</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+The point where Adam and Ben end for Day #2&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.1539992062847,-39.84328030599124</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Wanganui Parking Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find Whanganui/Wanganui&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.0504459,-39.9309011</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wanganui Money Lenders (Wanganui #1)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find Whanganui/Wanganui&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.0502353,-39.9309022</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Noodle Canteen (Wanganui #2)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find Whanganui/Wanganui&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.0506971,-39.9319896</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Co-operative Bank (Wanganui #3)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find Whanganui/Wanganui&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.0506396,-39.9322778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Mainstreet Caboodle Banner (Whanganui #1)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find Whanganui/Wanganui&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.0509553,-39.932295</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BNZ Whanganui (Whanganui #2)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find Whanganui/Wanganui&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.0509375,-39.932096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whanganui Kiwibank (Whanganui #3)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find Whanganui/Wanganui&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.0509694,-39.9324738</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roadblock #4 Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The spot where Sam and Toby deployed the fourth roadblock of Season 5
+Roadblock: Eat something grape flavored&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.4412967335633,-40.52633304135919</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roadblock #5 Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben
+The spot where Sam and Toby deployed the fifth roadblock of Season 5 as well as where Toby violated the No E curse
+Challenge: Lead your teammate through the jungle blindfolded
+Roadblock: Play catch
+Curse: You may not say any words with the letter &amp;quot;E&amp;quot; (Sam and Toby)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>175.3149722,-40.6221667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wellington Interislander Vehicle Check-in</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7901923,-41.2620703</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Interislander Ferry</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.7885483,-41.26357369999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben 3:45 pm Ferry Waiting Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+The spot where Adam and Ben await for their ferry at 3:45 pm&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.78275,-41.2893889</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Picton Port</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>174.0049603146314,-41.28401182250992</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Furniture Galley Blenheim Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Get drunk on local wine at the Wairau River&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.9602478980587,-41.50525313350649</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thirsty Liquor Grove Road</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Get drunk on local wine at the Wairau River&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.9598286,-41.5052782</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Ending Spot Day 3</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+The point where Adam and Ben end for Day #3
+Challenge: Get drunk on local wine at the Wairau River&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 3&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.1936111,-41.6680278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wairau river view point</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Get drunk on local wine at the Wairau River&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>173.0943568,-41.71626639999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Math Minute Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a math minute in Saint Arnaud&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>172.8519489,-41.80096109999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Constant and Joyce Bays</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Skip a rock 6 times in the Constant and Joyce Bays&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>171.4350719,-41.9040774</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Constant Bay Parking Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Skip a rock 6 times in the Constant and Joyce Bays&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>171.4356905527654,-41.90394856470921</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt George Track Car Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find a starfish on the Motukiekie Beach Walk&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>171.2648215,-42.32962149999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Starfish Parking Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find a starfish on the Motukiekie Beach Walk&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>171.2666389,-42.3273611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Starfish Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Find a starfish on the Motukiekie Beach Walk&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>171.2655712085227,-42.32763213166078</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Stick Stick Gathering Trail</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Make your own &amp;quot;Hokitika&amp;quot; beach sign&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>171.2664395652796,-42.32733251700684</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Hokitika Car Park Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Make your own &amp;quot;Hokitika&amp;quot; beach sign&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.9621332566015,-42.71739146877461</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hokitika discounter</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Make your own &amp;quot;Hokitika&amp;quot; beach sign&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.9634105,-42.7178397</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Hokitika Sign</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Make your own &amp;quot;Hokitika&amp;quot; beach sign&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.9604722,-42.7166944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New World</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Egg drop at the landing site of Guy Menzies&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.963112,-42.716206</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Egg Drop Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Egg drop at the landing site of Guy Menzies&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>170.5313757355051,-43.07675966606436</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Knights Point Lookout Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Identify 10 plants at Knights Point Lookout&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>169.2255419419421,-43.71528536641791</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Knights Point Lookout</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Identify 10 plants at Knights Point Lookout&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>169.2256393219775,-43.71457354294939</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Plant Reception Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Identify 10 plants at Knights Point Lookout&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>169.2690231211214,-43.7171729257513</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haast River Bridge</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a Haast Pass&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>169.0506049,-43.8556287</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Haast River Parking Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a Haast Pass
+The point where Adam and Ben end for Day #4&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>169.0460833,-43.8558056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Haast Practice Throw Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a Haast Pass&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>169.0514444,-43.8563889</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Haast Real Throw Spot #1</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a Haast Pass&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>169.0524167,-43.8607778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Haast Real Throw Spot #2</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Complete a Haast Pass&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>169.0531390301934,-43.86097118401111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Four Square Parking</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Transport a box of macaroni down Elbow Lane with your elbows&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.4416111,-45.7389167</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Four Square Lumsden</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Transport a box of macaroni down Elbow Lane with your elbows&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.4414425,-45.7389009</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elbow Lane</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Transport a box of macaroni down Elbow Lane with your elbows&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.4423163797226,-45.74038669026908</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elbow Lane Parking Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Transport a box of macaroni down Elbow Lane with your elbows&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.4423611,-45.74033329999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Macaroni Drop Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Transport a box of macaroni down Elbow Lane with your elbows
+The spot where the fateful macaroni dropped and knocked Adam and Ben out from winning Season 5&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.4424453998693,-45.74041944846021</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stirling Point Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.3571111,-46.6133611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lookout Point</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: New Zealand (Season 5) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.3283531,-46.6238337</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beautiful Lookout - edge of the Bluff - invercargill</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Battle for America (Season 4) 
+Members who visited:
+1) Sam
+2) Toby
+3) Adam 
+4) Ben
+The final location of Season 5 (Sam and Toby are victorious)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>168.3276065,-46.62399970000001</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

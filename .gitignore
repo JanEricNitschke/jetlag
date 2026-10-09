@@ -11,10 +11,10 @@ wheels/
 
 # Tool caches
 .ruff_cache/
+.pytest_cache/
 
 # Generated outputs
 maps/
-kml/
 animations/
 
 # Editor workspaces
@@ -26,5 +26,5 @@ PLAN.md
 # Windows download metadata
 *:Zone.Identifier
 
-# Input(s)
-*.kml
+# Inputs
+/*.kml

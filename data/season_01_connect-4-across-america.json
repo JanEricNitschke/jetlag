@@ -1,0 +1,696 @@
+{
+  "season": 1,
+  "name": "Connect 4 Across America",
+  "journeys": [
+    {
+      "team": [
+        "Sam Denby",
+        "Brian McManus"
+      ],
+      "color": "#1976D2",
+      "stops": [
+        {
+          "name": "Hilton Chicago O'Hare Airport",
+          "coordinate": {
+            "longitude": -87.903994,
+            "latitude": 41.977534
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Connect 4 (Season 1)\nMembers who visited: \n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "O'Hare International Airport",
+          "coordinate": {
+            "longitude": -87.9089979,
+            "latitude": 41.98028
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1) and Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Denver International Airport",
+          "coordinate": {
+            "longitude": -104.6764131,
+            "latitude": 39.8563629
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1), Jet Lag: Circumnavigation (Season 2) and Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\n5) Joseph"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "San Francisco International Airport",
+          "coordinate": {
+            "longitude": -122.3816108,
+            "latitude": 37.6191671
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "San Francisco Terminal 3 BART Station",
+          "coordinate": {
+            "longitude": -122.38658,
+            "latitude": 37.61753
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "California State Capitol Museum",
+          "coordinate": {
+            "longitude": -121.4932368,
+            "latitude": 38.5765882
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Eat spicy food"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Lit Delhi",
+          "coordinate": {
+            "longitude": -121.4928717,
+            "latitude": 38.57792209999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Eat spicy food"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Nevada State Capitol Building",
+          "coordinate": {
+            "longitude": -119.7661320541866,
+            "latitude": 39.16382926671341
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Bowl a strike"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Gold Dust West Bowling Center",
+          "coordinate": {
+            "longitude": -119.7433239,
+            "latitude": 39.1734547
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Bowl a strike"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Carson Lanes Family Fun Center",
+          "coordinate": {
+            "longitude": -119.769616,
+            "latitude": 39.125103
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Bowl a strike"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Grand Sierra Resort and Casino",
+          "coordinate": {
+            "longitude": -119.7812235,
+            "latitude": 39.5230411
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\nNote: First hotel of the first night of Season 1 for this team"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Reno-Tahoe International Airport",
+          "coordinate": {
+            "longitude": -119.7680951,
+            "latitude": 39.4995907
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Boise Airport",
+          "coordinate": {
+            "longitude": -116.2223159,
+            "latitude": 43.5658231
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Idaho State Capitol",
+          "coordinate": {
+            "longitude": -116.199599,
+            "latitude": 43.6177493
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Find a statue and recreate it"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "State of Idaho Employee Parking Garage",
+          "coordinate": {
+            "longitude": -116.1970226,
+            "latitude": 43.6178557
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Find a statue and recreate it"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mountain States Tumor Institute",
+          "coordinate": {
+            "longitude": -116.1934435,
+            "latitude": 43.6122623
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Find a statue and recreate it"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Salt Lake City International Airport",
+          "coordinate": {
+            "longitude": -111.9853186,
+            "latitude": 40.7837849
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Salt Lake Plaza Hotel SureStay Collection By Best Western",
+          "coordinate": {
+            "longitude": -111.894797081624,
+            "latitude": 40.76965786266736
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\nNote: Second hotel of the second night of Season 1 for this team"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Utah State Capitol Building",
+          "coordinate": {
+            "longitude": -111.8881773,
+            "latitude": 40.7774076
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nChallenge:\n-Eat the state desert (Sam and Brian)\n-Busk until you earn one dollar (Adam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bert Mooney Airport",
+          "coordinate": {
+            "longitude": -112.5021977,
+            "latitude": 45.95519350000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hertz Car Rental - Butte Municipal Airport",
+          "coordinate": {
+            "longitude": -112.5026565,
+            "latitude": 45.9549903
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Montana State Capitol Building",
+          "coordinate": {
+            "longitude": -112.0184093726406,
+            "latitude": 46.58576037049772
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nThe final location of Season 1 (Sam and Brian are victorious)\nChallenge:\n-Claim the state immediately, but... (Sam and Brian)\n-Eat the state dish (Adam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Adam Chase",
+        "Ben Doyle"
+      ],
+      "color": "#D32F2F",
+      "stops": [
+        {
+          "name": "Hilton Chicago O'Hare Airport",
+          "coordinate": {
+            "longitude": -87.903994,
+            "latitude": 41.977534
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Connect 4 (Season 1)\nMembers who visited: \n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "O'Hare International Airport",
+          "coordinate": {
+            "longitude": -87.9089979,
+            "latitude": 41.98028
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1) and Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Denver International Airport",
+          "coordinate": {
+            "longitude": -104.6764131,
+            "latitude": 39.8563629
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1), Jet Lag: Circumnavigation (Season 2) and Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\n5) Joseph"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Wyoming State Capitol",
+          "coordinate": {
+            "longitude": -104.8201871,
+            "latitude": 41.1402259
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1)Adam\n2) Ben\nChallenge: Catch three different local bugs"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Bug Catching Spot",
+          "coordinate": {
+            "longitude": -104.8137222,
+            "latitude": 41.1256111
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1)Adam\n2) Ben\nChallenge: Catch three different local bugs"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Colorado State Capitol",
+          "coordinate": {
+            "longitude": -104.9848208071553,
+            "latitude": 39.73924357038606
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Get one team member intoxicated"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Nob Hill Inn",
+          "coordinate": {
+            "longitude": -104.9816791,
+            "latitude": 39.7399151
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Get one team member intoxicated"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "McDonald's Denver International Airport",
+          "coordinate": {
+            "longitude": -104.6738204,
+            "latitude": 39.8539941
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1)Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phoenix Sky Harbor International Airport",
+          "coordinate": {
+            "longitude": -112.010124,
+            "latitude": 33.435249
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Arizona State Capitol Executive Tower",
+          "coordinate": {
+            "longitude": -112.0978983,
+            "latitude": 33.4481143
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Buy the local paper and solve one of the puzzles"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Howard Johnson by Wyndham",
+          "coordinate": {
+            "longitude": -111.9929381,
+            "latitude": 33.4517908
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Buy the local paper and solve one of the puzzles\nNote: First hotel of the first night of Season 1"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Portland International Airport",
+          "coordinate": {
+            "longitude": -122.5916095,
+            "latitude": 45.58520379999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Oregon State Capitol",
+          "coordinate": {
+            "longitude": -123.0303428,
+            "latitude": 44.9384539
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Bury a treasure"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Salt Lake City International Airport",
+          "coordinate": {
+            "longitude": -111.9853186,
+            "latitude": 40.7837849
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hilton Salt Lake City",
+          "coordinate": {
+            "longitude": -111.893283,
+            "latitude": 40.763925
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Adam\n2) Ben\nNote: Second hotel of the second night of Season 1 for this team"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Utah State Capitol Building",
+          "coordinate": {
+            "longitude": -111.8881773,
+            "latitude": 40.7774076
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nChallenge:\n-Eat the state desert (Sam and Brian)\n-Busk until you earn one dollar (Adam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bert Mooney Airport",
+          "coordinate": {
+            "longitude": -112.5021977,
+            "latitude": 45.95519350000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Avis Car Rental",
+          "coordinate": {
+            "longitude": -112.5026272,
+            "latitude": 45.9549516
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Broken Car Spot",
+          "coordinate": {
+            "longitude": -112.4607832,
+            "latitude": 46.0181079
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Montana State Capitol Building",
+          "coordinate": {
+            "longitude": -112.0184093726406,
+            "latitude": 46.58576037049772
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Connect 4 (Season 1)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nThe final location of Season 1 (Sam and Brian are victorious)\nChallenge:\n-Claim the state immediately, but... (Sam and Brian)\n-Eat the state dish (Adam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

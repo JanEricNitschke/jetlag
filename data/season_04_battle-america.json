@@ -1,0 +1,1930 @@
+{
+  "season": 4,
+  "name": "Battle America",
+  "journeys": [
+    {
+      "team": [
+        "Sam Denby",
+        "Brian McManus"
+      ],
+      "color": "#1976D2",
+      "stops": [
+        {
+          "name": "Times Square",
+          "coordinate": {
+            "longitude": -73.98586262484639,
+            "latitude": 40.75760191692743
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Moynihan Train Hall",
+          "coordinate": {
+            "longitude": -73.9957489,
+            "latitude": 40.7517137
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Newark - Pennsylvania Station",
+          "coordinate": {
+            "longitude": -74.1639867,
+            "latitude": 40.73459889999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "William H. Gray III 30th Street",
+          "coordinate": {
+            "longitude": -75.1822703,
+            "latitude": 39.9567993
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Washington Union Station",
+          "coordinate": {
+            "longitude": -77.006795,
+            "latitude": 38.899036
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Visit every Spirit Halloween in the state"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Union Station",
+          "coordinate": {
+            "longitude": -77.00707969999999,
+            "latitude": 38.8978452
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Visit every Spirit Halloween in the state"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Friendship Heights",
+          "coordinate": {
+            "longitude": -77.08607169999999,
+            "latitude": 38.9609331
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Visit every Spirit Halloween in the state"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Spirit Halloween Washington D.C.",
+          "coordinate": {
+            "longitude": -77.0851428,
+            "latitude": 38.9601635
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Visit every Spirit Halloween in the state"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Embassy Suites by Hilton Washington DC Chevy Chase Pavilion",
+          "coordinate": {
+            "longitude": -77.0847465,
+            "latitude": 38.960533
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: File a geodetic mark recovery form"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "1st Failed Geodetic Marker Spot",
+          "coordinate": {
+            "longitude": -77.08245197192974,
+            "latitude": 38.96350617520033
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: File a geodetic mark recovery form"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "2nd Failed Geodetic Marker Spot",
+          "coordinate": {
+            "longitude": -77.08859441222376,
+            "latitude": 38.95871253341013
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: File a geodetic mark recovery form"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bethesda Station",
+          "coordinate": {
+            "longitude": -77.09408736396986,
+            "latitude": 38.98415041935176
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: File a geodetic mark recovery form"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Successful Bethesda Geodetic Marker Spot",
+          "coordinate": {
+            "longitude": -77.09412284513992,
+            "latitude": 38.98375276987658
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: File a geodetic mark recovery form"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Rosslyn Station",
+          "coordinate": {
+            "longitude": -77.0719092,
+            "latitude": 38.8958032
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Photograph your partner from far away"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "The View of DC",
+          "coordinate": {
+            "longitude": -77.0712076,
+            "latitude": 38.895595
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Brian\nChallenge: Photograph your partner from far away"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam Standing Spot",
+          "coordinate": {
+            "longitude": -77.07006094220445,
+            "latitude": 38.88888970384205
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\nChallenge: Photograph your partner from far away"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "McDonald's Rosslyn",
+          "coordinate": {
+            "longitude": -77.0713801,
+            "latitude": 38.896312
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Pentagon City Metro Station",
+          "coordinate": {
+            "longitude": -77.0598784861856,
+            "latitude": 38.86266515674385
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Brian Battle Challenge Waiting Bench",
+          "coordinate": {
+            "longitude": -77.05928109722906,
+            "latitude": 38.86237425138945
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nThe bench where Sam and Brian await the imminent battle challenge from Adam and Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Pentagon Centre",
+          "coordinate": {
+            "longitude": -77.0585454,
+            "latitude": 38.8610967
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nBattle Challenge: Find the most foreign license plate"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ronald Reagan Washington National Airport Station",
+          "coordinate": {
+            "longitude": -77.0439868,
+            "latitude": 38.8533825
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "BWI Thurgood Marshall",
+          "coordinate": {
+            "longitude": -76.6943881,
+            "latitude": 39.1924679
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Baltimore/Washington International Thurgood Marshall Airport",
+          "coordinate": {
+            "longitude": -76.6683889,
+            "latitude": 39.1775715
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hartford–Brainard Airport",
+          "coordinate": {
+            "longitude": -72.6510162,
+            "latitude": 41.7427978
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hartford Union Station",
+          "coordinate": {
+            "longitude": -72.6815714,
+            "latitude": 41.76881909999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Springfield Union Station",
+          "coordinate": {
+            "longitude": -72.593643,
+            "latitude": 42.1065267
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Holyoke Mall",
+          "coordinate": {
+            "longitude": -72.6412903,
+            "latitude": 42.1675334
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Win a prize from a claw machine"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Round1",
+          "coordinate": {
+            "longitude": -72.64135689999999,
+            "latitude": 42.1676302
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Win a prize from a claw machine"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Windsor Locks",
+          "coordinate": {
+            "longitude": -72.6260298,
+            "latitude": 41.9139542
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Brian 2nd Battle Challenge Waiting Spot",
+          "coordinate": {
+            "longitude": -72.62617332153602,
+            "latitude": 41.91454458187211
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nThe spot where Sam and Brian await the imminent 2nd battle challenge from Adam and Ben\nBattle Challenge: Photograph the most birds"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Brian Bird Spot #2",
+          "coordinate": {
+            "longitude": -72.62531987549602,
+            "latitude": 41.9108698659679
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nBattle Challenge: Photograph the most birds\nBirds Found: 1\nTotal Bird Count: 2"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Brian Bird Spot #3",
+          "coordinate": {
+            "longitude": -72.625428901365,
+            "latitude": 41.91044931407903
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nBattle Challenge: Photograph the most birds\nBirds Found: 1\nTotal Bird Count: 3"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Brian Bird Spot #4",
+          "coordinate": {
+            "longitude": -72.6252017874092,
+            "latitude": 41.90820319220517
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nBattle Challenge: Photograph the most birds\nBirds Found: 147-197\nTotal Bird Count: 150-200 (According to Sam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bradley International Airport",
+          "coordinate": {
+            "longitude": -72.68603139999999,
+            "latitude": 41.9388735
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Nashville International Airport",
+          "coordinate": {
+            "longitude": -86.6762176,
+            "latitude": 36.1248851
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Spend $100 at Buc-ee's"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Buc-ee's",
+          "coordinate": {
+            "longitude": -85.0150056,
+            "latitude": 35.9801198
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Spend $100 at Buc-ee's"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Septic Solutions",
+          "coordinate": {
+            "longitude": -85.14675609999999,
+            "latitude": 36.0506317
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nThe ending spot for Ben and Adam for Day 2 of Season 4"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Austin-Bergstrom International Airport",
+          "coordinate": {
+            "longitude": -97.66635289999998,
+            "latitude": 30.1974711
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Eat at In-N-Out"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "In-N-Out Burger",
+          "coordinate": {
+            "longitude": -97.78883176550592,
+            "latitude": 30.23864698878215
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Eat at In-N-Out"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Brian Scooter Pick Up Spot",
+          "coordinate": {
+            "longitude": -118.3958921895893,
+            "latitude": 33.94589074450597
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Find a four leaf clover as a leprechaun"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Spirit Halloween",
+          "coordinate": {
+            "longitude": -118.3957717,
+            "latitude": 33.9562202
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\nChallenge: Find a four leaf clover as a leprechaun"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam Leprechaun Changing Spot",
+          "coordinate": {
+            "longitude": -118.3960099061612,
+            "latitude": 33.95642133232231
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Find a four leaf clover as a leprechaun"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Brian Four Leaf Clover Spot",
+          "coordinate": {
+            "longitude": -118.3945455686759,
+            "latitude": 33.95449036984019
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Find a four leaf clover as a leprechaun"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Harry Reid International Airport",
+          "coordinate": {
+            "longitude": -115.1537389,
+            "latitude": 36.0839998
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nBattle Challenge: Draw George Washington (S4)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Concourse D Station",
+          "coordinate": {
+            "longitude": -115.1376752694295,
+            "latitude": 36.08206188480702
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nChallenge: Forge great American art"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "LAS Terminal 3 Station",
+          "coordinate": {
+            "longitude": -115.1370896815608,
+            "latitude": 36.08597601958552
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nChallenge: Forge great American art"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Las Vegas International Airport Terminal 3",
+          "coordinate": {
+            "longitude": -115.1369489,
+            "latitude": 36.086125
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nChallenge: Forge great American art"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Jay's Market On Flamingo",
+          "coordinate": {
+            "longitude": -115.164549,
+            "latitude": 36.114974
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Eat soup in a helicopter"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Papillon Helicopters",
+          "coordinate": {
+            "longitude": -115.1627526,
+            "latitude": 36.0973288
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Eat soup in a helicopter"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Papillon Grand Canyon Helicopters",
+          "coordinate": {
+            "longitude": -114.8557745,
+            "latitude": 35.9486579
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Eat soup in a helicopter"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Papillon Helicopters Picnic Area",
+          "coordinate": {
+            "longitude": -113.7554181,
+            "latitude": 35.9643342
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Eat soup in a helicopter"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "3rd Battle Challenge Initiation Spot",
+          "coordinate": {
+            "longitude": -114.8362198201184,
+            "latitude": 35.97821617255564
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nThe spot where Sam and Brian triggers the 3rd battle challenge of S4\nBattle Challenge: Draw George Washington"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ace Shopper Stopper",
+          "coordinate": {
+            "longitude": -114.8379079,
+            "latitude": 35.9770427
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nBattle Challenge: Draw George Washington"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Brian Drawing Spot",
+          "coordinate": {
+            "longitude": -114.8362128359042,
+            "latitude": 35.97806497338912
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nBattle Challenge: Draw George Washington"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Denver International Airport Terminal B Station",
+          "coordinate": {
+            "longitude": -104.6737551815026,
+            "latitude": 39.85870800617957
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hertz Car Rental - Denver International Airport",
+          "coordinate": {
+            "longitude": -104.6983169,
+            "latitude": 39.8368069
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "GlowGolf",
+          "coordinate": {
+            "longitude": -104.9892488,
+            "latitude": 40.4192949
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nChallenge: Make a hole in one at mini golf"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Brian Advertising Pole",
+          "coordinate": {
+            "longitude": -105.3049698044756,
+            "latitude": 41.12529316276158
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\nThe final location of Season 4 for Sam and Brian (Adam and Ben are victorious) \nChallenge: Ineffectively advertise Jet Lag: The Game"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Adam Chase",
+        "Ben Doyle"
+      ],
+      "color": "#D32F2F",
+      "stops": [
+        {
+          "name": "Times Square",
+          "coordinate": {
+            "longitude": -73.98586262484639,
+            "latitude": 40.75760191692743
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "432 Park Avenue",
+          "coordinate": {
+            "longitude": -73.9719035,
+            "latitude": 40.7617561
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Praise the ugliest building"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "5 Avenue-53 St Station",
+          "coordinate": {
+            "longitude": -73.9754177,
+            "latitude": 40.7602633
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Moynihan Train Hall",
+          "coordinate": {
+            "longitude": -73.9957489,
+            "latitude": 40.7517137
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "34 St - Penn Station",
+          "coordinate": {
+            "longitude": -73.993393,
+            "latitude": 40.752289
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Newark - Pennsylvania Station",
+          "coordinate": {
+            "longitude": -74.1639867,
+            "latitude": 40.73459889999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "William H. Gray III 30th Street",
+          "coordinate": {
+            "longitude": -75.1822703,
+            "latitude": 39.9567993
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Cash Express Pawn Shop",
+          "coordinate": {
+            "longitude": -75.1535294,
+            "latitude": 39.949664
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Sell something from a pawn shop at a pawn shop"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Philadelphia Bike Pick-Up Zone",
+          "coordinate": {
+            "longitude": -75.18328917581559,
+            "latitude": 39.95469485705024
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Sell something from a pawn shop at a pawn shop"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Philadelphia Bike Drop-Off Zone",
+          "coordinate": {
+            "longitude": -75.15628129884881,
+            "latitude": 39.95002393653817
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Sell something from a pawn shop at a pawn shop"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "8th & Market Street Station",
+          "coordinate": {
+            "longitude": -75.153494,
+            "latitude": 39.9509652
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Sell something from a pawn shop at a pawn shop"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ferry Avenue",
+          "coordinate": {
+            "longitude": -75.09178419999999,
+            "latitude": 39.9225682
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Sell something from a pawn shop at a pawn shop"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "E and B Pawnbroker",
+          "coordinate": {
+            "longitude": -74.980924,
+            "latitude": 39.9571799
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Sell something from a pawn shop at a pawn shop"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Wilmington Station",
+          "coordinate": {
+            "longitude": -75.5508874,
+            "latitude": 39.7370826
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ebright Azimuth Marker",
+          "coordinate": {
+            "longitude": -75.519103,
+            "latitude": 39.8360424
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: High five at the highest point"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Baltimore Penn Station",
+          "coordinate": {
+            "longitude": -76.61569519999999,
+            "latitude": 39.3073174
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Penn Station Garage",
+          "coordinate": {
+            "longitude": -76.614507,
+            "latitude": 39.3066904
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nBattle Challenge: Find the most foreign license plate"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Grand Central - 42 St Station",
+          "coordinate": {
+            "longitude": -73.9774869,
+            "latitude": 40.7524688
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Grand Central Terminal",
+          "coordinate": {
+            "longitude": -73.9772294,
+            "latitude": 40.7527262
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "New Haven Union Station",
+          "coordinate": {
+            "longitude": -72.92670389999999,
+            "latitude": 41.2976508
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Respect the weirdest roadside attraction"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "PEZ Visitor Center",
+          "coordinate": {
+            "longitude": -72.99703149999999,
+            "latitude": 41.2636461
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Providence Station",
+          "coordinate": {
+            "longitude": -71.4132827,
+            "latitude": 41.8292499
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Get one team member intoxicated"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Harry's Bar & Burger",
+          "coordinate": {
+            "longitude": -71.4093895,
+            "latitude": 41.8283046
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Get one team member intoxicated"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "South Station (Train Terminal)",
+          "coordinate": {
+            "longitude": -71.05522859999999,
+            "latitude": 42.3522322
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "2nd Battle Challenge Initiation Spot",
+          "coordinate": {
+            "longitude": -71.05636902223317,
+            "latitude": 42.35278256110585
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nThe spot where Adam and Ben triggers the 2nd battle challenge of S4\nBattle Challenge: Photograph the most birds"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Bird Spot #1",
+          "coordinate": {
+            "longitude": -71.05578904981994,
+            "latitude": 42.35261059565362
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nBattle Challenge: Photograph the most birds\nBirds Found: 1\nTotal Bird Counter: 1"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Bird Spot #2",
+          "coordinate": {
+            "longitude": -71.05718081779645,
+            "latitude": 42.3521648618856
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nBattle Challenge: Photograph the most birds\nBirds Found: 1\nTotal Bird Count: 2"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Bird Spot #3",
+          "coordinate": {
+            "longitude": -71.0576240208956,
+            "latitude": 42.35235043259429
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nBattle Challenge: Photograph the most birds\nBirds Found: 1\nTotal Bird Count: 4"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Brian Bird Spot #1",
+          "coordinate": {
+            "longitude": -72.62552206522167,
+            "latitude": 41.91208016258047
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nBattle Challenge: Photograph the most birds\nBirds Found: 1\nTotal Bird Count: 1"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Bird Spot #4",
+          "coordinate": {
+            "longitude": -71.05745073761811,
+            "latitude": 42.35223436713127
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nBattle Challenge: Photograph the most birds\nBirds Found: 1\nTotal Bird Count: 10"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Bird Spot #5",
+          "coordinate": {
+            "longitude": -71.05634894573645,
+            "latitude": 42.35268272671671
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nBattle Challenge: Photograph the most birds\nBirds Found: 1\nTotal Bird Count: 16"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Bird Spot #6",
+          "coordinate": {
+            "longitude": -71.05623679998924,
+            "latitude": 42.35281611859583
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nBattle Challenge: Photograph the most birds\nBirds Found: 9\nTotal Bird Count: 26"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Bird Spot #7",
+          "coordinate": {
+            "longitude": -71.05561124274823,
+            "latitude": 42.35252371593992
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nBattle Challenge: Photograph the most birds\nBirds Found: 2\nTotal Bird Counter: 29"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Boston Logan Internation Airport Terminal C",
+          "coordinate": {
+            "longitude": -71.0164437,
+            "latitude": 42.3666337
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Legal Sea Foods - Logan Airport Terminal C",
+          "coordinate": {
+            "longitude": -71.0156196,
+            "latitude": 42.3668021
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Drive a Chevy to a levee and eat pie"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Terminal 1 Station",
+          "coordinate": {
+            "longitude": -87.90558999999999,
+            "latitude": 41.97925
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Drive a Chevy to a levee and eat pie"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "MMF",
+          "coordinate": {
+            "longitude": -87.88226,
+            "latitude": 41.99283
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Drive a Chevy to a levee and eat pie"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Avis Car Rental",
+          "coordinate": {
+            "longitude": -87.8822809,
+            "latitude": 41.9928947
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Drive a Chevy to a levee and eat pie"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "O’Hare Multi Modal Facility (MMF)",
+          "coordinate": {
+            "longitude": -87.88119139999999,
+            "latitude": 41.9931662
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Drive a Chevy to a levee and eat pie"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Day 2 Ending Spot",
+          "coordinate": {
+            "longitude": -87.8843663578933,
+            "latitude": 41.99794309271205
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Drive a Chevy to a levee and eat pie\nThe ending spot for Ben and Adam for Day 2 of Season 4"
+          ],
+          "end_of_day": [
+            2
+          ],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Levee Challenge Spot",
+          "coordinate": {
+            "longitude": -87.88805697508063,
+            "latitude": 42.10843558849319
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Drive a Chevy to a levee and eat pie"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Indiana Dunes Visitor Center",
+          "coordinate": {
+            "longitude": -87.054429,
+            "latitude": 41.6337924
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Criticize the most beautiful place"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Criticizing Spot",
+          "coordinate": {
+            "longitude": -86.93324464743327,
+            "latitude": 41.70881373066463
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Criticize the most beautiful place"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Jackie's Cafe",
+          "coordinate": {
+            "longitude": -86.75207549999999,
+            "latitude": 41.7901505
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Seduce and debauch an unmarried woman"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben S&D Spot",
+          "coordinate": {
+            "longitude": -86.75207763511543,
+            "latitude": 41.79005782432365
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Seduce and debauch an unmarried woman"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Harry Reid International Airport",
+          "coordinate": {
+            "longitude": -115.1537389,
+            "latitude": 36.0839998
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nBattle Challenge: Draw George Washington (S4)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hudson News",
+          "coordinate": {
+            "longitude": -115.1388748178236,
+            "latitude": 36.08245730580929
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Forge great American art"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "The BLVD",
+          "coordinate": {
+            "longitude": -115.138861338324,
+            "latitude": 36.08215357383732
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Forge great American art"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hudson News",
+          "coordinate": {
+            "longitude": -115.1385731977477,
+            "latitude": 36.08176009039262
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Forge great American art\nNote: This is a separate Hudson News store compared to the one near Gate D51"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Concourse D Station",
+          "coordinate": {
+            "longitude": -115.1376752694295,
+            "latitude": 36.08206188480702
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nChallenge: Forge great American art"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "LAS Terminal 3 Station",
+          "coordinate": {
+            "longitude": -115.1370896815608,
+            "latitude": 36.08597601958552
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nChallenge: Forge great American art"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Las Vegas International Airport Terminal 3",
+          "coordinate": {
+            "longitude": -115.1369489,
+            "latitude": 36.086125
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nChallenge: Forge great American art"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Reid Terminal 3 Uber/Lyft Pick-Up Area",
+          "coordinate": {
+            "longitude": -115.1385644,
+            "latitude": 36.087508
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Forge great American art"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Caesars Palace",
+          "coordinate": {
+            "longitude": -115.174499,
+            "latitude": 36.1161685
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Forge great American art"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Martin Lawrence Galleries",
+          "coordinate": {
+            "longitude": -115.1780187,
+            "latitude": 36.1195579
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Forge great American art"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Parking Spot",
+          "coordinate": {
+            "longitude": -113.8206714282924,
+            "latitude": 35.98726459360927
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Forge great American art"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Drawing Spot #1",
+          "coordinate": {
+            "longitude": -115.1375409825361,
+            "latitude": 36.08586789326114
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nBattle Challenge: Draw George Washington"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hudson News Terminal 3",
+          "coordinate": {
+            "longitude": -115.1378531512702,
+            "latitude": 36.08586482348694
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nBattle Challenge: Draw George Washington"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Seattle-Tacoma International Airport",
+          "coordinate": {
+            "longitude": -122.3086127,
+            "latitude": 47.4483943
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ketchikan International Airport",
+          "coordinate": {
+            "longitude": -131.7105604,
+            "latitude": 55.3554106
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Help Spot",
+          "coordinate": {
+            "longitude": -131.7098017296827,
+            "latitude": 55.35751877744555
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Adam\n2) Ben\nThe final location of Season 4 for Adam and Ben (Adam and Ben are victorious)\nChallenge: Spell help in rocks on an island"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

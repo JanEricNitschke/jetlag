@@ -1,0 +1,1646 @@
+{
+  "season": 3,
+  "name": "Tag Eur It",
+  "journeys": [
+    {
+      "team": [
+        "Adam Chase"
+      ],
+      "color": "#D32F2F",
+      "stops": [
+        {
+          "name": "Place Ducale",
+          "coordinate": {
+            "longitude": 4.720051057430929,
+            "latitude": 49.77347830143792
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Tag (Season 3)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Gare d'Hirson",
+          "coordinate": {
+            "longitude": 4.0844155,
+            "latitude": 49.91453019999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Lille-Flandres",
+          "coordinate": {
+            "longitude": 3.0699444,
+            "latitude": 50.636579
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Calais Ville",
+          "coordinate": {
+            "longitude": 1.8507692,
+            "latitude": 50.95345769999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: Commit an American crime (Sam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Dunkerque",
+          "coordinate": {
+            "longitude": 2.3689434,
+            "latitude": 51.030461
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Calais Town Hall",
+          "coordinate": {
+            "longitude": 1.854239,
+            "latitude": 50.95257459999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Gare du Nord",
+          "coordinate": {
+            "longitude": 2.3553137,
+            "latitude": 48.8809481
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Burger King Gare Du Nord",
+          "coordinate": {
+            "longitude": 2.354307374530362,
+            "latitude": 48.87981736762277
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam\nChallenge: Have a fast 3-course meal"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Subway Gare Du Nord",
+          "coordinate": {
+            "longitude": 2.3543084,
+            "latitude": 48.8795385
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam\nChallenge: Have a fast 3-course meal"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "McDonald's Gare Du Nord",
+          "coordinate": {
+            "longitude": 2.3537819,
+            "latitude": 48.8800041
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam\nChallenge: Have a fast 3-course meal"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Albe Hotel",
+          "coordinate": {
+            "longitude": 2.3447174,
+            "latitude": 48.8530901
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1)Adam\nChallenge: Use a fancy restroom"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Saint-Michel Notre-Dame",
+          "coordinate": {
+            "longitude": 2.3449239,
+            "latitude": 48.85357289999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: Use a fancy restroom (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hôtel Europe Saint-Séverin",
+          "coordinate": {
+            "longitude": 2.3443131,
+            "latitude": 48.8527518
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1)Adam\nChallenge: Use a fancy restroom"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bibliothèque François-Mitterrand",
+          "coordinate": {
+            "longitude": 2.3767958,
+            "latitude": 48.8298077
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: Do 100 squats"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Paris Squat Spot",
+          "coordinate": {
+            "longitude": 2.377265387885492,
+            "latitude": 48.83069452457508
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1)Adam\nChallenge: Do 100 squats"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Juvisy Station",
+          "coordinate": {
+            "longitude": 2.3837008,
+            "latitude": 48.68924079999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Massy Palaiseau",
+          "coordinate": {
+            "longitude": 2.2613646,
+            "latitude": 48.7258395
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tergnier Station",
+          "coordinate": {
+            "longitude": 3.2972456,
+            "latitude": 49.6592152
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Amiens Railway Station",
+          "coordinate": {
+            "longitude": 2.3081396,
+            "latitude": 49.8905368
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Brussel-Zuid/Midi Station",
+          "coordinate": {
+            "longitude": 4.3354548,
+            "latitude": 50.8360982
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: Roll a die to take a train ride (Curse for Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Brussels Airport",
+          "coordinate": {
+            "longitude": 4.482072,
+            "latitude": 50.89646
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: \n-Find a fancy car (Ben)\n-Eat the national dish (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Strasbourg Station",
+          "coordinate": {
+            "longitude": 7.73422,
+            "latitude": 48.58528
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Offenburg Station",
+          "coordinate": {
+            "longitude": 7.946719999999999,
+            "latitude": 48.47664999999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Baden-Baden",
+          "coordinate": {
+            "longitude": 8.1913124,
+            "latitude": 48.79016559999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mannheim Station",
+          "coordinate": {
+            "longitude": 8.469814,
+            "latitude": 49.4796984
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Stuttgart Hauptbahnhof",
+          "coordinate": {
+            "longitude": 9.1823871,
+            "latitude": 48.78306800000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Karlsruhe Central Station",
+          "coordinate": {
+            "longitude": 8.401294,
+            "latitude": 48.993279
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Strasbourg Phone Hiding Spot",
+          "coordinate": {
+            "longitude": 7.735795376784429,
+            "latitude": 48.58414838252529
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam\nChallenge: Hide your phone and leave"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Champagne-Ardenne Station",
+          "coordinate": {
+            "longitude": 3.994624815599765,
+            "latitude": 49.21474043890112
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3)\nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Tag Spot",
+          "coordinate": {
+            "longitude": 3.947079102928266,
+            "latitude": 49.2233590711748
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Season 3 Ending Spot",
+          "coordinate": {
+            "longitude": 3.955827625484756,
+            "latitude": 49.22852961160427
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nThe final location for Season 3 (Adam is victorious)\nChallenge: Get on a train immediately (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Ben Doyle"
+      ],
+      "color": "#FFEE58",
+      "stops": [
+        {
+          "name": "Place Ducale",
+          "coordinate": {
+            "longitude": 4.720051057430929,
+            "latitude": 49.77347830143792
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Tag (Season 3)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Charleville Mézières",
+          "coordinate": {
+            "longitude": 4.725035176767318,
+            "latitude": 49.76783429886778
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3)\nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Lille-Flandres",
+          "coordinate": {
+            "longitude": 3.0699444,
+            "latitude": 50.636579
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Le Club Café",
+          "coordinate": {
+            "longitude": 3.064026799999999,
+            "latitude": 50.6364756
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Ben\nChallenge: Eat at the worst restaurant"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Calais Ville",
+          "coordinate": {
+            "longitude": 1.8507692,
+            "latitude": 50.95345769999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: Commit an American crime (Sam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Dunkerque",
+          "coordinate": {
+            "longitude": 2.3689434,
+            "latitude": 51.030461
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Calais Town Hall",
+          "coordinate": {
+            "longitude": 1.854239,
+            "latitude": 50.95257459999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Parc Saint-Pierre",
+          "coordinate": {
+            "longitude": 1.851403688978122,
+            "latitude": 50.95235663474764
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Gare du Nord",
+          "coordinate": {
+            "longitude": 2.3553137,
+            "latitude": 48.8809481
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Saint-Michel Notre-Dame",
+          "coordinate": {
+            "longitude": 2.3449239,
+            "latitude": 48.85357289999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: Use a fancy restroom (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bibliothèque François-Mitterrand",
+          "coordinate": {
+            "longitude": 2.3767958,
+            "latitude": 48.8298077
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: Do 100 squats"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Paris Gare de Lyon",
+          "coordinate": {
+            "longitude": 2.3743773,
+            "latitude": 48.8443038
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Cour Saint-Émilion",
+          "coordinate": {
+            "longitude": 2.3861091,
+            "latitude": 48.83366909999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Massy Palaiseau",
+          "coordinate": {
+            "longitude": 2.2613646,
+            "latitude": 48.7258395
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Saint-Quentin",
+          "coordinate": {
+            "longitude": 3.2970211,
+            "latitude": 49.84001809999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Ben\nChallenge: Eat the national desert"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "BOULANGERIE PATISSERIE DUDEBOUT",
+          "coordinate": {
+            "longitude": 3.2952341,
+            "latitude": 49.84176129999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Ben\nChallenge: Eat the national desert"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Maubeuge Station",
+          "coordinate": {
+            "longitude": 3.9664577,
+            "latitude": 50.2729708
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Westfield Euralille",
+          "coordinate": {
+            "longitude": 3.0742948,
+            "latitude": 50.63722130000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "The LEGO® Store Westfield Lille",
+          "coordinate": {
+            "longitude": 3.0746495,
+            "latitude": 50.6375896
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Brussel-Zuid/Midi Station",
+          "coordinate": {
+            "longitude": 4.3354548,
+            "latitude": 50.8360982
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: Roll a die to take a train ride (Curse for Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Brussel-Centraal",
+          "coordinate": {
+            "longitude": 4.3570964,
+            "latitude": 50.845504
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Ben\nChallenge: Find a fancy car"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Brussels Airport",
+          "coordinate": {
+            "longitude": 4.482072,
+            "latitude": 50.89646
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: \n-Find a fancy car (Ben)\n-Eat the national dish (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Strasbourg Station",
+          "coordinate": {
+            "longitude": 7.73422,
+            "latitude": 48.58528
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Offenburg Station",
+          "coordinate": {
+            "longitude": 7.946719999999999,
+            "latitude": 48.47664999999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Baden-Baden",
+          "coordinate": {
+            "longitude": 8.1913124,
+            "latitude": 48.79016559999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mannheim Station",
+          "coordinate": {
+            "longitude": 8.469814,
+            "latitude": 49.4796984
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Stuttgart Hauptbahnhof",
+          "coordinate": {
+            "longitude": 9.1823871,
+            "latitude": 48.78306800000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Karlsruhe Central Station",
+          "coordinate": {
+            "longitude": 8.401294,
+            "latitude": 48.993279
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kehl Station",
+          "coordinate": {
+            "longitude": 7.8066597,
+            "latitude": 48.57634329999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Champagne-Ardenne Station",
+          "coordinate": {
+            "longitude": 3.994624815599765,
+            "latitude": 49.21474043890112
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3)\nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Tag Spot",
+          "coordinate": {
+            "longitude": 3.947079102928266,
+            "latitude": 49.2233590711748
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Season 3 Ending Spot",
+          "coordinate": {
+            "longitude": 3.955827625484756,
+            "latitude": 49.22852961160427
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nThe final location for Season 3 (Adam is victorious)\nChallenge: Get on a train immediately (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Sam Denby"
+      ],
+      "color": "#F57C00",
+      "stops": [
+        {
+          "name": "Place Ducale",
+          "coordinate": {
+            "longitude": 4.720051057430929,
+            "latitude": 49.77347830143792
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Tag (Season 3)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Gare d'Hirson",
+          "coordinate": {
+            "longitude": 4.0844155,
+            "latitude": 49.91453019999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Lille-Flandres",
+          "coordinate": {
+            "longitude": 3.0699444,
+            "latitude": 50.636579
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Calais Ville",
+          "coordinate": {
+            "longitude": 1.8507692,
+            "latitude": 50.95345769999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: Commit an American crime (Sam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Carrefour City Calais Clemenceau",
+          "coordinate": {
+            "longitude": 1.8507759,
+            "latitude": 50.95504519999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\nChallenge: Commit an American crime"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Calais Beer Staircase",
+          "coordinate": {
+            "longitude": 1.850258379657719,
+            "latitude": 50.95461061474201
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\nChallenge: Commit an American crime"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Supermarché Match (Calais Place d'Armes)",
+          "coordinate": {
+            "longitude": 1.8516441,
+            "latitude": 50.95982039999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\nChallenge: Swap to a tote"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam Tote Swap Point",
+          "coordinate": {
+            "longitude": 1.850011970633014,
+            "latitude": 50.96183788050481
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\nChallenge: Swap to a tote"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam Guessing Calais Pop. Spot",
+          "coordinate": {
+            "longitude": 1.85124076984126,
+            "latitude": 50.95938873623393
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\nChallenge: Estimate your city's population"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Les Bourgeois de Calais",
+          "coordinate": {
+            "longitude": 1.8534089,
+            "latitude": 50.95235819999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\nChallenge: Visit the top attraction"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Calais Town Hall",
+          "coordinate": {
+            "longitude": 1.854239,
+            "latitude": 50.95257459999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Parc Saint-Pierre",
+          "coordinate": {
+            "longitude": 1.851403688978122,
+            "latitude": 50.95235663474764
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Gare du Nord",
+          "coordinate": {
+            "longitude": 2.3553137,
+            "latitude": 48.8809481
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Saint-Michel Notre-Dame",
+          "coordinate": {
+            "longitude": 2.3449239,
+            "latitude": 48.85357289999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: Use a fancy restroom (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bibliothèque François-Mitterrand",
+          "coordinate": {
+            "longitude": 2.3767958,
+            "latitude": 48.8298077
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: Do 100 squats"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Paris Gare de Lyon",
+          "coordinate": {
+            "longitude": 2.3743773,
+            "latitude": 48.8443038
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Cour Saint-Émilion",
+          "coordinate": {
+            "longitude": 2.3861091,
+            "latitude": 48.83366909999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Massy Palaiseau",
+          "coordinate": {
+            "longitude": 2.2613646,
+            "latitude": 48.7258395
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tergnier Station",
+          "coordinate": {
+            "longitude": 3.2972456,
+            "latitude": 49.6592152
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Amiens Railway Station",
+          "coordinate": {
+            "longitude": 2.3081396,
+            "latitude": 49.8905368
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Brussel-Zuid/Midi Station",
+          "coordinate": {
+            "longitude": 4.3354548,
+            "latitude": 50.8360982
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: Roll a die to take a train ride (Curse for Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Brussels Airport",
+          "coordinate": {
+            "longitude": 4.482072,
+            "latitude": 50.89646
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nChallenge: \n-Find a fancy car (Ben)\n-Eat the national dish (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Brussel Noordstation",
+          "coordinate": {
+            "longitude": 4.3601396,
+            "latitude": 50.8604558
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\nChallenge: Go exactly one mile"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Cologne Central Station",
+          "coordinate": {
+            "longitude": 6.958601699999999,
+            "latitude": 50.94321409999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\nChallenge: Go exactly one mile"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Fontanestraße",
+          "coordinate": {
+            "longitude": 6.958596485798814,
+            "latitude": 50.95660050134164
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\nChallenge: Go exactly one mile"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Nikolaus August Otto und Eugen Langen Memorial",
+          "coordinate": {
+            "longitude": 6.974442647088328,
+            "latitude": 50.94043503205026
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Köln Deutz Messe/Deutz Bf",
+          "coordinate": {
+            "longitude": 6.9748936,
+            "latitude": 50.9409509
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Dunkin' Cologne Central Station",
+          "coordinate": {
+            "longitude": 6.958600199999999,
+            "latitude": 50.94321590000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\nChallenge: Eat the national desert"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bakery Merzenich on Wallrafplatz",
+          "coordinate": {
+            "longitude": 6.956605799999999,
+            "latitude": 50.9403261
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\nChallenge: Eat the national desert"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "GALERIA Karstadt",
+          "coordinate": {
+            "longitude": 6.9488777,
+            "latitude": 50.9383917
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\nChallenge: Hide and seek"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Strasbourg Station",
+          "coordinate": {
+            "longitude": 7.73422,
+            "latitude": 48.58528
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Frankfurt Flughafen Fernb Station",
+          "coordinate": {
+            "longitude": 8.569946925805969,
+            "latitude": 50.05284098092532
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Stuttgart Hauptbahnhof",
+          "coordinate": {
+            "longitude": 9.1823871,
+            "latitude": 48.78306800000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Karlsruhe Central Station",
+          "coordinate": {
+            "longitude": 8.401294,
+            "latitude": 48.993279
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kehl Station",
+          "coordinate": {
+            "longitude": 7.8066597,
+            "latitude": 48.57634329999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Champagne-Ardenne Station",
+          "coordinate": {
+            "longitude": 3.994624815599765,
+            "latitude": 49.21474043890112
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3)\nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Tag Spot",
+          "coordinate": {
+            "longitude": 3.947079102928266,
+            "latitude": 49.2233590711748
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Season 3 Ending Spot",
+          "coordinate": {
+            "longitude": 3.955827625484756,
+            "latitude": 49.22852961160427
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag (Season 3) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben\nThe final location for Season 3 (Adam is victorious)\nChallenge: Get on a train immediately (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

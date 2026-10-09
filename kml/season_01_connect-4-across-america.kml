@@ -1,0 +1,873 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Season 1: Connect 4 Across America</name>
+    <Folder>
+      <name>Sam Denby &amp; Brian McManus</name>
+      <Placemark>
+        <name>Hilton Chicago O'Hare Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: Connect 4 (Season 1)
+Members who visited: 
+1) Sam
+2) Brian
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-87.903994,41.977534</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Hare International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1) and Jet Lag: Battle for America (Season 4) 
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-87.9089979,41.98028</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Denver International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1), Jet Lag: Circumnavigation (Season 2) and Jet Lag: Battle for America (Season 4)
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben
+5) Joseph&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.6764131,39.8563629</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Francisco International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3816108,37.6191671</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Francisco Terminal 3 BART Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.38658,37.61753</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>California State Capitol Museum</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+Challenge: Eat spicy food&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-121.4932368,38.5765882</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lit Delhi</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+Challenge: Eat spicy food&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-121.4928717,38.57792209999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nevada State Capitol Building</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+Challenge: Bowl a strike&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-119.7661320541866,39.16382926671341</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gold Dust West Bowling Center</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+Challenge: Bowl a strike&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-119.7433239,39.1734547</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carson Lanes Family Fun Center</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+Challenge: Bowl a strike&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-119.769616,39.125103</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Sierra Resort and Casino</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+Note: First hotel of the first night of Season 1 for this team&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-119.7812235,39.5230411</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reno-Tahoe International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-119.7680951,39.4995907</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boise Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.2223159,43.5658231</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Idaho State Capitol</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+Challenge: Find a statue and recreate it&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.199599,43.6177493</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>State of Idaho Employee Parking Garage</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+Challenge: Find a statue and recreate it&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.1970226,43.6178557</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mountain States Tumor Institute</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1) 
+Members who visited:
+1) Sam
+2) Brian
+Challenge: Find a statue and recreate it&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.1934435,43.6122623</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salt Lake City International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-111.9853186,40.7837849</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salt Lake Plaza Hotel SureStay Collection By Best Western</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+Note: Second hotel of the second night of Season 1 for this team&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-111.894797081624,40.76965786266736</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Utah State Capitol Building</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben
+Challenge:
+-Eat the state desert (Sam and Brian)
+-Busk until you earn one dollar (Adam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-111.8881773,40.7774076</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bert Mooney Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-112.5021977,45.95519350000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hertz Car Rental - Butte Municipal Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-112.5026565,45.9549903</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montana State Capitol Building</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben
+The final location of Season 1 (Sam and Brian are victorious)
+Challenge:
+-Claim the state immediately, but... (Sam and Brian)
+-Eat the state dish (Adam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-112.0184093726406,46.58576037049772</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adam Chase &amp; Ben Doyle</name>
+      <Placemark>
+        <name>Hilton Chicago O'Hare Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: Connect 4 (Season 1)
+Members who visited: 
+1) Sam
+2) Brian
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-87.903994,41.977534</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O'Hare International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1) and Jet Lag: Battle for America (Season 4) 
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-87.9089979,41.98028</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Denver International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1), Jet Lag: Circumnavigation (Season 2) and Jet Lag: Battle for America (Season 4)
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben
+5) Joseph&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.6764131,39.8563629</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wyoming State Capitol</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1)Adam
+2) Ben
+Challenge: Catch three different local bugs&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.8201871,41.1402259</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Bug Catching Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1)Adam
+2) Ben
+Challenge: Catch three different local bugs&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.8137222,41.1256111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colorado State Capitol</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Get one team member intoxicated&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.9848208071553,39.73924357038606</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nob Hill Inn</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Get one team member intoxicated&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.9816791,39.7399151</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McDonald's Denver International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1)Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.6738204,39.8539941</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phoenix Sky Harbor International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-112.010124,33.435249</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arizona State Capitol Executive Tower</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Buy the local paper and solve one of the puzzles&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-112.0978983,33.4481143</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Howard Johnson by Wyndham</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Buy the local paper and solve one of the puzzles
+Note: First hotel of the first night of Season 1&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-111.9929381,33.4517908</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.5916095,45.58520379999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oregon State Capitol</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Bury a treasure&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-123.0303428,44.9384539</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salt Lake City International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-111.9853186,40.7837849</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hilton Salt Lake City</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Adam
+2) Ben
+Note: Second hotel of the second night of Season 1 for this team&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-111.893283,40.763925</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Utah State Capitol Building</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben
+Challenge:
+-Eat the state desert (Sam and Brian)
+-Busk until you earn one dollar (Adam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-111.8881773,40.7774076</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bert Mooney Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-112.5021977,45.95519350000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avis Car Rental</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-112.5026272,45.9549516</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam and Ben Broken Car Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-112.4607832,46.0181079</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montana State Capitol Building</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Connect 4 (Season 1)
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben
+The final location of Season 1 (Sam and Brian are victorious)
+Challenge:
+-Claim the state immediately, but... (Sam and Brian)
+-Eat the state dish (Adam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-112.0184093726406,46.58576037049772</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

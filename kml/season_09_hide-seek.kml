@@ -1,0 +1,589 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Season 9: Hide + Seek</name>
+    <Folder>
+      <name>Adam Chase</name>
+      <Placemark>
+        <name>Adam Starting Location</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.569644998957386,46.61769560725016</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Question Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Adam
+Question: Longitude (Adam)
+Question: 5 buildings (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.567810099999999,46.6188677</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snowplow</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.567632,46.617708</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Question Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Adam
+Question: Latitude (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.568640499999999,46.6193347</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gasthaus Pizzeria zum Turm</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Adam
+Question: 25 mile radar (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5675254,46.61866209999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pfarrkirche Hospental</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Adam
+Curse: William Tell Curse (Sam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.567946899999999,46.6194623</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Hiding Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5668828,46.6186591</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Adam
+Question: Hotel Price&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5672646,46.618339</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospental</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.570959,46.62108</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Sam Denby</name>
+      <Placemark>
+        <name>Seekers Starting Location</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2)  Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.3115959,47.0513784</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Question Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Question: Longitude (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.3116746,47.0508378</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luzern</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Question: Latitude (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.3103841,47.0494887</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Göschenen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Curse: William Tell Curse (Sam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.588762599999999,46.6658534</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Andermatt</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Curse: William Tell Curse (Sam and Ben)
+Question: Hotel price (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5933055,46.6368392</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>avec (inside train station, lower level)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Curse: William Tell Curse (Sam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5939687,46.63739590000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Hiding Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5668828,46.6186591</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apple Curse</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Curse: William Tell Curse (Sam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.593443599999999,46.6342994</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apple Curse</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Curse: William Tell Curse (Sam and Ben)
+Question: 10 mile radar (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.589746,46.635215</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospental</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.570959,46.62108</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ben Doyle</name>
+      <Placemark>
+        <name>Seekers Starting Location</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2)  Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.3115959,47.0513784</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Question Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Question: Longitude (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.3116746,47.0508378</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luzern</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Question: Latitude (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.3103841,47.0494887</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Göschenen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Curse: William Tell Curse (Sam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.588762599999999,46.6658534</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Andermatt</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Curse: William Tell Curse (Sam and Ben)
+Question: Hotel price (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5933055,46.6368392</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>avec (inside train station, lower level)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Curse: William Tell Curse (Sam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5939687,46.63739590000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Hiding Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5668828,46.6186591</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apple Curse</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Curse: William Tell Curse (Sam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.593443599999999,46.6342994</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Apple Curse</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Ben
+Curse: William Tell Curse (Sam and Ben)
+Question: 10 mile radar (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.589746,46.635215</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospental</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
+Members who visited: 
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.570959,46.62108</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

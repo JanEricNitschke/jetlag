@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Season 8: Arctic Escape</name>
+    <Folder>
+      <name>Sam Denby &amp; Michelle Khare</name>
+      <Placemark>
+        <name>Whale Bone Arch</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: Arctic Escape (Season 8)
+Members who visited: 
+1) Sam
+2) Michelle
+3) Adam
+4) Ben
+Challenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7739572142164,71.29846551704301</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snowman Beach</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
+Members who visited: 
+1) Sam
+2) Michelle
+3) Adam
+4) Ben
+Challenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)
+Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7747864855955,71.29851000854346</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stuaqpak</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
+Members who visited: 
+1) Sam
+2) Michelle
+Challenge: Build a snowman on the beach (Sam, Michelle)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7554146103631,71.29895272175929</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wiley Post-Will Rogers Memorial Airport (BRW)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
+Members who visited: 
+1) Sam
+2) Michelle
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7750277,71.2876213</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adam Chase &amp; Ben Doyle</name>
+      <Placemark>
+        <name>Whale Bone Arch</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: Arctic Escape (Season 8)
+Members who visited: 
+1) Sam
+2) Michelle
+3) Adam
+4) Ben
+Challenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7739572142164,71.29846551704301</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snowman Beach</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
+Members who visited: 
+1) Sam
+2) Michelle
+3) Adam
+4) Ben
+Challenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)
+Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7747864855955,71.29851000854346</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wiley Post-Will Rogers Memorial Airport (BRW)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
+Members who visited: 
+1) Sam
+2) Michelle
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7750277,71.2876213</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dance spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
+Members who visited: 
+1) Adam
+2) Ben
+Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7221098552755,71.30512783275968</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

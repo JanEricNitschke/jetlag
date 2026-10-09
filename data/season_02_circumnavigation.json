@@ -1,0 +1,792 @@
+{
+  "season": 2,
+  "name": "Circumnavigation",
+  "journeys": [
+    {
+      "team": [
+        "Sam Denby",
+        "Joseph Pisenti"
+      ],
+      "color": "#F57C00",
+      "stops": [
+        {
+          "name": "Denver Union Station",
+          "coordinate": {
+            "longitude": -105.0001518,
+            "latitude": 39.7531499
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting and ending point of Jet Lag: Circumnavigation (Season 2)\nMembers who visited:\n1) Sam\n2) Joseph\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Cancun International Airport",
+          "coordinate": {
+            "longitude": -86.8740062,
+            "latitude": 21.0417033
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "McCarren Park Track",
+          "coordinate": {
+            "longitude": -73.95172509999999,
+            "latitude": 40.7200368
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Amsterdam Airport Schiphol",
+          "coordinate": {
+            "longitude": 4.7682744,
+            "latitude": 52.31053859999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Schiphol Airport",
+          "coordinate": {
+            "longitude": 4.76228,
+            "latitude": 52.30945999999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Take a photo at your city's top 5 landmarks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Anne Frank House",
+          "coordinate": {
+            "longitude": 4.8839503,
+            "latitude": 52.3752103
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Take a photo at your city's top 5 landmarks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Jordaan",
+          "coordinate": {
+            "longitude": 4.880875899999999,
+            "latitude": 52.3739315
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Take a photo at your city's top 5 landmarks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Rijksmuseum",
+          "coordinate": {
+            "longitude": 4.8852188,
+            "latitude": 52.3599976
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Take a photo at your city's top 5 landmarks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Van Gogh Museum",
+          "coordinate": {
+            "longitude": 4.8810756,
+            "latitude": 52.3584159
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Take a photo at your city's top 5 landmarks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Vondelpark",
+          "coordinate": {
+            "longitude": 4.8686484,
+            "latitude": 52.3579946
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Take a photo at your city's top 5 landmarks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "U.S. Consulate General",
+          "coordinate": {
+            "longitude": 4.8819864,
+            "latitude": 52.3562223
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Visit the U.S. consulate"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Museumplein",
+          "coordinate": {
+            "longitude": 4.882327999999999,
+            "latitude": 52.35725600000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Visit the U.S. Consulate"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Holland Casino",
+          "coordinate": {
+            "longitude": 4.8823021,
+            "latitude": 52.3626138
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Gamble at a casino"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "McDonald's Leidsestraat",
+          "coordinate": {
+            "longitude": 4.883794,
+            "latitude": 52.364649
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Eat a McDonald's item you cannot get in the US"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hans Snoekfontein",
+          "coordinate": {
+            "longitude": 4.8815266,
+            "latitude": 52.3636815
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Transfer a cup of fountain water from one fountain to another"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Canada Goose Amsterdam",
+          "coordinate": {
+            "longitude": 4.8827753,
+            "latitude": 52.3607209
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Purchase a hat worth more than $100"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Museumplein Hill",
+          "coordinate": {
+            "longitude": 4.879979888515738,
+            "latitude": 52.35725976656239
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Ascend 500 feet/152 meters to a high point without touching pavement"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Q-Park Europarking",
+          "coordinate": {
+            "longitude": 4.8765793,
+            "latitude": 52.369935
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Pick up three pounds of trash"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Jewel Changi Airport",
+          "coordinate": {
+            "longitude": 103.9897598,
+            "latitude": 1.3602094
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "The Ritz-Carlton, Millenia Singapore",
+          "coordinate": {
+            "longitude": 103.8601209,
+            "latitude": 1.2909687
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2)\nMembers who visited:\n1) Sam\n2) Joseph\nNote: The hotel of the rest period of Season 2 for this team"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bay East Garden",
+          "coordinate": {
+            "longitude": 103.869858,
+            "latitude": 1.2881607
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Catch a fish"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Marina Bay Sands Singapore",
+          "coordinate": {
+            "longitude": 103.8591065,
+            "latitude": 1.2837575
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\n3) Adam\n4) Ben\nChallenge: \n-Get drunk on a local liquor (Sam and Joseph)\n-Have a good time (Sam and Joseph)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "MARQUEE Singapore",
+          "coordinate": {
+            "longitude": 103.8597334,
+            "latitude": 1.2857015
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Get drunk on a local liquor"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Yardbird Southern Table and Bar",
+          "coordinate": {
+            "longitude": 103.8580401,
+            "latitude": 1.2830591
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\nChallenge: Get drunk on a local liquor"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Los Angeles International Airport",
+          "coordinate": {
+            "longitude": -118.4091001,
+            "latitude": 33.9436768
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) and Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nChallenge: Find a four leaf clover as a leprechaun (S4)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Adam Chase",
+        "Ben Doyle"
+      ],
+      "color": "#D32F2F",
+      "stops": [
+        {
+          "name": "Denver Union Station",
+          "coordinate": {
+            "longitude": -105.0001518,
+            "latitude": 39.7531499
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting and ending point of Jet Lag: Circumnavigation (Season 2)\nMembers who visited:\n1) Sam\n2) Joseph\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "John F. Kennedy International Airport",
+          "coordinate": {
+            "longitude": -73.7858007,
+            "latitude": 40.6445878
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Peter Pan Donut & Pastry Shop",
+          "coordinate": {
+            "longitude": -73.9522534,
+            "latitude": 40.7261083
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Local pastry mile"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Malpensa Airport",
+          "coordinate": {
+            "longitude": 8.7255307,
+            "latitude": 45.63006250000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bricocenter Olgiate",
+          "coordinate": {
+            "longitude": 8.8603518,
+            "latitude": 45.6282107
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Build and ride a go-kart"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Olgiate Go Kart Ramp",
+          "coordinate": {
+            "longitude": 8.86084916987031,
+            "latitude": 45.62768291608513
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Build and ride a go-kart"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Parco Mameli",
+          "coordinate": {
+            "longitude": 8.8585709,
+            "latitude": 45.6146385
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Give your teammate a piggyback ride"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Changi International Airport Terminal 3 Playground",
+          "coordinate": {
+            "longitude": 103.983799,
+            "latitude": 1.3503421
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Changi Airport MRT Station (CG2)",
+          "coordinate": {
+            "longitude": 103.9878496,
+            "latitude": 1.3557581
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Go bungee jumping"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "VivoCity",
+          "coordinate": {
+            "longitude": 103.8221267,
+            "latitude": 1.2648859
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Go bungee jumping"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "VivoCity Station",
+          "coordinate": {
+            "longitude": 103.82342,
+            "latitude": 1.26517
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Go bungee jumping"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Beach Station",
+          "coordinate": {
+            "longitude": 103.8178162,
+            "latitude": 1.2513489
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Go bungee jumping"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Skypark Sentosa by AJ Hackett",
+          "coordinate": {
+            "longitude": 103.8133212,
+            "latitude": 1.2551584
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Go bungee jumping"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Emerald Pavilion",
+          "coordinate": {
+            "longitude": 103.8149643,
+            "latitude": 1.2534881
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Go bungee jumping"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Marina Bay Overpass Viewing Point",
+          "coordinate": {
+            "longitude": 103.8617392,
+            "latitude": 1.2824861
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hill Street Tai Hwa Pork Noodle",
+          "coordinate": {
+            "longitude": 103.8625357,
+            "latitude": 1.3051265
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Eat at a Michelin starred restaurant"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Marina Bay Sands Singapore",
+          "coordinate": {
+            "longitude": 103.8591065,
+            "latitude": 1.2837575
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Sam\n2) Joseph\n3) Adam\n4) Ben\nChallenge: \n-Get drunk on a local liquor (Sam and Joseph)\n-Have a good time (Sam and Joseph)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sydney Airport",
+          "coordinate": {
+            "longitude": 151.1781665,
+            "latitude": -33.9331348
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Net & Tackle Sales",
+          "coordinate": {
+            "longitude": 151.1918432,
+            "latitude": -33.8714303
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Catch a fish"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Beulah St Wharf",
+          "coordinate": {
+            "longitude": 151.2170226,
+            "latitude": -33.8517365
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Catch a fish"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Nadi International Airport",
+          "coordinate": {
+            "longitude": 177.4509848,
+            "latitude": -17.7528151
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Los Angeles International Airport",
+          "coordinate": {
+            "longitude": -118.4091001,
+            "latitude": 33.9436768
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) and Jet Lag: Battle for America (Season 4)\nMembers who visited:\n1) Sam\n2) Brian\n3) Adam\n4) Ben\nChallenge: Find a four leaf clover as a leprechaun (S4)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Seaside on the Pier",
+          "coordinate": {
+            "longitude": -118.4965085,
+            "latitude": 34.0099943
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Circumnavigation (Season 2) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Get drunk on a local liquor"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

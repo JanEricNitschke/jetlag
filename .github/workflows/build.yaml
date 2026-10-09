@@ -32,3 +32,6 @@ jobs:
 
       - name: Typecheck with pyrefly
         run: uv run pyrefly check --output-format=github
+
+      - name: Run tests
+        run: uv run pytest

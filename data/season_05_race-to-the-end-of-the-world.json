@@ -1,0 +1,3334 @@
+{
+  "season": 5,
+  "name": "Race to the End of the World",
+  "journeys": [
+    {
+      "team": [
+        "Sam Denby",
+        "Toby Hendy"
+      ],
+      "color": "#7B1FA2",
+      "stops": [
+        {
+          "name": "Season 5 Cape Reinga Starting Spot",
+          "coordinate": {
+            "longitude": 172.677479176482,
+            "latitude": -34.42665960278735
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: New Zealand (Season 5)\nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Cape Reinga Parking Area",
+          "coordinate": {
+            "longitude": 172.6822688,
+            "latitude": -34.4300349
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5)\nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Parking Sand Dunes",
+          "coordinate": {
+            "longitude": 172.7734991295079,
+            "latitude": -34.52428476889317
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nChallenge: Sandboard at Te Paki Sand Dunes"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Giant Sand Dunes",
+          "coordinate": {
+            "longitude": 172.77394,
+            "latitude": -34.5248998
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nChallenge: Sandboard at Te Paki Sand Dunes"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Coopers Beach Playground",
+          "coordinate": {
+            "longitude": 173.511223,
+            "latitude": -34.99077
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Dig a lucky hole at Coopers Beach"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Coopers Beach",
+          "coordinate": {
+            "longitude": 173.5118516,
+            "latitude": -34.9900031
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Dig a lucky hole at Coopers Beach"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Four Square Kaeo",
+          "coordinate": {
+            "longitude": 173.7806157,
+            "latitude": -35.1005271
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Win the lottery in Kaeo"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Rainbow Falls NZMCA Park",
+          "coordinate": {
+            "longitude": 173.9428643,
+            "latitude": -35.2131573
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Take a lucky swim at Rainbow Falls"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Tane Mahuta Car Park Spot",
+          "coordinate": {
+            "longitude": 173.5282665103031,
+            "latitude": -35.60053698913031
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Admire Tāne Mahuta"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tane Mahuta",
+          "coordinate": {
+            "longitude": 173.5272196,
+            "latitude": -35.6008767
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Admire Tāne Mahuta"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Kai Iwi Lakes Car Park Spot",
+          "coordinate": {
+            "longitude": 173.6625214462651,
+            "latitude": -35.80923802185293
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Make a new friend at Kai Iwi Lakes"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Lake Taharoa",
+          "coordinate": {
+            "longitude": 173.6494727,
+            "latitude": -35.8062587
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Make a new friend at Kai Iwi Lakes"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Tokatoka Parking Spot",
+          "coordinate": {
+            "longitude": 173.977232402937,
+            "latitude": -36.05841447931346
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Give your partner a genuine compliment at Tokatoka Peak"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tokatoka Lookout Track",
+          "coordinate": {
+            "longitude": 173.9772556,
+            "latitude": -36.0586177
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Give your partner a genuine compliment at Tokatoka Peak"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tokatoka Peak Lookout",
+          "coordinate": {
+            "longitude": 173.975138,
+            "latitude": -36.057161
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Give your partner a genuine compliment at Tokatoka Peak"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Closing Door Spot",
+          "coordinate": {
+            "longitude": 174.2682756642442,
+            "latitude": -36.11008734889045
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nThe spot where Toby pulls over to close her car door"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Roadblock #1 Spot",
+          "coordinate": {
+            "longitude": 174.513021,
+            "latitude": -36.27412899999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe spot where Toby deployed the first roadblock of Season 5\nRoadblock: Destroy one ring"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Centennial Park Parking Lot",
+          "coordinate": {
+            "longitude": 174.5308066148155,
+            "latitude": -36.30146142152621
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Score a drop goal at Centennial Park"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Centennial Park",
+          "coordinate": {
+            "longitude": 174.5320567,
+            "latitude": -36.3013679
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Score a drop goal at Centennial Park"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Roadblock #2 Spot",
+          "coordinate": {
+            "longitude": 174.671204,
+            "latitude": -36.510617
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe spot where Toby deployed the second roadblock of Season 5\nRoadblock: Handstand for 60 seconds"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Ending Spot Day 1",
+          "coordinate": {
+            "longitude": 174.6638611,
+            "latitude": -36.6266389
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nThe point where Sam and Toby end for Day #1"
+          ],
+          "end_of_day": [
+            1
+          ],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Megazone Car Park",
+          "coordinate": {
+            "longitude": 174.6642591484621,
+            "latitude": -36.6353367190706
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Have 30 minutes of fun at the Megazone"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Megazone Laser Tag",
+          "coordinate": {
+            "longitude": 174.6643218,
+            "latitude": -36.6349563
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Have 30 minutes of fun at the Megazone"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Megazone Bench",
+          "coordinate": {
+            "longitude": 174.6647642924761,
+            "latitude": -36.63509436403459
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Have 30 minutes of fun at the Megazone\nNote: The bench in the video has been moved in Google Earth"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "McDonald's Wairau Road",
+          "coordinate": {
+            "longitude": 174.7402419,
+            "latitude": -36.7721119
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Skycity Parking",
+          "coordinate": {
+            "longitude": 174.7618127,
+            "latitude": -36.8497689
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sky Tower",
+          "coordinate": {
+            "longitude": 174.762191,
+            "latitude": -36.848448
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe location of the first successful Nerf shot by Adam on Sam\nChallenge: Destroy 5 rings at 5 volcanoes \nCurse: Only walk forward after rolling a die (Adam and Ben)\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Albert Park",
+          "coordinate": {
+            "longitude": 174.7678881,
+            "latitude": -36.8506426
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Only walk forward after rolling a die (Adam and Ben)\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "McDonald's Queen Street",
+          "coordinate": {
+            "longitude": 174.7649872,
+            "latitude": -36.8502279
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Auckland Domain",
+          "coordinate": {
+            "longitude": 174.7754857,
+            "latitude": -36.858931
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Only walk forward after rolling a die (Adam and Ben)\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Nerf Spot #2",
+          "coordinate": {
+            "longitude": 174.7620247207327,
+            "latitude": -36.84988818266861
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe location of the second successful Nerf shot by Sam on Adam\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Only walk forward after rolling a die (Adam and Ben)\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Secure Parking - 67 Symonds Street Car Park",
+          "coordinate": {
+            "longitude": 174.7648330258476,
+            "latitude": -36.85694613613793
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Grafton Spot",
+          "coordinate": {
+            "longitude": 174.7644026051888,
+            "latitude": -36.85742317163984
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Little Rangitoto Reserve",
+          "coordinate": {
+            "longitude": 174.8095355,
+            "latitude": -36.87561549999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Only walk forward after rolling a die (Adam and Ben)\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Mount Hobson Parking Spot",
+          "coordinate": {
+            "longitude": 174.7857753082731,
+            "latitude": -36.87606640384015
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ōhinerau / Mount Hobson",
+          "coordinate": {
+            "longitude": 174.7870336,
+            "latitude": -36.8783204
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "McDonald's Greenlane",
+          "coordinate": {
+            "longitude": 174.7943601,
+            "latitude": -36.890154
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Knit World Hamilton",
+          "coordinate": {
+            "longitude": 175.2794713,
+            "latitude": -37.7836222
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Toby Knitting Spot",
+          "coordinate": {
+            "longitude": 175.7566003805414,
+            "latitude": -37.97714974303521
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Toby\nChallenge: Complete a ZORB track"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "BP",
+          "coordinate": {
+            "longitude": 175.8719386,
+            "latitude": -38.215909
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Make cheese in front of the largest cheese factory"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Cheesemaking Spot",
+          "coordinate": {
+            "longitude": 175.8255875963411,
+            "latitude": -38.13673588158197
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Make cheese in front of the largest cheese factory"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Huka Falls Car Park",
+          "coordinate": {
+            "longitude": 176.088863192139,
+            "latitude": -38.64955744080557
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Waterfall at Huka Falls"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Huka Falls Bridge",
+          "coordinate": {
+            "longitude": 176.0894419,
+            "latitude": -38.6496786
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Waterfall at Huka Falls"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Waterfall Bench",
+          "coordinate": {
+            "longitude": 176.0890847573816,
+            "latitude": -38.64940437554347
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Waterfall at Huka Falls"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Roadblock #3 Spot",
+          "coordinate": {
+            "longitude": 175.4932665768407,
+            "latitude": -39.16029521042768
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe spot where Toby deployed the third roadblock of Season 5\nRoadblock: Wear a new hat"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "New World Supermarket Ohakune",
+          "coordinate": {
+            "longitude": 175.399076,
+            "latitude": -39.4177431
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Eat a carrot at the Ohakune Adventure Park"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ohakune Carrot Adventure Park Parking Lot",
+          "coordinate": {
+            "longitude": 175.4034207808935,
+            "latitude": -39.42031273557817
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Eat a carrot at the Ohakune Adventure Park"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ohakune Carrot Adventure Park",
+          "coordinate": {
+            "longitude": 175.4034257,
+            "latitude": -39.4200811
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Eat a carrot at the Ohakune Adventure Park"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ohakune Carrot",
+          "coordinate": {
+            "longitude": 175.4038002,
+            "latitude": -39.4200183
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Eat a carrot at the Ohakune Adventure Park"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Taihape Gumboot Throwing Lane",
+          "coordinate": {
+            "longitude": 175.7973255858932,
+            "latitude": -39.67765953331855
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Throw a gumboot at the Taihape Gumboot Throwing Lane"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Ending Spot Day 2",
+          "coordinate": {
+            "longitude": 175.5776172717238,
+            "latitude": -40.22098545558795
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nThe point where Sam and Toby end for Day #2"
+          ],
+          "end_of_day": [
+            2
+          ],
+          "to_next": []
+        },
+        {
+          "name": "Mount Cleese Parking Lot",
+          "coordinate": {
+            "longitude": 175.5785556,
+            "latitude": -40.3900833
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Summit Mount Cleese"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mt. Cleese",
+          "coordinate": {
+            "longitude": 175.578019,
+            "latitude": -40.3899743
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Summit Mount Cleese"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Roadblock #4 Spot",
+          "coordinate": {
+            "longitude": 175.4412967335633,
+            "latitude": -40.52633304135919
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe spot where Sam and Toby deployed the fourth roadblock of Season 5\nRoadblock: Eat something grape flavored"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Roadblock #5 Spot",
+          "coordinate": {
+            "longitude": 175.3149722,
+            "latitude": -40.6221667
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe spot where Sam and Toby deployed the fifth roadblock of Season 5 as well as where Toby violated the No E curse\nChallenge: Lead your teammate through the jungle blindfolded\nRoadblock: Play catch\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mangaone Walkway South Car Park",
+          "coordinate": {
+            "longitude": 175.1322868,
+            "latitude": -40.8774249
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Lead your teammate through the jungle blindfolded\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mangaone Walkway Bridge",
+          "coordinate": {
+            "longitude": 175.134993599549,
+            "latitude": -40.87296840652839
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Lead your teammate through the jungle blindfolded\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Toby Campaign Spot #1 (Beehive)",
+          "coordinate": {
+            "longitude": 174.7758056,
+            "latitude": -41.2785833
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1)  Toby\nChallenge: Run for Prime Minister\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Parking lot",
+          "coordinate": {
+            "longitude": 174.7818553,
+            "latitude": -41.2910514
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Run for Prime Minister\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Toby Campaign Spot #2 (Te Papa)",
+          "coordinate": {
+            "longitude": 174.7811389,
+            "latitude": -41.2905
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Run for Prime Minister\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Toby Campaign Spot #3 (Waterfront Walk)",
+          "coordinate": {
+            "longitude": 174.7830796892432,
+            "latitude": -41.28938287213257
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Run for Prime Minister\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Toby Campaign Spot #4",
+          "coordinate": {
+            "longitude": 174.7844167,
+            "latitude": -41.291
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Run for Prime Minister\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Waitangi Park",
+          "coordinate": {
+            "longitude": 174.7852526,
+            "latitude": -41.2914566
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Toby\nChallenge: Run for Prime Minister\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Wellington Interislander Vehicle Check-in",
+          "coordinate": {
+            "longitude": 174.7901923,
+            "latitude": -41.2620703
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Interislander Ferry",
+          "coordinate": {
+            "longitude": 174.7885483,
+            "latitude": -41.26357369999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Picton Port",
+          "coordinate": {
+            "longitude": 174.0049603146314,
+            "latitude": -41.28401182250992
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hammer Hardware Picton",
+          "coordinate": {
+            "longitude": 174.006548,
+            "latitude": -41.2904783
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Dock a boat in Picton Memorial Park\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Picton Memorial Park",
+          "coordinate": {
+            "longitude": 174.0064799,
+            "latitude": -41.2881972
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Dock a boat in Picton Memorial Park\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam Picton Boat Building Spot",
+          "coordinate": {
+            "longitude": 174.0065622252967,
+            "latitude": -41.28850529829226
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\nChallenge: Dock a boat in Picton Memorial Park\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Waitohi bay and swimming area",
+          "coordinate": {
+            "longitude": 174.0069389,
+            "latitude": -41.2877284
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Toby\nChallenge: Dock a boat in Picton Memorial Park\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam Cake Eating Spot",
+          "coordinate": {
+            "longitude": 174.1311463211538,
+            "latitude": -41.72866083326231
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\nChallenge: Drink cake at a pink lake"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Ending Spot Day 3",
+          "coordinate": {
+            "longitude": 173.5863333,
+            "latitude": -42.4424722
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nThe point where Sam and Toby end for Day #3\nCurse: Listen to Tom Lehrer's The Element Song on repeat until you reach your next challenge"
+          ],
+          "end_of_day": [
+            3
+          ],
+          "to_next": []
+        },
+        {
+          "name": "Bunnings Warehouse Parking lot",
+          "coordinate": {
+            "longitude": 172.6073374,
+            "latitude": -43.5386681
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bunnings Warehouse Riccarton",
+          "coordinate": {
+            "longitude": 172.6078605,
+            "latitude": -43.53830869999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Intenrnation Antarctic Center Parking Lot",
+          "coordinate": {
+            "longitude": 172.5468008118137,
+            "latitude": -43.48887287463086
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "International Antarctic Centre",
+          "coordinate": {
+            "longitude": 172.547093,
+            "latitude": -43.4884068
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Botanic Gardens Parking lot",
+          "coordinate": {
+            "longitude": 172.6208245,
+            "latitude": -43.5281877
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Christchurch Botanic Gardens",
+          "coordinate": {
+            "longitude": 172.6232211,
+            "latitude": -43.5306989
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Foot Bridge to Christchurch Botanic Garden",
+          "coordinate": {
+            "longitude": 172.6205977,
+            "latitude": -43.5285383
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Cuningham, Townend and Garrick House",
+          "coordinate": {
+            "longitude": 172.6211214,
+            "latitude": -43.5298811
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Botanic Gardens Tree Stump",
+          "coordinate": {
+            "longitude": 172.6213115861232,
+            "latitude": -43.52936851847241
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Plant Selfie Spot",
+          "coordinate": {
+            "longitude": 172.6205193324789,
+            "latitude": -43.52904572924945
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "NZ Musuem of Toys & Collectibles Parking Lot",
+          "coordinate": {
+            "longitude": 172.63992804434,
+            "latitude": -43.53800103724823
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "NZ Museum of Toys & Collectibles",
+          "coordinate": {
+            "longitude": 172.6400227,
+            "latitude": -43.5382559
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Air Force Museum Parking Lot",
+          "coordinate": {
+            "longitude": 172.5478351,
+            "latitude": -43.5455653
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Air Force Museum of New Zealand",
+          "coordinate": {
+            "longitude": 172.5478733,
+            "latitude": -43.5463065
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Show a plant the Garden City"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mitre 10 MEGA Hornby Parking lot",
+          "coordinate": {
+            "longitude": 172.5287933100332,
+            "latitude": -43.54223462192574
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Ride your snowboard at Timaru Skate Park"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mitre 10 MEGA Hornby",
+          "coordinate": {
+            "longitude": 172.5277279,
+            "latitude": -43.541857
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Ride your snowboard at Timaru Skate Park"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Community Skateboard Park",
+          "coordinate": {
+            "longitude": 171.2474852,
+            "latitude": -44.3891096
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Ride your snowboard at Timaru Skate Park"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elephant Rocks Car Park",
+          "coordinate": {
+            "longitude": 170.6585671,
+            "latitude": -44.8934643
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Remember at the Elephant Rocks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elephant Rocks",
+          "coordinate": {
+            "longitude": 170.6560906,
+            "latitude": -44.8935508
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Toby\nChallenge: Remember at the Elephant Rocks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elephant Rock #5",
+          "coordinate": {
+            "longitude": 170.6557690169023,
+            "latitude": -44.89322210778779
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Toby\nChallenge: Remember at the Elephant Rocks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elephant Rock #2",
+          "coordinate": {
+            "longitude": 170.6559335634613,
+            "latitude": -44.89300226850242
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Toby\nChallenge: Remember at the Elephant Rocks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elephant Rock #4",
+          "coordinate": {
+            "longitude": 170.6562303069769,
+            "latitude": -44.89313634996638
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Toby\nChallenge: Remember at the Elephant Rocks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elephant Rock #6",
+          "coordinate": {
+            "longitude": 170.6556267114803,
+            "latitude": -44.89330946952067
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Toby\nChallenge: Remember at the Elephant Rocks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elephant Rock #0",
+          "coordinate": {
+            "longitude": 170.6564705310316,
+            "latitude": -44.89287862709359
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Toby\nChallenge: Remember at the Elephant Rocks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elephant Rock #3",
+          "coordinate": {
+            "longitude": 170.6564045806223,
+            "latitude": -44.8930763477957
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Toby\nChallenge: Remember at the Elephant Rocks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elephant Rock #8",
+          "coordinate": {
+            "longitude": 170.6556451058851,
+            "latitude": -44.89348100974924
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Toby\nChallenge: Remember at the Elephant Rocks"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Wanaka Tree Parking Lot",
+          "coordinate": {
+            "longitude": 169.1195696007297,
+            "latitude": -44.69990497658915
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Create content at That Wanaka Tree"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "#ThatWanakaTree",
+          "coordinate": {
+            "longitude": 169.1174237,
+            "latitude": -44.6985828
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Create content at That Wanaka Tree"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Cardrona Bra Fence Parking Lot",
+          "coordinate": {
+            "longitude": 169.0189610283838,
+            "latitude": -44.86344681357455
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Find ten green bras on the Cardrona Bra Fence"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Cardrona Bra Fence",
+          "coordinate": {
+            "longitude": 169.0187828,
+            "latitude": -44.8635902
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Find ten green bras on the Cardrona Bra Fence"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Ending Spot Day 4",
+          "coordinate": {
+            "longitude": 168.9454365970802,
+            "latitude": -44.97685814571964
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nThe point where Sam and Toby end for Day #4"
+          ],
+          "end_of_day": [
+            4
+          ],
+          "to_next": []
+        },
+        {
+          "name": "Kawarau Parking Lot",
+          "coordinate": {
+            "longitude": 168.9007713,
+            "latitude": -45.0096136
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Go extreme in Queestown\nCurse: You get no reward for your next challenge (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "AJ Hackett Kawarau Bungy Centre",
+          "coordinate": {
+            "longitude": 168.900145,
+            "latitude": -45.009472
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Go extreme in Queestown\nCurse: You get no reward for your next challenge (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kawarau Gorge Suspension Bridge",
+          "coordinate": {
+            "longitude": 168.8998691,
+            "latitude": -45.0088448
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\nChallenge: Go extreme in Queestown\nCurse: You get no reward for your next challenge (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Countdown Queestown Parking Lot",
+          "coordinate": {
+            "longitude": 168.7416221376729,
+            "latitude": -45.01322565770707
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Devil an egg at the Devil's Staircase"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Countdown Queenstown",
+          "coordinate": {
+            "longitude": 168.741984,
+            "latitude": -45.013503
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Devil an egg at the Devil's Staircase"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Toby Devil Eggs Spot",
+          "coordinate": {
+            "longitude": 168.7429069,
+            "latitude": -45.2458091
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\nChallenge: Devil an egg at the Devil's Staircase"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Stirling Point Parking Lot",
+          "coordinate": {
+            "longitude": 168.3571111,
+            "latitude": -46.6133611
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Lookout Point",
+          "coordinate": {
+            "longitude": 168.3283531,
+            "latitude": -46.6238337
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Beautiful Lookout - edge of the Bluff - invercargill",
+          "coordinate": {
+            "longitude": 168.3276065,
+            "latitude": -46.62399970000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam \n4) Ben\nThe final location of Season 5 (Sam and Toby are victorious)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Adam Chase",
+        "Ben Doyle"
+      ],
+      "color": "#D32F2F",
+      "stops": [
+        {
+          "name": "Season 5 Cape Reinga Starting Spot",
+          "coordinate": {
+            "longitude": 172.677479176482,
+            "latitude": -34.42665960278735
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: New Zealand (Season 5)\nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Cape Reinga Parking Area",
+          "coordinate": {
+            "longitude": 172.6822688,
+            "latitude": -34.4300349
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5)\nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Parking Sand Dunes",
+          "coordinate": {
+            "longitude": 172.7734991295079,
+            "latitude": -34.52428476889317
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nChallenge: Sandboard at Te Paki Sand Dunes"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Giant Sand Dunes",
+          "coordinate": {
+            "longitude": 172.77394,
+            "latitude": -34.5248998
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nChallenge: Sandboard at Te Paki Sand Dunes"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "PAK'nSAVE Kaitaia",
+          "coordinate": {
+            "longitude": 173.2586007058295,
+            "latitude": -35.09936683005135
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Make a plentiful sandwich at Kaitaia"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bells Produce",
+          "coordinate": {
+            "longitude": 173.2592101,
+            "latitude": -35.1010485
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Make a plentiful sandwich at Kaitaia"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kaitaia Food Market",
+          "coordinate": {
+            "longitude": 173.2645824,
+            "latitude": -35.114815
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Make a plentiful sandwich at Kaitaia"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Turkish Kebabs & Pizzas",
+          "coordinate": {
+            "longitude": 173.264888,
+            "latitude": -35.1156844
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Make a plentiful sandwich at Kaitaia"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kaitaia Welcome Sign",
+          "coordinate": {
+            "longitude": 173.2700016,
+            "latitude": -35.121054
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Make a plentiful sandwich at Kaitaia"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Okaihau Fire Station Parking Spot",
+          "coordinate": {
+            "longitude": 173.7713584878085,
+            "latitude": -35.32081616868557
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Sing the Ōkaihau Express in Ōkaihau Rail Tunnel"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Okaihau Rail Tunnel",
+          "coordinate": {
+            "longitude": 173.7704168452125,
+            "latitude": -35.32061184792749
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Sing the Ōkaihau Express in Ōkaihau Rail Tunnel"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Paihia Parking Spot",
+          "coordinate": {
+            "longitude": 174.0907621040839,
+            "latitude": -35.28247589245978
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a cream trip at the Bay of Islands"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Countdown Paihia Central",
+          "coordinate": {
+            "longitude": 174.0911481,
+            "latitude": -35.2822583
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a cream trip at the Bay of Islands"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bay Beach Hire",
+          "coordinate": {
+            "longitude": 174.0963249893803,
+            "latitude": -35.28479452289755
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a cream trip at the Bay of Islands"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Kayak Spot",
+          "coordinate": {
+            "longitude": 174.0963449720739,
+            "latitude": -35.28468171814079
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a cream trip at the Bay of Islands"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Cream Island #1",
+          "coordinate": {
+            "longitude": 174.1004819734409,
+            "latitude": -35.28342653993916
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a cream trip at the Bay of Islands"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Cream Island #2",
+          "coordinate": {
+            "longitude": 174.0975625387467,
+            "latitude": -35.27803795396172
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a cream trip at the Bay of Islands"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Cream Island #3",
+          "coordinate": {
+            "longitude": 174.0944584347295,
+            "latitude": -35.27640741646499
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a cream trip at the Bay of Islands"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Hundertwasser Parking Spot",
+          "coordinate": {
+            "longitude": 174.0675385160644,
+            "latitude": -35.38018284649692
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Use the Hundertwasser Public Toilets"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hundertwasser Public Toilets",
+          "coordinate": {
+            "longitude": 174.0669235,
+            "latitude": -35.3799433
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Use the Hundertwasser Public Toilets"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adrenalin Adventure Park",
+          "coordinate": {
+            "longitude": 174.2197426283345,
+            "latitude": -35.59221017959845
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Go extreme at Adrenalin Adventure Park"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "McDonald's Whangarei",
+          "coordinate": {
+            "longitude": 174.321501,
+            "latitude": -35.718649
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Claphams Parking Lot",
+          "coordinate": {
+            "longitude": 174.3261685336935,
+            "latitude": -35.72546578349861
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find the time at Clapham's National Clock Museum"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Claphams National Clock Museum",
+          "coordinate": {
+            "longitude": 174.3264949,
+            "latitude": -35.7251359
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find the time at Clapham's National Clock Museum"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Waipu Cave Parking Lot",
+          "coordinate": {
+            "longitude": 174.3483201185818,
+            "latitude": -35.93408453213588
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find glowworms at Waipu Caves"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Waipu Caves",
+          "coordinate": {
+            "longitude": 174.3495241247138,
+            "latitude": -35.93355937952389
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find glowworms at Waipu Caves"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Roadblock #1 Spot",
+          "coordinate": {
+            "longitude": 174.513021,
+            "latitude": -36.27412899999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe spot where Toby deployed the first roadblock of Season 5\nRoadblock: Destroy one ring"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "GAS Te Hana",
+          "coordinate": {
+            "longitude": 174.5090831,
+            "latitude": -36.2553267
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nRoadblock: Destroy one ring"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Roadblock #2 Spot",
+          "coordinate": {
+            "longitude": 174.671204,
+            "latitude": -36.510617
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe spot where Toby deployed the second roadblock of Season 5\nRoadblock: Handstand for 60 seconds"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Ending Spot Day 1",
+          "coordinate": {
+            "longitude": 174.6481944,
+            "latitude": -36.4300556
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nThe point where Adam and Ben end for Day #1"
+          ],
+          "end_of_day": [
+            1
+          ],
+          "to_next": []
+        },
+        {
+          "name": "Adam Handstand Spot",
+          "coordinate": {
+            "longitude": 174.6726259165452,
+            "latitude": -36.51065599296669
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\nRoadblock: Handstand for 60 seconds"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "17 Vogel Ln Parking",
+          "coordinate": {
+            "longitude": 174.76111,
+            "latitude": -36.84725
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nCurse: Only walk forward after rolling a die (Adam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "77 convenience store",
+          "coordinate": {
+            "longitude": 174.7619077,
+            "latitude": -36.8479106
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nCurse: Only walk forward after rolling a die (Adam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sky Tower",
+          "coordinate": {
+            "longitude": 174.762191,
+            "latitude": -36.848448
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe location of the first successful Nerf shot by Adam on Sam\nChallenge: Destroy 5 rings at 5 volcanoes \nCurse: Only walk forward after rolling a die (Adam and Ben)\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Bike/Scooter Pick-Up Spot",
+          "coordinate": {
+            "longitude": 174.7617265108615,
+            "latitude": -36.84814082741705
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Only walk forward after rolling a die (Adam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Albert Park",
+          "coordinate": {
+            "longitude": 174.7678881,
+            "latitude": -36.8506426
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Only walk forward after rolling a die (Adam and Ben)\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Grafton Spot",
+          "coordinate": {
+            "longitude": 174.7671264974496,
+            "latitude": -36.86037184010147
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Only walk forward after rolling a die (Adam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Auckland Domain",
+          "coordinate": {
+            "longitude": 174.7754857,
+            "latitude": -36.858931
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Only walk forward after rolling a die (Adam and Ben)\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Nerf Spot #2",
+          "coordinate": {
+            "longitude": 174.7620247207327,
+            "latitude": -36.84988818266861
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe location of the second successful Nerf shot by Sam on Adam\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Only walk forward after rolling a die (Adam and Ben)\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Nerf Waiting Spot",
+          "coordinate": {
+            "longitude": 174.7618816587658,
+            "latitude": -36.84978238256659
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Only walk forward after rolling a die (Adam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Te Pou Haiwiki",
+          "coordinate": {
+            "longitude": 174.7664896033503,
+            "latitude": -36.88191832538237
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Only walk forward after rolling a die (Adam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Little Rangitoto Reserve",
+          "coordinate": {
+            "longitude": 174.8095355,
+            "latitude": -36.87561549999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nChallenge: Destroy 5 rings at 5 volcanoes\nCurse: Only walk forward after rolling a die (Adam and Ben)\nCurse: Eat at the next visible McDonald's (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben ZORB Car Park",
+          "coordinate": {
+            "longitude": 176.2214570097871,
+            "latitude": -38.1036835576226
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a ZORB track"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "ZORB™ Rotorua",
+          "coordinate": {
+            "longitude": 176.2179567578233,
+            "latitude": -38.10516656869251
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a ZORB track"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Countdown Fairy Springs",
+          "coordinate": {
+            "longitude": 176.2284031,
+            "latitude": -38.1204139
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Eat cheese at a relaxing hot spring"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kerosene Creek Car Park",
+          "coordinate": {
+            "longitude": 176.3861844850391,
+            "latitude": -38.33403739493104
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Eat cheese at a relaxing hot spring"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kerosene Creek",
+          "coordinate": {
+            "longitude": 176.3863009,
+            "latitude": -38.3345422
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Eat cheese at a relaxing hot spring"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Roadblock #3 Spot",
+          "coordinate": {
+            "longitude": 175.4932665768407,
+            "latitude": -39.16029521042768
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe spot where Toby deployed the third roadblock of Season 5\nRoadblock: Wear a new hat"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Ending Spot Day 2",
+          "coordinate": {
+            "longitude": 175.1539992062847,
+            "latitude": -39.84328030599124
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nThe point where Adam and Ben end for Day #2"
+          ],
+          "end_of_day": [
+            2
+          ],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Wanganui Parking Spot",
+          "coordinate": {
+            "longitude": 175.0504459,
+            "latitude": -39.9309011
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find Whanganui/Wanganui"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Wanganui Money Lenders (Wanganui #1)",
+          "coordinate": {
+            "longitude": 175.0502353,
+            "latitude": -39.9309022
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find Whanganui/Wanganui"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Noodle Canteen (Wanganui #2)",
+          "coordinate": {
+            "longitude": 175.0506971,
+            "latitude": -39.9319896
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find Whanganui/Wanganui"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "The Co-operative Bank (Wanganui #3)",
+          "coordinate": {
+            "longitude": 175.0506396,
+            "latitude": -39.9322778
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find Whanganui/Wanganui"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "The Mainstreet Caboodle Banner (Whanganui #1)",
+          "coordinate": {
+            "longitude": 175.0509553,
+            "latitude": -39.932295
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find Whanganui/Wanganui"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "BNZ Whanganui (Whanganui #2)",
+          "coordinate": {
+            "longitude": 175.0509375,
+            "latitude": -39.932096
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find Whanganui/Wanganui"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Whanganui Kiwibank (Whanganui #3)",
+          "coordinate": {
+            "longitude": 175.0509694,
+            "latitude": -39.9324738
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find Whanganui/Wanganui"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Roadblock #4 Spot",
+          "coordinate": {
+            "longitude": 175.4412967335633,
+            "latitude": -40.52633304135919
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe spot where Sam and Toby deployed the fourth roadblock of Season 5\nRoadblock: Eat something grape flavored"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Roadblock #5 Spot",
+          "coordinate": {
+            "longitude": 175.3149722,
+            "latitude": -40.6221667
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben\nThe spot where Sam and Toby deployed the fifth roadblock of Season 5 as well as where Toby violated the No E curse\nChallenge: Lead your teammate through the jungle blindfolded\nRoadblock: Play catch\nCurse: You may not say any words with the letter \"E\" (Sam and Toby)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Wellington Interislander Vehicle Check-in",
+          "coordinate": {
+            "longitude": 174.7901923,
+            "latitude": -41.2620703
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Interislander Ferry",
+          "coordinate": {
+            "longitude": 174.7885483,
+            "latitude": -41.26357369999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben 3:45 pm Ferry Waiting Spot",
+          "coordinate": {
+            "longitude": 174.78275,
+            "latitude": -41.2893889
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nThe spot where Adam and Ben await for their ferry at 3:45 pm"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Picton Port",
+          "coordinate": {
+            "longitude": 174.0049603146314,
+            "latitude": -41.28401182250992
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Furniture Galley Blenheim Parking Lot",
+          "coordinate": {
+            "longitude": 173.9602478980587,
+            "latitude": -41.50525313350649
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Get drunk on local wine at the Wairau River"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Thirsty Liquor Grove Road",
+          "coordinate": {
+            "longitude": 173.9598286,
+            "latitude": -41.5052782
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Get drunk on local wine at the Wairau River"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Ending Spot Day 3",
+          "coordinate": {
+            "longitude": 173.1936111,
+            "latitude": -41.6680278
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nThe point where Adam and Ben end for Day #3\nChallenge: Get drunk on local wine at the Wairau River"
+          ],
+          "end_of_day": [
+            3
+          ],
+          "to_next": []
+        },
+        {
+          "name": "Wairau river view point",
+          "coordinate": {
+            "longitude": 173.0943568,
+            "latitude": -41.71626639999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Get drunk on local wine at the Wairau River"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Math Minute Spot",
+          "coordinate": {
+            "longitude": 172.8519489,
+            "latitude": -41.80096109999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a math minute in Saint Arnaud"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Constant and Joyce Bays",
+          "coordinate": {
+            "longitude": 171.4350719,
+            "latitude": -41.9040774
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Skip a rock 6 times in the Constant and Joyce Bays"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Constant Bay Parking Spot",
+          "coordinate": {
+            "longitude": 171.4356905527654,
+            "latitude": -41.90394856470921
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Skip a rock 6 times in the Constant and Joyce Bays"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mt George Track Car Park",
+          "coordinate": {
+            "longitude": 171.2648215,
+            "latitude": -42.32962149999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find a starfish on the Motukiekie Beach Walk"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Starfish Parking Spot",
+          "coordinate": {
+            "longitude": 171.2666389,
+            "latitude": -42.3273611
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find a starfish on the Motukiekie Beach Walk"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Starfish Spot",
+          "coordinate": {
+            "longitude": 171.2655712085227,
+            "latitude": -42.32763213166078
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Find a starfish on the Motukiekie Beach Walk"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Stick Stick Gathering Trail",
+          "coordinate": {
+            "longitude": 171.2664395652796,
+            "latitude": -42.32733251700684
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Make your own \"Hokitika\" beach sign"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Hokitika Car Park Spot",
+          "coordinate": {
+            "longitude": 170.9621332566015,
+            "latitude": -42.71739146877461
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Make your own \"Hokitika\" beach sign"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hokitika discounter",
+          "coordinate": {
+            "longitude": 170.9634105,
+            "latitude": -42.7178397
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Make your own \"Hokitika\" beach sign"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Hokitika Sign",
+          "coordinate": {
+            "longitude": 170.9604722,
+            "latitude": -42.7166944
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Make your own \"Hokitika\" beach sign"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "New World",
+          "coordinate": {
+            "longitude": 170.963112,
+            "latitude": -42.716206
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Egg drop at the landing site of Guy Menzies"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Egg Drop Spot",
+          "coordinate": {
+            "longitude": 170.5313757355051,
+            "latitude": -43.07675966606436
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Egg drop at the landing site of Guy Menzies"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Knights Point Lookout Parking Lot",
+          "coordinate": {
+            "longitude": 169.2255419419421,
+            "latitude": -43.71528536641791
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Identify 10 plants at Knights Point Lookout"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Knights Point Lookout",
+          "coordinate": {
+            "longitude": 169.2256393219775,
+            "latitude": -43.71457354294939
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Identify 10 plants at Knights Point Lookout"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Plant Reception Spot",
+          "coordinate": {
+            "longitude": 169.2690231211214,
+            "latitude": -43.7171729257513
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Identify 10 plants at Knights Point Lookout"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Haast River Bridge",
+          "coordinate": {
+            "longitude": 169.0506049,
+            "latitude": -43.8556287
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a Haast Pass"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Haast River Parking Spot",
+          "coordinate": {
+            "longitude": 169.0460833,
+            "latitude": -43.8558056
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a Haast Pass\nThe point where Adam and Ben end for Day #4"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Haast Practice Throw Spot",
+          "coordinate": {
+            "longitude": 169.0514444,
+            "latitude": -43.8563889
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a Haast Pass"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Haast Real Throw Spot #1",
+          "coordinate": {
+            "longitude": 169.0524167,
+            "latitude": -43.8607778
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a Haast Pass"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam and Ben Haast Real Throw Spot #2",
+          "coordinate": {
+            "longitude": 169.0531390301934,
+            "latitude": -43.86097118401111
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Complete a Haast Pass"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Four Square Parking",
+          "coordinate": {
+            "longitude": 168.4416111,
+            "latitude": -45.7389167
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Transport a box of macaroni down Elbow Lane with your elbows"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Four Square Lumsden",
+          "coordinate": {
+            "longitude": 168.4414425,
+            "latitude": -45.7389009
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Transport a box of macaroni down Elbow Lane with your elbows"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elbow Lane",
+          "coordinate": {
+            "longitude": 168.4423163797226,
+            "latitude": -45.74038669026908
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Transport a box of macaroni down Elbow Lane with your elbows"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elbow Lane Parking Spot",
+          "coordinate": {
+            "longitude": 168.4423611,
+            "latitude": -45.74033329999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Transport a box of macaroni down Elbow Lane with your elbows"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Macaroni Drop Spot",
+          "coordinate": {
+            "longitude": 168.4424453998693,
+            "latitude": -45.74041944846021
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Adam\n2) Ben\nChallenge: Transport a box of macaroni down Elbow Lane with your elbows\nThe spot where the fateful macaroni dropped and knocked Adam and Ben out from winning Season 5"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Stirling Point Parking Lot",
+          "coordinate": {
+            "longitude": 168.3571111,
+            "latitude": -46.6133611
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Lookout Point",
+          "coordinate": {
+            "longitude": 168.3283531,
+            "latitude": -46.6238337
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: New Zealand (Season 5) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Beautiful Lookout - edge of the Bluff - invercargill",
+          "coordinate": {
+            "longitude": 168.3276065,
+            "latitude": -46.62399970000001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\n2) Toby\n3) Adam \n4) Ben\nThe final location of Season 5 (Sam and Toby are victorious)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

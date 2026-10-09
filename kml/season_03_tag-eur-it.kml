@@ -1,0 +1,2001 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Season 3: Tag Eur It</name>
+    <Folder>
+      <name>Adam Chase</name>
+      <Placemark>
+        <name>Place Ducale</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: Tag (Season 3)
+Members who visited: 
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.720051057430929,49.77347830143792</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gare d'Hirson</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.0844155,49.91453019999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lille-Flandres</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.0699444,50.636579</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calais Ville</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: Commit an American crime (Sam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.8507692,50.95345769999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunkerque</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3689434,51.030461</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calais Town Hall</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.854239,50.95257459999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gare du Nord</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3553137,48.8809481</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burger King Gare Du Nord</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam
+Challenge: Have a fast 3-course meal&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.354307374530362,48.87981736762277</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Subway Gare Du Nord</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam
+Challenge: Have a fast 3-course meal&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3543084,48.8795385</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McDonald's Gare Du Nord</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam
+Challenge: Have a fast 3-course meal&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3537819,48.8800041</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Albe Hotel</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1)Adam
+Challenge: Use a fancy restroom&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3447174,48.8530901</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint-Michel Notre-Dame</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: Use a fancy restroom (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3449239,48.85357289999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hôtel Europe Saint-Séverin</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1)Adam
+Challenge: Use a fancy restroom&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3443131,48.8527518</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bibliothèque François-Mitterrand</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: Do 100 squats&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3767958,48.8298077</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Paris Squat Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1)Adam
+Challenge: Do 100 squats&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.377265387885492,48.83069452457508</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juvisy Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3837008,48.68924079999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massy Palaiseau</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.2613646,48.7258395</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tergnier Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.2972456,49.6592152</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amiens Railway Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3081396,49.8905368</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussel-Zuid/Midi Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: Roll a die to take a train ride (Curse for Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.3354548,50.8360982</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussels Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: 
+-Find a fancy car (Ben)
+-Eat the national dish (Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.482072,50.89646</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strasbourg Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.73422,48.58528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Offenburg Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.946719999999999,48.47664999999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baden-Baden</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.1913124,48.79016559999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mannheim Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.469814,49.4796984</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stuttgart Hauptbahnhof</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>9.1823871,48.78306800000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karlsruhe Central Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.401294,48.993279</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Strasbourg Phone Hiding Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam
+Challenge: Hide your phone and leave&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.735795376784429,48.58414838252529</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Champagne-Ardenne Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3)
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.994624815599765,49.21474043890112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Tag Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.947079102928266,49.2233590711748</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Season 3 Ending Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+The final location for Season 3 (Adam is victorious)
+Challenge: Get on a train immediately (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.955827625484756,49.22852961160427</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ben Doyle</name>
+      <Placemark>
+        <name>Place Ducale</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: Tag (Season 3)
+Members who visited: 
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.720051057430929,49.77347830143792</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charleville Mézières</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3)
+Members who visited:
+1) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.725035176767318,49.76783429886778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lille-Flandres</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.0699444,50.636579</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Club Café</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Ben
+Challenge: Eat at the worst restaurant&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.064026799999999,50.6364756</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calais Ville</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: Commit an American crime (Sam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.8507692,50.95345769999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunkerque</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3689434,51.030461</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calais Town Hall</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.854239,50.95257459999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parc Saint-Pierre</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.851403688978122,50.95235663474764</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gare du Nord</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3553137,48.8809481</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint-Michel Notre-Dame</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: Use a fancy restroom (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3449239,48.85357289999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bibliothèque François-Mitterrand</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: Do 100 squats&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3767958,48.8298077</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paris Gare de Lyon</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3743773,48.8443038</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cour Saint-Émilion</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3861091,48.83366909999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massy Palaiseau</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.2613646,48.7258395</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint-Quentin</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Ben
+Challenge: Eat the national desert&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.2970211,49.84001809999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOULANGERIE PATISSERIE DUDEBOUT</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Ben
+Challenge: Eat the national desert&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.2952341,49.84176129999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maubeuge Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.9664577,50.2729708</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westfield Euralille</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.0742948,50.63722130000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The LEGO® Store Westfield Lille</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.0746495,50.6375896</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussel-Zuid/Midi Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: Roll a die to take a train ride (Curse for Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.3354548,50.8360982</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussel-Centraal</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Ben
+Challenge: Find a fancy car&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.3570964,50.845504</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussels Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: 
+-Find a fancy car (Ben)
+-Eat the national dish (Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.482072,50.89646</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strasbourg Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.73422,48.58528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Offenburg Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.946719999999999,48.47664999999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baden-Baden</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.1913124,48.79016559999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mannheim Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.469814,49.4796984</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stuttgart Hauptbahnhof</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>9.1823871,48.78306800000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karlsruhe Central Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.401294,48.993279</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kehl Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.8066597,48.57634329999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Champagne-Ardenne Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3)
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.994624815599765,49.21474043890112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Tag Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.947079102928266,49.2233590711748</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Season 3 Ending Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+The final location for Season 3 (Adam is victorious)
+Challenge: Get on a train immediately (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.955827625484756,49.22852961160427</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Sam Denby</name>
+      <Placemark>
+        <name>Place Ducale</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: Tag (Season 3)
+Members who visited: 
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.720051057430929,49.77347830143792</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gare d'Hirson</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.0844155,49.91453019999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lille-Flandres</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.0699444,50.636579</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calais Ville</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: Commit an American crime (Sam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.8507692,50.95345769999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carrefour City Calais Clemenceau</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+Challenge: Commit an American crime&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.8507759,50.95504519999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calais Beer Staircase</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+Challenge: Commit an American crime&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.850258379657719,50.95461061474201</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Supermarché Match (Calais Place d'Armes)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+Challenge: Swap to a tote&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.8516441,50.95982039999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam Tote Swap Point</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+Challenge: Swap to a tote&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.850011970633014,50.96183788050481</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam Guessing Calais Pop. Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+Challenge: Estimate your city&amp;#x27;s population&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.85124076984126,50.95938873623393</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Les Bourgeois de Calais</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+Challenge: Visit the top attraction&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.8534089,50.95235819999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calais Town Hall</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.854239,50.95257459999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parc Saint-Pierre</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>1.851403688978122,50.95235663474764</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gare du Nord</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3553137,48.8809481</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint-Michel Notre-Dame</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: Use a fancy restroom (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3449239,48.85357289999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bibliothèque François-Mitterrand</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: Do 100 squats&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3767958,48.8298077</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paris Gare de Lyon</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3743773,48.8443038</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cour Saint-Émilion</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3861091,48.83366909999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massy Palaiseau</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.2613646,48.7258395</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tergnier Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.2972456,49.6592152</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amiens Railway Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>2.3081396,49.8905368</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussel-Zuid/Midi Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: Roll a die to take a train ride (Curse for Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.3354548,50.8360982</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussels Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+Challenge: 
+-Find a fancy car (Ben)
+-Eat the national dish (Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.482072,50.89646</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussel Noordstation</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+Challenge: Go exactly one mile&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.3601396,50.8604558</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cologne Central Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+Challenge: Go exactly one mile&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>6.958601699999999,50.94321409999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fontanestraße</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+Challenge: Go exactly one mile&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>6.958596485798814,50.95660050134164</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nikolaus August Otto und Eugen Langen Memorial</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>6.974442647088328,50.94043503205026</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Köln Deutz Messe/Deutz Bf</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>6.9748936,50.9409509</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunkin' Cologne Central Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+Challenge: Eat the national desert&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>6.958600199999999,50.94321590000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bakery Merzenich on Wallrafplatz</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+Challenge: Eat the national desert&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>6.956605799999999,50.9403261</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GALERIA Karstadt</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+Challenge: Hide and seek&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>6.9488777,50.9383917</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strasbourg Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.73422,48.58528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frankfurt Flughafen Fernb Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.569946925805969,50.05284098092532</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stuttgart Hauptbahnhof</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>9.1823871,48.78306800000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karlsruhe Central Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.401294,48.993279</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kehl Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.8066597,48.57634329999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Champagne-Ardenne Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3)
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.994624815599765,49.21474043890112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Tag Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.947079102928266,49.2233590711748</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Season 3 Ending Spot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Tag (Season 3) 
+Members who visited:
+1) Sam
+2) Adam
+3) Ben
+The final location for Season 3 (Adam is victorious)
+Challenge: Get on a train immediately (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>3.955827625484756,49.22852961160427</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

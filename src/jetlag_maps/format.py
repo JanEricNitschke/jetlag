@@ -13,14 +13,18 @@ from __future__ import annotations
 import datetime as dt
 import re
 from enum import StrEnum
-from typing import Annotated
+from typing import TYPE_CHECKING, Annotated
 
 from pydantic import BaseModel, BeforeValidator, Field, PlainSerializer
 
 from .config import Color, Player
 
+if TYPE_CHECKING:
+    from collections.abc import Sequence
+    from pathlib import Path
 
-class Mode(StrEnum):
+
+class TravelMode(StrEnum):
     CAR = "car"
     BIKE = "bike"
     FOOT = "foot"
@@ -70,7 +74,8 @@ def _parse_video_time(value: object) -> int:
             raise _InvalidVideoTimeError(value)
 
 
-def _format_video_time(seconds: int) -> str:
+def format_video_time(seconds: int) -> str:
+    """Format a video position in seconds as an ``HH:MM:SS`` string."""
     hours, rest = divmod(seconds, _SECONDS_PER_HOUR)
     minutes, secs = divmod(rest, _SECONDS_PER_MINUTE)
     return f"{hours:02d}:{minutes:02d}:{secs:02d}"
@@ -79,7 +84,7 @@ def _format_video_time(seconds: int) -> str:
 VideoTime = Annotated[
     int,
     BeforeValidator(_parse_video_time),
-    PlainSerializer(_format_video_time, return_type=str),
+    PlainSerializer(format_video_time, return_type=str),
 ]
 
 
@@ -100,7 +105,7 @@ class Video(BaseModel):
 
 
 class ToNext(BaseModel):
-    mode: Mode
+    mode: TravelMode
     note: str = ""
     players_override: list[Player] | None = Field(default=None, min_length=1)
     geometry: list[Coordinate] = []
@@ -133,3 +138,28 @@ class SeasonFile(BaseModel):
     def slug(self) -> str:
         stem = re.sub(r"[^a-z0-9]+", "-", self.name.lower()).strip("-")
         return f"season_{self.season:02d}_{stem}"
+
+
+def load_seasons(data: Path) -> list[SeasonFile]:
+    """Load one season JSON file or all season JSON files in a directory.
+
+    Parameters
+    ----------
+    data
+        A season JSON file or a directory containing season JSON files.
+
+    Returns
+    -------
+    list[SeasonFile]
+        The validated seasons, sorted by file name.
+    """
+    files = sorted(data.glob("*.json")) if data.is_dir() else [data]
+    return [SeasonFile.model_validate_json(f.read_text("utf-8")) for f in files]
+
+
+def join_players(players: Sequence[Player]) -> str:
+    """Join player display names as ``"A, B & C"``."""
+    names = [str(player) for player in players]
+    if len(names) == 1:
+        return names[0]
+    return f"{', '.join(names[:-1])} & {names[-1]}"

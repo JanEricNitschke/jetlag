@@ -1,0 +1,2318 @@
+{
+  "season": 7,
+  "name": "Tag Eur It 2",
+  "journeys": [
+    {
+      "team": [
+        "Adam Chase"
+      ],
+      "color": "#D32F2F",
+      "stops": [
+        {
+          "name": "Place Ducale",
+          "coordinate": {
+            "longitude": 4.720068572865392,
+            "latitude": 49.77353025804793
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Charleville-Mézières",
+          "coordinate": {
+            "longitude": 4.724986276875763,
+            "latitude": 49.76783813820218
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Adam discuss",
+          "coordinate": {
+            "longitude": 4.724228,
+            "latitude": 49.7682253
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Champagne-Ardenne TGV",
+          "coordinate": {
+            "longitude": 3.9946139,
+            "latitude": 49.2147266
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Do a taste test (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sacrée Pizza",
+          "coordinate": {
+            "longitude": 3.993898227805215,
+            "latitude": 49.21510180409656
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Meuse TGV",
+          "coordinate": {
+            "longitude": 5.270868,
+            "latitude": 48.9785309
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben Tag Spot",
+          "coordinate": {
+            "longitude": 5.270564067948542,
+            "latitude": 48.97857729041672
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\n2) Ben (Tagged)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Strasbourg",
+          "coordinate": {
+            "longitude": 7.734067,
+            "latitude": 48.585339
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Make a putt (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Trivia Corner Spot",
+          "coordinate": {
+            "longitude": 7.735275378705973,
+            "latitude": 48.58473474330049
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Amy's Trivia Corner"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Card Pull",
+          "coordinate": {
+            "longitude": 7.735276515311941,
+            "latitude": 48.58428194631242
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Cut an orange in half"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Cut Orange Spot",
+          "coordinate": {
+            "longitude": 7.736478944103737,
+            "latitude": 48.58426534195925
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Cut an orange in half"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Fight on streets",
+          "coordinate": {
+            "longitude": 7.73646166111166,
+            "latitude": 48.58424738404798
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Fight them on the beaches"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Fight on beaches",
+          "coordinate": {
+            "longitude": 7.738555422852045,
+            "latitude": 48.58308474555744
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Fight them on the beaches"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Fight on fields",
+          "coordinate": {
+            "longitude": 7.7415373,
+            "latitude": 48.58538429999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Fight them on the beaches\nChallenge: Answer a riddle under a bridge"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Riddle Spot",
+          "coordinate": {
+            "longitude": 7.741005304181467,
+            "latitude": 48.58451459087609
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Answer a riddle under a bridge"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Card Pull",
+          "coordinate": {
+            "longitude": 7.734431000999377,
+            "latitude": 48.58441993372154
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Make a putt"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Offenburg",
+          "coordinate": {
+            "longitude": 7.946719999999999,
+            "latitude": 48.47664999999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Karlsruhe",
+          "coordinate": {
+            "longitude": 8.4009743,
+            "latitude": 48.9939401
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam view of castle",
+          "coordinate": {
+            "longitude": 7.7195397,
+            "latitude": 50.1487348
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Münster",
+          "coordinate": {
+            "longitude": 7.634642999999999,
+            "latitude": 51.9566768
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam disguise spot",
+          "coordinate": {
+            "longitude": 7.6388291,
+            "latitude": 51.957228
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Day 1 rest spot",
+          "coordinate": {
+            "longitude": 7.6255506,
+            "latitude": 51.9652889
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Emden",
+          "coordinate": {
+            "longitude": 7.195206199999999,
+            "latitude": 53.3691237
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Pissoir",
+          "coordinate": {
+            "longitude": 7.195630636958928,
+            "latitude": 53.36875293237955
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Knight curse spot",
+          "coordinate": {
+            "longitude": 7.196318699999999,
+            "latitude": 53.3689325
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nCurse: Go to a castle (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Card Pull Spot",
+          "coordinate": {
+            "longitude": 7.1887975,
+            "latitude": 53.3558044
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Find an american flag"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Pizza shop",
+          "coordinate": {
+            "longitude": 7.197305699999999,
+            "latitude": 53.3642871
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Find an american flag"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Wine shop",
+          "coordinate": {
+            "longitude": 7.2007704,
+            "latitude": 53.3668255
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Find an american flag"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Domino's",
+          "coordinate": {
+            "longitude": 7.201021555091924,
+            "latitude": 53.36680726081288
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Find an american flag"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "American shop",
+          "coordinate": {
+            "longitude": 7.203715699999999,
+            "latitude": 53.36665649999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nChallenge: Find an american flag\nCurse: Wet hat syndrome (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Cafe Sikken",
+          "coordinate": {
+            "longitude": 7.2032,
+            "latitude": 53.36667
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\nCurse: Wet hat syndrome (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben chase start",
+          "coordinate": {
+            "longitude": 7.208744730878605,
+            "latitude": 53.36584121612388
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\n2) Ben\nCurse: Wet hat syndrome (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Tag Spot",
+          "coordinate": {
+            "longitude": 7.208774140054239,
+            "latitude": 53.36449193542796
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\n2) Ben\nCurse: Wet hat syndrome (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Card handover",
+          "coordinate": {
+            "longitude": 7.209602460763682,
+            "latitude": 53.36513100959817
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Glowworm vending machine",
+          "coordinate": {
+            "longitude": 7.1957583,
+            "latitude": 53.3689824
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Salzbergen",
+          "coordinate": {
+            "longitude": 7.3503052,
+            "latitude": 52.3229209
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nCurse: Ratatouille (Sam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Glitch in the Matrix",
+          "coordinate": {
+            "longitude": 7.30538,
+            "latitude": 52.3982812
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hengelo",
+          "coordinate": {
+            "longitude": 6.794052506474393,
+            "latitude": 52.26178581353736
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Find the town hall (Sam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bing Bong",
+          "coordinate": {
+            "longitude": 7.3477787,
+            "latitude": 52.3229066
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Zutphen",
+          "coordinate": {
+            "longitude": 6.194119584546096,
+            "latitude": 52.14486618047006
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "'s-Hertogenbosch",
+          "coordinate": {
+            "longitude": 5.293695489070577,
+            "latitude": 51.69076453140786
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Eindhoven Centraal",
+          "coordinate": {
+            "longitude": 5.4805389,
+            "latitude": 51.4431348
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Choose your own adventure, 50 burpees (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Breda Centraal",
+          "coordinate": {
+            "longitude": 4.779524308784222,
+            "latitude": 51.59553436684932
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Choose your own adventure, 50 burpees (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Noorderkempen (Brecht)",
+          "coordinate": {
+            "longitude": 4.632696399999999,
+            "latitude": 51.357161
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Antwerp ",
+          "coordinate": {
+            "longitude": 4.421241999999999,
+            "latitude": 51.21686
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Charleroi Central",
+          "coordinate": {
+            "longitude": 4.438732478418917,
+            "latitude": 50.40465415197521
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Namur",
+          "coordinate": {
+            "longitude": 4.862490102224362,
+            "latitude": 50.46913092651058
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n2) Ben\nChallenge: Become a French chef (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Luxembourg",
+          "coordinate": {
+            "longitude": 6.134396323934328,
+            "latitude": 49.59955755059351
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nCurse: Ratatouille (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Howald",
+          "coordinate": {
+            "longitude": 6.132179381684031,
+            "latitude": 49.58067274336568
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Metz",
+          "coordinate": {
+            "longitude": 6.177268385970127,
+            "latitude": 49.10908775292114
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nCurse: Triple veto time (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bar-le-Duc",
+          "coordinate": {
+            "longitude": 5.167233579229416,
+            "latitude": 48.77369788907227
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Nancy",
+          "coordinate": {
+            "longitude": 6.174036523273925,
+            "latitude": 48.68966314872433
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 6.1832796,
+            "latitude": 48.693545
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 6.182269499999999,
+            "latitude": 48.695037
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 6.1802637,
+            "latitude": 48.69653899999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 6.179247799999999,
+            "latitude": 48.6962131
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 6.1768757,
+            "latitude": 48.69421029999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 6.176858999999999,
+            "latitude": 48.6929469
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben tag spot",
+          "coordinate": {
+            "longitude": 5.165405199999999,
+            "latitude": 48.7720432
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nThe final location for Season 7 (Ben is victorious)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Ben Doyle"
+      ],
+      "color": "#FFEE58",
+      "stops": [
+        {
+          "name": "Place Ducale",
+          "coordinate": {
+            "longitude": 4.720068572865392,
+            "latitude": 49.77353025804793
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Charleville-Mézières",
+          "coordinate": {
+            "longitude": 4.724986276875763,
+            "latitude": 49.76783813820218
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Champagne-Ardenne TGV",
+          "coordinate": {
+            "longitude": 3.9946139,
+            "latitude": 49.2147266
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Do a taste test (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sacrée Pizza",
+          "coordinate": {
+            "longitude": 3.993898227805215,
+            "latitude": 49.21510180409656
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Fake Relay",
+          "coordinate": {
+            "longitude": 3.998765399999999,
+            "latitude": 49.2146602
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Ben\nChallenge: Do a taste test"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Lorraine TGV",
+          "coordinate": {
+            "longitude": 6.169785699999999,
+            "latitude": 48.9477507
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Ben\nChallenge: Do a taste test"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Haribo Spot",
+          "coordinate": {
+            "longitude": 6.169562997675825,
+            "latitude": 48.94832217645746
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Ben\nChallenge: Do a taste test"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Meuse TGV",
+          "coordinate": {
+            "longitude": 5.270868,
+            "latitude": 48.9785309
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben Tag Spot",
+          "coordinate": {
+            "longitude": 5.270564067948542,
+            "latitude": 48.97857729041672
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\n2) Ben (Tagged)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Strasbourg",
+          "coordinate": {
+            "longitude": 7.734067,
+            "latitude": 48.585339
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Make a putt (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Choo Choo Chew: Derailed",
+          "coordinate": {
+            "longitude": 3.994101997504089,
+            "latitude": 49.21491706305684
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Offenburg",
+          "coordinate": {
+            "longitude": 7.946719999999999,
+            "latitude": 48.47664999999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Karlsruhe",
+          "coordinate": {
+            "longitude": 8.4009743,
+            "latitude": 48.9939401
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Münster",
+          "coordinate": {
+            "longitude": 7.634642999999999,
+            "latitude": 51.9566768
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Dortmund",
+          "coordinate": {
+            "longitude": 7.459323399999999,
+            "latitude": 51.5176562
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Day 1 rest spot",
+          "coordinate": {
+            "longitude": 7.459554534030939,
+            "latitude": 51.51701301047245
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Emden",
+          "coordinate": {
+            "longitude": 7.195206199999999,
+            "latitude": 53.3691237
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben chase start",
+          "coordinate": {
+            "longitude": 7.208744730878605,
+            "latitude": 53.36584121612388
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\n2) Ben\nCurse: Wet hat syndrome (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Tag Spot",
+          "coordinate": {
+            "longitude": 7.208774140054239,
+            "latitude": 53.36449193542796
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\n2) Ben\nCurse: Wet hat syndrome (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Card handover",
+          "coordinate": {
+            "longitude": 7.209602460763682,
+            "latitude": 53.36513100959817
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Glowworm vending machine",
+          "coordinate": {
+            "longitude": 7.1957583,
+            "latitude": 53.3689824
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Salzbergen",
+          "coordinate": {
+            "longitude": 7.3503052,
+            "latitude": 52.3229209
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nCurse: Ratatouille (Sam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Glitch in the Matrix",
+          "coordinate": {
+            "longitude": 7.30538,
+            "latitude": 52.3982812
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hengelo",
+          "coordinate": {
+            "longitude": 6.794052506474393,
+            "latitude": 52.26178581353736
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Find the town hall (Sam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bing Bong",
+          "coordinate": {
+            "longitude": 7.3477787,
+            "latitude": 52.3229066
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Zutphen",
+          "coordinate": {
+            "longitude": 6.194119584546096,
+            "latitude": 52.14486618047006
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "'s-Hertogenbosch",
+          "coordinate": {
+            "longitude": 5.293695489070577,
+            "latitude": 51.69076453140786
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Eindhoven Centraal",
+          "coordinate": {
+            "longitude": 5.4805389,
+            "latitude": 51.4431348
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Choose your own adventure, 50 burpees (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Breda Centraal",
+          "coordinate": {
+            "longitude": 4.779524308784222,
+            "latitude": 51.59553436684932
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Choose your own adventure, 50 burpees (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Brussels Airport",
+          "coordinate": {
+            "longitude": 4.482677955476964,
+            "latitude": 50.89815575059779
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Charleroi Central",
+          "coordinate": {
+            "longitude": 4.438732478418917,
+            "latitude": 50.40465415197521
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Namur",
+          "coordinate": {
+            "longitude": 4.862490102224362,
+            "latitude": 50.46913092651058
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n2) Ben\nChallenge: Become a French chef (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Shop & Go",
+          "coordinate": {
+            "longitude": 4.861599591153118,
+            "latitude": 50.46807914437225
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Ben\nChallenge: Become a French chef"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mayonnaise spot",
+          "coordinate": {
+            "longitude": 4.861458049866707,
+            "latitude": 50.46850629365137
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Ben\nChallenge: Become a French chef"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Luxembourg",
+          "coordinate": {
+            "longitude": 6.134396323934328,
+            "latitude": 49.59955755059351
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nCurse: Ratatouille (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Belval-Université",
+          "coordinate": {
+            "longitude": 5.946257620760209,
+            "latitude": 49.49958298060574
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Ben\nCurse: Ratatouille (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Howald",
+          "coordinate": {
+            "longitude": 6.132179381684031,
+            "latitude": 49.58067274336568
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Metz",
+          "coordinate": {
+            "longitude": 6.177268385970127,
+            "latitude": 49.10908775292114
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nCurse: Triple veto time (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Photo booth",
+          "coordinate": {
+            "longitude": 6.176297,
+            "latitude": 49.1089666
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bar-le-Duc",
+          "coordinate": {
+            "longitude": 5.167233579229416,
+            "latitude": 48.77369788907227
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben's Bench",
+          "coordinate": {
+            "longitude": 5.1641256,
+            "latitude": 48.77304659999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 5.1667362,
+            "latitude": 48.7709684
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben tag spot",
+          "coordinate": {
+            "longitude": 5.165405199999999,
+            "latitude": 48.7720432
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nThe final location for Season 7 (Ben is victorious)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Sam Denby"
+      ],
+      "color": "#F57C00",
+      "stops": [
+        {
+          "name": "Place Ducale",
+          "coordinate": {
+            "longitude": 4.720068572865392,
+            "latitude": 49.77353025804793
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Charleville-Mézières",
+          "coordinate": {
+            "longitude": 4.724986276875763,
+            "latitude": 49.76783813820218
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Adam discuss",
+          "coordinate": {
+            "longitude": 4.724228,
+            "latitude": 49.7682253
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Champagne-Ardenne TGV",
+          "coordinate": {
+            "longitude": 3.9946139,
+            "latitude": 49.2147266
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Do a taste test (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sacrée Pizza",
+          "coordinate": {
+            "longitude": 3.993898227805215,
+            "latitude": 49.21510180409656
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Meuse TGV",
+          "coordinate": {
+            "longitude": 5.270868,
+            "latitude": 48.9785309
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Strasbourg",
+          "coordinate": {
+            "longitude": 7.734067,
+            "latitude": 48.585339
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Make a putt (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Choo Choo Chew: Derailed",
+          "coordinate": {
+            "longitude": 3.994101997504089,
+            "latitude": 49.21491706305684
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Offenburg",
+          "coordinate": {
+            "longitude": 7.946719999999999,
+            "latitude": 48.47664999999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Karlsruhe",
+          "coordinate": {
+            "longitude": 8.4009743,
+            "latitude": 48.9939401
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Münster",
+          "coordinate": {
+            "longitude": 7.634642999999999,
+            "latitude": 51.9566768
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Dortmund",
+          "coordinate": {
+            "longitude": 7.459323399999999,
+            "latitude": 51.5176562
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Day 1 rest spot",
+          "coordinate": {
+            "longitude": 7.459554534030939,
+            "latitude": 51.51701301047245
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Emden",
+          "coordinate": {
+            "longitude": 7.195206199999999,
+            "latitude": 53.3691237
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Card handover",
+          "coordinate": {
+            "longitude": 7.209602460763682,
+            "latitude": 53.36513100959817
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Salzbergen",
+          "coordinate": {
+            "longitude": 7.3503052,
+            "latitude": 52.3229209
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nCurse: Ratatouille (Sam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Old Train",
+          "coordinate": {
+            "longitude": 7.3501582,
+            "latitude": 52.32310809999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Historic Church",
+          "coordinate": {
+            "longitude": 7.347816537869949,
+            "latitude": 52.32329094050096
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hengelo",
+          "coordinate": {
+            "longitude": 6.794052506474393,
+            "latitude": 52.26178581353736
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Find the town hall (Sam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hengelo Town Hall",
+          "coordinate": {
+            "longitude": 6.791860643688641,
+            "latitude": 52.26585069513449
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\nChallenge: Find the town hall"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Zutphen",
+          "coordinate": {
+            "longitude": 6.194119584546096,
+            "latitude": 52.14486618047006
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Broederenkerk",
+          "coordinate": {
+            "longitude": 6.1946353,
+            "latitude": 52.1425741
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\nChallenge: See something old"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "'s-Hertogenbosch",
+          "coordinate": {
+            "longitude": 5.293695489070577,
+            "latitude": 51.69076453140786
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Eindhoven Centraal",
+          "coordinate": {
+            "longitude": 5.4805389,
+            "latitude": 51.4431348
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Choose your own adventure, 50 burpees (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Breda Centraal",
+          "coordinate": {
+            "longitude": 4.779524308784222,
+            "latitude": 51.59553436684932
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nChallenge: Choose your own adventure, 50 burpees (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Noorderkempen (Brecht)",
+          "coordinate": {
+            "longitude": 4.632696399999999,
+            "latitude": 51.357161
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Antwerp ",
+          "coordinate": {
+            "longitude": 4.421241999999999,
+            "latitude": 51.21686
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Charleroi Central",
+          "coordinate": {
+            "longitude": 4.438732478418917,
+            "latitude": 50.40465415197521
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Namur",
+          "coordinate": {
+            "longitude": 4.862490102224362,
+            "latitude": 50.46913092651058
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n2) Ben\nChallenge: Become a French chef (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Luxembourg",
+          "coordinate": {
+            "longitude": 6.134396323934328,
+            "latitude": 49.59955755059351
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nCurse: Ratatouille (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Howald",
+          "coordinate": {
+            "longitude": 6.132179381684031,
+            "latitude": 49.58067274336568
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Metz",
+          "coordinate": {
+            "longitude": 6.177268385970127,
+            "latitude": 49.10908775292114
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nCurse: Triple veto time (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bar-le-Duc",
+          "coordinate": {
+            "longitude": 5.167233579229416,
+            "latitude": 48.77369788907227
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Nancy",
+          "coordinate": {
+            "longitude": 6.174036523273925,
+            "latitude": 48.68966314872433
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 6.1832796,
+            "latitude": 48.693545
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 6.182269499999999,
+            "latitude": 48.695037
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 6.1802637,
+            "latitude": 48.69653899999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 6.179247799999999,
+            "latitude": 48.6962131
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 6.1768757,
+            "latitude": 48.69421029999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Look at that",
+          "coordinate": {
+            "longitude": 6.176858999999999,
+            "latitude": 48.6929469
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben tag spot",
+          "coordinate": {
+            "longitude": 5.165405199999999,
+            "latitude": 48.7720432
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Tag 2 (Season 7)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben\nThe final location for Season 7 (Ben is victorious)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

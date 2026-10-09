@@ -1,0 +1,3378 @@
+{
+  "season": 6,
+  "name": "Jet Lag Japan",
+  "journeys": [
+    {
+      "team": [
+        "Sam Denby",
+        "Scotty Allen"
+      ],
+      "color": "#42A5F5",
+      "stops": [
+        {
+          "name": "Marunouchi Square",
+          "coordinate": {
+            "longitude": 139.7654768,
+            "latitude": 35.6815604
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Japan (Season 6)\nMembers who visited: \n1) Sam\n2) Scott\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tokyo Station",
+          "coordinate": {
+            "longitude": 139.7671248,
+            "latitude": 35.6812362
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scott\n3) Adam\n4) Ben\nChallenge: Paint or draw a local landscape (Sam and Scotty)\nChallenge: Find 3 Mario Kart Items (Ben)\nChallenge: Meet your local Yuru-Chara (Scotty)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Shinagawa Station",
+          "coordinate": {
+            "longitude": 139.7387597,
+            "latitude": 35.6284713
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben\nChallenge: Play Sake Pong (Sam and Scotty)\nChallenge: Find 3 new friends (Sam and Scotty)\nChallenge: Paint or draw a local landscape (Sam and Scotty)\nChallenge: Spend 15 minutes in a museum (Ben and Adam)\nThe spot of the second capture of Season 6 (Adam catches Sam and Scotty)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "NewDays Shinagawa Central",
+          "coordinate": {
+            "longitude": 139.7390416,
+            "latitude": 35.6287457
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scott\nChallenge: Play Sake Pong"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Scotty Sake Pong Spot",
+          "coordinate": {
+            "longitude": 139.7380278,
+            "latitude": 35.6287778
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scott\nChallenge: Play Sake Pong"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Chiba Station",
+          "coordinate": {
+            "longitude": 140.1133591,
+            "latitude": 35.6131339
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben\nChallenge: Translate this card (Adam and Ben)\nChallenge: Go Super Saiyan (Adam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Chiba Monorail Station",
+          "coordinate": {
+            "longitude": 140.1141717348975,
+            "latitude": 35.61208367362701
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kencho-Mae Station",
+          "coordinate": {
+            "longitude": 140.122211,
+            "latitude": 35.6036441
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hon-Chiba Station",
+          "coordinate": {
+            "longitude": 140.1207196,
+            "latitude": 35.6018503
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 140.1157381906692,
+            "latitude": 35.60913788172684
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Ben (Tagged)\nThe spot of the first capture of Season 6"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Maxell Aqua Park Shinagawa",
+          "coordinate": {
+            "longitude": 139.7352393,
+            "latitude": 35.6282839
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\nChallenge: Find 3 new friends"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Yūrakuchō Station",
+          "coordinate": {
+            "longitude": 139.7630204,
+            "latitude": 35.6750133
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben\nChallenge: Paint or draw a local landscape (Sam and Scotty)\nChallenge: Get a half mile from nearest 7-11 (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "NewDays ecute Edition Yurakucho Kyobashiguchi",
+          "coordinate": {
+            "longitude": 139.7638647,
+            "latitude": 35.6753725
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\nChallenge: Paint or draw a local landscape"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tokyo Kokusai Forum mae",
+          "coordinate": {
+            "longitude": 139.764093,
+            "latitude": 35.677725
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\nChallenge: Paint or draw a local landscape"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Lawson",
+          "coordinate": {
+            "longitude": 139.7629866,
+            "latitude": 35.6787659
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\nChallenge: Paint or draw a local landscape\nChallenge: Play Pocky Hockey"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Scotty Drawing Spot",
+          "coordinate": {
+            "longitude": 139.7603015568961,
+            "latitude": 35.67900689880784
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\nChallenge: Paint or draw a local landscape\nChallenge: Kawaii-fy your belongings"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Scotty Kawaii Bench",
+          "coordinate": {
+            "longitude": 139.7623936838603,
+            "latitude": 35.67884795193113
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\nChallenge: Kawaii-fy your belongings\nChallenge: Play Pocky Hockey"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam and Scotty Pocky Hockey Spot",
+          "coordinate": {
+            "longitude": 139.7621058124017,
+            "latitude": 35.67884890515685
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\nChallenge: Play Pocky Hockey"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sendai Station (Shinkansen)",
+          "coordinate": {
+            "longitude": 140.8818889,
+            "latitude": 38.2593333
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Round 2 Yellow Flag Vending Machine",
+          "coordinate": {
+            "longitude": 140.8793611,
+            "latitude": 38.2628889
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam walking with flag",
+          "coordinate": {
+            "longitude": 140.8781119295778,
+            "latitude": 38.26331406615908
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Omiya Station",
+          "coordinate": {
+            "longitude": 139.6240087776324,
+            "latitude": 35.90643008207654
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Utsunomiya Station",
+          "coordinate": {
+            "longitude": 139.8984595180704,
+            "latitude": 36.55918276428743
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tobu Utsunomiya Station",
+          "coordinate": {
+            "longitude": 139.880633351056,
+            "latitude": 36.55931719043333
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tochigi Station",
+          "coordinate": {
+            "longitude": 139.7313164538831,
+            "latitude": 36.37165922790199
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Scotty Noodle Newdays",
+          "coordinate": {
+            "longitude": 139.731187430492,
+            "latitude": 36.37166005220551
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Pizza Tower",
+          "coordinate": {
+            "longitude": 139.6231826559228,
+            "latitude": 35.90628602566514
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Scotty (Victim)\n3) Ben (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Trap Tower",
+          "coordinate": {
+            "longitude": 139.623327228382,
+            "latitude": 35.90631896402311
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Ben (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Shimbashi Station",
+          "coordinate": {
+            "longitude": 139.758172618751,
+            "latitude": 35.6666909393895
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben\nChallenge: Break copyright law (Ben)\nChallenge: Catch a Pokemon (Adam)\nChallenge: Spend 15 minutes in a museum (Ben and Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Takasaki Station",
+          "coordinate": {
+            "longitude": 139.0127780219444,
+            "latitude": 36.3224888622544
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 139.7579756138032,
+            "latitude": 35.66583654605434
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam \n2) Ben (Tagged)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Onarimon Station",
+          "coordinate": {
+            "longitude": 139.7512448057718,
+            "latitude": 35.66056989498001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben\nChallenge: Collect 3 Mario Kart items (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 139.7513194228582,
+            "latitude": 35.66069554402843
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben (Tagged)\n2) Scotty\nChallenge: Collect 3 Mario Kart items (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Round 3 Yellow Flag Vending Machine",
+          "coordinate": {
+            "longitude": 139.9079984,
+            "latitude": 35.8389264
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Minami Nagareyama Station",
+          "coordinate": {
+            "longitude": 139.9041397788033,
+            "latitude": 35.83792422771724
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Nishi-Funabashi Station",
+          "coordinate": {
+            "longitude": 139.9589531464844,
+            "latitude": 35.70742401248011
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Toyocho Station",
+          "coordinate": {
+            "longitude": 139.8173142431093,
+            "latitude": 35.66959750039032
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Shiomi Station",
+          "coordinate": {
+            "longitude": 139.8172983471907,
+            "latitude": 35.65882031374605
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Niigata Station",
+          "coordinate": {
+            "longitude": 139.0614525773255,
+            "latitude": 37.91201431335053
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Higashi Niigata Station",
+          "coordinate": {
+            "longitude": 139.1088044596231,
+            "latitude": 37.90872336275352
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Round 3 Yellow Vending Machine",
+          "coordinate": {
+            "longitude": 139.1092063,
+            "latitude": 37.9068796
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sam walking with flag",
+          "coordinate": {
+            "longitude": 139.1110312,
+            "latitude": 37.9051177
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Urasa Station",
+          "coordinate": {
+            "longitude": 138.9228357073569,
+            "latitude": 37.16764905412104
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Lightning Tower",
+          "coordinate": {
+            "longitude": 138.922828513229,
+            "latitude": 37.16751009997988
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Adam (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Trap Tower",
+          "coordinate": {
+            "longitude": 138.9228307269431,
+            "latitude": 37.16750359962077
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Adam (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Akihabara Station",
+          "coordinate": {
+            "longitude": 139.7731692049207,
+            "latitude": 35.69835467875529
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\nChallenge: Meet your local Yuru-Chara (Scotty)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Yairo Station",
+          "coordinate": {
+            "longitude": 138.9350453360557,
+            "latitude": 37.19180671963453
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Jail Tower",
+          "coordinate": {
+            "longitude": 138.9350355,
+            "latitude": 37.1922989
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Placer)\n2) Adam (Victim)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 138.9359816262092,
+            "latitude": 37.19264922984872
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Tagged)\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Shinjuku Station",
+          "coordinate": {
+            "longitude": 139.7010527004626,
+            "latitude": 35.68860566483347
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Ben\nChallenge: Clean up 3 pieces of litter (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kofu Station",
+          "coordinate": {
+            "longitude": 138.5690320192994,
+            "latitude": 35.66722603469459
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Ben\nChallenge: Clean up 3 pieces of litter (Ben)\nChallenge: Spend exactly 940 yen (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mud Tower",
+          "coordinate": {
+            "longitude": 138.5692413907929,
+            "latitude": 35.66720452856953
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty (Victim)\n2) Ben (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Pizza Tower",
+          "coordinate": {
+            "longitude": 138.5693319231909,
+            "latitude": 35.6672227469594
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty (Placer)\n2) Ben (Victim)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Jail Tower",
+          "coordinate": {
+            "longitude": 138.5693084309393,
+            "latitude": 35.6672091594922
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty (Placer)\n2) Ben (Victim)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 138.5662767484128,
+            "latitude": 35.67111118938712
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Ben (Tagged)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Vampire Tower",
+          "coordinate": {
+            "longitude": 139.7566892180072,
+            "latitude": 35.66634099335241
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Adam (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 139.7535196,
+            "latitude": 35.6618674
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam \n2) Adam (Tagged)\nChallenge: Eat wagyu (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 139.7556332,
+            "latitude": 35.6778493
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam \n2) Adam (Tagged)\nChallenge: Get a half mile from nearest 7-11 (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Odawara Station",
+          "coordinate": {
+            "longitude": 139.1553932,
+            "latitude": 35.2564449
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben\nChallenge: Spend 15 minutes in a museum (Ben and Adam)\nChallenge: Do 100 squats (Ben and Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tokiwa Kimon Samurai Centre",
+          "coordinate": {
+            "longitude": 139.1545956,
+            "latitude": 35.2505602
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben \nChallenge: Spend 15 minutes in a museum (Ben and Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ice Tower",
+          "coordinate": {
+            "longitude": 139.1547385169059,
+            "latitude": 35.25064257712651
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Scotty (Victim)\n3) Adam (Placer)\n4) Ben (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Castle",
+          "coordinate": {
+            "longitude": 139.1534209592911,
+            "latitude": 35.25110645321137
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 139.1548055934446,
+            "latitude": 35.25064676796121
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Adam (Tagged)\n3) Ben (Tagged)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Shin Yokohama Station",
+          "coordinate": {
+            "longitude": 139.6177262290807,
+            "latitude": 35.50748154296164
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Gravity Tower",
+          "coordinate": {
+            "longitude": 139.1548354321285,
+            "latitude": 35.25624254318172
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Scotty (Victim)\n3) Adam (Placer)\n4) Ben (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Vampire Tower",
+          "coordinate": {
+            "longitude": 139.1548130448286,
+            "latitude": 35.25616405963451
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Placer)\n2) Scotty (Placer)\n3) Adam (Victim)\n4) Ben (Victim)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Jail Tower",
+          "coordinate": {
+            "longitude": 139.1548093831907,
+            "latitude": 35.25617566521269
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Placer)\n2) Scotty (Placer)\n3) Adam (Victim)\n4) Ben (Victim)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mishima Station",
+          "coordinate": {
+            "longitude": 138.9101551384619,
+            "latitude": 35.1266594398869
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Adam \n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hamamatsu Station",
+          "coordinate": {
+            "longitude": 137.7352298964205,
+            "latitude": 34.70387874019868
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Adam \n3) Ben\nCurse: Get on a late train (Ben and Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mud Tower",
+          "coordinate": {
+            "longitude": 137.7349383632585,
+            "latitude": 34.70347786231753
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty (Victim)\n2) Adam (Placer)\n3) Ben (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 137.734875421144,
+            "latitude": 34.70341910068586
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Adam (Tagged)\n3) Ben (Tagged)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tameike-sannō Sta.",
+          "coordinate": {
+            "longitude": 139.7414004,
+            "latitude": 35.6721312
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 139.7717881172849,
+            "latitude": 35.69585755585052
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Tagged)\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Akasaka-Mitsuke Station",
+          "coordinate": {
+            "longitude": 139.7372686,
+            "latitude": 35.6767946
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Awajichō Sta.",
+          "coordinate": {
+            "longitude": 139.7674597,
+            "latitude": 35.69496
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Korakuen Sta.",
+          "coordinate": {
+            "longitude": 139.7518216,
+            "latitude": 35.7084859
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kokkai-gijidōmae Sta.",
+          "coordinate": {
+            "longitude": 139.7449634,
+            "latitude": 35.6738959
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tiebreaker Flag",
+          "coordinate": {
+            "longitude": 139.7546418,
+            "latitude": 35.7057886
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Suidōbashi Station",
+          "coordinate": {
+            "longitude": 139.7535016,
+            "latitude": 35.7020484
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ochanomizu Station",
+          "coordinate": {
+            "longitude": 139.7644404,
+            "latitude": 35.6997175
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tiebreaker Flag",
+          "coordinate": {
+            "longitude": 139.7456842,
+            "latitude": 35.65830529999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Scotty Allen"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kanda Station",
+          "coordinate": {
+            "longitude": 139.7709318,
+            "latitude": 35.6918216
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Sam Denby"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Adam Chase",
+        "Ben Doyle"
+      ],
+      "color": "#D32F2F",
+      "stops": [
+        {
+          "name": "Marunouchi Square",
+          "coordinate": {
+            "longitude": 139.7654768,
+            "latitude": 35.6815604
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Japan (Season 6)\nMembers who visited: \n1) Sam\n2) Scott\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tokyo Station",
+          "coordinate": {
+            "longitude": 139.7671248,
+            "latitude": 35.6812362
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scott\n3) Adam\n4) Ben\nChallenge: Paint or draw a local landscape (Sam and Scotty)\nChallenge: Find 3 Mario Kart Items (Ben)\nChallenge: Meet your local Yuru-Chara (Scotty)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Shinagawa Station",
+          "coordinate": {
+            "longitude": 139.7387597,
+            "latitude": 35.6284713
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben\nChallenge: Play Sake Pong (Sam and Scotty)\nChallenge: Find 3 new friends (Sam and Scotty)\nChallenge: Paint or draw a local landscape (Sam and Scotty)\nChallenge: Spend 15 minutes in a museum (Ben and Adam)\nThe spot of the second capture of Season 6 (Adam catches Sam and Scotty)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ueno Station",
+          "coordinate": {
+            "longitude": 139.7774091,
+            "latitude": 35.7141672
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kinshichō Station",
+          "coordinate": {
+            "longitude": 139.8139718,
+            "latitude": 35.696779
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Stalk a bird"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "錦糸町駅南口広場",
+          "coordinate": {
+            "longitude": 139.8140039,
+            "latitude": 35.696102
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Stalk a bird"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben Bird Stalking Spot",
+          "coordinate": {
+            "longitude": 139.8142077,
+            "latitude": 35.6961198
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Stalk a bird"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "TERMINA 2",
+          "coordinate": {
+            "longitude": 139.8138754683714,
+            "latitude": 35.69640430435776
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Become Totoro"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "NewDays Kinshicho 2",
+          "coordinate": {
+            "longitude": 139.8142541,
+            "latitude": 35.6963376
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Become Totoro"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kinshichō Sta.",
+          "coordinate": {
+            "longitude": 139.8141259,
+            "latitude": 35.69599669999999
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Become Totoro"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Chiba Station",
+          "coordinate": {
+            "longitude": 140.1133591,
+            "latitude": 35.6131339
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben\nChallenge: Translate this card (Adam and Ben)\nChallenge: Go Super Saiyan (Adam and Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Phone Call Spot",
+          "coordinate": {
+            "longitude": 139.6277222,
+            "latitude": 35.4450556
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Round 1 Yellow Flag Vending Machine",
+          "coordinate": {
+            "longitude": 140.1195865303525,
+            "latitude": 35.61010664444289
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nChallenge: Translate this card"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Yoshikawakoen Station",
+          "coordinate": {
+            "longitude": 140.1201432,
+            "latitude": 35.6088834
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Translate this card"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 140.1157381906692,
+            "latitude": 35.60913788172684
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Ben (Tagged)\nThe spot of the first capture of Season 6"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Noodle Eating Spot",
+          "coordinate": {
+            "longitude": 139.6279027326528,
+            "latitude": 35.44476828720086
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sakuragichō Station",
+          "coordinate": {
+            "longitude": 139.6310595,
+            "latitude": 35.4509136
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bashamichi Station",
+          "coordinate": {
+            "longitude": 139.636271,
+            "latitude": 35.4501774
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tamachi Station",
+          "coordinate": {
+            "longitude": 139.7475624,
+            "latitude": 35.6457361
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Yokohama Station",
+          "coordinate": {
+            "longitude": 139.622062,
+            "latitude": 35.4659811
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Yūrakuchō Station",
+          "coordinate": {
+            "longitude": 139.7630204,
+            "latitude": 35.6750133
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben\nChallenge: Paint or draw a local landscape (Sam and Scotty)\nChallenge: Get a half mile from nearest 7-11 (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Shin-Nihombashi Station",
+          "coordinate": {
+            "longitude": 139.774265,
+            "latitude": 35.6890164
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Get a snack on a stick"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kawasaki Station",
+          "coordinate": {
+            "longitude": 139.6974630101938,
+            "latitude": 35.53167410377898
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Round 2 Red Flag Vending Machine",
+          "coordinate": {
+            "longitude": 139.6987130216566,
+            "latitude": 35.52723761669384
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Omiya Station",
+          "coordinate": {
+            "longitude": 139.6240087776324,
+            "latitude": 35.90643008207654
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Toyohashi Station",
+          "coordinate": {
+            "longitude": 137.3818192937414,
+            "latitude": 34.76282673084975
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Shin-Anjo Station",
+          "coordinate": {
+            "longitude": 137.0850471594737,
+            "latitude": 34.98715846656231
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Nishio Station",
+          "coordinate": {
+            "longitude": 137.0577256675954,
+            "latitude": 34.8638022285479
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Round 2 Red Flag Vending Machine",
+          "coordinate": {
+            "longitude": 137.0587712924581,
+            "latitude": 34.86318938724817
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Eat an Egg Card Pull",
+          "coordinate": {
+            "longitude": 137.0924591147479,
+            "latitude": 34.95240488062401
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nChallenge: Eat an Egg"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Eat an Egg Daiso and Drugstore",
+          "coordinate": {
+            "longitude": 137.0917389507559,
+            "latitude": 34.95453442470768
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nChallenge: Eat an Egg"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Japanese Curse Pull",
+          "coordinate": {
+            "longitude": 137.088218880486,
+            "latitude": 34.95723517186744
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nCurse: Set your phone to Japanese"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Anjo Station",
+          "coordinate": {
+            "longitude": 137.087233028098,
+            "latitude": 34.96017804005412
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nCurse: Set your phone to Japanese"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mikawa Anjo Station",
+          "coordinate": {
+            "longitude": 137.0615725907848,
+            "latitude": 34.96962622402053
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nCurse: Set your phone to Japanese"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Pizza Tower",
+          "coordinate": {
+            "longitude": 139.6231826559228,
+            "latitude": 35.90628602566514
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Scotty (Victim)\n3) Ben (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Trap Tower",
+          "coordinate": {
+            "longitude": 139.623327228382,
+            "latitude": 35.90631896402311
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Ben (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben Music Starbucks",
+          "coordinate": {
+            "longitude": 139.7584122956957,
+            "latitude": 35.66697702468272
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Break Copyright Law"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben Music Bridge",
+          "coordinate": {
+            "longitude": 139.7582302815832,
+            "latitude": 35.6682233251741
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Break Copyright Law"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben Music Building",
+          "coordinate": {
+            "longitude": 139.7575340212465,
+            "latitude": 35.66721965010145
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChellenge: Break Copyright Law"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben Music Pachinko",
+          "coordinate": {
+            "longitude": 139.756466120667,
+            "latitude": 35.66602217236496
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Break Copyright Law"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Shimbashi Station",
+          "coordinate": {
+            "longitude": 139.758172618751,
+            "latitude": 35.6666909393895
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben\nChallenge: Break copyright law (Ben)\nChallenge: Catch a Pokemon (Adam)\nChallenge: Spend 15 minutes in a museum (Ben and Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 139.7579756138032,
+            "latitude": 35.66583654605434
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam \n2) Ben (Tagged)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Maneki Neko",
+          "coordinate": {
+            "longitude": 139.7557727963303,
+            "latitude": 35.66769600740604
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Find a maneki neko"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben Card Pull",
+          "coordinate": {
+            "longitude": 139.7540396217889,
+            "latitude": 35.66615252648129
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Collect 3 Mario Kart items"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Onarimon Station",
+          "coordinate": {
+            "longitude": 139.7512448057718,
+            "latitude": 35.66056989498001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben\nChallenge: Collect 3 Mario Kart items (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 139.7513194228582,
+            "latitude": 35.66069554402843
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben (Tagged)\n2) Scotty\nChallenge: Collect 3 Mario Kart items (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Musashi-Sakai Station",
+          "coordinate": {
+            "longitude": 139.5440534,
+            "latitude": 35.702047
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Koremasa Station",
+          "coordinate": {
+            "longitude": 139.4890711962112,
+            "latitude": 35.65632941189584
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Round 3 Red Flag Vending Machine",
+          "coordinate": {
+            "longitude": 139.4880822,
+            "latitude": 35.6598991
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Card Pull",
+          "coordinate": {
+            "longitude": 139.4829371,
+            "latitude": 35.6599367
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nChallenge: See a great wave"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Great Wave",
+          "coordinate": {
+            "longitude": 139.4831853,
+            "latitude": 35.6599404
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nChallenge: See a great wave"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Curse Pull",
+          "coordinate": {
+            "longitude": 139.4825483,
+            "latitude": 35.6600232
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nCurse: Become Hello Kitty (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hatchobori Station",
+          "coordinate": {
+            "longitude": 139.7769789787339,
+            "latitude": 35.67463451530852
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kayabacho Station",
+          "coordinate": {
+            "longitude": 139.7801827878116,
+            "latitude": 35.67993453906711
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Monzen Nakacho Station",
+          "coordinate": {
+            "longitude": 139.7948626756068,
+            "latitude": 35.67240600326512
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tsukishima Station",
+          "coordinate": {
+            "longitude": 139.7848458273662,
+            "latitude": 35.66443461589972
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Shin-Kiba Station",
+          "coordinate": {
+            "longitude": 139.8270077724637,
+            "latitude": 35.64616742911839
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hello Kitty Lawson",
+          "coordinate": {
+            "longitude": 139.4791156855743,
+            "latitude": 35.66540872863524
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nCurse: Become Hello Kitty (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Fuchu Honmachi Station",
+          "coordinate": {
+            "longitude": 139.4770927636207,
+            "latitude": 35.66630117904
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nCurse: Become Hello Kitty"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Musashi Uwara Station",
+          "coordinate": {
+            "longitude": 139.6469201097184,
+            "latitude": 35.84598739843526
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Urasa Station",
+          "coordinate": {
+            "longitude": 138.9228357073569,
+            "latitude": 37.16764905412104
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Lightning Tower",
+          "coordinate": {
+            "longitude": 138.922828513229,
+            "latitude": 37.16751009997988
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Adam (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Trap Tower",
+          "coordinate": {
+            "longitude": 138.9228307269431,
+            "latitude": 37.16750359962077
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Adam (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Akihabara Station",
+          "coordinate": {
+            "longitude": 139.7731692049207,
+            "latitude": 35.69835467875529
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\nChallenge: Meet your local Yuru-Chara (Scotty)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mario Kart Grocery Store",
+          "coordinate": {
+            "longitude": 139.7589162,
+            "latitude": 35.6657591
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Find 3 Mario Kart Items"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Nagaoka Station",
+          "coordinate": {
+            "longitude": 138.8538308145184,
+            "latitude": 37.44778112516327
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Yairo Station",
+          "coordinate": {
+            "longitude": 138.9350453360557,
+            "latitude": 37.19180671963453
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Jail Tower",
+          "coordinate": {
+            "longitude": 138.9350355,
+            "latitude": 37.1922989
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Placer)\n2) Adam (Victim)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 138.9359816262092,
+            "latitude": 37.19264922984872
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Tagged)\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Shinjuku Station",
+          "coordinate": {
+            "longitude": 139.7010527004626,
+            "latitude": 35.68860566483347
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Ben\nChallenge: Clean up 3 pieces of litter (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kofu Station",
+          "coordinate": {
+            "longitude": 138.5690320192994,
+            "latitude": 35.66722603469459
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Ben\nChallenge: Clean up 3 pieces of litter (Ben)\nChallenge: Spend exactly 940 yen (Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mud Tower",
+          "coordinate": {
+            "longitude": 138.5692413907929,
+            "latitude": 35.66720452856953
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty (Victim)\n2) Ben (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben looking for stuff",
+          "coordinate": {
+            "longitude": 138.5730982312436,
+            "latitude": 35.66366903835227
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Spend exactly 940 yen"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "940 yen vending machine",
+          "coordinate": {
+            "longitude": 138.5723850470139,
+            "latitude": 35.66604577269639
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben\nChallenge: Spend exactly 940 yen"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ben spinning around",
+          "coordinate": {
+            "longitude": 138.5743894740176,
+            "latitude": 35.66163065160283
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Pizza Tower",
+          "coordinate": {
+            "longitude": 138.5693319231909,
+            "latitude": 35.6672227469594
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty (Placer)\n2) Ben (Victim)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Jail Tower",
+          "coordinate": {
+            "longitude": 138.5693084309393,
+            "latitude": 35.6672091594922
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty (Placer)\n2) Ben (Victim)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 138.5662767484128,
+            "latitude": 35.67111118938712
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Ben (Tagged)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Pokemon 7-11",
+          "coordinate": {
+            "longitude": 139.7582784506983,
+            "latitude": 35.66773250137084
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nChallenge: Catch a pokemon\nChallenge: Show off your chopstick skills"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Chopsticks Spot",
+          "coordinate": {
+            "longitude": 139.758336811206,
+            "latitude": 35.6676553664557
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nChallenge: Show off your chopstick skills\nChallenge: Eat wagyu"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Yakiniku restaurant",
+          "coordinate": {
+            "longitude": 139.7567143,
+            "latitude": 35.6663216
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nChallenge: Eat wagyu"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Vampire Tower",
+          "coordinate": {
+            "longitude": 139.7566892180072,
+            "latitude": 35.66634099335241
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Adam (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 139.7535196,
+            "latitude": 35.6618674
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam \n2) Adam (Tagged)\nChallenge: Eat wagyu (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Adam Jaywalk Spot",
+          "coordinate": {
+            "longitude": 139.7634597,
+            "latitude": 35.6778103
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\nChallenge: Get a half mile from nearest 7-11"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 139.7556332,
+            "latitude": 35.6778493
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam \n2) Adam (Tagged)\nChallenge: Get a half mile from nearest 7-11 (Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Odawara Station",
+          "coordinate": {
+            "longitude": 139.1553932,
+            "latitude": 35.2564449
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Scotty\n3) Adam\n4) Ben\nChallenge: Spend 15 minutes in a museum (Ben and Adam)\nChallenge: Do 100 squats (Ben and Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tokiwa Kimon Samurai Centre",
+          "coordinate": {
+            "longitude": 139.1545956,
+            "latitude": 35.2505602
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Adam\n3) Ben \nChallenge: Spend 15 minutes in a museum (Ben and Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ice Tower",
+          "coordinate": {
+            "longitude": 139.1547385169059,
+            "latitude": 35.25064257712651
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Scotty (Victim)\n3) Adam (Placer)\n4) Ben (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 139.1548055934446,
+            "latitude": 35.25064676796121
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Adam (Tagged)\n3) Ben (Tagged)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Curse Pull",
+          "coordinate": {
+            "longitude": 139.1535807,
+            "latitude": 35.2517131
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\n2) Ben \n \nCurse: Melon (Ben and Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Odd Tower Pull",
+          "coordinate": {
+            "longitude": 139.1544339,
+            "latitude": 35.2532192
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\n2) Ben \n \nCurse: Melon (Ben and Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Lusca Odawara",
+          "coordinate": {
+            "longitude": 139.1559269,
+            "latitude": 35.2556598
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam\n2) Ben \n \nCurse: Melon (Ben and Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Gravity Tower",
+          "coordinate": {
+            "longitude": 139.1548354321285,
+            "latitude": 35.25624254318172
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Victim)\n2) Scotty (Victim)\n3) Adam (Placer)\n4) Ben (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Vampire Tower",
+          "coordinate": {
+            "longitude": 139.1548130448286,
+            "latitude": 35.25616405963451
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Placer)\n2) Scotty (Placer)\n3) Adam (Victim)\n4) Ben (Victim)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Jail Tower",
+          "coordinate": {
+            "longitude": 139.1548093831907,
+            "latitude": 35.25617566521269
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Placer)\n2) Scotty (Placer)\n3) Adam (Victim)\n4) Ben (Victim)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mishima Station",
+          "coordinate": {
+            "longitude": 138.9101551384619,
+            "latitude": 35.1266594398869
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Adam \n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hamamatsu Station",
+          "coordinate": {
+            "longitude": 137.7352298964205,
+            "latitude": 34.70387874019868
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Adam \n3) Ben\nCurse: Get on a late train (Ben and Adam)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mud Tower",
+          "coordinate": {
+            "longitude": 137.7349383632585,
+            "latitude": 34.70347786231753
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty (Victim)\n2) Adam (Placer)\n3) Ben (Placer)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 137.734875421144,
+            "latitude": 34.70341910068586
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Adam (Tagged)\n3) Ben (Tagged)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tameike-sannō Sta.",
+          "coordinate": {
+            "longitude": 139.7414004,
+            "latitude": 35.6721312
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tiebreaker Flag",
+          "coordinate": {
+            "longitude": 139.7713654,
+            "latitude": 35.6966524
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Phototag Spot",
+          "coordinate": {
+            "longitude": 139.7717881172849,
+            "latitude": 35.69585755585052
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam (Tagged)\n2) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tiebreaker Flag",
+          "coordinate": {
+            "longitude": 139.7390462,
+            "latitude": 35.6739291
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1)  Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Akasaka-Mitsuke Station",
+          "coordinate": {
+            "longitude": 139.7372686,
+            "latitude": 35.6767946
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Scotty\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Mitsukoshimae Station",
+          "coordinate": {
+            "longitude": 139.7735707,
+            "latitude": 35.6871555
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tiebreaker Flag",
+          "coordinate": {
+            "longitude": 139.7705088,
+            "latitude": 35.7121932
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ochanomizu Station",
+          "coordinate": {
+            "longitude": 139.7644404,
+            "latitude": 35.6997175
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Asakusa Sta.",
+          "coordinate": {
+            "longitude": 139.7977621,
+            "latitude": 35.7107924
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tiebreaker Flag",
+          "coordinate": {
+            "longitude": 139.7965305,
+            "latitude": 35.7110098
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Adam Chase"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Adam"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kanda Station",
+          "coordinate": {
+            "longitude": 139.7709318,
+            "latitude": 35.6918216
+          },
+          "when": null,
+          "video": null,
+          "players_override": [
+            "Ben Doyle"
+          ],
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam\n2) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

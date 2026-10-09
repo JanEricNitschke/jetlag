@@ -1,0 +1,152 @@
+{
+  "season": 8,
+  "name": "Arctic Escape",
+  "journeys": [
+    {
+      "team": [
+        "Sam Denby",
+        "Michelle Khare"
+      ],
+      "color": "#1976D2",
+      "stops": [
+        {
+          "name": "Whale Bone Arch",
+          "coordinate": {
+            "longitude": -156.7739572142164,
+            "latitude": 71.29846551704301
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\n3) Adam\n4) Ben\nChallenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Snowman Beach",
+          "coordinate": {
+            "longitude": -156.7747864855955,
+            "latitude": 71.29851000854346
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\n3) Adam\n4) Ben\nChallenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)\nChallenge: Dance like nobody's watching (Adam, Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Stuaqpak",
+          "coordinate": {
+            "longitude": -156.7554146103631,
+            "latitude": 71.29895272175929
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\nChallenge: Build a snowman on the beach (Sam, Michelle)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Wiley Post-Will Rogers Memorial Airport (BRW)",
+          "coordinate": {
+            "longitude": -156.7750277,
+            "latitude": 71.2876213
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Adam Chase",
+        "Ben Doyle"
+      ],
+      "color": "#D32F2F",
+      "stops": [
+        {
+          "name": "Whale Bone Arch",
+          "coordinate": {
+            "longitude": -156.7739572142164,
+            "latitude": 71.29846551704301
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The starting point of Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\n3) Adam\n4) Ben\nChallenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Snowman Beach",
+          "coordinate": {
+            "longitude": -156.7747864855955,
+            "latitude": 71.29851000854346
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\n3) Adam\n4) Ben\nChallenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)\nChallenge: Dance like nobody's watching (Adam, Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Wiley Post-Will Rogers Memorial Airport (BRW)",
+          "coordinate": {
+            "longitude": -156.7750277,
+            "latitude": 71.2876213
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Dance spot",
+          "coordinate": {
+            "longitude": -156.7221098552755,
+            "latitude": 71.30512783275968
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Adam\n2) Ben\nChallenge: Dance like nobody's watching (Adam, Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

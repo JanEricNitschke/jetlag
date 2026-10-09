@@ -11,6 +11,7 @@ authors = [{ name = "Jan-Eric Nitschke", email = "janeric.nitschke@tngtech.com" 
 requires-python = ">=3.14"
 dependencies = [
     "folium>=0.20.0",
+    "openpyxl>=3.1.5",
     "pydantic>=2.13.5",
     "pyyaml>=6.0.3",
     "requests>=2.34.2",
@@ -23,13 +24,14 @@ jetlag-maps = "jetlag_maps.cli:main"
 dev = [
     "pre-commit>=4.6.2",
     "pyrefly>=1.3.2",
+    "pytest>=9.1.1",
     "ruff>=0.16.9",
 ]
 
 [tool.ruff]
 target-version = "py314"
 line-length = 88
-exclude = [".venv", "maps", "kml", "animations", "data"]
+exclude = [".venv", "maps", "kml", "animations", "data", "export"]
 
 [tool.ruff.lint]
 select = ["ALL"]
@@ -66,6 +68,7 @@ dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
 
 [tool.ruff.lint.per-file-ignores]
 "src/jetlag_maps/cli.py" = ["T201"]
+"tests/*" = ["S101", "S314", "D103", "INP001", "TC003"]
 
 [tool.ruff.lint.pydocstyle]
 convention = "numpy"
@@ -75,6 +78,7 @@ runtime-evaluated-base-classes = ["pydantic.BaseModel"]
 
 [tool.ruff.lint.pylint]
 max-args = 10
+max-returns = 7
 
 [tool.ruff.format]
 quote-style = "double"
@@ -94,6 +98,7 @@ extend-exclude = [
     "data",
     "maps",
     "kml",
+    "export",
     "animations",
     "uv.lock",
     "*.kml",

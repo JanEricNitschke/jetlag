@@ -1,0 +1,976 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Season 2: Circumnavigation</name>
+    <Folder>
+      <name>Sam Denby &amp; Joseph Pisenti</name>
+      <Placemark>
+        <name>Denver Union Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting and ending point of Jet Lag: Circumnavigation (Season 2)
+Members who visited:
+1) Sam
+2) Joseph
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-105.0001518,39.7531499</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cancun International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-86.8740062,21.0417033</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McCarren Park Track</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.95172509999999,40.7200368</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amsterdam Airport Schiphol</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.7682744,52.31053859999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Schiphol Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Take a photo at your city&amp;#x27;s top 5 landmarks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.76228,52.30945999999999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anne Frank House</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Take a photo at your city&amp;#x27;s top 5 landmarks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.8839503,52.3752103</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jordaan</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Take a photo at your city&amp;#x27;s top 5 landmarks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.880875899999999,52.3739315</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rijksmuseum</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Take a photo at your city&amp;#x27;s top 5 landmarks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.8852188,52.3599976</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Van Gogh Museum</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Take a photo at your city&amp;#x27;s top 5 landmarks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.8810756,52.3584159</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vondelpark</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Take a photo at your city&amp;#x27;s top 5 landmarks&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.8686484,52.3579946</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>U.S. Consulate General</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Visit the U.S. consulate&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.8819864,52.3562223</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museumplein</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Visit the U.S. Consulate&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.882327999999999,52.35725600000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holland Casino</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Gamble at a casino&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.8823021,52.3626138</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McDonald's Leidsestraat</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Eat a McDonald&amp;#x27;s item you cannot get in the US&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.883794,52.364649</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hans Snoekfontein</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Transfer a cup of fountain water from one fountain to another&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.8815266,52.3636815</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canada Goose Amsterdam</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Purchase a hat worth more than $100&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.8827753,52.3607209</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museumplein Hill</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Ascend 500 feet/152 meters to a high point without touching pavement&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.879979888515738,52.35725976656239</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Q-Park Europarking</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Pick up three pounds of trash&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.8765793,52.369935</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jewel Changi Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.9897598,1.3602094</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Ritz-Carlton, Millenia Singapore</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2)
+Members who visited:
+1) Sam
+2) Joseph
+Note: The hotel of the rest period of Season 2 for this team&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.8601209,1.2909687</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bay East Garden</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Catch a fish&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.869858,1.2881607</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marina Bay Sands Singapore</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+3) Adam
+4) Ben
+Challenge: 
+-Get drunk on a local liquor (Sam and Joseph)
+-Have a good time (Sam and Joseph)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.8591065,1.2837575</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MARQUEE Singapore</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Get drunk on a local liquor&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.8597334,1.2857015</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yardbird Southern Table and Bar</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+Challenge: Get drunk on a local liquor&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.8580401,1.2830591</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Angeles International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Joseph Pisenti&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) and Jet Lag: Battle for America (Season 4)
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben
+Challenge: Find a four leaf clover as a leprechaun (S4)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-118.4091001,33.9436768</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Adam Chase &amp; Ben Doyle</name>
+      <Placemark>
+        <name>Denver Union Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting and ending point of Jet Lag: Circumnavigation (Season 2)
+Members who visited:
+1) Sam
+2) Joseph
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-105.0001518,39.7531499</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John F. Kennedy International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.7858007,40.6445878</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peter Pan Donut &amp; Pastry Shop</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Local pastry mile&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.9522534,40.7261083</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malpensa Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.7255307,45.63006250000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bricocenter Olgiate</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Build and ride a go-kart&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.8603518,45.6282107</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olgiate Go Kart Ramp</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Build and ride a go-kart&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.86084916987031,45.62768291608513</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parco Mameli</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Give your teammate a piggyback ride&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.8585709,45.6146385</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Changi International Airport Terminal 3 Playground</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.983799,1.3503421</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Changi Airport MRT Station (CG2)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Go bungee jumping&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.9878496,1.3557581</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VivoCity</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Go bungee jumping&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.8221267,1.2648859</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VivoCity Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Go bungee jumping&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.82342,1.26517</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beach Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Go bungee jumping&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.8178162,1.2513489</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skypark Sentosa by AJ Hackett</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Go bungee jumping&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.8133212,1.2551584</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emerald Pavilion</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Go bungee jumping&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.8149643,1.2534881</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marina Bay Overpass Viewing Point</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.8617392,1.2824861</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hill Street Tai Hwa Pork Noodle</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Eat at a Michelin starred restaurant&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.8625357,1.3051265</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marina Bay Sands Singapore</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Sam
+2) Joseph
+3) Adam
+4) Ben
+Challenge: 
+-Get drunk on a local liquor (Sam and Joseph)
+-Have a good time (Sam and Joseph)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>103.8591065,1.2837575</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sydney Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>151.1781665,-33.9331348</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Net &amp; Tackle Sales</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Catch a fish&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>151.1918432,-33.8714303</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beulah St Wharf</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Catch a fish&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>151.2170226,-33.8517365</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nadi International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>177.4509848,-17.7528151</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Angeles International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) and Jet Lag: Battle for America (Season 4)
+Members who visited:
+1) Sam
+2) Brian
+3) Adam
+4) Ben
+Challenge: Find a four leaf clover as a leprechaun (S4)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-118.4091001,33.9436768</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seaside on the Pier</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Circumnavigation (Season 2) 
+Members who visited:
+1) Adam
+2) Ben
+Challenge: Get drunk on a local liquor&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-118.4965085,34.0099943</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
