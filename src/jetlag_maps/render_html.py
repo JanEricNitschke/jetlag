@@ -211,13 +211,38 @@ def _stop_tooltip(stop: Stop) -> str:
     return tooltip
 
 
+_ANTIMERIDIAN_DEG = 180.0
+_FULL_TURN_DEG = 360.0
+
+
+def _unwrapped(points: Sequence[tuple[float, float]]) -> list[tuple[float, float]]:
+    """Shift longitudes so legs crossing the antimeridian stay continuous.
+
+    Each longitude is replaced by its equivalent (``± 360``) closest to the
+    previous point, so a dateline-crossing leg continues into the next
+    world copy instead of drawing a line across the whole map. Web-mercator
+    maps like Leaflet render longitudes beyond ±180 as the wrapped world
+    copy, keeping the line continuous.
+    """
+    result = [points[0]]
+    for point in points[1:]:
+        latitude, longitude = point
+        previous = result[-1][1]
+        while longitude - previous > _ANTIMERIDIAN_DEG:
+            longitude -= _FULL_TURN_DEG
+        while longitude - previous < -_ANTIMERIDIAN_DEG:
+            longitude += _FULL_TURN_DEG
+        result.append((latitude, longitude))
+    return result
+
+
 def _add_leg_lines(group: folium.FeatureGroup, journey: Journey) -> None:
     """Add one journey-colored, arrowed polyline per ``to_next`` leg."""
     color = str(journey.color)
     for stop, nxt in zip(journey.stops, journey.stops[1:], strict=False):
         for leg in stop.to_next:
             coordinates = leg.geometry or [stop.coordinate, nxt.coordinate]
-            points = [(c.latitude, c.longitude) for c in coordinates]
+            points = _unwrapped([(c.latitude, c.longitude) for c in coordinates])
             line = folium.PolyLine(
                 points, color=color, weight=4, opacity=0.8, popup=_leg_popup(leg)
             )

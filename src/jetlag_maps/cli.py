@@ -10,7 +10,8 @@ from typing import TYPE_CHECKING
 
 from pydantic import BaseModel, ConfigDict
 
-from jetlag_maps import importer, leg_guess, render_html, render_kml, tabular
+from jetlag_maps import importer, leg_guess, render_html, render_kml, sheets, tabular
+from jetlag_maps.config import GOOGLE_CREDENTIALS_FILE
 from jetlag_maps.render_html import MarkerMode
 
 if TYPE_CHECKING:
@@ -26,6 +27,8 @@ class Command(StrEnum):
     GUESS_LEGS = "guess-legs"
     RENDER = "render"
     WEB = "web"
+    SYNC = "sync"
+    PULL = "pull"
 
 
 class ImportArgs(BaseModel):
@@ -78,6 +81,24 @@ class GuessLegsArgs(BaseModel):
     data: Path
 
 
+class SyncArgs(BaseModel):
+    """Arguments of the manually triggered ``sync`` subcommand."""
+
+    model_config = ConfigDict(from_attributes=True)
+
+    data: Path
+    credentials: Path = GOOGLE_CREDENTIALS_FILE
+
+
+class PullArgs(BaseModel):
+    """Arguments of the manually triggered ``pull`` subcommand."""
+
+    model_config = ConfigDict(from_attributes=True)
+
+    out: Path
+    credentials: Path = GOOGLE_CREDENTIALS_FILE
+
+
 def _build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="jetlag-maps", description=__doc__)
     sub = parser.add_subparsers(dest="command", required=True)
@@ -128,11 +149,41 @@ def _build_parser() -> argparse.ArgumentParser:
     )
     p_guess_legs.add_argument("--data", type=Path, default=Path("data"))
 
+    p_sync = sub.add_parser(
+        Command.SYNC.value,
+        help=(
+            "Manually push each season as a tab to the shared Google Sheet"
+            " (never runs automatically)."
+        ),
+    )
+    p_sync.add_argument("--data", type=Path, default=Path("data"))
+    p_sync.add_argument(
+        "--credentials",
+        type=Path,
+        default=GOOGLE_CREDENTIALS_FILE,
+        help="Google service-account JSON key file with edit access to the sheet.",
+    )
+
+    p_pull = sub.add_parser(
+        Command.PULL.value,
+        help=(
+            "Manually pull each season tab of the shared Google Sheet back"
+            " into season JSON files (never runs automatically)."
+        ),
+    )
+    p_pull.add_argument("--out", type=Path, default=Path("data"))
+    p_pull.add_argument(
+        "--credentials",
+        type=Path,
+        default=GOOGLE_CREDENTIALS_FILE,
+        help="Google service-account JSON key file with read access to the sheet.",
+    )
+
     return parser
 
 
 def main(argv: Sequence[str] | None = None) -> None:
-    """Entry point dispatching to the import/render/web subcommands."""
+    """Entry point dispatching to the import/export/render/sync/pull subcommands."""
     logging.basicConfig(level=logging.INFO, format="%(message)s")
     args = _build_parser().parse_args(argv)
     match Command(args.command):
@@ -148,3 +199,7 @@ def main(argv: Sequence[str] | None = None) -> None:
             tabular.run_table_import(ImportTableArgs.model_validate(args))
         case Command.GUESS_LEGS:
             leg_guess.run_guess(GuessLegsArgs.model_validate(args))
+        case Command.SYNC:
+            sheets.run_sync(SyncArgs.model_validate(args))
+        case Command.PULL:
+            sheets.run_pull(PullArgs.model_validate(args))

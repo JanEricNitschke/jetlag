@@ -23,8 +23,14 @@ animations/
 # Local planning notes
 PLAN.md
 
+# Seed-data research from Google Docs (raw dumps, extracts, curated notes)
+seed/
+
 # Windows download metadata
 *:Zone.Identifier
+
+# Google service-account key for `jetlag-maps sync`
+google-credentials.json
 
 # Inputs
 /*.kml

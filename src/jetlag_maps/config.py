@@ -1,9 +1,10 @@
-"""Player and color configuration for Jet Lag seasons."""
+"""Player, color and Google Sheets configuration for Jet Lag seasons."""
 
 from __future__ import annotations
 
 import functools
 from enum import StrEnum
+from pathlib import Path
 from typing import Self
 
 
@@ -77,3 +78,23 @@ class Color(StrEnum):
     ORANGE = "#F57C00"
     PURPLE = "#7B1FA2"
     PINK = "#EA50EF"
+
+
+#: ID of the shared Google Sheet that ``jetlag-maps sync`` writes to
+#: (see the "Google Sheets integration" section of PLAN-seasons-2-9.md).
+GOOGLE_SHEET_ID = "1TuAjQM17P-QLUd6bW97Jw3HiTfubQ-Y-7QHSZQESeoI"
+
+#: Default path of the gitignored Google service-account JSON key file
+#: used by ``jetlag-maps sync``.
+GOOGLE_CREDENTIALS_FILE = Path("google-credentials.json")
+
+#: Season display names that differ from the season JSON ``name`` in the
+#: Google Sheet tab layout of PLAN-seasons-2-9.md (e.g. the tab is
+#: "Season 5 - Race to the End", not "Season 5 - Race to the End of the
+#: World"). All other tabs derive their name from the season data.
+SEASON_TAB_NAME_OVERRIDES: dict[int, str] = {
+    1: "Connect 4",
+    4: "Battle 4 America",
+    5: "Race to the End",
+    6: "Capture the Flag",
+}

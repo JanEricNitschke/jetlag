@@ -41,10 +41,16 @@ Cell encodings
 
 File layout
 -----------
-- Excel: ``--out`` is a ``.xlsx`` file holding the two tables as sheets
-  named ``stops`` and ``legs``.
+Every season is exported separately, once per table:
+
+- Excel: ``--out`` is a ``.xlsx`` file holding one ``S{NN} stops`` and
+  one ``S{NN} legs`` sheet per season (e.g. ``S02 stops``), with the
+  same columns as the CSV files.
 - CSV: ``--out`` is a directory (or a ``.csv`` path, in which case its
-  parent directory is used) holding ``stops.csv`` and ``legs.csv``.
+  parent directory is used) holding one ``season_NN_stops.csv`` and one
+  ``season_NN_legs.csv`` file per season, with the same columns.
+- Import reads the per-season files/sheets back; :func:`csv_tables` and
+  :func:`xlsx_tables` return the combined row lists of all seasons.
 - Export sorts rows by season, journey order as in the file,
   ``stop_index``, then ``leg_index``.
 """
@@ -56,6 +62,7 @@ import datetime as dt
 import io
 import logging
 import re
+import sys
 from typing import TYPE_CHECKING, Annotated
 
 from openpyxl import Workbook, load_workbook
@@ -85,8 +92,18 @@ if TYPE_CHECKING:
 
 logger = logging.getLogger(__name__)
 
-_STOPS_SHEET = "stops"
-_LEGS_SHEET = "legs"
+# Season geometries can be very detailed polylines, so CSV records may
+# exceed the default 131072-character field size of the csv module.
+csv.field_size_limit(sys.maxsize)
+
+#: Sheet-name pattern of a per-season Excel table, e.g. ``S02 stops``.
+_SHEET_NAME = re.compile(r"^S(\d{2}) (stops|legs)$")
+
+#: Maximum length of one cell's text. Excel cells hold at most 32,767
+#: characters (Google Sheet cells 50,000), so any longer geometry has to
+#: be split by adding a waypoint stop in the middle of the leg (see the
+#: geometry-size note in PLAN-seasons-2-9.md).
+MAX_CELL_CHARS = 32767
 
 
 def _cell_str(value: object) -> str:
@@ -281,16 +298,71 @@ def export_tables(seasons: Sequence[SeasonFile]) -> tuple[list[StopRow], list[Le
     return stop_rows(seasons), leg_rows(seasons)
 
 
+def ensure_geometry_exportable(legs: Sequence[LegRow]) -> None:
+    """Exit with a warning if a leg's geometry exceeds :data:`MAX_CELL_CHARS`.
+
+    Longer geometries cannot be written to Excel or Google Sheets cells;
+    they must be split by adding a waypoint stop in the middle of the
+    leg (see the geometry-size note in PLAN-seasons-2-9.md).
+
+    Raises
+    ------
+    SystemExit
+        With one warning line per oversized leg.
+    """
+    oversized = [row for row in legs if len(row.geometry) > MAX_CELL_CHARS]
+    if not oversized:
+        return
+    warnings = "\n".join(
+        f"  season {row.season} ({row.journey_team}), stop {row.stop_index},"
+        f" leg {row.leg_index}: {len(row.geometry)} chars"
+        for row in oversized
+    )
+    message = (
+        f"Warning: {len(oversized)} legs have geometries longer than the"
+        f" {MAX_CELL_CHARS}-character Excel/Google Sheets cell limit:\n"
+        f"{warnings}\n"
+        "Split each of these legs by adding a waypoint stop in the middle"
+        " (see PLAN-seasons-2-9.md)."
+    )
+    raise SystemExit(message)
+
+
+def export_season_tables(season: SeasonFile) -> tuple[list[StopRow], list[LegRow]]:
+    """Build the ``stops`` and ``legs`` table rows of a single season."""
+    return export_tables([season])
+
+
+def season_csv_paths(directory: Path, season: SeasonFile) -> tuple[Path, Path]:
+    """Paths of a season's per-table CSV files under ``directory``."""
+    stem = f"season_{season.season:02d}"
+    return directory / f"{stem}_stops.csv", directory / f"{stem}_legs.csv"
+
+
+def season_sheet_names(season: SeasonFile) -> tuple[str, str]:
+    """Sheet names of a season's per-table Excel sheets."""
+    stem = f"S{season.season:02d}"
+    return f"{stem} stops", f"{stem} legs"
+
+
+def _write_season_csvs(directory: Path, season: SeasonFile) -> None:
+    """Write a season's per-table CSV files."""
+    stops, legs = export_season_tables(season)
+    stops_path, legs_path = season_csv_paths(directory, season)
+    stops_path.write_text(_csv_table(StopRow, stops), newline="", encoding="utf-8")
+    legs_path.write_text(_csv_table(LegRow, legs), newline="", encoding="utf-8")
+
+
 def csv_tables(path: Path) -> tuple[list[StopRow], list[LegRow]]:
-    """Read the ``stops.csv`` and ``legs.csv`` tables under ``path``."""
+    """Read the per-season ``season_NN_stops.csv``/``-``legs.csv`` tables."""
     return (
-        _read_csv_file(path / "stops.csv", StopRow),
-        _read_csv_file(path / "legs.csv", LegRow),
+        _read_csv_files(sorted(path.glob("season_*_stops.csv")), StopRow),
+        _read_csv_files(sorted(path.glob("season_*_legs.csv")), LegRow),
     )
 
 
 def xlsx_tables(path: Path) -> tuple[list[StopRow], list[LegRow]]:
-    """Read the ``stops`` and ``legs`` sheets of the Excel file at ``path``."""
+    """Read the per-season ``S{NN} stops``/``-``legs`` sheets of ``path``."""
     return _workbook_tables(load_workbook(path))
 
 
@@ -310,23 +382,33 @@ def _csv_table[Row: BaseModel](model: type[Row], rows: Sequence[Row]) -> str:
     return stream.getvalue()
 
 
-def _build_workbook(stops: Sequence[StopRow], legs: Sequence[LegRow]) -> Workbook:
-    """Build an Excel workbook holding the two tables as sheets."""
+def _build_workbook(seasons: Sequence[SeasonFile]) -> Workbook:
+    """Build an Excel workbook holding one stops and one legs sheet per season."""
     workbook = Workbook()
     default = workbook.active
     if default is not None:
         workbook.remove(default)
-    _fill_sheet(workbook.create_sheet(_STOPS_SHEET), _STOP_COLUMNS, stops)
-    _fill_sheet(workbook.create_sheet(_LEGS_SHEET), _LEG_COLUMNS, legs)
+    for season in sorted(seasons, key=lambda season_file: season_file.season):
+        stops, legs = export_season_tables(season)
+        stops_name, legs_name = season_sheet_names(season)
+        _fill_sheet(workbook.create_sheet(stops_name), _STOP_COLUMNS, stops)
+        _fill_sheet(workbook.create_sheet(legs_name), _LEG_COLUMNS, legs)
     return workbook
 
 
 def _workbook_tables(workbook: Workbook) -> tuple[list[StopRow], list[LegRow]]:
-    """Read the ``stops`` and ``legs`` rows from an Excel workbook."""
-    return (
-        _read_sheet(workbook[_STOPS_SHEET], StopRow),
-        _read_sheet(workbook[_LEGS_SHEET], LegRow),
-    )
+    """Read the per-season stops/legs rows from an Excel workbook."""
+    stops: list[StopRow] = []
+    legs: list[LegRow] = []
+    for worksheet in workbook.worksheets:
+        match = _SHEET_NAME.match(worksheet.title)
+        if match is None:
+            continue
+        if match[2] == "stops":
+            stops.extend(_read_sheet(worksheet, StopRow))
+        else:
+            legs.extend(_read_sheet(worksheet, LegRow))
+    return stops, legs
 
 
 def _fill_sheet(
@@ -342,6 +424,16 @@ def _fill_sheet(
 def _read_csv_file[Row: BaseModel](path: Path, model: type[Row]) -> list[Row]:
     with path.open("r", newline="", encoding="utf-8") as stream:
         return [model.model_validate(record) for record in csv.DictReader(stream)]
+
+
+def _read_csv_files[Row: BaseModel](
+    paths: Sequence[Path], model: type[Row]
+) -> list[Row]:
+    """Read and concatenate the table rows of several CSV files."""
+    rows: list[Row] = []
+    for path in paths:
+        rows.extend(_read_csv_file(path, model))
+    return rows
 
 
 def _read_sheet[Row: BaseModel](worksheet: Worksheet, model: type[Row]) -> list[Row]:
@@ -430,26 +522,24 @@ def run_export(args: ExportArgs) -> None:
     Parameters
     ----------
     args
-        Export arguments; ``out`` targets a ``.xlsx`` file for Excel or a
-        directory (or ``.csv`` path, resolved to its parent directory) for
-        CSV.
+        Export arguments; ``out`` targets a ``.xlsx`` file holding one
+        ``S{NN} stops`` and one ``S{NN} legs`` sheet per season, or a
+        directory (or ``.csv`` path, resolved to its parent directory)
+        holding one ``season_NN_stops.csv`` and ``season_NN_legs.csv``
+        file per season.
     """
     seasons = load_seasons(args.data)
-    stops, legs = export_tables(seasons)
     if args.out.suffix.lower() == ".xlsx":
+        ensure_geometry_exportable(leg_rows(seasons))
         args.out.parent.mkdir(parents=True, exist_ok=True)
-        _build_workbook(stops, legs).save(args.out)
+        _build_workbook(seasons).save(args.out)
         logger.info("Wrote %s", args.out)
     else:
         directory = args.out.parent if args.out.suffix.lower() == ".csv" else args.out
         directory.mkdir(parents=True, exist_ok=True)
-        (directory / "stops.csv").write_text(
-            _csv_table(StopRow, stops), newline="", encoding="utf-8"
-        )
-        (directory / "legs.csv").write_text(
-            _csv_table(LegRow, legs), newline="", encoding="utf-8"
-        )
-        logger.info("Wrote %s and %s", directory / "stops.csv", directory / "legs.csv")
+        for season in seasons:
+            _write_season_csvs(directory, season)
+        logger.info("Wrote per-season CSV tables to %s", directory)
 
 
 def run_table_import(args: ImportTableArgs) -> None:
@@ -458,10 +548,12 @@ def run_table_import(args: ImportTableArgs) -> None:
     Parameters
     ----------
     args
-        Import-table arguments; ``data`` is a ``.xlsx`` file or a directory
-        (or ``.csv`` path, resolved to its parent directory) containing
-        ``stops.csv`` and ``legs.csv``; ``out`` receives one JSON file per
-        season, named by the season slug.
+        Import-table arguments; ``data`` is a ``.xlsx`` file holding one
+        ``S{NN} stops`` and one ``S{NN} legs`` sheet per season, or a
+        directory (or ``.csv`` path, resolved to its parent directory)
+        holding one ``season_NN_stops.csv`` / ``season_NN_legs.csv`` pair
+        per season; ``out`` receives one JSON file per season, named by
+        the season slug.
     """
     if args.data.suffix.lower() == ".xlsx":
         stops, legs = xlsx_tables(args.data)
