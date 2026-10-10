@@ -3898,7 +3898,7 @@
           "name": "Lit Delhi",
           "coordinate": {
             "longitude": -121.4928717,
-            "latitude": 38.57792209999999
+            "latitude": 38.5779221
           },
           "when": null,
           "video": {
@@ -5097,8 +5097,8 @@
         {
           "name": "Nevada State Capitol Building",
           "coordinate": {
-            "longitude": -119.7661320541866,
-            "latitude": 39.16382926671341
+            "longitude": -119.766132054187,
+            "latitude": 39.1638292667134
           },
           "when": {
             "start": "2022-03-03T15:30:00",
@@ -17802,7 +17802,7 @@
           "name": "Salt Lake Plaza Hotel SureStay Collection By Best Western",
           "coordinate": {
             "longitude": -111.894797081624,
-            "latitude": 40.76965786266736
+            "latitude": 40.7696578626674
           },
           "when": {
             "start": "2022-03-05T04:25:00",
@@ -20117,7 +20117,7 @@
           "name": "Bert Mooney Airport",
           "coordinate": {
             "longitude": -112.5021977,
-            "latitude": 45.95519350000001
+            "latitude": 45.9551935
           },
           "when": {
             "start": "2022-03-05T09:21:00",
@@ -25239,8 +25239,8 @@
         {
           "name": "Montana State Capitol Building",
           "coordinate": {
-            "longitude": -112.0184093726406,
-            "latitude": 46.58576037049772
+            "longitude": -112.018409372641,
+            "latitude": 46.5857603704977
           },
           "when": {
             "start": "2022-03-05T11:16:00",
@@ -25262,8 +25262,8 @@
         {
           "name": "Montana State Capitol Building",
           "coordinate": {
-            "longitude": -112.0184093726406,
-            "latitude": 46.58576037049772
+            "longitude": -112.018409372641,
+            "latitude": 46.5857603704977
           },
           "when": null,
           "video": {
@@ -31509,8 +31509,8 @@
         {
           "name": "Blocked by a Train",
           "coordinate": {
-            "longitude": -104.8106755454197,
-            "latitude": 41.12891323334086
+            "longitude": -104.81067554542,
+            "latitude": 41.1289132333409
           },
           "when": null,
           "video": {
@@ -31841,8 +31841,8 @@
         {
           "name": "Underpass under the Train",
           "coordinate": {
-            "longitude": -104.8229284368308,
-            "latitude": 41.12587034599132
+            "longitude": -104.822928436831,
+            "latitude": 41.1258703459913
           },
           "when": null,
           "video": {
@@ -32177,7 +32177,7 @@
         {
           "name": "Car Parked Outside State Capital",
           "coordinate": {
-            "longitude": -104.8207389614499,
+            "longitude": -104.82073896145,
             "latitude": 41.1391106455792
           },
           "when": null,
@@ -32225,8 +32225,8 @@
         {
           "name": "Card Pull",
           "coordinate": {
-            "longitude": -104.8211436479542,
-            "latitude": 41.13992803484818
+            "longitude": -104.821143647954,
+            "latitude": 41.1399280348482
           },
           "when": null,
           "video": {
@@ -32345,8 +32345,8 @@
         {
           "name": "Bug Catching Attempt 1",
           "coordinate": {
-            "longitude": -104.8209826858611,
-            "latitude": 41.13957230332803
+            "longitude": -104.820982685861,
+            "latitude": 41.139572303328
           },
           "when": null,
           "video": {
@@ -33041,8 +33041,8 @@
         {
           "name": "Bug Catching Attempt 1",
           "coordinate": {
-            "longitude": -104.8209826858611,
-            "latitude": 41.13957230332803
+            "longitude": -104.820982685861,
+            "latitude": 41.139572303328
           },
           "when": null,
           "video": {
@@ -33497,8 +33497,8 @@
         {
           "name": "Colorado State Capitol",
           "coordinate": {
-            "longitude": -104.9848208071553,
-            "latitude": 39.73924357038606
+            "longitude": -104.984820807155,
+            "latitude": 39.7392435703861
           },
           "when": {
             "start": "2022-03-03T12:11:00",
@@ -42283,7 +42283,7 @@
           "name": "Portland International Airport",
           "coordinate": {
             "longitude": -122.5916095,
-            "latitude": 45.58520379999999
+            "latitude": 45.5852038
           },
           "when": {
             "start": "2022-03-04T09:47:00",
@@ -43274,7 +43274,7 @@
           "name": "Portland International Airport",
           "coordinate": {
             "longitude": -122.5916095,
-            "latitude": 45.58520379999999
+            "latitude": 45.5852038
           },
           "when": null,
           "video": {
@@ -43294,7 +43294,7 @@
           "name": "Portland International Airport",
           "coordinate": {
             "longitude": -122.5916095,
-            "latitude": 45.58520379999999
+            "latitude": 45.5852038
           },
           "when": null,
           "video": {
@@ -47824,7 +47824,7 @@
           "name": "Bert Mooney Airport",
           "coordinate": {
             "longitude": -112.5021977,
-            "latitude": 45.95519350000001
+            "latitude": 45.9551935
           },
           "when": {
             "start": "2022-03-05T09:21:00",
@@ -52998,8 +52998,8 @@
         {
           "name": "Montana State Capitol Building",
           "coordinate": {
-            "longitude": -112.0184093726406,
-            "latitude": 46.58576037049772
+            "longitude": -112.018409372641,
+            "latitude": 46.5857603704977
           },
           "when": null,
           "video": {

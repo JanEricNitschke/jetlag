@@ -1,3 +1,102 @@
 season,season_name,journey_team,journey_color,stop_index,name,longitude,latitude,when_start,when_end,video_episode,video_start,video_end,players_override,additional_players,notes,end_of_day
-17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,0,Placeholder,0.0,0.0,,,,,,,,,
-17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,0,Placeholder,0.0,0.0,,,,,,,,,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,0,Chiang Kai-shek Memorial Hall,121.515141,25.041705,2025-12-05T07:30:00,,,,,,,"Game start, Day 1 (Dec 5) 07:30 per doc; teaser clips 1 & 4. Coordinates from Dec 4 23:22 UTC social post (DMS).
+Leg to Taipei Main Station omitted: mode (MRT/walk) not stated in doc.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,1,Taipei Main Station,121.5156511,25.0467151,,,,,,,,Day 1. MRT transfer platform coordinate (clip 11); chip route 'Taipei → Houtong'.,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,2,Houtong Station,121.8272142,25.0870188,,,,,,,,"Day 1. No coordinates in doc; Nominatim returned no result, resolved via OSM railway-station query (node '猴硐').",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,3,Jiaoxi Station,121.775161,24.827236,,,,,,,,Day 1. Clip ~13:33 (Local 4178 south on Platform A crossing Puyuma 219 arriving north 13:32).,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,4,Taipei Main Station,121.5156511,25.0467151,,,,,,,,"Day 1 afternoon, return visit.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,5,Hsinchu HSR Station,121.039775,24.808011,,,,,,,,"Day 1, Timeline 1 node 'Hsinchu HSR/Liujia'.
+AMBIGUOUS: HSR (Timeline 1, end balance 54↔30 chips) vs TRA via Hsinchu TR (Timeline 2, 13↔0 chips) route after Jiaoxi unresolved in doc.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,6,Xinzhuang Station,121.0219578,24.7880929,,,,,,,,"Day 1 end position (Timeline 1).
+No coordinates in doc; Nominatim returned no result, resolved via OSM railway-station query (node '新莊' on the Hsinchu–Liujia branch).
+Overnight repositioning to Hsinchu HSR (Day 2 start) not in doc; leg omitted.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,7,Hsinchu HSR Station,121.039775,24.808011,,,,,,,,"Day 2 start. Clock clip 7:47 ('Go, Sam!', HS 805 south towards Zuoying).",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,8,HSR Taichung Station,120.6159742,24.1126634,,,,,,,,"Day 2, arrival 8:17 (HS 805). Station coordinate from Miss Croissant store clip (the 12:16 clock clip belongs to Badam Day 1).
+Leg towards downtown omitted: chip route 'Xinwuri → Taichung TR (−6)' — transfer mode from the HSR station not stated in doc.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,9,"Chun Shui Tang (Minsheng Village, Taichung)",120.679349,24.1356375,,,,,,,,"Day 2 ~9:15 ±45. Bubble-tea challenge ('juicy balls' transcript, Chun Shui Tang golden horse award cup).
+School sports day tents in clip = Dec 6, supporting Day 2 for this sequence (doc hedges 'might not be that day'; chip table says Day 2).
+Legs to/from here omitted: mode (HSR Taichung → here, here → Taichung TR) not stated in doc.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,10,Taichung Station,120.6869251,24.137288,,,,,,,,Day 2. Clock clip 10:13.,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,11,Houli Station,120.7302685,24.3093017,,,,,,,,Day 2. No coordinates in doc; Nominatim returned a bus stop '后里車站(后里國小)' by the station — approximate station position.,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,12,Hsinchu Station,120.971678,24.8014026,,,,,,,,"Day 2, arrival 12:08 (Local 3132).
+No coordinates in doc; Nominatim matched the HSR-complex '新竹' node instead, resolved via OSM railway-station query (TRA '新竹' station node in Hsinchu City).
+Leg to Hsinchu Zoo omitted: mode not stated in doc (zoo clips ~12:20–13:15, ~1–2 km away).",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,13,Hsinchu Zoo,120.980216,24.800522,,,,,,,,"Day 2, clips ~12:20–13:15 ('We're back-er, baby!'). Zoo is closed Mondays, supporting Day 2 = Dec 6 (a Sunday) for this sequence.
+Leg to Hsinchu HSR omitted: mode not stated in doc; chip route 'Hsinchu TR → Hsinchu HSR (−7)' covers the zoo visit in between.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,14,Hsinchu HSR Station,121.039775,24.808011,,,,,,,,Day 2. Reached via chip route 'Hsinchu TR → Hsinchu HSR (−7)' after the zoo visit.,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,15,Taoyuan HSR Station (A18),121.2138916,25.0134909,,,,,,,,Day 2. Mike clip: underground HSR ticket hall to Taoyuan MRT station.,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,16,Huanbei Station (A21),121.2208004,24.9671663,,,,,,,,"Day 2, ~16:00 clip (very long shadows).
+No coordinates in doc; Nominatim lookup ('環北' station node).
+Chip routes 'Taoyuan HSR → Huanbei −0' and 'Zhongli → Taipei −0'. Leg onward to Taipei omitted: route/mode via Zhongli not stated in doc.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,17,Taipei Main Station,121.5156511,25.0467151,,,,,,,,Day 2 end position per chip route 'Zhongli → Taipei −0' (passed through Zhongli; movement from Huanbei not detailed in doc).,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,18,Yilan Station,121.7583174,24.7552923,,,,,,,,"Day 3, clip 9:22, Platform 2 southbound; Tze-Chiang (likely 272 to Xincheng per schedule).",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,19,Xincheng Taroko Station,121.641243,24.1286,,,,,,,,"Day 3, clips ~10:35–10:40; Sanrio special train passes ~10:40 (runs once daily each direction, Fri–Mon); Tze-Chiang 272 arrives 10:28.
+Sam running on Ren'ai Road Lane 3, Xincheng ~10:30–10:45 (clip 31, 24.1271261 121.6505099) folded into this stop.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,20,Su'aoxin Station,121.827488,24.609177,,,,,,,,"Day 3, arrival from Xincheng (~13:00).
+Leg to Lucky Art Crayon Factory omitted: mode not stated in doc.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,21,"Lucky Art Crayon Factory, Su'ao",121.8284973,24.6162706,,,,,,,,"Day 3. Challenge 'Win Crayon Mastermind', 13:08 ±5 to ~14:00, between Xincheng and the 14:30 Su'aoxin clip.
+Leg back to Su'aoxin omitted: mode not stated in doc.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,22,Su'aoxin Station,121.827488,24.609177,,,,,,,,"Day 3, return visit; ~14:30 clip ('We just gotta think the (bleep) out of this, Mike').",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,23,Nuannuan Station,121.741584,25.102152,,,,,,,,"Day 3, ~17:00 clip (around sunset); Local 4193 at Nuannuan ~17:35 due to ~90-min delay; clip suggests possibly train 4191 westbound to Taoyuan.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,24,Nangang Station,121.6073029,25.0532701,,,,,,,,Day 3 end (chip route 'Nuannuan → Nangang TR −0'). No coordinates in doc; Nominatim lookup ('南港' station node).,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,25,Nangang Station,121.6073029,25.0532701,,,,,,,,Day 4 start; chip route node 'Nangang HSR' (same station complex as TRA Nangang).,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,26,HSR Taichung Station,120.6159742,24.1126634,,,,,,,,Day 4.,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,27,Miaoli HSR Station,120.8256849,24.6055644,,,,,,,,"Day 4 end position per chip route (station MIL/06, next to TRA Fengfu 3150).
+No coordinates in doc; Nominatim returned no result, resolved via OSM railway-station query ('苗栗' HSR station node next to the Hakka Round House).
+Leg to Hakka Round House omitted: mode not stated in doc (adjacent to the station).",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,28,"Hakka Round House, Houlong, Miaoli",120.823716,24.6039385,,,,,,,,"Challenge ('Do you know this foot dance thing?'); next to Miaoli HSR station; Day 4 per chip route.
+AMBIGUOUS: teaser note says the clips are cloudy and 'only really seen on day 3 or 4', could even be Day 3 — day attribution uncertain in doc.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,29,Miaoli HSR Station,120.8256849,24.6055644,,,,,,,,Day 5 start per chip route 'Miaoli HSR → Taipei −0'.,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,30,Taipei Main Station,121.5156511,25.0467151,,,,,,,,Day 5.,
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,31,Hualien Station,121.6012608,23.9924558,,,,,,,,"Day 5. No coordinates in doc; Nominatim lookup (花蓮車站 front-station node).
+Qixingtan Beach clips (near Hualien Airport) likely belong here; leg to the beach omitted: mode not stated in doc.",
+17,Taiwan: Rail Rush,Sam Denby; Michael Downie,#388E3C,32,"Qixingtan Beach, Hualien",121.623073,24.041992,,,,,,,,"Beach/filming stop ('Oh, gawrgeous'); very close to Hualien Airport, ~equidistant from Beipu or Hualien stations.
+AMBIGUOUS day: 'poor visibility + high tide = potential to be early morning Day 4' (Mr Calipso) vs Sike Day 5 Taipei → Hualien chip route; placed on Day 5 as the leading theory.
+Last located Sike stop; nothing further in doc.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,0,Chiang Kai-shek Memorial Hall,121.515141,25.041705,2025-12-05T07:30:00,,,,,,,"Game start, Day 1 (Dec 5) 07:30 per doc (teaser clips 1 & 4).
+Leg to Taipei Main Station omitted: mode (MRT/walk) not stated in doc.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,1,Taipei Main Station,121.5156511,25.0467151,,,,,,,,"Day 1. Clip 11 (MRT transfer platform): Adam & Ben discussing their map.
+AMBIGUOUS: chip table says 'Taipei → Hsinchu TR (21 stations, 5 chips placed in Banqiao)' but the floating Day-1 train list has High-Speed 613 Taipei 8:21 → Hsinchu 8:53; modeled per the train list (HSR), chip-route node names treated as area labels.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,2,Hsinchu HSR Station (Liujia),121.039775,24.808011,,,,,,,,"Day 1, arrival 8:53 (HS 613).
+AMBIGUOUS: chip table calls the node 'Hsinchu TR'; the doc's train list implies HSR arrival at Hsinchu HSR/Liujia.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,3,Xinzhuang Station,121.0219578,24.7880929,,,,,,,,"Day 1, 9:09–11:07 (Locals 1713/1726).
+No coordinates in doc; Nominatim returned no result, resolved via OSM railway-station query (node '新莊' on the Hsinchu–Liujia branch).
+Zhudong Township clips (10:00 ±60, trailer clips 9 & 12) are in this area but carry no team/day attribution in doc.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,4,Liujia Station,121.0394141,24.8071256,,,,,,,,"Day 1, arrival 11:15 (Local 1726); Hsinchu HSR clips 11:21–11:22 (board shows 11:22/11:25, 'I think we might miss our train') and ~11:30.
+No coordinates in doc; Nominatim lookup ('六家' station node at the Hsinchu HSR complex).",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,5,HSR Taichung Station,120.6159742,24.1126634,,,,,,,,"Day 1, arrival 12:16 (clock clip; located via the only in-station 'Miss Croissant' store).
+Leg to Xinwuri omitted: transfer mode between the adjacent HSR and TRA stations not stated in doc; chip route treats 'Taichung HSR/Xinwuri' as one node.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,6,Xinwuri Station,120.6129886,24.1098801,,,,,,,,"Day 1, ~12:15 clip (southbound platform, MRT sign visible; possibly train 2159 to Changhua, but train list says Local 2163 dep 12:42).",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,7,Changhua Station,120.538205,24.081673,,,,,,,,"Day 1, arrival 12:53 (Local 2163).
+No coordinates in doc; Nominatim lookup ('彰化' station node).
+AMBIGUOUS: Episode 1 chip table ends at Changhua; Timeline 1 continues Changhua → Shanhua → Xinshi. Day-end position (Changhua vs Shanhua/Xinshi) not fully resolved in doc.
+Leg to Eight Trigram Mountains omitted: mode not stated in doc.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,8,"Eight Trigram Mountains (Baguashan), Changhua",120.5486739,24.0784068,,,,,,,,"Challenge visit, 13:30 ±30.
+Attribution inferred: near Changhua, Badam's Day 1 terminus; day/team not explicitly stated in doc.
+Leg back to Changhua omitted: mode not stated in doc.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,9,Changhua Station,120.538205,24.081673,,,,,,,,"Day 1, return visit; southbound departure.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,10,Shanhua Station,120.3066223,23.1330374,,,,,,,,Day 1 (Timeline 1). No coordinates in doc; Nominatim lookup ('善化' station node).,
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,11,Xinshi Station,120.2897209,23.0682229,,,,,,,,"Day 1 end (Timeline 1). No coordinates in doc; Nominatim lookup ('新市' station node).
+AMBIGUOUS day-end position: Xinshi (Timeline 1) vs Changhua (Episode 1 chip table) unresolved in doc.
+Overnight repositioning to Zuoying not in doc (possibly after the 17:30 game end); leg omitted.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,12,"Dragon & Tiger Pagodas, Zuoying",120.292139,22.681061,,,,,,,,"Day 2, ~7:30–8:00 (before opening); Adam filming from the northern tower (8:00), Ben from the southern tower (8:00); challenge 'Test your luck' per trailer clip 15 (~17:00).
+How Badam got from the Day-1 position (Changhua/Shanhua/Xinshi area) to Zuoying is not in doc; leg to Zuoying HSR omitted (mode not stated).",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,13,Zuoying HSR Station,120.3076744,22.6872433,,,,,,,,Day 2. No coordinates in doc; Nominatim lookup ('左營' HSR station node).,
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,14,Tainan HSR Station,120.2864152,22.924673,,,,,,,,Day 2. No coordinates in doc; Nominatim lookup ('台南' HSR station node in Guiren).,
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,15,Tainan Station,120.2129832,22.9970861,,,,,,,,Day 2 end position (chip route 'Zuoying HSR → Tainan TR').,
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,16,Tainan Station,120.2129832,22.9970861,,,,,,,,"Day 3 start; clock 7:28, Track 6, Tze-Chiang 112.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,17,Kaohsiung Station,120.3025745,22.6368878,,,,,,,,"Day 3. Underground station, no exact coordinates in doc (identified via 高雄市區鐵路地下化 III design photos); Nominatim returned the '高雄站' bus stop at the station — approximate position.
+Leg to Gushan omitted: mode not stated in doc.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,18,"Gushan District, Kaohsiung (Qian'anguang Temple)",120.2730232,22.6508897,,,,,,,,"Day 3, clip ~11:30 ±30 ('I think that we have the opportunity here to go big'); temple 千光宮, Qingquan St 92, Gushan District.
+No coordinates in doc; Nominatim lookup ('千光宮' place_of_worship).
+Leg back to Kaohsiung Station omitted: mode not stated in doc.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,19,Kaohsiung Station,120.3025745,22.6368878,,,,,,,,"Day 3, return visit; southbound departure.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,20,"Nanzhou Athletic Park, Pingtung",120.512673,22.490382,,,,,,,,"Day 3, challenge 'Demonstrate synesthesia', 13:45 ±30; chip-route node 'Nanzhou'.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,21,Dawu Station,120.900079,22.364645,,,,,,,,Day 3 end; station ID 5190; teaser clip 6 shows Adam on the Dawu flood control barrier (viewpoint 22.362351 120.903414).,
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,22,Dawu Station,120.900079,22.364645,,,,,,,,"Day 4 start position (Badam ended Day 3 at Dawu per chip route).
+AMBIGUOUS (direction dispute): the chip timeline says Dawu → Yuli (−17) → Sanmin (−1~), but BlizzardMist's weather/train analysis puts the Yuli & Dawu clips (same day by clothing) on Day 4 = Dec 8 as Yuli → Dawu: Chu-kuang Express 602 Yuli 8:22 → Taitung 9:47, then Tze-Chiang 372 Taitung 10:17 → Dawu 11:12; alternatives: Tze-Chiang 306 Yuli 7:34 → Dawu 9:24, or the 9:10/9:36 departures from Yuli; later Taitung → Dawu trains 11:08 (arr 12:17), 12:35 (arr 13:22), 14:22 (arr 15:17, likely too late given rain). The connecting leg is omitted; direction/order unresolved in doc.",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,23,Yuli (Eurasian & Philippine Sea Plate Junction),121.330701,23.321161,,,,,,,,"Day 4 (Dec 8 by clothing/weather analysis). Beer-challenge clip ~12:04 ±10 (Adam holding 6 cans of Buckskin beer; challenge likely involves crossing the plate junction without dropping the cans); plate-junction teaser clip solar 11:02 ±10.
+Station ID 6110. Other candidate points in doc: Yuli bridge clip 23.323397 121.325648 (tentative), 'near Yuli' montage clip 23.302916 121.311953, north-of-Yuli train clip 23.3991603 121.335032 (~13:00 northbound leaving Yuli).
+No leg from Dawu: direction of the Dawu ↔ Yuli movement is contested in doc (see Dawu Day 4 note).",
+17,Taiwan: Rail Rush,Adam Chase; Ben Doyle,#D32F2F,24,Sanmin Station,121.3452414,23.4246636,,,,,,,,"Day 4 end; chip route 'Yuli → Sanmin~'. No coordinates in doc; Nominatim lookup ('三民' station node, Yuli Township).
+Badam Day 5: nothing in doc (chip table entry empty).",

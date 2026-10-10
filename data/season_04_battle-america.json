@@ -12,8 +12,8 @@
         {
           "name": "Times Square",
           "coordinate": {
-            "longitude": -73.98586262484639,
-            "latitude": 40.75760191692743
+            "longitude": -73.9858626248464,
+            "latitude": 40.7576019169274
           },
           "when": null,
           "video": null,
@@ -45,7 +45,7 @@
           "name": "Newark - Pennsylvania Station",
           "coordinate": {
             "longitude": -74.1639867,
-            "latitude": 40.73459889999999
+            "latitude": 40.7345989
           },
           "when": null,
           "video": null,
@@ -92,7 +92,7 @@
         {
           "name": "Union Station",
           "coordinate": {
-            "longitude": -77.00707969999999,
+            "longitude": -77.0070797,
             "latitude": 38.8978452
           },
           "when": null,
@@ -108,7 +108,7 @@
         {
           "name": "Friendship Heights",
           "coordinate": {
-            "longitude": -77.08607169999999,
+            "longitude": -77.0860717,
             "latitude": 38.9609331
           },
           "when": null,
@@ -156,8 +156,8 @@
         {
           "name": "1st Failed Geodetic Marker Spot",
           "coordinate": {
-            "longitude": -77.08245197192974,
-            "latitude": 38.96350617520033
+            "longitude": -77.0824519719297,
+            "latitude": 38.9635061752003
           },
           "when": null,
           "video": null,
@@ -172,8 +172,8 @@
         {
           "name": "2nd Failed Geodetic Marker Spot",
           "coordinate": {
-            "longitude": -77.08859441222376,
-            "latitude": 38.95871253341013
+            "longitude": -77.0885944122238,
+            "latitude": 38.9587125334101
           },
           "when": null,
           "video": null,
@@ -188,8 +188,8 @@
         {
           "name": "Bethesda Station",
           "coordinate": {
-            "longitude": -77.09408736396986,
-            "latitude": 38.98415041935176
+            "longitude": -77.0940873639699,
+            "latitude": 38.9841504193518
           },
           "when": null,
           "video": null,
@@ -204,8 +204,8 @@
         {
           "name": "Successful Bethesda Geodetic Marker Spot",
           "coordinate": {
-            "longitude": -77.09412284513992,
-            "latitude": 38.98375276987658
+            "longitude": -77.0941228451399,
+            "latitude": 38.9837527698766
           },
           "when": null,
           "video": null,
@@ -252,8 +252,8 @@
         {
           "name": "Sam Standing Spot",
           "coordinate": {
-            "longitude": -77.07006094220445,
-            "latitude": 38.88888970384205
+            "longitude": -77.0700609422044,
+            "latitude": 38.888889703842
           },
           "when": null,
           "video": null,
@@ -285,7 +285,7 @@
           "name": "Pentagon City Metro Station",
           "coordinate": {
             "longitude": -77.0598784861856,
-            "latitude": 38.86266515674385
+            "latitude": 38.8626651567439
           },
           "when": null,
           "video": null,
@@ -300,8 +300,8 @@
         {
           "name": "Sam and Brian Battle Challenge Waiting Bench",
           "coordinate": {
-            "longitude": -77.05928109722906,
-            "latitude": 38.86237425138945
+            "longitude": -77.0592810972291,
+            "latitude": 38.8623742513894
           },
           "when": null,
           "video": null,
@@ -397,7 +397,7 @@
           "name": "Hartford Union Station",
           "coordinate": {
             "longitude": -72.6815714,
-            "latitude": 41.76881909999999
+            "latitude": 41.7688191
           },
           "when": null,
           "video": null,
@@ -444,7 +444,7 @@
         {
           "name": "Round1",
           "coordinate": {
-            "longitude": -72.64135689999999,
+            "longitude": -72.6413569,
             "latitude": 42.1676302
           },
           "when": null,
@@ -476,8 +476,8 @@
         {
           "name": "Sam and Brian 2nd Battle Challenge Waiting Spot",
           "coordinate": {
-            "longitude": -72.62617332153602,
-            "latitude": 41.91454458187211
+            "longitude": -72.626173321536,
+            "latitude": 41.9145445818721
           },
           "when": null,
           "video": null,
@@ -492,7 +492,7 @@
         {
           "name": "Sam and Brian Bird Spot #2",
           "coordinate": {
-            "longitude": -72.62531987549602,
+            "longitude": -72.625319875496,
             "latitude": 41.9108698659679
           },
           "when": null,
@@ -509,7 +509,7 @@
           "name": "Sam and Brian Bird Spot #3",
           "coordinate": {
             "longitude": -72.625428901365,
-            "latitude": 41.91044931407903
+            "latitude": 41.910449314079
           },
           "when": null,
           "video": null,
@@ -525,7 +525,7 @@
           "name": "Sam and Brian Bird Spot #4",
           "coordinate": {
             "longitude": -72.6252017874092,
-            "latitude": 41.90820319220517
+            "latitude": 41.9082031922052
           },
           "when": null,
           "video": null,
@@ -540,7 +540,7 @@
         {
           "name": "Bradley International Airport",
           "coordinate": {
-            "longitude": -72.68603139999999,
+            "longitude": -72.6860314,
             "latitude": 41.9388735
           },
           "when": null,
@@ -588,7 +588,7 @@
         {
           "name": "Septic Solutions",
           "coordinate": {
-            "longitude": -85.14675609999999,
+            "longitude": -85.1467561,
             "latitude": 36.0506317
           },
           "when": null,
@@ -604,7 +604,7 @@
         {
           "name": "Austin-Bergstrom International Airport",
           "coordinate": {
-            "longitude": -97.66635289999998,
+            "longitude": -97.6663529,
             "latitude": 30.1974711
           },
           "when": null,
@@ -620,8 +620,8 @@
         {
           "name": "In-N-Out Burger",
           "coordinate": {
-            "longitude": -97.78883176550592,
-            "latitude": 30.23864698878215
+            "longitude": -97.7888317655059,
+            "latitude": 30.2386469887822
           },
           "when": null,
           "video": null,
@@ -636,8 +636,8 @@
         {
           "name": "Sam and Brian Scooter Pick Up Spot",
           "coordinate": {
-            "longitude": -118.3958921895893,
-            "latitude": 33.94589074450597
+            "longitude": -118.395892189589,
+            "latitude": 33.945890744506
           },
           "when": null,
           "video": null,
@@ -668,8 +668,8 @@
         {
           "name": "Sam Leprechaun Changing Spot",
           "coordinate": {
-            "longitude": -118.3960099061612,
-            "latitude": 33.95642133232231
+            "longitude": -118.396009906161,
+            "latitude": 33.9564213323223
           },
           "when": null,
           "video": null,
@@ -684,8 +684,8 @@
         {
           "name": "Sam and Brian Four Leaf Clover Spot",
           "coordinate": {
-            "longitude": -118.3945455686759,
-            "latitude": 33.95449036984019
+            "longitude": -118.394545568676,
+            "latitude": 33.9544903698402
           },
           "when": null,
           "video": null,
@@ -716,8 +716,8 @@
         {
           "name": "Concourse D Station",
           "coordinate": {
-            "longitude": -115.1376752694295,
-            "latitude": 36.08206188480702
+            "longitude": -115.137675269429,
+            "latitude": 36.082061884807
           },
           "when": null,
           "video": null,
@@ -732,8 +732,8 @@
         {
           "name": "LAS Terminal 3 Station",
           "coordinate": {
-            "longitude": -115.1370896815608,
-            "latitude": 36.08597601958552
+            "longitude": -115.137089681561,
+            "latitude": 36.0859760195855
           },
           "when": null,
           "video": null,
@@ -828,8 +828,8 @@
         {
           "name": "3rd Battle Challenge Initiation Spot",
           "coordinate": {
-            "longitude": -114.8362198201184,
-            "latitude": 35.97821617255564
+            "longitude": -114.836219820118,
+            "latitude": 35.9782161725556
           },
           "when": null,
           "video": null,
@@ -860,8 +860,8 @@
         {
           "name": "Brian Drawing Spot",
           "coordinate": {
-            "longitude": -114.8362128359042,
-            "latitude": 35.97806497338912
+            "longitude": -114.836212835904,
+            "latitude": 35.9780649733891
           },
           "when": null,
           "video": null,
@@ -876,8 +876,8 @@
         {
           "name": "Denver International Airport Terminal B Station",
           "coordinate": {
-            "longitude": -104.6737551815026,
-            "latitude": 39.85870800617957
+            "longitude": -104.673755181503,
+            "latitude": 39.8587080061796
           },
           "when": null,
           "video": null,
@@ -924,8 +924,8 @@
         {
           "name": "Sam and Brian Advertising Pole",
           "coordinate": {
-            "longitude": -105.3049698044756,
-            "latitude": 41.12529316276158
+            "longitude": -105.304969804476,
+            "latitude": 41.1252931627616
           },
           "when": null,
           "video": null,
@@ -949,8 +949,8 @@
         {
           "name": "Times Square",
           "coordinate": {
-            "longitude": -73.98586262484639,
-            "latitude": 40.75760191692743
+            "longitude": -73.9858626248464,
+            "latitude": 40.7576019169274
           },
           "when": null,
           "video": null,
@@ -1030,7 +1030,7 @@
           "name": "Newark - Pennsylvania Station",
           "coordinate": {
             "longitude": -74.1639867,
-            "latitude": 40.73459889999999
+            "latitude": 40.7345989
           },
           "when": null,
           "video": null,
@@ -1077,8 +1077,8 @@
         {
           "name": "Philadelphia Bike Pick-Up Zone",
           "coordinate": {
-            "longitude": -75.18328917581559,
-            "latitude": 39.95469485705024
+            "longitude": -75.1832891758156,
+            "latitude": 39.9546948570502
           },
           "when": null,
           "video": null,
@@ -1093,8 +1093,8 @@
         {
           "name": "Philadelphia Bike Drop-Off Zone",
           "coordinate": {
-            "longitude": -75.15628129884881,
-            "latitude": 39.95002393653817
+            "longitude": -75.1562812988488,
+            "latitude": 39.9500239365382
           },
           "when": null,
           "video": null,
@@ -1125,7 +1125,7 @@
         {
           "name": "Ferry Avenue",
           "coordinate": {
-            "longitude": -75.09178419999999,
+            "longitude": -75.0917842,
             "latitude": 39.9225682
           },
           "when": null,
@@ -1189,7 +1189,7 @@
         {
           "name": "Baltimore Penn Station",
           "coordinate": {
-            "longitude": -76.61569519999999,
+            "longitude": -76.6156952,
             "latitude": 39.3073174
           },
           "when": null,
@@ -1253,7 +1253,7 @@
         {
           "name": "New Haven Union Station",
           "coordinate": {
-            "longitude": -72.92670389999999,
+            "longitude": -72.9267039,
             "latitude": 41.2976508
           },
           "when": null,
@@ -1269,7 +1269,7 @@
         {
           "name": "PEZ Visitor Center",
           "coordinate": {
-            "longitude": -72.99703149999999,
+            "longitude": -72.9970315,
             "latitude": 41.2636461
           },
           "when": null,
@@ -1317,7 +1317,7 @@
         {
           "name": "South Station (Train Terminal)",
           "coordinate": {
-            "longitude": -71.05522859999999,
+            "longitude": -71.0552286,
             "latitude": 42.3522322
           },
           "when": null,
@@ -1333,8 +1333,8 @@
         {
           "name": "2nd Battle Challenge Initiation Spot",
           "coordinate": {
-            "longitude": -71.05636902223317,
-            "latitude": 42.35278256110585
+            "longitude": -71.0563690222332,
+            "latitude": 42.3527825611058
           },
           "when": null,
           "video": null,
@@ -1349,8 +1349,8 @@
         {
           "name": "Adam and Ben Bird Spot #1",
           "coordinate": {
-            "longitude": -71.05578904981994,
-            "latitude": 42.35261059565362
+            "longitude": -71.0557890498199,
+            "latitude": 42.3526105956536
           },
           "when": null,
           "video": null,
@@ -1365,7 +1365,7 @@
         {
           "name": "Adam and Ben Bird Spot #2",
           "coordinate": {
-            "longitude": -71.05718081779645,
+            "longitude": -71.0571808177964,
             "latitude": 42.3521648618856
           },
           "when": null,
@@ -1382,7 +1382,7 @@
           "name": "Adam and Ben Bird Spot #3",
           "coordinate": {
             "longitude": -71.0576240208956,
-            "latitude": 42.35235043259429
+            "latitude": 42.3523504325943
           },
           "when": null,
           "video": null,
@@ -1397,8 +1397,8 @@
         {
           "name": "Sam and Brian Bird Spot #1",
           "coordinate": {
-            "longitude": -72.62552206522167,
-            "latitude": 41.91208016258047
+            "longitude": -72.6255220652217,
+            "latitude": 41.9120801625805
           },
           "when": null,
           "video": null,
@@ -1413,8 +1413,8 @@
         {
           "name": "Adam and Ben Bird Spot #4",
           "coordinate": {
-            "longitude": -71.05745073761811,
-            "latitude": 42.35223436713127
+            "longitude": -71.0574507376181,
+            "latitude": 42.3522343671313
           },
           "when": null,
           "video": null,
@@ -1429,8 +1429,8 @@
         {
           "name": "Adam and Ben Bird Spot #5",
           "coordinate": {
-            "longitude": -71.05634894573645,
-            "latitude": 42.35268272671671
+            "longitude": -71.0563489457364,
+            "latitude": 42.3526827267167
           },
           "when": null,
           "video": null,
@@ -1445,8 +1445,8 @@
         {
           "name": "Adam and Ben Bird Spot #6",
           "coordinate": {
-            "longitude": -71.05623679998924,
-            "latitude": 42.35281611859583
+            "longitude": -71.0562367999892,
+            "latitude": 42.3528161185958
           },
           "when": null,
           "video": null,
@@ -1461,8 +1461,8 @@
         {
           "name": "Adam and Ben Bird Spot #7",
           "coordinate": {
-            "longitude": -71.05561124274823,
-            "latitude": 42.35252371593992
+            "longitude": -71.0556112427482,
+            "latitude": 42.3525237159399
           },
           "when": null,
           "video": null,
@@ -1509,7 +1509,7 @@
         {
           "name": "Terminal 1 Station",
           "coordinate": {
-            "longitude": -87.90558999999999,
+            "longitude": -87.90559,
             "latitude": 41.97925
           },
           "when": null,
@@ -1557,7 +1557,7 @@
         {
           "name": "O’Hare Multi Modal Facility (MMF)",
           "coordinate": {
-            "longitude": -87.88119139999999,
+            "longitude": -87.8811914,
             "latitude": 41.9931662
           },
           "when": null,
@@ -1574,7 +1574,7 @@
           "name": "Adam and Ben Day 2 Ending Spot",
           "coordinate": {
             "longitude": -87.8843663578933,
-            "latitude": 41.99794309271205
+            "latitude": 41.997943092712
           },
           "when": null,
           "video": null,
@@ -1591,8 +1591,8 @@
         {
           "name": "Adam and Ben Levee Challenge Spot",
           "coordinate": {
-            "longitude": -87.88805697508063,
-            "latitude": 42.10843558849319
+            "longitude": -87.8880569750806,
+            "latitude": 42.1084355884932
           },
           "when": null,
           "video": null,
@@ -1623,8 +1623,8 @@
         {
           "name": "Adam and Ben Criticizing Spot",
           "coordinate": {
-            "longitude": -86.93324464743327,
-            "latitude": 41.70881373066463
+            "longitude": -86.9332446474333,
+            "latitude": 41.7088137306646
           },
           "when": null,
           "video": null,
@@ -1639,7 +1639,7 @@
         {
           "name": "Jackie's Cafe",
           "coordinate": {
-            "longitude": -86.75207549999999,
+            "longitude": -86.7520755,
             "latitude": 41.7901505
           },
           "when": null,
@@ -1655,8 +1655,8 @@
         {
           "name": "Adam and Ben S&D Spot",
           "coordinate": {
-            "longitude": -86.75207763511543,
-            "latitude": 41.79005782432365
+            "longitude": -86.7520776351154,
+            "latitude": 41.7900578243236
           },
           "when": null,
           "video": null,
@@ -1687,8 +1687,8 @@
         {
           "name": "Hudson News",
           "coordinate": {
-            "longitude": -115.1388748178236,
-            "latitude": 36.08245730580929
+            "longitude": -115.138874817824,
+            "latitude": 36.0824573058093
           },
           "when": null,
           "video": null,
@@ -1704,7 +1704,7 @@
           "name": "The BLVD",
           "coordinate": {
             "longitude": -115.138861338324,
-            "latitude": 36.08215357383732
+            "latitude": 36.0821535738373
           },
           "when": null,
           "video": null,
@@ -1719,8 +1719,8 @@
         {
           "name": "Hudson News",
           "coordinate": {
-            "longitude": -115.1385731977477,
-            "latitude": 36.08176009039262
+            "longitude": -115.138573197748,
+            "latitude": 36.0817600903926
           },
           "when": null,
           "video": null,
@@ -1735,8 +1735,8 @@
         {
           "name": "Concourse D Station",
           "coordinate": {
-            "longitude": -115.1376752694295,
-            "latitude": 36.08206188480702
+            "longitude": -115.137675269429,
+            "latitude": 36.082061884807
           },
           "when": null,
           "video": null,
@@ -1751,8 +1751,8 @@
         {
           "name": "LAS Terminal 3 Station",
           "coordinate": {
-            "longitude": -115.1370896815608,
-            "latitude": 36.08597601958552
+            "longitude": -115.137089681561,
+            "latitude": 36.0859760195855
           },
           "when": null,
           "video": null,
@@ -1831,8 +1831,8 @@
         {
           "name": "Adam and Ben Parking Spot",
           "coordinate": {
-            "longitude": -113.8206714282924,
-            "latitude": 35.98726459360927
+            "longitude": -113.820671428292,
+            "latitude": 35.9872645936093
           },
           "when": null,
           "video": null,
@@ -1847,8 +1847,8 @@
         {
           "name": "Adam and Ben Drawing Spot #1",
           "coordinate": {
-            "longitude": -115.1375409825361,
-            "latitude": 36.08586789326114
+            "longitude": -115.137540982536,
+            "latitude": 36.0858678932611
           },
           "when": null,
           "video": null,
@@ -1863,8 +1863,8 @@
         {
           "name": "Hudson News Terminal 3",
           "coordinate": {
-            "longitude": -115.1378531512702,
-            "latitude": 36.08586482348694
+            "longitude": -115.13785315127,
+            "latitude": 36.0858648234869
           },
           "when": null,
           "video": null,
@@ -1911,8 +1911,8 @@
         {
           "name": "Adam and Ben Help Spot",
           "coordinate": {
-            "longitude": -131.7098017296827,
-            "latitude": 55.35751877744555
+            "longitude": -131.709801729683,
+            "latitude": 55.3575187774455
           },
           "when": null,
           "video": null,

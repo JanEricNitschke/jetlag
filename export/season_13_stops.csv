@@ -1,3 +1,53 @@
 season,season_name,journey_team,journey_color,stop_index,name,longitude,latitude,when_start,when_end,video_episode,video_start,video_end,players_override,additional_players,notes,end_of_day
-13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,0,Placeholder,0.0,0.0,,,,,,,,,
-13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,0,Placeholder,0.0,0.0,,,,,,,,,
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,0,Victoria Station,-0.1439,51.49521,2025-01-06T06:30:00,,,,,,,"Game start (doc: Jan 6 2025, ~6:30 UTC; teaser clock ~6:55)",
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,1,London St Pancras,-0.1270027,51.5327196,,,,,,,,,
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,2,Brussels Midi,4.3360541,50.8357755,,,,,,,,,
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,3,Liège-Guillemins,5.56671,50.62443,,,,,,,,,
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,4,Carrefour Express Guillemins,5.56641,50.62579,,,,,,,,"Probable waffle purchase, likely in relation with waffle pong (doc marks as probable)
+Exact time within Day 1 not stated in doc",
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,5,Liège-Guillemins,5.56671,50.62443,,,,,,,,Return to station for Maastricht train,
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,6,Maastricht,5.69097,50.85137,,,,,,,,Striped traffic lights clip; Tom runs from station westwards,
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,7,Liège-Guillemins,5.56671,50.62443,,,,,,,,Day 1 end (overnight),1
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,8,Brussels Airport (Gate A51),4.48486,50.90296,,,,,,,,Gate A51/A53 (Sam: 'I don't panic' at gate A51),
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,9,Vienna Airport,16.5848987,48.1049968,,,,,,,,,
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,10,Bratislava,17.10566,48.15384,,,,,,,,Claiming Slovakia; 'BT' number plate clip,
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,11,Hegyeshalom,17.146734,47.9132102,,,,,,,,"Hungary claim (doc: '?', uncertain)",
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,12,Vienna (Wien Hauptbahnhof),16.3779391,48.1849883,,,,,,,,Day 2 end (overnight),2
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,13,Břeclav Station,16.89231,48.75384,,,,,,,,Claiming Czechia,
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,14,Park in Brečlav,16.89082,48.75476,,,,,,,,"Czechia challenge: 'Kill Time, Then Tell Time' (oldest continuously working clock, 5-minute tolerance)",
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,15,Břeclav Station,16.89231,48.75384,,,,,,,,,
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,16,Vienna (Wien Hauptbahnhof),16.3779391,48.1849883,,,,,,,,Day 3 return (doc: 'Back to Vienna?'); evening location unknown,3
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,17,Copenhagen Kastrup Airport (T2),12.64937,55.6292,,,,,,,,"AMBIGUOUS: doc places this under Sam+Tom in the photo-order section but Current Question #2 asks who is actually in Copenhagen; day unknown (Day 3 vs Day ?)
+Arrival flight unidentified in doc",
+13,Schengen Showdown,Sam Denby; Tom Scott,#00796B,18,Malmö,13.0006612,55.6091374,,,,,,,,"Claiming Sweden; day unknown (Day 3/4?)
+Days after Malmö not covered by source doc; unknown Austrian Airlines flight (possibly Vienna→Bucharest on Day 6?)",
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,0,Victoria Station,-0.1439,51.49521,2025-01-06T06:30:00,,,,,,,"Game start (doc: Jan 6 2025, ~6:30 UTC)",
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,1,Ealing Broadway,-0.3022152,51.5140203,,,,,,,,,
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,2,Heathrow Terminal 4,-0.4454717,51.4588093,,,,,,,,,
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,3,Zurich Airport,8.5533661,47.4633881,,,,,,,,,
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,4,Zurich HB,8.54025,47.37815,,,,,,,,"'Leaving Zurich HB' clip ~12:27 (Ep1 clip: Sam tracking Badam, 'both still in Zurich Station')",
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,5,Schaffhausen,8.6326837,47.6981052,,,,,,,,,
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,6,Waldshut,8.21914,47.62239,,,,,,,,"Claiming Germany
+Doc puzzles over why they routed via Schaffhausen (cancelled IRE3, challenge defense, or ferry theory - unresolved)",
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,7,Basel SBB,7.5896417,47.5476225,,,,,,,,,
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,8,Saint-Louis,7.5615765,47.5860467,,,,,,,,"France claim/steal (doc: 'France ? (steal)' - uncertain)
+Arrived from Basel evening of Jan 6; mode not stated in doc
+Day 1 end (overnight)",1
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,9,St. Margarethen,9.63756,47.45337,,,,,,,,Station clock shows 11:35 (Day 2),
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,10,Höchst,9.63949,47.45739,,,,,,,,Claiming Austria ('locked as it seems from the challenge'),
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,11,St. Margarethen,9.63756,47.45337,,,,,,,,Return from Höchst,
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,12,Buchs SG,9.4787656,47.1687116,,,,,,,,,
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,13,Schaan,9.49596,47.16942,,,,,,,,"Claiming Liechtenstein
+Day 2 end (overnight in Schaan or Buchs per doc)",2
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,14,Buchs SG,9.4787656,47.1687116,,,,,,,,Day 3 start (returned from Schaan/Buchs overnight position; walk mode not stated in doc),
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,15,Zurich Airport,8.5533661,47.4633881,,,,,,,,,
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,16,Rome,12.49092,41.89103,,,,,,,,Jan 8 12:56 UTC Twitter post (Creation of Adam drawing - 'Claiming Vatican City? Forge European art as a challenge?'),
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,17,Vatican City,12.4573573,41.9022351,,,,,,,,"Claiming Vatican City; ~14:00 based on tweet challenge timing
+Mode of travel within Rome not stated in doc",
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,18,Colosseum,12.491903,41.8909421,,,,,,,,"Earliest Colosseum arrival ~14:40 per doc; Day 3 end
+Claiming Italy",3
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,19,Copenhagen Kastrup Airport,12.64937,55.6292,,,,,,,,"AMBIGUOUS: doc's Day 4 line is 'AMS? CPH? Malmo?' - nothing confirmed; placed here because Day 5 starts with the CPH→TRF flight
+Arrival into Copenhagen unidentified in doc",
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,20,Oslo Torp Airport,10.31653,59.11805,,,,,,,,"Claiming Norway
+AMBIGUOUS: doc says 'Guessing this is Badam' (Current Question #3: Oslo clip might not be Tom+Sam)",
+13,Schengen Showdown,Adam Chase; Ben Doyle,#D32F2F,21,Oslo,10.7531379,59.9110251,,,,,,,,Day 5 (Jan 10); Day 6 (Jan 11) not covered by source doc,5

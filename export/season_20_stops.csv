@@ -1,4 +1,27 @@
 season,season_name,journey_team,journey_color,stop_index,name,longitude,latitude,when_start,when_end,video_episode,video_start,video_end,players_override,additional_players,notes,end_of_day
-20,Hide + Seek Italy,Adam Chase,#D32F2F,0,Placeholder,0.0,0.0,,,,,,,,,
-20,Hide + Seek Italy,Ben Doyle,#FFEE58,0,Placeholder,0.0,0.0,,,,,,,,,
-20,Hide + Seek Italy,Sam Denby,#F57C00,0,Placeholder,0.0,0.0,,,,,,,,,
+20,Hide + Seek Italy,Adam Chase,#D32F2F,0,Narni Amelia Station,12.519139,42.5307121,2026-09-15T07:00:00,,,,,,,"Game start, Day 1 (Tue 15 Sep 2026) 7:00; start video location per doc
+Seeker (Sam is the first hider); movements after leaving Narni Amelia not given in doc",
+20,Hide + Seek Italy,Adam Chase,#D32F2F,1,"Villa Comunale, Vietri sul Mare",14.732163,40.670683,2026-09-16T10:30:00,,,,,,,"Day 2 (Wed 16 Sep 2026) ~10:30 (±15 min) per doc timeline; timeline only says 'Vietri sul Mare', Villa Comunale is the located Day-2 clip site (S19E06 stinger)
+Coordinates from doc extract (maps search query, lower confidence than a place pin)
+Movements after 10:30 unknown; Days 3-6 not covered by source doc",
+20,Hide + Seek Italy,Ben Doyle,#FFEE58,0,Narni Amelia Station,12.519139,42.5307121,2026-09-15T07:00:00,,,,,,,"Game start, Day 1 (Tue 15 Sep 2026) 7:00; start video location per doc
+Seeker (Sam is the first hider); movements after leaving Narni Amelia not given in doc",
+20,Hide + Seek Italy,Ben Doyle,#FFEE58,1,"Villa Comunale, Vietri sul Mare",14.732163,40.670683,2026-09-16T10:30:00,,,,,,,"Day 2 (Wed 16 Sep 2026) ~10:30 (±15 min) per doc timeline; timeline only says 'Vietri sul Mare', Villa Comunale is the located Day-2 clip site (S19E06 stinger)
+Coordinates from doc extract (maps search query, lower confidence than a place pin)
+Movements after 10:30 unknown; Days 3-6 not covered by source doc",
+20,Hide + Seek Italy,Sam Denby,#F57C00,0,Narni Amelia Station,12.519139,42.5307121,,,,,,,,"Day 0 (Mon 14 Sep 2026) departure on Sam's pre-game hide run; no time given in doc
+Game start point per doc",
+20,Hide + Seek Italy,Sam Denby,#F57C00,1,Roma Termini,12.5016713,41.901195,,,,,,,,"Day 0 (Mon 14 Sep 2026) on Sam's hide run; no time given in doc
+Coordinates from Nominatim (Roma Termini station)",
+20,Hide + Seek Italy,Sam Denby,#F57C00,2,Salerno Station,14.7726212,40.6754966,,,,,,,,"Day 0 (Mon 14 Sep 2026) on Sam's hide run; no time given in doc
+Coordinates from Nominatim (Salerno railway station)",
+20,Hide + Seek Italy,Sam Denby,#F57C00,3,Vietri sul Mare,14.7286002,40.6715477,,,,,,,,"Day 0 (Mon 14 Sep 2026) arrival at hiding area; no time given in doc
+Coordinates from Nominatim (town)",
+20,Hide + Seek Italy,Sam Denby,#F57C00,4,"Crestarella (Beach), Vietri sul Mare",14.7316602,40.6692866,2026-09-15T07:00:00,,,,,,,"Start video location, Day 1 (Tue 15 Sep 2026) 7:00, located by SeaOwl per doc
+Coordinates from Nominatim (Spiaggia della Crestarella)
+No travel between Day 0 arrival and this Day 1 sighting documented; Sam was hiding in Vietri sul Mare",
+20,Hide + Seek Italy,Sam Denby,#F57C00,5,"Villa Comunale, Vietri sul Mare",14.732163,40.670683,2026-09-16T10:30:00,,,,,,,"S19E06 stinger, Day 2 (Wed 16 Sep 2026) ~10:30 (±15 min), located by anotherdoofus; clothing changes from the start of the game
+Coordinates from doc extract (maps search query, lower confidence than a place pin)",
+20,Hide + Seek Italy,Sam Denby,#F57C00,6,Vietri sul Mare,14.7286002,40.6715477,2026-09-16T14:30:00,,,,,,,"Day 2 (Wed 16 Sep 2026) 14:30 sighting per doc timeline; exact spot within Vietri sul Mare not given in doc
+Coordinates from Nominatim (town); same-town sighting, no travel leg between the two Day 2 Vietri stops
+Movements after 14:30 unknown; Days 3-6 not covered by source doc",

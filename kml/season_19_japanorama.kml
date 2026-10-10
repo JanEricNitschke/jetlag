@@ -5,8 +5,11 @@
     <Folder>
       <name>Sam Denby &amp; Ben Doyle</name>
       <Placemark>
-        <name>Placeholder</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle</description>
+        <name>Nishi-Oyama Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Race start: southernmost train station in Japan (Ibusuki Makurazaki Line, Kagoshima); 07:50 JST social post&lt;/li&gt;&lt;li&gt;Both teams start here&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-05-21T07:00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -17,15 +20,436 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>0.0,0.0</coordinates>
+          <coordinates>130.5766412,31.1903089</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kagoshima Cultural Experience (Sengan-en)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1: Shihan Mato bow-and-arrow archery at Sengan-en (opens 9AM)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>130.5795502,31.6187848</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shin-Yatsushiro Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Multiple Day 1 clips (approach pin 32.5153/130.6358; mirrored clip, Platform 2; Sam pointing south at local train bound for Kumamoto)&lt;/li&gt;&lt;li&gt;Day 1 end&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>130.634807,32.5181068</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mojiko (Kitakyushu)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 start ~7:00 AM (Nishikaigan Ryokuchi, just outside Premier Hotel Mojiko; solar ~7:00-7:34)&lt;/li&gt;&lt;li&gt;Overnight travel from Shin-Yatsushiro to Kitakyushu not documented&lt;/li&gt;&lt;li&gt;Kanmon Bridge view clip (33.961192/130.962395) taken in the area&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>130.9614588,33.9462017</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tzusu Beach (Iwakuni)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2: fishing challenge (Sam with net); solar estimates range 07:00-14:30 across the two clips&lt;/li&gt;&lt;li&gt;Nearest station Tsuzu on the JR Sanyo Main Line&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>132.210852,34.073044</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cat Café MOFF minamia (Hiroshima)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 (doc marks &amp;#x27;Bam?&amp;#x27; — question mark carried); open 10:00-20:00; clip is mirrored&lt;/li&gt;&lt;li&gt;Day 2 end&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>132.4749557,34.3974106</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fukuyama Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3: Platform 2 toward Osaka/Tokyo; signboard analysis confirms the 10:57 Sakura (the 17:57 would be followed by another Sakura)&lt;/li&gt;&lt;li&gt;Overnight travel from Hiroshima to Fukuyama not documented&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>133.3613787,34.4892001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kobe Nunobiki Herb Gardens</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 (doc marks &amp;#x27;Bam?&amp;#x27; — Ben&amp;#x27;s backpack visible in reflection; ropeway open 09:30-17:15 weekdays)&lt;/li&gt;&lt;li&gt;Nearest station Shin-Kobe&lt;/li&gt;&lt;li&gt;Day 3 end&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 3&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>135.192087,34.710633</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inuyama Castle</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4, 10:33 JST social post; several exact pins (35.3868/136.9363; 35.3891/136.9336)&lt;/li&gt;&lt;li&gt;Nearest station Inuyama-Yuen (Meitetsu Inuyama Line); overnight travel from Kobe not documented&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>136.939484,35.388046</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gifu-Hashima Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4: Tokaido Shinkansen bound toward Tokyo (&amp;#x27;are you ready to go zoom?&amp;#x27;)&lt;/li&gt;&lt;li&gt;AMBIGUOUS: solar estimate ~16:00 for this clip conflicts with the Yokohama Stadium 14:54-14:59 and Imperial Palace ~16:29 sequence&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>136.685295,35.3158405</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yokohama Stadium</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4: Yokohama Swallows home game (started 14:00); clips at 14:54-14:59 (chance chant for Iwata only in the top of the 4th on 5/24)&lt;/li&gt;&lt;li&gt;Ben gets a beige cap at the game&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.6401002,35.4432233</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Imperial Palace</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4 ~16:29 JST; Sam drawing lines for the bamboo Instagram poll photo (matches 16:29 social post)&lt;/li&gt;&lt;li&gt;Travel from Yokohama to Tokyo not documented (mode not stated)&lt;/li&gt;&lt;li&gt;Day 4 end&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 4&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7543611,35.68725</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tohoku Main Line (heading toward Ichinoseki)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5: clip reversed; camera out the REAR of a northbound train; trains arrive Ichinoseki 13:45 and 14:45&lt;/li&gt;&lt;li&gt;AMBIGUOUS: team Bam per the &amp;#x27;phone theory&amp;#x27; (filming phone case matches Ben&amp;#x27;s) — not explicit in doc&lt;/li&gt;&lt;li&gt;Overnight travel Tokyo -&amp;gt; Tohoku not documented&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>141.11746,38.888858</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ichinoseki Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5: Ichinoseki area, Iwate (per doc prefecture table: Bam)&lt;/li&gt;&lt;li&gt;Day 5 end&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 5&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>141.1376183,38.926201</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akita</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 6: near Akita Station (landscape-award plaque clip)&lt;/li&gt;&lt;li&gt;Team attribution blank in doc — both teams were converging on nearly the same path; duplicated in both journeys&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.126936,39.716528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hokkaido Koma-ga-take</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 6: Hokkaido, south of Hakodate (view clip)&lt;/li&gt;&lt;li&gt;Team attribution blank in doc — duplicated in both journeys; Tohoku -&amp;gt; Hokkaido crossing itself not located&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 6&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.6600944,41.960334</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asahikawa Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 7 09:00: Soya Main Line Limited Express toward Wakkanai (JR Hokkaido Lavender 261-5000 special set assigned to the May 27 9AM train)&lt;/li&gt;&lt;li&gt;Team unknown in doc (both teams plausible); travel to Asahikawa not documented&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>142.3585,43.7628</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soya Main Line approaching Wakkanai</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 7: Mount Rishiri view (alternate pin 45.359581/141.663113)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>141.663004,45.358857</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wakkanai Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Race finish: northernmost train station in Japan&lt;/li&gt;&lt;li&gt;Team unknown (both plausible — doc asks what happens if both arrive on the same train); winner not stated in doc&lt;/li&gt;&lt;li&gt;Game ended May 27 (doc: &amp;#x27;ended by 15:50 JST&amp;#x27;; social post 15:58 JST)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 7&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>141.6771991,45.4166166</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nishi-Oyama Station to Kagoshima Cultural Experience (Sengan-en) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;JR Ibusuki Makurazaki Line north to the Kagoshima area</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>130.5766412,31.1903089 130.5795502,31.6187848</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kagoshima Cultural Experience (Sengan-en) to Shin-Yatsushiro Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Northbound from Kagoshima: Kyushu Shinkansen to Shin-Yatsushiro, then local toward Kumamoto (per doc clips)</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>130.5795502,31.6187848 130.634807,32.5181068</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mojiko (Kitakyushu) to Tzusu Beach (Iwakuni) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Sanyo Main Line west toward Iwakuni</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>130.9614588,33.9462017 132.210852,34.073044</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tzusu Beach (Iwakuni) to Cat Café MOFF minamia (Hiroshima) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Sanyo Main Line to Hiroshima</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>132.210852,34.073044 132.4749557,34.3974106</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Fukuyama Station to Kobe Nunobiki Herb Gardens (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Sakura 10:57 Sanyo Shinkansen eastbound toward Osaka/Kobe</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>133.3613787,34.4892001 135.192087,34.710633</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Inuyama Castle to Gifu-Hashima Station (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Possibly a taxi between the castle and Gifu-Hashima (doc discusses a taxi; direction AMBIGUOUS — placed castle -&amp;gt; station per doc&amp;#x27;s timeline; taxis must return to the same place before advancing)</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>136.939484,35.388046 136.685295,35.3158405</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Gifu-Hashima Station to Yokohama Stadium (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Tokaido Shinkansen toward Tokyo/Nagoya-Yokohama</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>136.685295,35.3158405 139.6401002,35.4432233</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tohoku Main Line (heading toward Ichinoseki) to Ichinoseki Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Tohoku Main Line into Ichinoseki (Ichinoseki Tunnel clip en route)</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>141.11746,38.888858 141.1376183,38.926201</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Asahikawa Station to Soya Main Line approaching Wakkanai (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Soya Main Line Limited Express, dep 9:00</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>142.3585,43.7628 141.663004,45.358857</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Soya Main Line approaching Wakkanai to Wakkanai Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Soya Main Line arrival into Wakkanai</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>141.663004,45.358857 141.6771991,45.4166166</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
     <Folder>
       <name>Adam Chase &amp; Tom Scott</name>
       <Placemark>
-        <name>Placeholder</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott</description>
+        <name>Nishi-Oyama Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Race start (both teams)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-05-21T07:00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -36,8 +460,641 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>0.0,0.0</coordinates>
+          <coordinates>130.5766412,31.1903089</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kagoshima (Ishin Furusato-kan street)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 street clips (Ep1 additional pin 31.5842/130.5478)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>130.5472523,31.584833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum and Road of the Meiji Restoration</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1: near Kagoshima Chuo (Amuran ferris wheel in background); &amp;#x27;where they might be attempting a challenge&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>130.5443573,31.5849724</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kagoshima Station (2-35 Hamamachi)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1: Adam holding a watermelon and pole (Nishimuta Kitafuto shop, opens 9:30, is a possible source: 31.5987241/130.5611449)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>130.5639943,31.6019526</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iso Beach</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1: Suikawari (watermelon-splitting) challenge direction — Adam holding watermelon + pole&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>130.575521,31.6149124</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sengan-en Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1: Adam and Tom together with watermelon + pole, looking toward Iso Beach; clip also shows them westbound back toward Kagoshima&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>130.576949,31.616976</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taniyama Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 ~15:52 by train schedule (departures 15:52, 18:03, 19:00; 8:05 impossible); real estate office blinds suggest 15:52&lt;/li&gt;&lt;li&gt;Day 1 end&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>130.519675,31.526407</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Usuki Port</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2: ferry departure from Usuki (Oita)&lt;/li&gt;&lt;li&gt;Travel from Kagoshima area to Usuki not documented in doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>131.8104425,33.1261341</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yawatahama</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 ~14:00: &amp;#x27;the town where the ferry from Kyushu arrives&amp;#x27; — implies Atom took a ferry from Kyushu (doc discussion)&lt;/li&gt;&lt;li&gt;Team attribution blank in doc; Atom per prefecture table + discussion — AMBIGUOUS&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>132.42942,33.456849</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Otemachi Station (Ehime)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2: Iyotetsu Takahama Line&lt;/li&gt;&lt;li&gt;Day 2 end (evening location unknown in doc)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>132.7554762,33.8398801</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matsuyama City Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3: tram arrives 07:05&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>132.7617619,33.8359766</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JR Matsuyama Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 ~07:57 by sun + train arrival; Series 8000 Limited Express to Okayama (Anpanman Train may run 08:10 or 14:23); train heads south then turns around and heads back north&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>132.750762,33.8397822</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Seto Bridge</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3: on the train (bridge/museum pin 34.353692/133.827508)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>133.828085,34.348466</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shin-Osaka Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3: leaving Shin-Osaka (&amp;#x27;most likely headed to the Open Air Museum&amp;#x27;); Okayama Korakuen clip (34.667281/133.935861) has day unknown and is not placed&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>135.501,34.7326</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Open Air Museum of Old Japanese Farm Houses (Osaka)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 (clip 55 team Atom; travel mode from Shin-Osaka not stated)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>135.4872364,34.7794673</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arashiyama Bamboo Grove (Kyoto)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 (near Saga-Arashiyama Station, JR Sagano Line)&lt;/li&gt;&lt;li&gt;Day 3 end&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 3&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>135.67526,35.017454</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kenroku-en (Kanazawa)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4: solar estimates conflict (~13:40 in located clips vs 12:30 ±15 in sun calculations)&lt;/li&gt;&lt;li&gt;Team attribution blank in doc — the Hokuriku route fits Atom (AMBIGUOUS); overnight travel from Kyoto not documented&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>136.6620537,36.5643513</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Highway 156 near Suganuma Gassho-zukuri Village</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4 ~16:30 (solar); team attribution blank in doc (fits Atom)&lt;/li&gt;&lt;li&gt;Candidates for the Gassho-zukuri card-building clip: Suganuma village, Enryaku-ji, 飛騨白川の民家 (34.7788198/135.4876072) — unresolved in doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>136.8819577,36.4008507</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Enryaku-ji (Daikodo)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Doc marks &amp;#x27;Day 4?&amp;#x27; — carry as AMBIGUOUS (temple open 9AM-4PM); reached via the Hieizan Sakamoto Cable Car (station 35.0706650/135.8783509)&lt;/li&gt;&lt;li&gt;Travel from the Shirakawa-go area to Lake Biwa not documented&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 4&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>135.8403952,35.0695552</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ichiburi Station (Niigata)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 ~07:30 (candidate trains 07:22 and 09:29); team attribution blank in doc — the Hokuriku route fits Atom (AMBIGUOUS)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>137.6502143,36.9804094</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Chokai view</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5: view point (candidates 38.89802/139.9058; mountain pin 39.0989/140.0441); team blank in doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.92149,38.835027</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Weir on Mogami river near Kiyokawa</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 ~16:15 (solar); team Atom per doc&lt;/li&gt;&lt;li&gt;Routing from the coast inland unclear in doc — possibly via Shinjo (Tsubasa 137 arrives Shinjo 15:28; Rikuu West Line 1625D Shinjo 16:15 -&amp;gt; Sakata 17:15)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.030734,38.7786179</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sakata Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5: Uetsu Main Line platform 2; likely the 17:27 arrival / 17:50 departure pair (doc also cites a 17:15 arrival via the Rikuu West Line — inconsistent)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.8458948,38.9222309</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mototate (Sakata)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 ~17:35 (solar); Sakata Joint Thermal Power Station visible in the shot&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.876282,38.96324</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kisakata Beach (Akita)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 ~18:15 (solar); team blank in doc but note says &amp;#x27;Atom have disembarked here&amp;#x27;&lt;/li&gt;&lt;li&gt;Day 5 end&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 5&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.8944476,39.2064502</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akita</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 6: near Akita Station&lt;/li&gt;&lt;li&gt;Team attribution blank in doc — duplicated in both journeys&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.126936,39.716528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hokkaido Koma-ga-take</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 6 (south of Hakodate); team blank in doc — duplicated in both journeys; Hokkaido crossing itself not located&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 6&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.6600944,41.960334</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asahikawa Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 7 09:00: Soya Main Line Limited Express toward Wakkanai; team unknown in doc (both plausible)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>142.3585,43.7628</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soya Main Line approaching Wakkanai</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 7: Mount Rishiri view&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>141.663004,45.358857</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wakkanai Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Race finish: northernmost station&lt;/li&gt;&lt;li&gt;Team unknown (both plausible); winner not stated in doc&lt;/li&gt;&lt;li&gt;Game ended May 27 (&amp;#x27;ended by 15:50 JST&amp;#x27;; social post 15:58 JST)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 7&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>141.6771991,45.4166166</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nishi-Oyama Station to Kagoshima (Ishin Furusato-kan street) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;JR Ibusuki Makurazaki Line north (clip between Ibusuki and Nigatsuden stations: 31.2507601/130.6336644)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>130.5766412,31.1903089 130.5472523,31.584833</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sengan-en Station to Taniyama Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Southbound Nanohana Rapid through Taniyama ~15:52 (direction as given in doc — unexplained)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>130.576949,31.616976 130.519675,31.526407</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Usuki Port to Yawatahama (ferry)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; ferry&lt;br&gt;Usuki -&amp;gt; Yawatahama ferry, 11:30-13:50 (arrival ~14:00 per sun calc)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>131.8104425,33.1261341 132.42942,33.456849</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Yawatahama to Otemachi Station (Ehime) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Iyotetsu northbound to Takahama (clip 26: northbound to Takahama)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>132.42942,33.456849 132.7554762,33.8398801</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>JR Matsuyama Station to Great Seto Bridge (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Shiokaze Limited Express Matsuyama -&amp;gt; Okayama direct; clip on approach to the Great Seto Bridge (Uzushio cruise boat seen below)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>132.750762,33.8397822 133.828085,34.348466</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Great Seto Bridge to Shin-Osaka Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Sanyo Shinkansen Okayama -&amp;gt; Shin-Osaka (shinkansen card required by the rules)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>133.828085,34.348466 135.501,34.7326</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kenroku-en (Kanazawa) to Highway 156 near Suganuma Gassho-zukuri Village (bus)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; bus&lt;br&gt;Along Highway 156 toward Shirakawa-go (doc: &amp;#x27;probably a bus to Shirakawa-go&amp;#x27;)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>136.6620537,36.5643513 136.8819577,36.4008507</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ichiburi Station (Niigata) to Mount Chokai view (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Coastal rail northbound toward Sakata (Mount Chokai clip is from a train, probably reversed =&amp;gt; northbound)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>137.6502143,36.9804094 139.92149,38.835027</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Weir on Mogami river near Kiyokawa to Sakata Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Rikuu West Line 1625D (Shinjo 16:15 -&amp;gt; Sakata 17:15)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>140.030734,38.7786179 139.8458948,38.9222309</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sakata Station to Mototate (Sakata) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Uetsu Main Line northbound, dep 17:50 (Mototate clip at ~17:35 conflicts with this departure — doc timing inconsistency)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.8458948,38.9222309 139.876282,38.96324</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mototate (Sakata) to Kisakata Beach (Akita) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Uetsu Main Line (&amp;#x27;Cannot be seen from the train so Atom have disembarked here&amp;#x27;, ~18:15)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.876282,38.96324 139.8944476,39.2064502</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Asahikawa Station to Soya Main Line approaching Wakkanai (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Soya Main Line Limited Express, dep 9:00</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>142.3585,43.7628 141.663004,45.358857</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Soya Main Line approaching Wakkanai to Wakkanai Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Soya Main Line arrival into Wakkanai</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>141.663004,45.358857 141.6771991,45.4166166</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
   </Document>

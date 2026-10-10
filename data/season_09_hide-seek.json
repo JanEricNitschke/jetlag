@@ -11,8 +11,8 @@
         {
           "name": "Adam Starting Location",
           "coordinate": {
-            "longitude": 8.569644998957386,
-            "latitude": 46.61769560725016
+            "longitude": 8.56964499895739,
+            "latitude": 46.6176956072502
           },
           "when": null,
           "video": null,
@@ -27,7 +27,7 @@
         {
           "name": "Question Spot",
           "coordinate": {
-            "longitude": 8.567810099999999,
+            "longitude": 8.5678101,
             "latitude": 46.6188677
           },
           "when": null,
@@ -59,7 +59,7 @@
         {
           "name": "Question Spot",
           "coordinate": {
-            "longitude": 8.568640499999999,
+            "longitude": 8.5686405,
             "latitude": 46.6193347
           },
           "when": null,
@@ -76,7 +76,7 @@
           "name": "Gasthaus Pizzeria zum Turm",
           "coordinate": {
             "longitude": 8.5675254,
-            "latitude": 46.61866209999999
+            "latitude": 46.6186621
           },
           "when": null,
           "video": null,
@@ -91,7 +91,7 @@
         {
           "name": "Pfarrkirche Hospental",
           "coordinate": {
-            "longitude": 8.567946899999999,
+            "longitude": 8.5679469,
             "latitude": 46.6194623
           },
           "when": null,
@@ -211,7 +211,7 @@
         {
           "name": "Göschenen",
           "coordinate": {
-            "longitude": 8.588762599999999,
+            "longitude": 8.5887626,
             "latitude": 46.6658534
           },
           "when": null,
@@ -244,7 +244,7 @@
           "name": "avec (inside train station, lower level)",
           "coordinate": {
             "longitude": 8.5939687,
-            "latitude": 46.63739590000001
+            "latitude": 46.6373959
           },
           "when": null,
           "video": null,
@@ -275,7 +275,7 @@
         {
           "name": "Apple Curse",
           "coordinate": {
-            "longitude": 8.593443599999999,
+            "longitude": 8.5934436,
             "latitude": 46.6342994
           },
           "when": null,
@@ -379,7 +379,7 @@
         {
           "name": "Göschenen",
           "coordinate": {
-            "longitude": 8.588762599999999,
+            "longitude": 8.5887626,
             "latitude": 46.6658534
           },
           "when": null,
@@ -412,7 +412,7 @@
           "name": "avec (inside train station, lower level)",
           "coordinate": {
             "longitude": 8.5939687,
-            "latitude": 46.63739590000001
+            "latitude": 46.6373959
           },
           "when": null,
           "video": null,
@@ -443,7 +443,7 @@
         {
           "name": "Apple Curse",
           "coordinate": {
-            "longitude": 8.593443599999999,
+            "longitude": 8.5934436,
             "latitude": 46.6342994
           },
           "when": null,

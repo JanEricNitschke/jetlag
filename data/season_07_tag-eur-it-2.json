@@ -11,8 +11,8 @@
         {
           "name": "Place Ducale",
           "coordinate": {
-            "longitude": 4.720068572865392,
-            "latitude": 49.77353025804793
+            "longitude": 4.72006857286539,
+            "latitude": 49.7735302580479
           },
           "when": null,
           "video": null,
@@ -27,8 +27,8 @@
         {
           "name": "Charleville-Mézières",
           "coordinate": {
-            "longitude": 4.724986276875763,
-            "latitude": 49.76783813820218
+            "longitude": 4.72498627687576,
+            "latitude": 49.7678381382022
           },
           "when": null,
           "video": null,
@@ -75,8 +75,8 @@
         {
           "name": "Sacrée Pizza",
           "coordinate": {
-            "longitude": 3.993898227805215,
-            "latitude": 49.21510180409656
+            "longitude": 3.99389822780521,
+            "latitude": 49.2151018040966
           },
           "when": null,
           "video": null,
@@ -107,8 +107,8 @@
         {
           "name": "Ben Tag Spot",
           "coordinate": {
-            "longitude": 5.270564067948542,
-            "latitude": 48.97857729041672
+            "longitude": 5.27056406794854,
+            "latitude": 48.9785772904167
           },
           "when": null,
           "video": null,
@@ -139,8 +139,8 @@
         {
           "name": "Trivia Corner Spot",
           "coordinate": {
-            "longitude": 7.735275378705973,
-            "latitude": 48.58473474330049
+            "longitude": 7.73527537870597,
+            "latitude": 48.5847347433005
           },
           "when": null,
           "video": null,
@@ -155,8 +155,8 @@
         {
           "name": "Card Pull",
           "coordinate": {
-            "longitude": 7.735276515311941,
-            "latitude": 48.58428194631242
+            "longitude": 7.73527651531194,
+            "latitude": 48.5842819463124
           },
           "when": null,
           "video": null,
@@ -171,8 +171,8 @@
         {
           "name": "Cut Orange Spot",
           "coordinate": {
-            "longitude": 7.736478944103737,
-            "latitude": 48.58426534195925
+            "longitude": 7.73647894410374,
+            "latitude": 48.5842653419593
           },
           "when": null,
           "video": null,
@@ -188,7 +188,7 @@
           "name": "Fight on streets",
           "coordinate": {
             "longitude": 7.73646166111166,
-            "latitude": 48.58424738404798
+            "latitude": 48.584247384048
           },
           "when": null,
           "video": null,
@@ -203,8 +203,8 @@
         {
           "name": "Fight on beaches",
           "coordinate": {
-            "longitude": 7.738555422852045,
-            "latitude": 48.58308474555744
+            "longitude": 7.73855542285204,
+            "latitude": 48.5830847455574
           },
           "when": null,
           "video": null,
@@ -220,7 +220,7 @@
           "name": "Fight on fields",
           "coordinate": {
             "longitude": 7.7415373,
-            "latitude": 48.58538429999999
+            "latitude": 48.5853843
           },
           "when": null,
           "video": null,
@@ -235,8 +235,8 @@
         {
           "name": "Riddle Spot",
           "coordinate": {
-            "longitude": 7.741005304181467,
-            "latitude": 48.58451459087609
+            "longitude": 7.74100530418147,
+            "latitude": 48.5845145908761
           },
           "when": null,
           "video": null,
@@ -251,8 +251,8 @@
         {
           "name": "Card Pull",
           "coordinate": {
-            "longitude": 7.734431000999377,
-            "latitude": 48.58441993372154
+            "longitude": 7.73443100099938,
+            "latitude": 48.5844199337215
           },
           "when": null,
           "video": null,
@@ -267,8 +267,8 @@
         {
           "name": "Offenburg",
           "coordinate": {
-            "longitude": 7.946719999999999,
-            "latitude": 48.47664999999999
+            "longitude": 7.94672,
+            "latitude": 48.47665
           },
           "when": null,
           "video": null,
@@ -315,7 +315,7 @@
         {
           "name": "Münster",
           "coordinate": {
-            "longitude": 7.634642999999999,
+            "longitude": 7.634643,
             "latitude": 51.9566768
           },
           "when": null,
@@ -363,7 +363,7 @@
         {
           "name": "Emden",
           "coordinate": {
-            "longitude": 7.195206199999999,
+            "longitude": 7.1952062,
             "latitude": 53.3691237
           },
           "when": null,
@@ -379,8 +379,8 @@
         {
           "name": "Pissoir",
           "coordinate": {
-            "longitude": 7.195630636958928,
-            "latitude": 53.36875293237955
+            "longitude": 7.19563063695893,
+            "latitude": 53.3687529323796
           },
           "when": null,
           "video": null,
@@ -395,7 +395,7 @@
         {
           "name": "Knight curse spot",
           "coordinate": {
-            "longitude": 7.196318699999999,
+            "longitude": 7.1963187,
             "latitude": 53.3689325
           },
           "when": null,
@@ -427,7 +427,7 @@
         {
           "name": "Pizza shop",
           "coordinate": {
-            "longitude": 7.197305699999999,
+            "longitude": 7.1973057,
             "latitude": 53.3642871
           },
           "when": null,
@@ -459,8 +459,8 @@
         {
           "name": "Domino's",
           "coordinate": {
-            "longitude": 7.201021555091924,
-            "latitude": 53.36680726081288
+            "longitude": 7.20102155509192,
+            "latitude": 53.3668072608129
           },
           "when": null,
           "video": null,
@@ -475,8 +475,8 @@
         {
           "name": "American shop",
           "coordinate": {
-            "longitude": 7.203715699999999,
-            "latitude": 53.36665649999999
+            "longitude": 7.2037157,
+            "latitude": 53.3666565
           },
           "when": null,
           "video": null,
@@ -507,8 +507,8 @@
         {
           "name": "Ben chase start",
           "coordinate": {
-            "longitude": 7.208744730878605,
-            "latitude": 53.36584121612388
+            "longitude": 7.20874473087861,
+            "latitude": 53.3658412161239
           },
           "when": null,
           "video": null,
@@ -523,8 +523,8 @@
         {
           "name": "Adam Tag Spot",
           "coordinate": {
-            "longitude": 7.208774140054239,
-            "latitude": 53.36449193542796
+            "longitude": 7.20877414005424,
+            "latitude": 53.364491935428
           },
           "when": null,
           "video": null,
@@ -539,8 +539,8 @@
         {
           "name": "Card handover",
           "coordinate": {
-            "longitude": 7.209602460763682,
-            "latitude": 53.36513100959817
+            "longitude": 7.20960246076368,
+            "latitude": 53.3651310095982
           },
           "when": null,
           "video": null,
@@ -603,8 +603,8 @@
         {
           "name": "Hengelo",
           "coordinate": {
-            "longitude": 6.794052506474393,
-            "latitude": 52.26178581353736
+            "longitude": 6.79405250647439,
+            "latitude": 52.2617858135374
           },
           "when": null,
           "video": null,
@@ -635,8 +635,8 @@
         {
           "name": "Zutphen",
           "coordinate": {
-            "longitude": 6.194119584546096,
-            "latitude": 52.14486618047006
+            "longitude": 6.1941195845461,
+            "latitude": 52.1448661804701
           },
           "when": null,
           "video": null,
@@ -651,8 +651,8 @@
         {
           "name": "'s-Hertogenbosch",
           "coordinate": {
-            "longitude": 5.293695489070577,
-            "latitude": 51.69076453140786
+            "longitude": 5.29369548907058,
+            "latitude": 51.6907645314079
           },
           "when": null,
           "video": null,
@@ -683,8 +683,8 @@
         {
           "name": "Breda Centraal",
           "coordinate": {
-            "longitude": 4.779524308784222,
-            "latitude": 51.59553436684932
+            "longitude": 4.77952430878422,
+            "latitude": 51.5955343668493
           },
           "when": null,
           "video": null,
@@ -699,7 +699,7 @@
         {
           "name": "Noorderkempen (Brecht)",
           "coordinate": {
-            "longitude": 4.632696399999999,
+            "longitude": 4.6326964,
             "latitude": 51.357161
           },
           "when": null,
@@ -715,7 +715,7 @@
         {
           "name": "Antwerp ",
           "coordinate": {
-            "longitude": 4.421241999999999,
+            "longitude": 4.421242,
             "latitude": 51.21686
           },
           "when": null,
@@ -731,8 +731,8 @@
         {
           "name": "Charleroi Central",
           "coordinate": {
-            "longitude": 4.438732478418917,
-            "latitude": 50.40465415197521
+            "longitude": 4.43873247841892,
+            "latitude": 50.4046541519752
           },
           "when": null,
           "video": null,
@@ -747,8 +747,8 @@
         {
           "name": "Namur",
           "coordinate": {
-            "longitude": 4.862490102224362,
-            "latitude": 50.46913092651058
+            "longitude": 4.86249010222436,
+            "latitude": 50.4691309265106
           },
           "when": null,
           "video": null,
@@ -763,8 +763,8 @@
         {
           "name": "Luxembourg",
           "coordinate": {
-            "longitude": 6.134396323934328,
-            "latitude": 49.59955755059351
+            "longitude": 6.13439632393433,
+            "latitude": 49.5995575505935
           },
           "when": null,
           "video": null,
@@ -779,8 +779,8 @@
         {
           "name": "Howald",
           "coordinate": {
-            "longitude": 6.132179381684031,
-            "latitude": 49.58067274336568
+            "longitude": 6.13217938168403,
+            "latitude": 49.5806727433657
           },
           "when": null,
           "video": null,
@@ -795,8 +795,8 @@
         {
           "name": "Metz",
           "coordinate": {
-            "longitude": 6.177268385970127,
-            "latitude": 49.10908775292114
+            "longitude": 6.17726838597013,
+            "latitude": 49.1090877529211
           },
           "when": null,
           "video": null,
@@ -811,8 +811,8 @@
         {
           "name": "Bar-le-Duc",
           "coordinate": {
-            "longitude": 5.167233579229416,
-            "latitude": 48.77369788907227
+            "longitude": 5.16723357922942,
+            "latitude": 48.7736978890723
           },
           "when": null,
           "video": null,
@@ -827,8 +827,8 @@
         {
           "name": "Nancy",
           "coordinate": {
-            "longitude": 6.174036523273925,
-            "latitude": 48.68966314872433
+            "longitude": 6.17403652327392,
+            "latitude": 48.6896631487243
           },
           "when": null,
           "video": null,
@@ -859,7 +859,7 @@
         {
           "name": "Look at that",
           "coordinate": {
-            "longitude": 6.182269499999999,
+            "longitude": 6.1822695,
             "latitude": 48.695037
           },
           "when": null,
@@ -876,7 +876,7 @@
           "name": "Look at that",
           "coordinate": {
             "longitude": 6.1802637,
-            "latitude": 48.69653899999999
+            "latitude": 48.696539
           },
           "when": null,
           "video": null,
@@ -891,7 +891,7 @@
         {
           "name": "Look at that",
           "coordinate": {
-            "longitude": 6.179247799999999,
+            "longitude": 6.1792478,
             "latitude": 48.6962131
           },
           "when": null,
@@ -908,7 +908,7 @@
           "name": "Look at that",
           "coordinate": {
             "longitude": 6.1768757,
-            "latitude": 48.69421029999999
+            "latitude": 48.6942103
           },
           "when": null,
           "video": null,
@@ -923,7 +923,7 @@
         {
           "name": "Look at that",
           "coordinate": {
-            "longitude": 6.176858999999999,
+            "longitude": 6.176859,
             "latitude": 48.6929469
           },
           "when": null,
@@ -939,7 +939,7 @@
         {
           "name": "Ben tag spot",
           "coordinate": {
-            "longitude": 5.165405199999999,
+            "longitude": 5.1654052,
             "latitude": 48.7720432
           },
           "when": null,
@@ -963,8 +963,8 @@
         {
           "name": "Place Ducale",
           "coordinate": {
-            "longitude": 4.720068572865392,
-            "latitude": 49.77353025804793
+            "longitude": 4.72006857286539,
+            "latitude": 49.7735302580479
           },
           "when": null,
           "video": null,
@@ -979,8 +979,8 @@
         {
           "name": "Charleville-Mézières",
           "coordinate": {
-            "longitude": 4.724986276875763,
-            "latitude": 49.76783813820218
+            "longitude": 4.72498627687576,
+            "latitude": 49.7678381382022
           },
           "when": null,
           "video": null,
@@ -1011,8 +1011,8 @@
         {
           "name": "Sacrée Pizza",
           "coordinate": {
-            "longitude": 3.993898227805215,
-            "latitude": 49.21510180409656
+            "longitude": 3.99389822780521,
+            "latitude": 49.2151018040966
           },
           "when": null,
           "video": null,
@@ -1027,7 +1027,7 @@
         {
           "name": "Fake Relay",
           "coordinate": {
-            "longitude": 3.998765399999999,
+            "longitude": 3.9987654,
             "latitude": 49.2146602
           },
           "when": null,
@@ -1043,7 +1043,7 @@
         {
           "name": "Lorraine TGV",
           "coordinate": {
-            "longitude": 6.169785699999999,
+            "longitude": 6.1697857,
             "latitude": 48.9477507
           },
           "when": null,
@@ -1059,8 +1059,8 @@
         {
           "name": "Haribo Spot",
           "coordinate": {
-            "longitude": 6.169562997675825,
-            "latitude": 48.94832217645746
+            "longitude": 6.16956299767582,
+            "latitude": 48.9483221764575
           },
           "when": null,
           "video": null,
@@ -1091,8 +1091,8 @@
         {
           "name": "Ben Tag Spot",
           "coordinate": {
-            "longitude": 5.270564067948542,
-            "latitude": 48.97857729041672
+            "longitude": 5.27056406794854,
+            "latitude": 48.9785772904167
           },
           "when": null,
           "video": null,
@@ -1123,8 +1123,8 @@
         {
           "name": "Choo Choo Chew: Derailed",
           "coordinate": {
-            "longitude": 3.994101997504089,
-            "latitude": 49.21491706305684
+            "longitude": 3.99410199750409,
+            "latitude": 49.2149170630568
           },
           "when": null,
           "video": null,
@@ -1139,8 +1139,8 @@
         {
           "name": "Offenburg",
           "coordinate": {
-            "longitude": 7.946719999999999,
-            "latitude": 48.47664999999999
+            "longitude": 7.94672,
+            "latitude": 48.47665
           },
           "when": null,
           "video": null,
@@ -1171,7 +1171,7 @@
         {
           "name": "Münster",
           "coordinate": {
-            "longitude": 7.634642999999999,
+            "longitude": 7.634643,
             "latitude": 51.9566768
           },
           "when": null,
@@ -1187,7 +1187,7 @@
         {
           "name": "Dortmund",
           "coordinate": {
-            "longitude": 7.459323399999999,
+            "longitude": 7.4593234,
             "latitude": 51.5176562
           },
           "when": null,
@@ -1203,8 +1203,8 @@
         {
           "name": "Day 1 rest spot",
           "coordinate": {
-            "longitude": 7.459554534030939,
-            "latitude": 51.51701301047245
+            "longitude": 7.45955453403094,
+            "latitude": 51.5170130104725
           },
           "when": null,
           "video": null,
@@ -1219,7 +1219,7 @@
         {
           "name": "Emden",
           "coordinate": {
-            "longitude": 7.195206199999999,
+            "longitude": 7.1952062,
             "latitude": 53.3691237
           },
           "when": null,
@@ -1235,8 +1235,8 @@
         {
           "name": "Ben chase start",
           "coordinate": {
-            "longitude": 7.208744730878605,
-            "latitude": 53.36584121612388
+            "longitude": 7.20874473087861,
+            "latitude": 53.3658412161239
           },
           "when": null,
           "video": null,
@@ -1251,8 +1251,8 @@
         {
           "name": "Adam Tag Spot",
           "coordinate": {
-            "longitude": 7.208774140054239,
-            "latitude": 53.36449193542796
+            "longitude": 7.20877414005424,
+            "latitude": 53.364491935428
           },
           "when": null,
           "video": null,
@@ -1267,8 +1267,8 @@
         {
           "name": "Card handover",
           "coordinate": {
-            "longitude": 7.209602460763682,
-            "latitude": 53.36513100959817
+            "longitude": 7.20960246076368,
+            "latitude": 53.3651310095982
           },
           "when": null,
           "video": null,
@@ -1331,8 +1331,8 @@
         {
           "name": "Hengelo",
           "coordinate": {
-            "longitude": 6.794052506474393,
-            "latitude": 52.26178581353736
+            "longitude": 6.79405250647439,
+            "latitude": 52.2617858135374
           },
           "when": null,
           "video": null,
@@ -1363,8 +1363,8 @@
         {
           "name": "Zutphen",
           "coordinate": {
-            "longitude": 6.194119584546096,
-            "latitude": 52.14486618047006
+            "longitude": 6.1941195845461,
+            "latitude": 52.1448661804701
           },
           "when": null,
           "video": null,
@@ -1379,8 +1379,8 @@
         {
           "name": "'s-Hertogenbosch",
           "coordinate": {
-            "longitude": 5.293695489070577,
-            "latitude": 51.69076453140786
+            "longitude": 5.29369548907058,
+            "latitude": 51.6907645314079
           },
           "when": null,
           "video": null,
@@ -1411,8 +1411,8 @@
         {
           "name": "Breda Centraal",
           "coordinate": {
-            "longitude": 4.779524308784222,
-            "latitude": 51.59553436684932
+            "longitude": 4.77952430878422,
+            "latitude": 51.5955343668493
           },
           "when": null,
           "video": null,
@@ -1427,8 +1427,8 @@
         {
           "name": "Brussels Airport",
           "coordinate": {
-            "longitude": 4.482677955476964,
-            "latitude": 50.89815575059779
+            "longitude": 4.48267795547696,
+            "latitude": 50.8981557505978
           },
           "when": null,
           "video": null,
@@ -1443,8 +1443,8 @@
         {
           "name": "Charleroi Central",
           "coordinate": {
-            "longitude": 4.438732478418917,
-            "latitude": 50.40465415197521
+            "longitude": 4.43873247841892,
+            "latitude": 50.4046541519752
           },
           "when": null,
           "video": null,
@@ -1459,8 +1459,8 @@
         {
           "name": "Namur",
           "coordinate": {
-            "longitude": 4.862490102224362,
-            "latitude": 50.46913092651058
+            "longitude": 4.86249010222436,
+            "latitude": 50.4691309265106
           },
           "when": null,
           "video": null,
@@ -1475,8 +1475,8 @@
         {
           "name": "Shop & Go",
           "coordinate": {
-            "longitude": 4.861599591153118,
-            "latitude": 50.46807914437225
+            "longitude": 4.86159959115312,
+            "latitude": 50.4680791443722
           },
           "when": null,
           "video": null,
@@ -1491,8 +1491,8 @@
         {
           "name": "Mayonnaise spot",
           "coordinate": {
-            "longitude": 4.861458049866707,
-            "latitude": 50.46850629365137
+            "longitude": 4.86145804986671,
+            "latitude": 50.4685062936514
           },
           "when": null,
           "video": null,
@@ -1507,8 +1507,8 @@
         {
           "name": "Luxembourg",
           "coordinate": {
-            "longitude": 6.134396323934328,
-            "latitude": 49.59955755059351
+            "longitude": 6.13439632393433,
+            "latitude": 49.5995575505935
           },
           "when": null,
           "video": null,
@@ -1523,8 +1523,8 @@
         {
           "name": "Belval-Université",
           "coordinate": {
-            "longitude": 5.946257620760209,
-            "latitude": 49.49958298060574
+            "longitude": 5.94625762076021,
+            "latitude": 49.4995829806057
           },
           "when": null,
           "video": null,
@@ -1539,8 +1539,8 @@
         {
           "name": "Howald",
           "coordinate": {
-            "longitude": 6.132179381684031,
-            "latitude": 49.58067274336568
+            "longitude": 6.13217938168403,
+            "latitude": 49.5806727433657
           },
           "when": null,
           "video": null,
@@ -1555,8 +1555,8 @@
         {
           "name": "Metz",
           "coordinate": {
-            "longitude": 6.177268385970127,
-            "latitude": 49.10908775292114
+            "longitude": 6.17726838597013,
+            "latitude": 49.1090877529211
           },
           "when": null,
           "video": null,
@@ -1587,8 +1587,8 @@
         {
           "name": "Bar-le-Duc",
           "coordinate": {
-            "longitude": 5.167233579229416,
-            "latitude": 48.77369788907227
+            "longitude": 5.16723357922942,
+            "latitude": 48.7736978890723
           },
           "when": null,
           "video": null,
@@ -1604,7 +1604,7 @@
           "name": "Ben's Bench",
           "coordinate": {
             "longitude": 5.1641256,
-            "latitude": 48.77304659999999
+            "latitude": 48.7730466
           },
           "when": null,
           "video": null,
@@ -1635,7 +1635,7 @@
         {
           "name": "Ben tag spot",
           "coordinate": {
-            "longitude": 5.165405199999999,
+            "longitude": 5.1654052,
             "latitude": 48.7720432
           },
           "when": null,
@@ -1659,8 +1659,8 @@
         {
           "name": "Place Ducale",
           "coordinate": {
-            "longitude": 4.720068572865392,
-            "latitude": 49.77353025804793
+            "longitude": 4.72006857286539,
+            "latitude": 49.7735302580479
           },
           "when": null,
           "video": null,
@@ -1675,8 +1675,8 @@
         {
           "name": "Charleville-Mézières",
           "coordinate": {
-            "longitude": 4.724986276875763,
-            "latitude": 49.76783813820218
+            "longitude": 4.72498627687576,
+            "latitude": 49.7678381382022
           },
           "when": null,
           "video": null,
@@ -1723,8 +1723,8 @@
         {
           "name": "Sacrée Pizza",
           "coordinate": {
-            "longitude": 3.993898227805215,
-            "latitude": 49.21510180409656
+            "longitude": 3.99389822780521,
+            "latitude": 49.2151018040966
           },
           "when": null,
           "video": null,
@@ -1771,8 +1771,8 @@
         {
           "name": "Choo Choo Chew: Derailed",
           "coordinate": {
-            "longitude": 3.994101997504089,
-            "latitude": 49.21491706305684
+            "longitude": 3.99410199750409,
+            "latitude": 49.2149170630568
           },
           "when": null,
           "video": null,
@@ -1787,8 +1787,8 @@
         {
           "name": "Offenburg",
           "coordinate": {
-            "longitude": 7.946719999999999,
-            "latitude": 48.47664999999999
+            "longitude": 7.94672,
+            "latitude": 48.47665
           },
           "when": null,
           "video": null,
@@ -1819,7 +1819,7 @@
         {
           "name": "Münster",
           "coordinate": {
-            "longitude": 7.634642999999999,
+            "longitude": 7.634643,
             "latitude": 51.9566768
           },
           "when": null,
@@ -1835,7 +1835,7 @@
         {
           "name": "Dortmund",
           "coordinate": {
-            "longitude": 7.459323399999999,
+            "longitude": 7.4593234,
             "latitude": 51.5176562
           },
           "when": null,
@@ -1851,8 +1851,8 @@
         {
           "name": "Day 1 rest spot",
           "coordinate": {
-            "longitude": 7.459554534030939,
-            "latitude": 51.51701301047245
+            "longitude": 7.45955453403094,
+            "latitude": 51.5170130104725
           },
           "when": null,
           "video": null,
@@ -1867,7 +1867,7 @@
         {
           "name": "Emden",
           "coordinate": {
-            "longitude": 7.195206199999999,
+            "longitude": 7.1952062,
             "latitude": 53.3691237
           },
           "when": null,
@@ -1883,8 +1883,8 @@
         {
           "name": "Card handover",
           "coordinate": {
-            "longitude": 7.209602460763682,
-            "latitude": 53.36513100959817
+            "longitude": 7.20960246076368,
+            "latitude": 53.3651310095982
           },
           "when": null,
           "video": null,
@@ -1916,7 +1916,7 @@
           "name": "Old Train",
           "coordinate": {
             "longitude": 7.3501582,
-            "latitude": 52.32310809999999
+            "latitude": 52.3231081
           },
           "when": null,
           "video": null,
@@ -1931,8 +1931,8 @@
         {
           "name": "Historic Church",
           "coordinate": {
-            "longitude": 7.347816537869949,
-            "latitude": 52.32329094050096
+            "longitude": 7.34781653786995,
+            "latitude": 52.323290940501
           },
           "when": null,
           "video": null,
@@ -1947,8 +1947,8 @@
         {
           "name": "Hengelo",
           "coordinate": {
-            "longitude": 6.794052506474393,
-            "latitude": 52.26178581353736
+            "longitude": 6.79405250647439,
+            "latitude": 52.2617858135374
           },
           "when": null,
           "video": null,
@@ -1963,8 +1963,8 @@
         {
           "name": "Hengelo Town Hall",
           "coordinate": {
-            "longitude": 6.791860643688641,
-            "latitude": 52.26585069513449
+            "longitude": 6.79186064368864,
+            "latitude": 52.2658506951345
           },
           "when": null,
           "video": null,
@@ -1979,8 +1979,8 @@
         {
           "name": "Zutphen",
           "coordinate": {
-            "longitude": 6.194119584546096,
-            "latitude": 52.14486618047006
+            "longitude": 6.1941195845461,
+            "latitude": 52.1448661804701
           },
           "when": null,
           "video": null,
@@ -2011,8 +2011,8 @@
         {
           "name": "'s-Hertogenbosch",
           "coordinate": {
-            "longitude": 5.293695489070577,
-            "latitude": 51.69076453140786
+            "longitude": 5.29369548907058,
+            "latitude": 51.6907645314079
           },
           "when": null,
           "video": null,
@@ -2043,8 +2043,8 @@
         {
           "name": "Breda Centraal",
           "coordinate": {
-            "longitude": 4.779524308784222,
-            "latitude": 51.59553436684932
+            "longitude": 4.77952430878422,
+            "latitude": 51.5955343668493
           },
           "when": null,
           "video": null,
@@ -2059,7 +2059,7 @@
         {
           "name": "Noorderkempen (Brecht)",
           "coordinate": {
-            "longitude": 4.632696399999999,
+            "longitude": 4.6326964,
             "latitude": 51.357161
           },
           "when": null,
@@ -2075,7 +2075,7 @@
         {
           "name": "Antwerp ",
           "coordinate": {
-            "longitude": 4.421241999999999,
+            "longitude": 4.421242,
             "latitude": 51.21686
           },
           "when": null,
@@ -2091,8 +2091,8 @@
         {
           "name": "Charleroi Central",
           "coordinate": {
-            "longitude": 4.438732478418917,
-            "latitude": 50.40465415197521
+            "longitude": 4.43873247841892,
+            "latitude": 50.4046541519752
           },
           "when": null,
           "video": null,
@@ -2107,8 +2107,8 @@
         {
           "name": "Namur",
           "coordinate": {
-            "longitude": 4.862490102224362,
-            "latitude": 50.46913092651058
+            "longitude": 4.86249010222436,
+            "latitude": 50.4691309265106
           },
           "when": null,
           "video": null,
@@ -2123,8 +2123,8 @@
         {
           "name": "Luxembourg",
           "coordinate": {
-            "longitude": 6.134396323934328,
-            "latitude": 49.59955755059351
+            "longitude": 6.13439632393433,
+            "latitude": 49.5995575505935
           },
           "when": null,
           "video": null,
@@ -2139,8 +2139,8 @@
         {
           "name": "Howald",
           "coordinate": {
-            "longitude": 6.132179381684031,
-            "latitude": 49.58067274336568
+            "longitude": 6.13217938168403,
+            "latitude": 49.5806727433657
           },
           "when": null,
           "video": null,
@@ -2155,8 +2155,8 @@
         {
           "name": "Metz",
           "coordinate": {
-            "longitude": 6.177268385970127,
-            "latitude": 49.10908775292114
+            "longitude": 6.17726838597013,
+            "latitude": 49.1090877529211
           },
           "when": null,
           "video": null,
@@ -2171,8 +2171,8 @@
         {
           "name": "Bar-le-Duc",
           "coordinate": {
-            "longitude": 5.167233579229416,
-            "latitude": 48.77369788907227
+            "longitude": 5.16723357922942,
+            "latitude": 48.7736978890723
           },
           "when": null,
           "video": null,
@@ -2187,8 +2187,8 @@
         {
           "name": "Nancy",
           "coordinate": {
-            "longitude": 6.174036523273925,
-            "latitude": 48.68966314872433
+            "longitude": 6.17403652327392,
+            "latitude": 48.6896631487243
           },
           "when": null,
           "video": null,
@@ -2219,7 +2219,7 @@
         {
           "name": "Look at that",
           "coordinate": {
-            "longitude": 6.182269499999999,
+            "longitude": 6.1822695,
             "latitude": 48.695037
           },
           "when": null,
@@ -2236,7 +2236,7 @@
           "name": "Look at that",
           "coordinate": {
             "longitude": 6.1802637,
-            "latitude": 48.69653899999999
+            "latitude": 48.696539
           },
           "when": null,
           "video": null,
@@ -2251,7 +2251,7 @@
         {
           "name": "Look at that",
           "coordinate": {
-            "longitude": 6.179247799999999,
+            "longitude": 6.1792478,
             "latitude": 48.6962131
           },
           "when": null,
@@ -2268,7 +2268,7 @@
           "name": "Look at that",
           "coordinate": {
             "longitude": 6.1768757,
-            "latitude": 48.69421029999999
+            "latitude": 48.6942103
           },
           "when": null,
           "video": null,
@@ -2283,7 +2283,7 @@
         {
           "name": "Look at that",
           "coordinate": {
-            "longitude": 6.176858999999999,
+            "longitude": 6.176859,
             "latitude": 48.6929469
           },
           "when": null,
@@ -2299,7 +2299,7 @@
         {
           "name": "Ben tag spot",
           "coordinate": {
-            "longitude": 5.165405199999999,
+            "longitude": 5.1654052,
             "latitude": 48.7720432
           },
           "when": null,

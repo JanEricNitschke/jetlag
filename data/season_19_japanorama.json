@@ -10,17 +10,402 @@
       "color": "#F57C00",
       "stops": [
         {
-          "name": "Placeholder",
+          "name": "Nishi-Oyama Station",
           "coordinate": {
-            "longitude": 0.0,
-            "latitude": 0.0
+            "longitude": 130.5766412,
+            "latitude": 31.1903089
+          },
+          "when": {
+            "start": "2026-05-21T07:00:00",
+            "end": null
+          },
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Race start: southernmost train station in Japan (Ibusuki Makurazaki Line, Kagoshima); 07:50 JST social post",
+            "Both teams start here"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "JR Ibusuki Makurazaki Line north to the Kagoshima area",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Kagoshima Cultural Experience (Sengan-en)",
+          "coordinate": {
+            "longitude": 130.5795502,
+            "latitude": 31.6187848
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [],
+          "notes": [
+            "Day 1: Shihan Mato bow-and-arrow archery at Sengan-en (opens 9AM)"
+          ],
           "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Northbound from Kagoshima: Kyushu Shinkansen to Shin-Yatsushiro, then local toward Kumamoto (per doc clips)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Shin-Yatsushiro Station",
+          "coordinate": {
+            "longitude": 130.634807,
+            "latitude": 32.5181068
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Multiple Day 1 clips (approach pin 32.5153/130.6358; mirrored clip, Platform 2; Sam pointing south at local train bound for Kumamoto)",
+            "Day 1 end"
+          ],
+          "end_of_day": [1],
+          "to_next": []
+        },
+        {
+          "name": "Mojiko (Kitakyushu)",
+          "coordinate": {
+            "longitude": 130.9614588,
+            "latitude": 33.9462017
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 2 start ~7:00 AM (Nishikaigan Ryokuchi, just outside Premier Hotel Mojiko; solar ~7:00-7:34)",
+            "Overnight travel from Shin-Yatsushiro to Kitakyushu not documented",
+            "Kanmon Bridge view clip (33.961192/130.962395) taken in the area"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Sanyo Main Line west toward Iwakuni",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Tzusu Beach (Iwakuni)",
+          "coordinate": {
+            "longitude": 132.210852,
+            "latitude": 34.073044
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 2: fishing challenge (Sam with net); solar estimates range 07:00-14:30 across the two clips",
+            "Nearest station Tsuzu on the JR Sanyo Main Line"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Sanyo Main Line to Hiroshima",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Cat Café MOFF minamia (Hiroshima)",
+          "coordinate": {
+            "longitude": 132.4749557,
+            "latitude": 34.3974106
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 2 (doc marks 'Bam?' — question mark carried); open 10:00-20:00; clip is mirrored",
+            "Day 2 end"
+          ],
+          "end_of_day": [2],
+          "to_next": []
+        },
+        {
+          "name": "Fukuyama Station",
+          "coordinate": {
+            "longitude": 133.3613787,
+            "latitude": 34.4892001
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 3: Platform 2 toward Osaka/Tokyo; signboard analysis confirms the 10:57 Sakura (the 17:57 would be followed by another Sakura)",
+            "Overnight travel from Hiroshima to Fukuyama not documented"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Sakura 10:57 Sanyo Shinkansen eastbound toward Osaka/Kobe",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Kobe Nunobiki Herb Gardens",
+          "coordinate": {
+            "longitude": 135.192087,
+            "latitude": 34.710633
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 3 (doc marks 'Bam?' — Ben's backpack visible in reflection; ropeway open 09:30-17:15 weekdays)",
+            "Nearest station Shin-Kobe",
+            "Day 3 end"
+          ],
+          "end_of_day": [3],
+          "to_next": []
+        },
+        {
+          "name": "Inuyama Castle",
+          "coordinate": {
+            "longitude": 136.939484,
+            "latitude": 35.388046
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 4, 10:33 JST social post; several exact pins (35.3868/136.9363; 35.3891/136.9336)",
+            "Nearest station Inuyama-Yuen (Meitetsu Inuyama Line); overnight travel from Kobe not documented"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Possibly a taxi between the castle and Gifu-Hashima (doc discusses a taxi; direction AMBIGUOUS — placed castle -> station per doc's timeline; taxis must return to the same place before advancing)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Gifu-Hashima Station",
+          "coordinate": {
+            "longitude": 136.685295,
+            "latitude": 35.3158405
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 4: Tokaido Shinkansen bound toward Tokyo ('are you ready to go zoom?')",
+            "AMBIGUOUS: solar estimate ~16:00 for this clip conflicts with the Yokohama Stadium 14:54-14:59 and Imperial Palace ~16:29 sequence"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Tokaido Shinkansen toward Tokyo/Nagoya-Yokohama",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Yokohama Stadium",
+          "coordinate": {
+            "longitude": 139.6401002,
+            "latitude": 35.4432233
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 4: Yokohama Swallows home game (started 14:00); clips at 14:54-14:59 (chance chant for Iwata only in the top of the 4th on 5/24)",
+            "Ben gets a beige cap at the game"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Tokyo Imperial Palace",
+          "coordinate": {
+            "longitude": 139.7543611,
+            "latitude": 35.68725
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 4 ~16:29 JST; Sam drawing lines for the bamboo Instagram poll photo (matches 16:29 social post)",
+            "Travel from Yokohama to Tokyo not documented (mode not stated)",
+            "Day 4 end"
+          ],
+          "end_of_day": [4],
+          "to_next": []
+        },
+        {
+          "name": "Tohoku Main Line (heading toward Ichinoseki)",
+          "coordinate": {
+            "longitude": 141.11746,
+            "latitude": 38.888858
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 5: clip reversed; camera out the REAR of a northbound train; trains arrive Ichinoseki 13:45 and 14:45",
+            "AMBIGUOUS: team Bam per the 'phone theory' (filming phone case matches Ben's) — not explicit in doc",
+            "Overnight travel Tokyo -> Tohoku not documented"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Tohoku Main Line into Ichinoseki (Ichinoseki Tunnel clip en route)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Ichinoseki Station",
+          "coordinate": {
+            "longitude": 141.1376183,
+            "latitude": 38.926201
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 5: Ichinoseki area, Iwate (per doc prefecture table: Bam)",
+            "Day 5 end"
+          ],
+          "end_of_day": [5],
+          "to_next": []
+        },
+        {
+          "name": "Akita",
+          "coordinate": {
+            "longitude": 140.126936,
+            "latitude": 39.716528
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 6: near Akita Station (landscape-award plaque clip)",
+            "Team attribution blank in doc — both teams were converging on nearly the same path; duplicated in both journeys"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hokkaido Koma-ga-take",
+          "coordinate": {
+            "longitude": 140.6600944,
+            "latitude": 41.960334
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 6: Hokkaido, south of Hakodate (view clip)",
+            "Team attribution blank in doc — duplicated in both journeys; Tohoku -> Hokkaido crossing itself not located"
+          ],
+          "end_of_day": [6],
+          "to_next": []
+        },
+        {
+          "name": "Asahikawa Station",
+          "coordinate": {
+            "longitude": 142.3585,
+            "latitude": 43.7628
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 7 09:00: Soya Main Line Limited Express toward Wakkanai (JR Hokkaido Lavender 261-5000 special set assigned to the May 27 9AM train)",
+            "Team unknown in doc (both teams plausible); travel to Asahikawa not documented"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Soya Main Line Limited Express, dep 9:00",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Soya Main Line approaching Wakkanai",
+          "coordinate": {
+            "longitude": 141.663004,
+            "latitude": 45.358857
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 7: Mount Rishiri view (alternate pin 45.359581/141.663113)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Soya Main Line arrival into Wakkanai",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Wakkanai Station",
+          "coordinate": {
+            "longitude": 141.6771991,
+            "latitude": 45.4166166
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Race finish: northernmost train station in Japan",
+            "Team unknown (both plausible — doc asks what happens if both arrive on the same train); winner not stated in doc",
+            "Game ended May 27 (doc: 'ended by 15:50 JST'; social post 15:58 JST)"
+          ],
+          "end_of_day": [7],
           "to_next": []
         }
       ]
@@ -33,17 +418,590 @@
       "color": "#00796B",
       "stops": [
         {
-          "name": "Placeholder",
+          "name": "Nishi-Oyama Station",
           "coordinate": {
-            "longitude": 0.0,
-            "latitude": 0.0
+            "longitude": 130.5766412,
+            "latitude": 31.1903089
+          },
+          "when": {
+            "start": "2026-05-21T07:00:00",
+            "end": null
+          },
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Race start (both teams)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "JR Ibusuki Makurazaki Line north (clip between Ibusuki and Nigatsuden stations: 31.2507601/130.6336644)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Kagoshima (Ishin Furusato-kan street)",
+          "coordinate": {
+            "longitude": 130.5472523,
+            "latitude": 31.584833
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [],
+          "notes": [
+            "Day 1 street clips (Ep1 additional pin 31.5842/130.5478)"
+          ],
           "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Museum and Road of the Meiji Restoration",
+          "coordinate": {
+            "longitude": 130.5443573,
+            "latitude": 31.5849724
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 1: near Kagoshima Chuo (Amuran ferris wheel in background); 'where they might be attempting a challenge'"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Kagoshima Station (2-35 Hamamachi)",
+          "coordinate": {
+            "longitude": 130.5639943,
+            "latitude": 31.6019526
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 1: Adam holding a watermelon and pole (Nishimuta Kitafuto shop, opens 9:30, is a possible source: 31.5987241/130.5611449)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Iso Beach",
+          "coordinate": {
+            "longitude": 130.575521,
+            "latitude": 31.6149124
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 1: Suikawari (watermelon-splitting) challenge direction — Adam holding watermelon + pole"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Sengan-en Station",
+          "coordinate": {
+            "longitude": 130.576949,
+            "latitude": 31.616976
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 1: Adam and Tom together with watermelon + pole, looking toward Iso Beach; clip also shows them westbound back toward Kagoshima"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Southbound Nanohana Rapid through Taniyama ~15:52 (direction as given in doc — unexplained)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Taniyama Station",
+          "coordinate": {
+            "longitude": 130.519675,
+            "latitude": 31.526407
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 1 ~15:52 by train schedule (departures 15:52, 18:03, 19:00; 8:05 impossible); real estate office blinds suggest 15:52",
+            "Day 1 end"
+          ],
+          "end_of_day": [1],
+          "to_next": []
+        },
+        {
+          "name": "Usuki Port",
+          "coordinate": {
+            "longitude": 131.8104425,
+            "latitude": 33.1261341
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 2: ferry departure from Usuki (Oita)",
+            "Travel from Kagoshima area to Usuki not documented in doc"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "ferry",
+              "note": "Usuki -> Yawatahama ferry, 11:30-13:50 (arrival ~14:00 per sun calc)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Yawatahama",
+          "coordinate": {
+            "longitude": 132.42942,
+            "latitude": 33.456849
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 2 ~14:00: 'the town where the ferry from Kyushu arrives' — implies Atom took a ferry from Kyushu (doc discussion)",
+            "Team attribution blank in doc; Atom per prefecture table + discussion — AMBIGUOUS"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Iyotetsu northbound to Takahama (clip 26: northbound to Takahama)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Otemachi Station (Ehime)",
+          "coordinate": {
+            "longitude": 132.7554762,
+            "latitude": 33.8398801
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 2: Iyotetsu Takahama Line",
+            "Day 2 end (evening location unknown in doc)"
+          ],
+          "end_of_day": [2],
+          "to_next": []
+        },
+        {
+          "name": "Matsuyama City Station",
+          "coordinate": {
+            "longitude": 132.7617619,
+            "latitude": 33.8359766
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 3: tram arrives 07:05"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "JR Matsuyama Station",
+          "coordinate": {
+            "longitude": 132.750762,
+            "latitude": 33.8397822
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 3 ~07:57 by sun + train arrival; Series 8000 Limited Express to Okayama (Anpanman Train may run 08:10 or 14:23); train heads south then turns around and heads back north"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Shiokaze Limited Express Matsuyama -> Okayama direct; clip on approach to the Great Seto Bridge (Uzushio cruise boat seen below)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Great Seto Bridge",
+          "coordinate": {
+            "longitude": 133.828085,
+            "latitude": 34.348466
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 3: on the train (bridge/museum pin 34.353692/133.827508)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Sanyo Shinkansen Okayama -> Shin-Osaka (shinkansen card required by the rules)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Shin-Osaka Station",
+          "coordinate": {
+            "longitude": 135.501,
+            "latitude": 34.7326
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 3: leaving Shin-Osaka ('most likely headed to the Open Air Museum'); Okayama Korakuen clip (34.667281/133.935861) has day unknown and is not placed"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Open Air Museum of Old Japanese Farm Houses (Osaka)",
+          "coordinate": {
+            "longitude": 135.4872364,
+            "latitude": 34.7794673
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 3 (clip 55 team Atom; travel mode from Shin-Osaka not stated)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Arashiyama Bamboo Grove (Kyoto)",
+          "coordinate": {
+            "longitude": 135.67526,
+            "latitude": 35.017454
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 3 (near Saga-Arashiyama Station, JR Sagano Line)",
+            "Day 3 end"
+          ],
+          "end_of_day": [3],
+          "to_next": []
+        },
+        {
+          "name": "Kenroku-en (Kanazawa)",
+          "coordinate": {
+            "longitude": 136.6620537,
+            "latitude": 36.5643513
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 4: solar estimates conflict (~13:40 in located clips vs 12:30 ±15 in sun calculations)",
+            "Team attribution blank in doc — the Hokuriku route fits Atom (AMBIGUOUS); overnight travel from Kyoto not documented"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "bus",
+              "note": "Along Highway 156 toward Shirakawa-go (doc: 'probably a bus to Shirakawa-go')",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Highway 156 near Suganuma Gassho-zukuri Village",
+          "coordinate": {
+            "longitude": 136.8819577,
+            "latitude": 36.4008507
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 4 ~16:30 (solar); team attribution blank in doc (fits Atom)",
+            "Candidates for the Gassho-zukuri card-building clip: Suganuma village, Enryaku-ji, 飛騨白川の民家 (34.7788198/135.4876072) — unresolved in doc"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Enryaku-ji (Daikodo)",
+          "coordinate": {
+            "longitude": 135.8403952,
+            "latitude": 35.0695552
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Doc marks 'Day 4?' — carry as AMBIGUOUS (temple open 9AM-4PM); reached via the Hieizan Sakamoto Cable Car (station 35.0706650/135.8783509)",
+            "Travel from the Shirakawa-go area to Lake Biwa not documented"
+          ],
+          "end_of_day": [4],
+          "to_next": []
+        },
+        {
+          "name": "Ichiburi Station (Niigata)",
+          "coordinate": {
+            "longitude": 137.6502143,
+            "latitude": 36.9804094
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 5 ~07:30 (candidate trains 07:22 and 09:29); team attribution blank in doc — the Hokuriku route fits Atom (AMBIGUOUS)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Coastal rail northbound toward Sakata (Mount Chokai clip is from a train, probably reversed => northbound)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Mount Chokai view",
+          "coordinate": {
+            "longitude": 139.92149,
+            "latitude": 38.835027
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 5: view point (candidates 38.89802/139.9058; mountain pin 39.0989/140.0441); team blank in doc"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Weir on Mogami river near Kiyokawa",
+          "coordinate": {
+            "longitude": 140.030734,
+            "latitude": 38.7786179
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 5 ~16:15 (solar); team Atom per doc",
+            "Routing from the coast inland unclear in doc — possibly via Shinjo (Tsubasa 137 arrives Shinjo 15:28; Rikuu West Line 1625D Shinjo 16:15 -> Sakata 17:15)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Rikuu West Line 1625D (Shinjo 16:15 -> Sakata 17:15)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Sakata Station",
+          "coordinate": {
+            "longitude": 139.8458948,
+            "latitude": 38.9222309
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 5: Uetsu Main Line platform 2; likely the 17:27 arrival / 17:50 departure pair (doc also cites a 17:15 arrival via the Rikuu West Line — inconsistent)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Uetsu Main Line northbound, dep 17:50 (Mototate clip at ~17:35 conflicts with this departure — doc timing inconsistency)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Mototate (Sakata)",
+          "coordinate": {
+            "longitude": 139.876282,
+            "latitude": 38.96324
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 5 ~17:35 (solar); Sakata Joint Thermal Power Station visible in the shot"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Uetsu Main Line ('Cannot be seen from the train so Atom have disembarked here', ~18:15)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Kisakata Beach (Akita)",
+          "coordinate": {
+            "longitude": 139.8944476,
+            "latitude": 39.2064502
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 5 ~18:15 (solar); team blank in doc but note says 'Atom have disembarked here'",
+            "Day 5 end"
+          ],
+          "end_of_day": [5],
+          "to_next": []
+        },
+        {
+          "name": "Akita",
+          "coordinate": {
+            "longitude": 140.126936,
+            "latitude": 39.716528
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 6: near Akita Station",
+            "Team attribution blank in doc — duplicated in both journeys"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hokkaido Koma-ga-take",
+          "coordinate": {
+            "longitude": 140.6600944,
+            "latitude": 41.960334
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 6 (south of Hakodate); team blank in doc — duplicated in both journeys; Hokkaido crossing itself not located"
+          ],
+          "end_of_day": [6],
+          "to_next": []
+        },
+        {
+          "name": "Asahikawa Station",
+          "coordinate": {
+            "longitude": 142.3585,
+            "latitude": 43.7628
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 7 09:00: Soya Main Line Limited Express toward Wakkanai; team unknown in doc (both plausible)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Soya Main Line Limited Express, dep 9:00",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Soya Main Line approaching Wakkanai",
+          "coordinate": {
+            "longitude": 141.663004,
+            "latitude": 45.358857
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 7: Mount Rishiri view"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Soya Main Line arrival into Wakkanai",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Wakkanai Station",
+          "coordinate": {
+            "longitude": 141.6771991,
+            "latitude": 45.4166166
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Race finish: northernmost station",
+            "Team unknown (both plausible); winner not stated in doc",
+            "Game ended May 27 ('ended by 15:50 JST'; social post 15:58 JST)"
+          ],
+          "end_of_day": [7],
           "to_next": []
         }
       ]

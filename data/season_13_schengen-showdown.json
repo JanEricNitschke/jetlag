@@ -10,16 +10,421 @@
       "color": "#00796B",
       "stops": [
         {
-          "name": "Placeholder",
+          "name": "Victoria Station",
           "coordinate": {
-            "longitude": 0.0,
-            "latitude": 0.0
+            "longitude": -0.1439,
+            "latitude": 51.49521
+          },
+          "when": {
+            "start": "2025-01-06T06:30:00",
+            "end": null
+          },
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Game start (doc: Jan 6 2025, ~6:30 UTC; teaser clock ~6:55)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Victoria Line (London Underground), dep ~6:49 UTC",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "London St Pancras",
+          "coordinate": {
+            "longitude": -0.1270027,
+            "latitude": 51.5327196
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
           "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Eurostar 9116, dep 9:01 UTC, arr ~12:05 CET",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Brussels Midi",
+          "coordinate": {
+            "longitude": 4.3360541,
+            "latitude": 50.8357755
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "ICE 315 dep 12:25 (arrival 13:14 divert vs 13:36 - AMBIGUOUS in doc)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Liège-Guillemins",
+          "coordinate": {
+            "longitude": 5.56671,
+            "latitude": 50.62443
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Short walk to Carrefour (probable waffle stop, 'waffle pong')",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Carrefour Express Guillemins",
+          "coordinate": {
+            "longitude": 5.56641,
+            "latitude": 50.62579
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Probable waffle purchase, likely in relation with waffle pong (doc marks as probable)",
+            "Exact time within Day 1 not stated in doc"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Back to the station",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Liège-Guillemins",
+          "coordinate": {
+            "longitude": 5.56671,
+            "latitude": 50.62443
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Return to station for Maastricht train"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Liège → Maastricht (claiming Netherlands)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Maastricht",
+          "coordinate": {
+            "longitude": 5.69097,
+            "latitude": 50.85137
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Striped traffic lights clip; Tom runs from station westwards"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Maastricht → Liège-Guillemins",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Liège-Guillemins",
+          "coordinate": {
+            "longitude": 5.56671,
+            "latitude": 50.62443
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 1 end (overnight)"
+          ],
+          "end_of_day": [1],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "IC429 dep 7:30 via Brussels/Leuven (Diegem clip on line 36 towards Brussels); at Brussels Airport by ~8:41-8:44",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Brussels Airport (Gate A51)",
+          "coordinate": {
+            "longitude": 4.48486,
+            "latitude": 50.90296
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Gate A51/A53 (Sam: 'I don't panic' at gate A51)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "OS352@2025-01-07 (Austrian A320, dep 9:52 CET, arr ~11:22-11:26 CET)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Vienna Airport",
+          "coordinate": {
+            "longitude": 16.5848987,
+            "latitude": 48.1049968
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "bus",
+              "note": "Vienna Airport → Bratislava (border clip: 'likely someone taking a bus from Vienna to Bratislava')",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Bratislava",
+          "coordinate": {
+            "longitude": 17.10566,
+            "latitude": 48.15384
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Claiming Slovakia; 'BT' number plate clip"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Bratislava → Hegyeshalom (doc marks this leg '?')",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Hegyeshalom",
+          "coordinate": {
+            "longitude": 17.146734,
+            "latitude": 47.9132102
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Hungary claim (doc: '?', uncertain)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Back to Vienna (doc best guess: ÖBB RailJet from Hungary before the rest period)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Vienna (Wien Hauptbahnhof)",
+          "coordinate": {
+            "longitude": 16.3779391,
+            "latitude": 48.1849883
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 2 end (overnight)"
+          ],
+          "end_of_day": [2],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "EC106 (first Vienna→Břeclav train, Panorama car); crossing Danube at Stadlauer Ostbahnbrücke ~8:00",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Břeclav Station",
+          "coordinate": {
+            "longitude": 16.89231,
+            "latitude": 48.75384
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Claiming Czechia"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "To nearby park for the Czechia challenge",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Park in Brečlav",
+          "coordinate": {
+            "longitude": 16.89082,
+            "latitude": 48.75476
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Czechia challenge: 'Kill Time, Then Tell Time' (oldest continuously working clock, 5-minute tolerance)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Back to the station",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Břeclav Station",
+          "coordinate": {
+            "longitude": 16.89231,
+            "latitude": 48.75384
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Břeclav → Vienna (doc: 'Back to Vienna?')",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Vienna (Wien Hauptbahnhof)",
+          "coordinate": {
+            "longitude": 16.3779391,
+            "latitude": 48.1849883
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 3 return (doc: 'Back to Vienna?'); evening location unknown"
+          ],
+          "end_of_day": [3],
+          "to_next": []
+        },
+        {
+          "name": "Copenhagen Kastrup Airport (T2)",
+          "coordinate": {
+            "longitude": 12.64937,
+            "latitude": 55.6292
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "AMBIGUOUS: doc places this under Sam+Tom in the photo-order section but Current Question #2 asks who is actually in Copenhagen; day unknown (Day 3 vs Day ?)",
+            "Arrival flight unidentified in doc"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "CPH → Malmö (doc: Tom yells '4:59', train to Malmö at 4:59)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Malmö",
+          "coordinate": {
+            "longitude": 13.0006612,
+            "latitude": 55.6091374
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Claiming Sweden; day unknown (Day 3/4?)",
+            "Days after Malmö not covered by source doc; unknown Austrian Airlines flight (possibly Vienna→Bucharest on Day 6?)"
+          ],
           "end_of_day": [],
           "to_next": []
         }
@@ -33,10 +438,36 @@
       "color": "#D32F2F",
       "stops": [
         {
-          "name": "Placeholder",
+          "name": "Victoria Station",
           "coordinate": {
-            "longitude": 0.0,
-            "latitude": 0.0
+            "longitude": -0.1439,
+            "latitude": 51.49521
+          },
+          "when": {
+            "start": "2025-01-06T06:30:00",
+            "end": null
+          },
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Game start (doc: Jan 6 2025, ~6:30 UTC)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "District Line to Ealing Broadway",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Ealing Broadway",
+          "coordinate": {
+            "longitude": -0.3022152,
+            "latitude": 51.5140203
           },
           "when": null,
           "video": null,
@@ -44,6 +475,427 @@
           "additional_players": [],
           "notes": [],
           "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Elizabeth Line to Heathrow T4 (arr ~7:45; intentionally T4 rather than the faster T2/3/5 route via Paddington)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Heathrow Terminal 4",
+          "coordinate": {
+            "longitude": -0.4454717,
+            "latitude": 51.4588093
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "LX317@2025-01-06 (SWISS, dep 8:55, arr 11:50)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Zurich Airport",
+          "coordinate": {
+            "longitude": 8.5533661,
+            "latitude": 47.4633881
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Airport train to Zürich HB",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Zurich HB",
+          "coordinate": {
+            "longitude": 8.54025,
+            "latitude": 47.37815
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "'Leaving Zurich HB' clip ~12:27 (Ep1 clip: Sam tracking Badam, 'both still in Zurich Station')"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "SBB IC 2 DB (Stadler KISS, Zürich–Stuttgart line) to Schaffhausen; Neuhausen am Rheinfall clip en route",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Schaffhausen",
+          "coordinate": {
+            "longitude": 8.6326837,
+            "latitude": 47.6981052
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Schaffhausen → Waldshut direct, dep 12:37, arr 13:13 ('Germany claimed halfway there'; premiere clip: Sam thought they were heading to Basel)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Waldshut",
+          "coordinate": {
+            "longitude": 8.21914,
+            "latitude": 47.62239
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Claiming Germany",
+            "Doc puzzles over why they routed via Schaffhausen (cancelled IRE3, challenge defense, or ferry theory - unresolved)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Waldshut → Basel",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Basel SBB",
+          "coordinate": {
+            "longitude": 7.5896417,
+            "latitude": 47.5476225
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Saint-Louis",
+          "coordinate": {
+            "longitude": 7.5615765,
+            "latitude": 47.5860467
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "France claim/steal (doc: 'France ? (steal)' - uncertain)",
+            "Arrived from Basel evening of Jan 6; mode not stated in doc",
+            "Day 1 end (overnight)"
+          ],
+          "end_of_day": [1],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "St. Louis → St. Margarethen via Basel and Zurich (doc's routing; near-Flawil clip en route, morning)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "St. Margarethen",
+          "coordinate": {
+            "longitude": 9.63756,
+            "latitude": 47.45337
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Station clock shows 11:35 (Day 2)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "On foot across the border to Höchst, Austria (Adam plays the anthem of Europe ~11:54)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Höchst",
+          "coordinate": {
+            "longitude": 9.63949,
+            "latitude": 47.45739
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Claiming Austria ('locked as it seems from the challenge')"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "On foot back to Switzerland",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "St. Margarethen",
+          "coordinate": {
+            "longitude": 9.63756,
+            "latitude": 47.45337
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Return from Höchst"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "To Buchs SG (Sennwald SG clip en route; doc marks train '?')",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Buchs SG",
+          "coordinate": {
+            "longitude": 9.4787656,
+            "latitude": 47.1687116
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "On foot to Schaan, Liechtenstein (late afternoon per sun position)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Schaan",
+          "coordinate": {
+            "longitude": 9.49596,
+            "latitude": 47.16942
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Claiming Liechtenstein",
+            "Day 2 end (overnight in Schaan or Buchs per doc)"
+          ],
+          "end_of_day": [2],
+          "to_next": []
+        },
+        {
+          "name": "Buchs SG",
+          "coordinate": {
+            "longitude": 9.4787656,
+            "latitude": 47.1687116
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 3 start (returned from Schaan/Buchs overnight position; walk mode not stated in doc)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "EC 99 toward Zürich Flughafen, dep Buchs ~8:11, arr ~9:42",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Zurich Airport",
+          "coordinate": {
+            "longitude": 8.5533661,
+            "latitude": 47.4633881
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "ITA571@2025-01-08 (dep 11:04, arr 12:25; Fiumicino runway 16L approach clip)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Rome",
+          "coordinate": {
+            "longitude": 12.49092,
+            "latitude": 41.89103
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Jan 8 12:56 UTC Twitter post (Creation of Adam drawing - 'Claiming Vatican City? Forge European art as a challenge?')"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Vatican City",
+          "coordinate": {
+            "longitude": 12.4573573,
+            "latitude": 41.9022351
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Claiming Vatican City; ~14:00 based on tweet challenge timing",
+            "Mode of travel within Rome not stated in doc"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Colosseum",
+          "coordinate": {
+            "longitude": 12.491903,
+            "latitude": 41.8909421
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Earliest Colosseum arrival ~14:40 per doc; Day 3 end",
+            "Claiming Italy"
+          ],
+          "end_of_day": [3],
+          "to_next": []
+        },
+        {
+          "name": "Copenhagen Kastrup Airport",
+          "coordinate": {
+            "longitude": 12.64937,
+            "latitude": 55.6292
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "AMBIGUOUS: doc's Day 4 line is 'AMS? CPH? Malmo?' - nothing confirmed; placed here because Day 5 starts with the CPH→TRF flight",
+            "Arrival into Copenhagen unidentified in doc"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "WX1396 (CityJet wet-lease operating as SAS1396)@2025-01-10 CPH→TRF, 11:36-12:32 (weather/METAR analysis: clear sky only fits Jan 10)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Oslo Torp Airport",
+          "coordinate": {
+            "longitude": 10.31653,
+            "latitude": 59.11805
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Claiming Norway",
+            "AMBIGUOUS: doc says 'Guessing this is Badam' (Current Question #3: Oslo clip might not be Tom+Sam)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "S174 bus to RE11 train, 13:04-15:21 (Vestfoldbanen south of Drammen clip, mirrored)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Oslo",
+          "coordinate": {
+            "longitude": 10.7531379,
+            "latitude": 59.9110251
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 5 (Jan 10); Day 6 (Jan 11) not covered by source doc"
+          ],
+          "end_of_day": [5],
           "to_next": []
         }
       ]

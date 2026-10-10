@@ -1,4 +1,68 @@
 season,season_name,journey_team,journey_color,stop_index,name,longitude,latitude,when_start,when_end,video_episode,video_start,video_end,players_override,additional_players,notes,end_of_day
-15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,0,Placeholder,0.0,0.0,,,,,,,,,
-15,Tag Eur It: All Stars,Adam Chase; Michelle Khare,#1976D2,0,Placeholder,0.0,0.0,,,,,,,,,
-15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,0,Placeholder,0.0,0.0,,,,,,,,,
+15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,0,Charleville-Mézières,4.7198104,49.773572,2025-06-10T06:00:00,,,,,,,"Game start, day 1, 06:00 CEST (teaser clip 1 at the Beffroi; 'Should we say we're back in Charleville?')
+Day-1 morning AMBIGUOUS: Charleville 6:30 -> Hirson 7:07 -> Laon 9:17 (cost 1290) vs Charleville 6:08 -> Reims 7:00 -> Laon 8:03 (cost 1000; Reims clip solar 7:15 leans this way) — no legs",
+15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,1,Laon,3.624096,49.570009,2025-06-10T09:30:00,,,,,,,"Day-1 clips: Ruelle des Harengs ('We're in a crevice!'), Église Saint-Marcel solar 09:30, 5 Rue du Cloitre, Cathédrale Notre-Dame; challenges here
+Arrival 08:03 (via-Reims branch) or 09:17 (via-Hirson branch); clip time 09:30 used",
+15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,2,Reims,4.0247066,49.2594517,2025-06-10T14:05:00,,,,,,,"Reims station clips day 1 (trailer 5 solar 7:15 — morning branch pass; trailer 12 'prank show')
+Midday visit after Laon challenges (common to both morning branches)
+Reims 14:16 -> Prunay 14:48 leg OMITTED: doc says the connection is 'partly a bus route' — mode unclear",
+15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,3,Prunay,4.1828575,49.1964785,2025-06-10T16:00:00,,,,,,,"Soby TAGGED by Madame at the Mairie (teaser clip 18, solar 16:00); tag freeze 16:15-17:00
+Doc Q9: possibly aiming for a Prunay charter flight to Jersey (8800 coins)",
+15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,4,Paris,2.3592227,48.8772035,2025-06-10T19:36:00,,,,,,,"Overnight Paris day 1 (Prunay 17:43 -> 19:36)
+Station not specified in doc; Gare de l'Est coordinate used
+Day-2 departure AMBIGUOUS: CDG 7:11 flight AF1542 CDG-GVA -> Nyon 8:39 -> Visp 10:50 -> Zermatt 12:17 (primary) vs Gare du Nord 6:54 train via Basel -> Zermatt 14:17 (alternative, used in doc cost table) — no legs",
+15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,5,Zermatt,7.749254,46.0212076,,,,,,,,"Day 2: arrival 12:17 (flight branch; frozen by Bean 12:05-12:50) or 14:17 (train branch; frozen by Bean 14:17-15:02)
+Madame's end location per teaser; visited by all teams day 2",
+15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,6,Basel,7.5896417,47.5476225,,,,,,,,"Arrival 17:01 (primary) / 18:01 (alt) / 19:01 (via-Thun variant); station assumed Basel SBB
+Frozen by Madame 16:30-17:15 (primary)",
+15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,7,Olten,7.9075219,47.3519349,2025-06-11T17:48:00,,,,,,,"Overnight Olten; frozen by Bean 18:30-19:15 ('Olten-Bern moves seem to be a cooperation between the chasers to catch Madame')
+Doc: 19:20 Zurich train — either missed or frozen",
+15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,8,Basel,7.5896417,47.5476225,2025-06-12T06:54:00,,,,,,,"Day-3 morning stop (return)
+Onward AMBIGUOUS: Basel 7:06 -> Stuttgart 10:04 or 6:06 -> 8:59, or via Strasbourg 6:20 -> 7:39 -> 8:45 -> Stuttgart 10:04 (delayed 10:38) — no legs",
+15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,9,Stuttgart,9.1800132,48.7784485,,,,,,,,"Arrival 10:04 / 8:59 / 10:38 depending on branch
+Onward AMBIGUOUS: Stuttgart 10:58 -> Nuremberg 13:20 (delayed 13:39) or 10:09 -> Nürnberg 12:18 (frozen by Bean); Frankfurt variant Stuttgart 11:27 -> Frankfurt 12:59 -> Kassel 15:22 — no legs",
+15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,10,Nuremberg,11.077298,49.453872,,,,,,,,Arrival 13:20 (delayed 13:39) or 12:18 depending on branch; Stuttgart -> Nürnberg legs omitted,
+15,Tag Eur It: All Stars,Sam Denby; Toby Hendy,#7B1FA2,11,Kassel (IntercityHotel),9.4486413,51.31294,2025-06-12T16:34:00,,,,,,,"Bean tagged here ~16:30-17:00; tag by Soby implied (Ben: 'Are you ready to kill Sam once and for all?')
+Doc Q10: both Ben and Brian running in the clip — who holds the camera",
+15,Tag Eur It: All Stars,Adam Chase; Michelle Khare,#1976D2,0,Charleville-Mézières,4.7198104,49.773572,2025-06-10T06:00:00,,,,,,,"Game start, day 1, 06:00 CEST; Madame departs 7:17
+Doc team color for this team is green (season JSON color #1976D2 differs — kept per canonical file)",
+15,Tag Eur It: All Stars,Adam Chase; Michelle Khare,#1976D2,1,Paris (Gare de l'Est),2.3592227,48.8772035,2025-06-10T09:01:00,,,,,,,"Gare de l'Est clips day 1 (teaser clip 3, trailer clip 1)
+Doc: train connects toward Laon but Soby had a train in the opposite direction at the same time",
+15,Tag Eur It: All Stars,Adam Chase; Michelle Khare,#1976D2,2,Prunay,4.1828575,49.1964785,2025-06-10T16:00:00,,,,,,,"TAGS Soby here ~16:00-16:15 (Mairie de Prunay clip, teaser clip 18); tag freeze 16:15-17:00 (all teams)",
+15,Tag Eur It: All Stars,Adam Chase; Michelle Khare,#1976D2,3,Maison Blanche (Reims),4.0185025,49.23331,2025-06-10T17:11:00,,,,,,,"Challenge stop (Maison Blanche clip 17:00-17:30; Adam counting 'two... three')
+Doc: 'Reims is dangerous if Bean is frozen there, Champagne Ardenne doesn't have many store options'",
+15,Tag Eur It: All Stars,Adam Chase; Michelle Khare,#1976D2,4,Strasbourg,7.7507127,48.584614,2025-06-10T19:33:00,,,,,,,"Overnight Strasbourg; morning clip June 11 solar ~7:10 at 10 Bd du Président-Wilson ('Today is not going to be a lesson about hubris, Michelle')
+Day-2 morning AMBIGUOUS: direct Strasbourg 6:21 -> Zermatt 11:17 (primary) vs Strasbourg 7:21 -> Basel 8:56 -> (Bern/Thun) -> Zermatt 14:17 (alternative, used in doc cost table) — no legs",
+15,Tag Eur It: All Stars,Adam Chase; Michelle Khare,#1976D2,5,Zermatt,7.749254,46.0212076,,,,,,,,"Runner day 2; arrival 11:17 (primary; frozen by Bean 12:05-12:50) or 14:17 (alt; frozen by Bean 14:17-15:02)
+Gornergrat win-alternative (11:30 train, 360 coins) NOT included — doc's leading theory: Madame did not win day 2 (Q10)
+Evening AMBIGUOUS: primary Zermatt 13:06 -> Zurich 16:28 -> Olten 17:21 -> Bern 18:21 (overnight Bern, frozen by Bean 18:30-19:15) vs alt Zermatt 15:37 -> Thun 17:34 -> Basel 19:01 — no legs; Bean's tag of Madame (making Bean the day-3 runner) implied, location/time not stated
+Day-3 block starts from Olten 6:02 — inconsistent with both overnight options (doc Uncertain #4)",
+15,Tag Eur It: All Stars,Adam Chase; Michelle Khare,#1976D2,6,Olten,7.9075219,47.3519349,,,,,,,,"Day-3 start per doc (Olten 6:02 dep); overnight location not stated
+Chaser-train attribution between Soby and Madame is speculative (SeaOwl: 'trains are interchangeable')",
+15,Tag Eur It: All Stars,Adam Chase; Michelle Khare,#1976D2,7,Zurich HBF,8.535253,47.379567,2025-06-12T06:54:00,,,,,,,,
+15,Tag Eur It: All Stars,Adam Chase; Michelle Khare,#1976D2,8,Ulm,9.9826024,48.3994159,2025-06-12T10:40:00,,,,,,,,
+15,Tag Eur It: All Stars,Adam Chase; Michelle Khare,#1976D2,9,Nuremberg,11.077298,49.453872,2025-06-12T13:53:00,,,,,,,Same Nuremberg 14:34 -> Kassel train as Soby's leg (consistent with the interchangeable note),
+15,Tag Eur It: All Stars,Adam Chase; Michelle Khare,#1976D2,10,Kassel (IntercityHotel),9.4486413,51.31294,2025-06-12T16:34:00,,,,,,,Arrival ~16:34 for Bean's tag ~16:30-17:00 (IntercityHotel clips),
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,0,Charleville-Mézières,4.7198104,49.773572,2025-06-10T06:00:00,,,,,,,"Game start, day 1, 06:00 CEST; Bean departs 7:04
+Unlocated teaser clip 16 (flat landscape) tentatively on the Charleville-Reims line (Rethel-Bazancourt, 49.316223 4.146104) — Brian's jersey in reflection, 'hard to confirm'",
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,1,Poix-Terron,4.640235,49.6493699,2025-06-10T07:15:00,,,,,,,"Station clip (teaser clip 2, Ben: 'Let's fucking go, Brian!'); track 1 = direction Sedan, track 2 = Champagne-Ardenne",
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,2,Reims,4.0247066,49.2594517,2025-06-10T08:00:00,,,,,,,"Trailer clip 12 (Ben: 'Maybe it was a prank show') at Reims station day 1
+Onward AMBIGUOUS (doc Uncertain #2): primary Reims 8:02/8:32 -> Paris Nord 9:01/9:31-10:32 -> Laon 13:16 vs alternative Reims 12:38 -> Laon 13:31 (or 8:30 -> 12:25 via Charleville return) — no legs; seed: first better supported",
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,3,Laon,3.624096,49.570009,2025-06-10T12:00:00,,,,,,,"Clip at 7 Pl. des Droits de l'Homme, day 1 solar 12:00, Bean (image mirrored per Brian's jersey)
+Arrival 13:16 (primary via Paris Nord) / 13:31 or 12:25 (alternative branches)",
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,4,Paris (Gare du Nord),2.3572124,48.8795666,,,,,,,,"Overnight Paris day 1; primary has Paris Nord 9:01-10:32 (Gare du Nord clip solar 10:15, Michelle/Brian) plus the evening return; alternative arrives 18:16 from Reims
+Primary-branch stops not included: freeze at Crépy-en-Valois 16:15-17:00 ('made it only to Crépy-en-Valois' after Laon 15:34), Mitry-Mory Transilien K clip ~18:00 (medium confidence)",
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,5,Paris Charles de Gaulle Airport,2.5563297,49.0094766,,,,,,,,Day-2 departure; flight CDG->ZRH dep 6:37 (primary) or 9:17 (alternative) — same route both branches,
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,6,Zurich Airport,8.5636904,47.4498762,,,,,,,,"Arrivals A gates past gate A70 clip ('Day B' = likely day 2, Bean flying in)
+Arrival 7:48 (primary) or 10:28 (alt)",
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,7,Visp,7.8811918,46.2913113,2025-06-11T10:31:00,,,,,,,"Station clock clip 10:31 (Ben: 'We're this fucking close Brian!'); change point for Zermatt trains (usually platform 3)
+Clock time supports the primary (6:37 flight) branch",
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,8,Zermatt,7.749254,46.0212076,,,,,,,,"Arrival 11:50 (primary; supported by Visp clock 10:31) or 14:17 (alt); frozen by Madame 16:30-17:15 (primary)
+Afternoon AMBIGUOUS: primary Zermatt 12:06/12:37 -> Zurich 15:28/15:58, then Zurich 17:32 -> Bern 18:28, Bern 18:33 -> Zurich 19:54 (track 15) vs alt Zermatt 14:37 -> Basel 18:01, Basel 18:06/18:43 -> Zurich 19:00/19:52 (track 15) — no legs",
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,9,Zurich HBF,8.535253,47.379567,,,,,,,,"Tracks 14/15 clip; evening arrival on track 15 minutes before the rest period (both branches)
+Day-3 start here; dep 6:05 (transport tab) or 6:37 IC (clip discussion; track-change fake-out then run to track 12)",
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,10,Singen,8.8348709,47.7617515,2025-06-12T07:18:00,,,,,,,Doc: 'Rheinfall confirms the train to Singen'; Stuttgart route rejected (chasers would arrive 20 min earlier),
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,11,Ulm,9.9826024,48.3994159,2025-06-12T09:40:00,,,,,,,"Onward AMBIGUOUS (doc Uncertain #8): branch A Ulm 10:01 -> Augsburg 10:41 -> Nürnberg 12:59 vs branch B Ulm 10:18 -> Donauwörth 11:44 -> Nürnberg 12:59 — no legs
+Tram clip ('Parken verboten', day 3 clothing) unresolved: Ulm or Augsburg candidates",
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,12,Nuremberg,11.077298,49.453872,2025-06-12T12:59:00,,,,,,,Arrival 12:59 via Augsburg or Donauwörth — both branches agree on the arrival time,
+15,Tag Eur It: All Stars,Ben Doyle; Brian McManus,#42A5F5,13,Kassel (IntercityHotel),9.4486413,51.31294,2025-06-12T15:34:00,,,,,,,"TAGGED here ~16:30-17:00 (IntercityHotel clips, solar 16:30 & 17:00; 'probably about to be tagged')",

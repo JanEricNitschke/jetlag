@@ -5,7 +5,26 @@
     <Folder>
       <name>Sam Denby &amp; Tom Scott</name>
       <Placemark>
-        <name>Placeholder</name>
+        <name>Victoria Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start (doc: Jan 6 2025, ~6:30 UTC; teaser clock ~6:55)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-06T06:30:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.1439,51.49521</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London St Pancras</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott</description>
         <Style>
           <IconStyle>
@@ -17,14 +36,526 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>0.0,0.0</coordinates>
+          <coordinates>-0.1270027,51.5327196</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussels Midi</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.3360541,50.8357755</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liège-Guillemins</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>5.56671,50.62443</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carrefour Express Guillemins</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Probable waffle purchase, likely in relation with waffle pong (doc marks as probable)&lt;/li&gt;&lt;li&gt;Exact time within Day 1 not stated in doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>5.56641,50.62579</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liège-Guillemins</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Return to station for Maastricht train&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>5.56671,50.62443</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maastricht</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Striped traffic lights clip; Tom runs from station westwards&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>5.69097,50.85137</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liège-Guillemins</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 end (overnight)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>5.56671,50.62443</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brussels Airport (Gate A51)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Gate A51/A53 (Sam: &amp;#x27;I don&amp;#x27;t panic&amp;#x27; at gate A51)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.48486,50.90296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vienna Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>16.5848987,48.1049968</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bratislava</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Slovakia; &amp;#x27;BT&amp;#x27; number plate clip&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>17.10566,48.15384</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hegyeshalom</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Hungary claim (doc: &amp;#x27;?&amp;#x27;, uncertain)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>17.146734,47.9132102</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vienna (Wien Hauptbahnhof)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 end (overnight)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>16.3779391,48.1849883</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Břeclav Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Czechia&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>16.89231,48.75384</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park in Brečlav</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Czechia challenge: &amp;#x27;Kill Time, Then Tell Time&amp;#x27; (oldest continuously working clock, 5-minute tolerance)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>16.89082,48.75476</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Břeclav Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>16.89231,48.75384</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vienna (Wien Hauptbahnhof)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 return (doc: &amp;#x27;Back to Vienna?&amp;#x27;); evening location unknown&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 3&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>16.3779391,48.1849883</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Copenhagen Kastrup Airport (T2)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;AMBIGUOUS: doc places this under Sam+Tom in the photo-order section but Current Question #2 asks who is actually in Copenhagen; day unknown (Day 3 vs Day ?)&lt;/li&gt;&lt;li&gt;Arrival flight unidentified in doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>12.64937,55.6292</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malmö</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Sweden; day unknown (Day 3/4?)&lt;/li&gt;&lt;li&gt;Days after Malmö not covered by source doc; unknown Austrian Airlines flight (possibly Vienna→Bucharest on Day 6?)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>13.0006612,55.6091374</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Victoria Station to London St Pancras (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Victoria Line (London Underground), dep ~6:49 UTC</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.1439,51.49521 -0.1270027,51.5327196</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>London St Pancras to Brussels Midi (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Eurostar 9116, dep 9:01 UTC, arr ~12:05 CET</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.1270027,51.5327196 4.3360541,50.8357755</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Brussels Midi to Liège-Guillemins (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;ICE 315 dep 12:25 (arrival 13:14 divert vs 13:36 - AMBIGUOUS in doc)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>4.3360541,50.8357755 5.56671,50.62443</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Liège-Guillemins to Carrefour Express Guillemins (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Short walk to Carrefour (probable waffle stop, &amp;#x27;waffle pong&amp;#x27;)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>5.56671,50.62443 5.56641,50.62579</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Carrefour Express Guillemins to Liège-Guillemins (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Back to the station</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>5.56641,50.62579 5.56671,50.62443</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Liège-Guillemins to Maastricht (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Liège → Maastricht (claiming Netherlands)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>5.56671,50.62443 5.69097,50.85137</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Maastricht to Liège-Guillemins (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Maastricht → Liège-Guillemins</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>5.69097,50.85137 5.56671,50.62443</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Liège-Guillemins to Brussels Airport (Gate A51) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;IC429 dep 7:30 via Brussels/Leuven (Diegem clip on line 36 towards Brussels); at Brussels Airport by ~8:41-8:44</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>5.56671,50.62443 4.48486,50.90296</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Brussels Airport (Gate A51) to Vienna Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;OS352@2025-01-07 (Austrian A320, dep 9:52 CET, arr ~11:22-11:26 CET)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>4.48486,50.90296 16.5848987,48.1049968</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Vienna Airport to Bratislava (bus)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; bus&lt;br&gt;Vienna Airport → Bratislava (border clip: &amp;#x27;likely someone taking a bus from Vienna to Bratislava&amp;#x27;)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>16.5848987,48.1049968 17.10566,48.15384</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Bratislava to Hegyeshalom (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Bratislava → Hegyeshalom (doc marks this leg &amp;#x27;?&amp;#x27;)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>17.10566,48.15384 17.146734,47.9132102</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Hegyeshalom to Vienna (Wien Hauptbahnhof) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Back to Vienna (doc best guess: ÖBB RailJet from Hungary before the rest period)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>17.146734,47.9132102 16.3779391,48.1849883</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Vienna (Wien Hauptbahnhof) to Břeclav Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;EC106 (first Vienna→Břeclav train, Panorama car); crossing Danube at Stadlauer Ostbahnbrücke ~8:00</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>16.3779391,48.1849883 16.89231,48.75384</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Břeclav Station to Park in Brečlav (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;To nearby park for the Czechia challenge</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>16.89231,48.75384 16.89082,48.75476</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Park in Brečlav to Břeclav Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Back to the station</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>16.89082,48.75476 16.89231,48.75384</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Břeclav Station to Vienna (Wien Hauptbahnhof) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Břeclav → Vienna (doc: &amp;#x27;Back to Vienna?&amp;#x27;)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>16.89231,48.75384 16.3779391,48.1849883</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Copenhagen Kastrup Airport (T2) to Malmö (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;CPH → Malmö (doc: Tom yells &amp;#x27;4:59&amp;#x27;, train to Malmö at 4:59)</description>
+        <Style>
+          <LineStyle>
+            <color>ff6b7900</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>12.64937,55.6292 13.0006612,55.6091374</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
     <Folder>
       <name>Adam Chase &amp; Ben Doyle</name>
       <Placemark>
-        <name>Placeholder</name>
+        <name>Victoria Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start (doc: Jan 6 2025, ~6:30 UTC)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-06T06:30:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.1439,51.49521</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ealing Broadway</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
         <Style>
           <IconStyle>
@@ -36,8 +567,536 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>0.0,0.0</coordinates>
+          <coordinates>-0.3022152,51.5140203</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heathrow Terminal 4</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.4454717,51.4588093</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zurich Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5533661,47.4633881</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zurich HB</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&amp;#x27;Leaving Zurich HB&amp;#x27; clip ~12:27 (Ep1 clip: Sam tracking Badam, &amp;#x27;both still in Zurich Station&amp;#x27;)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.54025,47.37815</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Schaffhausen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.6326837,47.6981052</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waldshut</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Germany&lt;/li&gt;&lt;li&gt;Doc puzzles over why they routed via Schaffhausen (cancelled IRE3, challenge defense, or ferry theory - unresolved)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.21914,47.62239</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basel SBB</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.5896417,47.5476225</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint-Louis</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;France claim/steal (doc: &amp;#x27;France ? (steal)&amp;#x27; - uncertain)&lt;/li&gt;&lt;li&gt;Arrived from Basel evening of Jan 6; mode not stated in doc&lt;/li&gt;&lt;li&gt;Day 1 end (overnight)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.5615765,47.5860467</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Margarethen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Station clock shows 11:35 (Day 2)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>9.63756,47.45337</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Höchst</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Austria (&amp;#x27;locked as it seems from the challenge&amp;#x27;)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>9.63949,47.45739</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Margarethen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Return from Höchst&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>9.63756,47.45337</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buchs SG</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>9.4787656,47.1687116</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Schaan</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Liechtenstein&lt;/li&gt;&lt;li&gt;Day 2 end (overnight in Schaan or Buchs per doc)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>9.49596,47.16942</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buchs SG</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 start (returned from Schaan/Buchs overnight position; walk mode not stated in doc)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>9.4787656,47.1687116</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zurich Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5533661,47.4633881</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rome</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Jan 8 12:56 UTC Twitter post (Creation of Adam drawing - &amp;#x27;Claiming Vatican City? Forge European art as a challenge?&amp;#x27;)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>12.49092,41.89103</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vatican City</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Vatican City; ~14:00 based on tweet challenge timing&lt;/li&gt;&lt;li&gt;Mode of travel within Rome not stated in doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>12.4573573,41.9022351</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colosseum</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Earliest Colosseum arrival ~14:40 per doc; Day 3 end&lt;/li&gt;&lt;li&gt;Claiming Italy&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 3&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>12.491903,41.8909421</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Copenhagen Kastrup Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;AMBIGUOUS: doc&amp;#x27;s Day 4 line is &amp;#x27;AMS? CPH? Malmo?&amp;#x27; - nothing confirmed; placed here because Day 5 starts with the CPH→TRF flight&lt;/li&gt;&lt;li&gt;Arrival into Copenhagen unidentified in doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>12.64937,55.6292</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oslo Torp Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Norway&lt;/li&gt;&lt;li&gt;AMBIGUOUS: doc says &amp;#x27;Guessing this is Badam&amp;#x27; (Current Question #3: Oslo clip might not be Tom+Sam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>10.31653,59.11805</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oslo</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 (Jan 10); Day 6 (Jan 11) not covered by source doc&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 5&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>10.7531379,59.9110251</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Victoria Station to Ealing Broadway (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;District Line to Ealing Broadway</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.1439,51.49521 -0.3022152,51.5140203</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ealing Broadway to Heathrow Terminal 4 (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Elizabeth Line to Heathrow T4 (arr ~7:45; intentionally T4 rather than the faster T2/3/5 route via Paddington)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.3022152,51.5140203 -0.4454717,51.4588093</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Heathrow Terminal 4 to Zurich Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;LX317@2025-01-06 (SWISS, dep 8:55, arr 11:50)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.4454717,51.4588093 8.5533661,47.4633881</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Zurich Airport to Zurich HB (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Airport train to Zürich HB</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.5533661,47.4633881 8.54025,47.37815</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Zurich HB to Schaffhausen (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;SBB IC 2 DB (Stadler KISS, Zürich–Stuttgart line) to Schaffhausen; Neuhausen am Rheinfall clip en route</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.54025,47.37815 8.6326837,47.6981052</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Schaffhausen to Waldshut (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Schaffhausen → Waldshut direct, dep 12:37, arr 13:13 (&amp;#x27;Germany claimed halfway there&amp;#x27;; premiere clip: Sam thought they were heading to Basel)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.6326837,47.6981052 8.21914,47.62239</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Waldshut to Basel SBB (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Waldshut → Basel</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.21914,47.62239 7.5896417,47.5476225</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Saint-Louis to St. Margarethen (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;St. Louis → St. Margarethen via Basel and Zurich (doc&amp;#x27;s routing; near-Flawil clip en route, morning)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.5615765,47.5860467 9.63756,47.45337</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>St. Margarethen to Höchst (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;On foot across the border to Höchst, Austria (Adam plays the anthem of Europe ~11:54)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>9.63756,47.45337 9.63949,47.45739</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Höchst to St. Margarethen (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;On foot back to Switzerland</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>9.63949,47.45739 9.63756,47.45337</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>St. Margarethen to Buchs SG (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;To Buchs SG (Sennwald SG clip en route; doc marks train &amp;#x27;?&amp;#x27;)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>9.63756,47.45337 9.4787656,47.1687116</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Buchs SG to Schaan (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;On foot to Schaan, Liechtenstein (late afternoon per sun position)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>9.4787656,47.1687116 9.49596,47.16942</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Buchs SG to Zurich Airport (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;EC 99 toward Zürich Flughafen, dep Buchs ~8:11, arr ~9:42</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>9.4787656,47.1687116 8.5533661,47.4633881</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Zurich Airport to Rome (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;ITA571@2025-01-08 (dep 11:04, arr 12:25; Fiumicino runway 16L approach clip)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.5533661,47.4633881 12.49092,41.89103</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Copenhagen Kastrup Airport to Oslo Torp Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;WX1396 (CityJet wet-lease operating as SAS1396)@2025-01-10 CPH→TRF, 11:36-12:32 (weather/METAR analysis: clear sky only fits Jan 10)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>12.64937,55.6292 10.31653,59.11805</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Oslo Torp Airport to Oslo (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;S174 bus to RE11 train, 13:04-15:21 (Vestfoldbanen south of Drammen clip, mirrored)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>10.31653,59.11805 10.7531379,59.9110251</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
   </Document>

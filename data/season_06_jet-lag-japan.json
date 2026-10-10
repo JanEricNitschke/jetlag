@@ -108,8 +108,8 @@
         {
           "name": "Chiba Monorail Station",
           "coordinate": {
-            "longitude": 140.1141717348975,
-            "latitude": 35.61208367362701
+            "longitude": 140.114171734897,
+            "latitude": 35.612083673627
           },
           "when": null,
           "video": null,
@@ -162,8 +162,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 140.1157381906692,
-            "latitude": 35.60913788172684
+            "longitude": 140.115738190669,
+            "latitude": 35.6091378817268
           },
           "when": null,
           "video": null,
@@ -260,8 +260,8 @@
         {
           "name": "Scotty Drawing Spot",
           "coordinate": {
-            "longitude": 139.7603015568961,
-            "latitude": 35.67900689880784
+            "longitude": 139.760301556896,
+            "latitude": 35.6790068988078
           },
           "when": null,
           "video": null,
@@ -278,8 +278,8 @@
         {
           "name": "Sam and Scotty Kawaii Bench",
           "coordinate": {
-            "longitude": 139.7623936838603,
-            "latitude": 35.67884795193113
+            "longitude": 139.76239368386,
+            "latitude": 35.6788479519311
           },
           "when": null,
           "video": null,
@@ -294,8 +294,8 @@
         {
           "name": "Sam and Scotty Pocky Hockey Spot",
           "coordinate": {
-            "longitude": 139.7621058124017,
-            "latitude": 35.67884890515685
+            "longitude": 139.762105812402,
+            "latitude": 35.6788489051568
           },
           "when": null,
           "video": null,
@@ -342,8 +342,8 @@
         {
           "name": "Sam walking with flag",
           "coordinate": {
-            "longitude": 140.8781119295778,
-            "latitude": 38.26331406615908
+            "longitude": 140.878111929578,
+            "latitude": 38.2633140661591
           },
           "when": null,
           "video": null,
@@ -358,8 +358,8 @@
         {
           "name": "Omiya Station",
           "coordinate": {
-            "longitude": 139.6240087776324,
-            "latitude": 35.90643008207654
+            "longitude": 139.624008777632,
+            "latitude": 35.9064300820765
           },
           "when": null,
           "video": null,
@@ -374,8 +374,8 @@
         {
           "name": "Utsunomiya Station",
           "coordinate": {
-            "longitude": 139.8984595180704,
-            "latitude": 36.55918276428743
+            "longitude": 139.89845951807,
+            "latitude": 36.5591827642874
           },
           "when": null,
           "video": null,
@@ -391,7 +391,7 @@
           "name": "Tobu Utsunomiya Station",
           "coordinate": {
             "longitude": 139.880633351056,
-            "latitude": 36.55931719043333
+            "latitude": 36.5593171904333
           },
           "when": null,
           "video": null,
@@ -408,8 +408,8 @@
         {
           "name": "Tochigi Station",
           "coordinate": {
-            "longitude": 139.7313164538831,
-            "latitude": 36.37165922790199
+            "longitude": 139.731316453883,
+            "latitude": 36.371659227902
           },
           "when": null,
           "video": null,
@@ -427,7 +427,7 @@
           "name": "Scotty Noodle Newdays",
           "coordinate": {
             "longitude": 139.731187430492,
-            "latitude": 36.37166005220551
+            "latitude": 36.3716600522055
           },
           "when": null,
           "video": null,
@@ -444,8 +444,8 @@
         {
           "name": "Pizza Tower",
           "coordinate": {
-            "longitude": 139.6231826559228,
-            "latitude": 35.90628602566514
+            "longitude": 139.623182655923,
+            "latitude": 35.9062860256651
           },
           "when": null,
           "video": null,
@@ -461,7 +461,7 @@
           "name": "Trap Tower",
           "coordinate": {
             "longitude": 139.623327228382,
-            "latitude": 35.90631896402311
+            "latitude": 35.9063189640231
           },
           "when": null,
           "video": null,
@@ -494,7 +494,7 @@
         {
           "name": "Takasaki Station",
           "coordinate": {
-            "longitude": 139.0127780219444,
+            "longitude": 139.012778021944,
             "latitude": 36.3224888622544
           },
           "when": null,
@@ -512,8 +512,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 139.7579756138032,
-            "latitude": 35.66583654605434
+            "longitude": 139.757975613803,
+            "latitude": 35.6658365460543
           },
           "when": null,
           "video": null,
@@ -530,8 +530,8 @@
         {
           "name": "Onarimon Station",
           "coordinate": {
-            "longitude": 139.7512448057718,
-            "latitude": 35.66056989498001
+            "longitude": 139.751244805772,
+            "latitude": 35.66056989498
           },
           "when": null,
           "video": null,
@@ -546,8 +546,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 139.7513194228582,
-            "latitude": 35.66069554402843
+            "longitude": 139.751319422858,
+            "latitude": 35.6606955440284
           },
           "when": null,
           "video": null,
@@ -582,8 +582,8 @@
         {
           "name": "Minami Nagareyama Station",
           "coordinate": {
-            "longitude": 139.9041397788033,
-            "latitude": 35.83792422771724
+            "longitude": 139.904139778803,
+            "latitude": 35.8379242277172
           },
           "when": null,
           "video": null,
@@ -600,8 +600,8 @@
         {
           "name": "Nishi-Funabashi Station",
           "coordinate": {
-            "longitude": 139.9589531464844,
-            "latitude": 35.70742401248011
+            "longitude": 139.958953146484,
+            "latitude": 35.7074240124801
           },
           "when": null,
           "video": null,
@@ -618,8 +618,8 @@
         {
           "name": "Toyocho Station",
           "coordinate": {
-            "longitude": 139.8173142431093,
-            "latitude": 35.66959750039032
+            "longitude": 139.817314243109,
+            "latitude": 35.6695975003903
           },
           "when": null,
           "video": null,
@@ -636,8 +636,8 @@
         {
           "name": "Shiomi Station",
           "coordinate": {
-            "longitude": 139.8172983471907,
-            "latitude": 35.65882031374605
+            "longitude": 139.817298347191,
+            "latitude": 35.658820313746
           },
           "when": null,
           "video": null,
@@ -654,8 +654,8 @@
         {
           "name": "Niigata Station",
           "coordinate": {
-            "longitude": 139.0614525773255,
-            "latitude": 37.91201431335053
+            "longitude": 139.061452577325,
+            "latitude": 37.9120143133505
           },
           "when": null,
           "video": null,
@@ -672,8 +672,8 @@
         {
           "name": "Higashi Niigata Station",
           "coordinate": {
-            "longitude": 139.1088044596231,
-            "latitude": 37.90872336275352
+            "longitude": 139.108804459623,
+            "latitude": 37.9087233627535
           },
           "when": null,
           "video": null,
@@ -726,8 +726,8 @@
         {
           "name": "Urasa Station",
           "coordinate": {
-            "longitude": 138.9228357073569,
-            "latitude": 37.16764905412104
+            "longitude": 138.922835707357,
+            "latitude": 37.167649054121
           },
           "when": null,
           "video": null,
@@ -745,7 +745,7 @@
           "name": "Lightning Tower",
           "coordinate": {
             "longitude": 138.922828513229,
-            "latitude": 37.16751009997988
+            "latitude": 37.1675100999799
           },
           "when": null,
           "video": null,
@@ -762,8 +762,8 @@
         {
           "name": "Trap Tower",
           "coordinate": {
-            "longitude": 138.9228307269431,
-            "latitude": 37.16750359962077
+            "longitude": 138.922830726943,
+            "latitude": 37.1675035996208
           },
           "when": null,
           "video": null,
@@ -780,8 +780,8 @@
         {
           "name": "Akihabara Station",
           "coordinate": {
-            "longitude": 139.7731692049207,
-            "latitude": 35.69835467875529
+            "longitude": 139.773169204921,
+            "latitude": 35.6983546787553
           },
           "when": null,
           "video": null,
@@ -796,8 +796,8 @@
         {
           "name": "Yairo Station",
           "coordinate": {
-            "longitude": 138.9350453360557,
-            "latitude": 37.19180671963453
+            "longitude": 138.935045336056,
+            "latitude": 37.1918067196345
           },
           "when": null,
           "video": null,
@@ -832,8 +832,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 138.9359816262092,
-            "latitude": 37.19264922984872
+            "longitude": 138.935981626209,
+            "latitude": 37.1926492298487
           },
           "when": null,
           "video": null,
@@ -850,8 +850,8 @@
         {
           "name": "Shinjuku Station",
           "coordinate": {
-            "longitude": 139.7010527004626,
-            "latitude": 35.68860566483347
+            "longitude": 139.701052700463,
+            "latitude": 35.6886056648335
           },
           "when": null,
           "video": null,
@@ -868,8 +868,8 @@
         {
           "name": "Kofu Station",
           "coordinate": {
-            "longitude": 138.5690320192994,
-            "latitude": 35.66722603469459
+            "longitude": 138.569032019299,
+            "latitude": 35.6672260346946
           },
           "when": null,
           "video": null,
@@ -886,8 +886,8 @@
         {
           "name": "Mud Tower",
           "coordinate": {
-            "longitude": 138.5692413907929,
-            "latitude": 35.66720452856953
+            "longitude": 138.569241390793,
+            "latitude": 35.6672045285695
           },
           "when": null,
           "video": null,
@@ -904,7 +904,7 @@
         {
           "name": "Pizza Tower",
           "coordinate": {
-            "longitude": 138.5693319231909,
+            "longitude": 138.569331923191,
             "latitude": 35.6672227469594
           },
           "when": null,
@@ -922,7 +922,7 @@
         {
           "name": "Jail Tower",
           "coordinate": {
-            "longitude": 138.5693084309393,
+            "longitude": 138.569308430939,
             "latitude": 35.6672091594922
           },
           "when": null,
@@ -940,8 +940,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 138.5662767484128,
-            "latitude": 35.67111118938712
+            "longitude": 138.566276748413,
+            "latitude": 35.6711111893871
           },
           "when": null,
           "video": null,
@@ -958,8 +958,8 @@
         {
           "name": "Vampire Tower",
           "coordinate": {
-            "longitude": 139.7566892180072,
-            "latitude": 35.66634099335241
+            "longitude": 139.756689218007,
+            "latitude": 35.6663409933524
           },
           "when": null,
           "video": null,
@@ -1046,8 +1046,8 @@
         {
           "name": "Ice Tower",
           "coordinate": {
-            "longitude": 139.1547385169059,
-            "latitude": 35.25064257712651
+            "longitude": 139.154738516906,
+            "latitude": 35.2506425771265
           },
           "when": null,
           "video": null,
@@ -1062,8 +1062,8 @@
         {
           "name": "Castle",
           "coordinate": {
-            "longitude": 139.1534209592911,
-            "latitude": 35.25110645321137
+            "longitude": 139.153420959291,
+            "latitude": 35.2511064532114
           },
           "when": null,
           "video": null,
@@ -1080,8 +1080,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 139.1548055934446,
-            "latitude": 35.25064676796121
+            "longitude": 139.154805593445,
+            "latitude": 35.2506467679612
           },
           "when": null,
           "video": null,
@@ -1098,8 +1098,8 @@
         {
           "name": "Shin Yokohama Station",
           "coordinate": {
-            "longitude": 139.6177262290807,
-            "latitude": 35.50748154296164
+            "longitude": 139.617726229081,
+            "latitude": 35.5074815429616
           },
           "when": null,
           "video": null,
@@ -1114,8 +1114,8 @@
         {
           "name": "Gravity Tower",
           "coordinate": {
-            "longitude": 139.1548354321285,
-            "latitude": 35.25624254318172
+            "longitude": 139.154835432128,
+            "latitude": 35.2562425431817
           },
           "when": null,
           "video": null,
@@ -1130,8 +1130,8 @@
         {
           "name": "Vampire Tower",
           "coordinate": {
-            "longitude": 139.1548130448286,
-            "latitude": 35.25616405963451
+            "longitude": 139.154813044829,
+            "latitude": 35.2561640596345
           },
           "when": null,
           "video": null,
@@ -1146,8 +1146,8 @@
         {
           "name": "Jail Tower",
           "coordinate": {
-            "longitude": 139.1548093831907,
-            "latitude": 35.25617566521269
+            "longitude": 139.154809383191,
+            "latitude": 35.2561756652127
           },
           "when": null,
           "video": null,
@@ -1162,7 +1162,7 @@
         {
           "name": "Mishima Station",
           "coordinate": {
-            "longitude": 138.9101551384619,
+            "longitude": 138.910155138462,
             "latitude": 35.1266594398869
           },
           "when": null,
@@ -1180,8 +1180,8 @@
         {
           "name": "Hamamatsu Station",
           "coordinate": {
-            "longitude": 137.7352298964205,
-            "latitude": 34.70387874019868
+            "longitude": 137.73522989642,
+            "latitude": 34.7038787401987
           },
           "when": null,
           "video": null,
@@ -1198,8 +1198,8 @@
         {
           "name": "Mud Tower",
           "coordinate": {
-            "longitude": 137.7349383632585,
-            "latitude": 34.70347786231753
+            "longitude": 137.734938363258,
+            "latitude": 34.7034778623175
           },
           "when": null,
           "video": null,
@@ -1217,7 +1217,7 @@
           "name": "Phototag Spot",
           "coordinate": {
             "longitude": 137.734875421144,
-            "latitude": 34.70341910068586
+            "latitude": 34.7034191006859
           },
           "when": null,
           "video": null,
@@ -1252,8 +1252,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 139.7717881172849,
-            "latitude": 35.69585755585052
+            "longitude": 139.771788117285,
+            "latitude": 35.6958575558505
           },
           "when": null,
           "video": null,
@@ -1397,7 +1397,7 @@
           "name": "Tiebreaker Flag",
           "coordinate": {
             "longitude": 139.7456842,
-            "latitude": 35.65830529999999
+            "latitude": 35.6583053
           },
           "when": null,
           "video": null,
@@ -1559,8 +1559,8 @@
         {
           "name": "TERMINA 2",
           "coordinate": {
-            "longitude": 139.8138754683714,
-            "latitude": 35.69640430435776
+            "longitude": 139.813875468371,
+            "latitude": 35.6964043043578
           },
           "when": null,
           "video": null,
@@ -1596,7 +1596,7 @@
           "name": "Kinshichō Sta.",
           "coordinate": {
             "longitude": 139.8141259,
-            "latitude": 35.69599669999999
+            "latitude": 35.6959967
           },
           "when": null,
           "video": null,
@@ -1647,8 +1647,8 @@
         {
           "name": "Round 1 Yellow Flag Vending Machine",
           "coordinate": {
-            "longitude": 140.1195865303525,
-            "latitude": 35.61010664444289
+            "longitude": 140.119586530353,
+            "latitude": 35.6101066444429
           },
           "when": null,
           "video": null,
@@ -1683,8 +1683,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 140.1157381906692,
-            "latitude": 35.60913788172684
+            "longitude": 140.115738190669,
+            "latitude": 35.6091378817268
           },
           "when": null,
           "video": null,
@@ -1701,8 +1701,8 @@
         {
           "name": "Adam Noodle Eating Spot",
           "coordinate": {
-            "longitude": 139.6279027326528,
-            "latitude": 35.44476828720086
+            "longitude": 139.627902732653,
+            "latitude": 35.4447682872009
           },
           "when": null,
           "video": null,
@@ -1825,8 +1825,8 @@
         {
           "name": "Kawasaki Station",
           "coordinate": {
-            "longitude": 139.6974630101938,
-            "latitude": 35.53167410377898
+            "longitude": 139.697463010194,
+            "latitude": 35.531674103779
           },
           "when": null,
           "video": null,
@@ -1843,8 +1843,8 @@
         {
           "name": "Round 2 Red Flag Vending Machine",
           "coordinate": {
-            "longitude": 139.6987130216566,
-            "latitude": 35.52723761669384
+            "longitude": 139.698713021657,
+            "latitude": 35.5272376166938
           },
           "when": null,
           "video": null,
@@ -1861,8 +1861,8 @@
         {
           "name": "Omiya Station",
           "coordinate": {
-            "longitude": 139.6240087776324,
-            "latitude": 35.90643008207654
+            "longitude": 139.624008777632,
+            "latitude": 35.9064300820765
           },
           "when": null,
           "video": null,
@@ -1877,8 +1877,8 @@
         {
           "name": "Toyohashi Station",
           "coordinate": {
-            "longitude": 137.3818192937414,
-            "latitude": 34.76282673084975
+            "longitude": 137.381819293741,
+            "latitude": 34.7628267308498
           },
           "when": null,
           "video": null,
@@ -1895,8 +1895,8 @@
         {
           "name": "Shin-Anjo Station",
           "coordinate": {
-            "longitude": 137.0850471594737,
-            "latitude": 34.98715846656231
+            "longitude": 137.085047159474,
+            "latitude": 34.9871584665623
           },
           "when": null,
           "video": null,
@@ -1913,7 +1913,7 @@
         {
           "name": "Nishio Station",
           "coordinate": {
-            "longitude": 137.0577256675954,
+            "longitude": 137.057725667595,
             "latitude": 34.8638022285479
           },
           "when": null,
@@ -1931,8 +1931,8 @@
         {
           "name": "Round 2 Red Flag Vending Machine",
           "coordinate": {
-            "longitude": 137.0587712924581,
-            "latitude": 34.86318938724817
+            "longitude": 137.058771292458,
+            "latitude": 34.8631893872482
           },
           "when": null,
           "video": null,
@@ -1949,8 +1949,8 @@
         {
           "name": "Eat an Egg Card Pull",
           "coordinate": {
-            "longitude": 137.0924591147479,
-            "latitude": 34.95240488062401
+            "longitude": 137.092459114748,
+            "latitude": 34.952404880624
           },
           "when": null,
           "video": null,
@@ -1967,8 +1967,8 @@
         {
           "name": "Eat an Egg Daiso and Drugstore",
           "coordinate": {
-            "longitude": 137.0917389507559,
-            "latitude": 34.95453442470768
+            "longitude": 137.091738950756,
+            "latitude": 34.9545344247077
           },
           "when": null,
           "video": null,
@@ -1986,7 +1986,7 @@
           "name": "Japanese Curse Pull",
           "coordinate": {
             "longitude": 137.088218880486,
-            "latitude": 34.95723517186744
+            "latitude": 34.9572351718674
           },
           "when": null,
           "video": null,
@@ -2004,7 +2004,7 @@
           "name": "Anjo Station",
           "coordinate": {
             "longitude": 137.087233028098,
-            "latitude": 34.96017804005412
+            "latitude": 34.9601780400541
           },
           "when": null,
           "video": null,
@@ -2021,8 +2021,8 @@
         {
           "name": "Mikawa Anjo Station",
           "coordinate": {
-            "longitude": 137.0615725907848,
-            "latitude": 34.96962622402053
+            "longitude": 137.061572590785,
+            "latitude": 34.9696262240205
           },
           "when": null,
           "video": null,
@@ -2039,8 +2039,8 @@
         {
           "name": "Pizza Tower",
           "coordinate": {
-            "longitude": 139.6231826559228,
-            "latitude": 35.90628602566514
+            "longitude": 139.623182655923,
+            "latitude": 35.9062860256651
           },
           "when": null,
           "video": null,
@@ -2058,7 +2058,7 @@
           "name": "Trap Tower",
           "coordinate": {
             "longitude": 139.623327228382,
-            "latitude": 35.90631896402311
+            "latitude": 35.9063189640231
           },
           "when": null,
           "video": null,
@@ -2075,8 +2075,8 @@
         {
           "name": "Ben Music Starbucks",
           "coordinate": {
-            "longitude": 139.7584122956957,
-            "latitude": 35.66697702468272
+            "longitude": 139.758412295696,
+            "latitude": 35.6669770246827
           },
           "when": null,
           "video": null,
@@ -2093,7 +2093,7 @@
         {
           "name": "Ben Music Bridge",
           "coordinate": {
-            "longitude": 139.7582302815832,
+            "longitude": 139.758230281583,
             "latitude": 35.6682233251741
           },
           "when": null,
@@ -2111,8 +2111,8 @@
         {
           "name": "Ben Music Building",
           "coordinate": {
-            "longitude": 139.7575340212465,
-            "latitude": 35.66721965010145
+            "longitude": 139.757534021246,
+            "latitude": 35.6672196501015
           },
           "when": null,
           "video": null,
@@ -2130,7 +2130,7 @@
           "name": "Ben Music Pachinko",
           "coordinate": {
             "longitude": 139.756466120667,
-            "latitude": 35.66602217236496
+            "latitude": 35.666022172365
           },
           "when": null,
           "video": null,
@@ -2163,8 +2163,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 139.7579756138032,
-            "latitude": 35.66583654605434
+            "longitude": 139.757975613803,
+            "latitude": 35.6658365460543
           },
           "when": null,
           "video": null,
@@ -2181,8 +2181,8 @@
         {
           "name": "Maneki Neko",
           "coordinate": {
-            "longitude": 139.7557727963303,
-            "latitude": 35.66769600740604
+            "longitude": 139.75577279633,
+            "latitude": 35.667696007406
           },
           "when": null,
           "video": null,
@@ -2199,8 +2199,8 @@
         {
           "name": "Ben Card Pull",
           "coordinate": {
-            "longitude": 139.7540396217889,
-            "latitude": 35.66615252648129
+            "longitude": 139.754039621789,
+            "latitude": 35.6661525264813
           },
           "when": null,
           "video": null,
@@ -2217,8 +2217,8 @@
         {
           "name": "Onarimon Station",
           "coordinate": {
-            "longitude": 139.7512448057718,
-            "latitude": 35.66056989498001
+            "longitude": 139.751244805772,
+            "latitude": 35.66056989498
           },
           "when": null,
           "video": null,
@@ -2233,8 +2233,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 139.7513194228582,
-            "latitude": 35.66069554402843
+            "longitude": 139.751319422858,
+            "latitude": 35.6606955440284
           },
           "when": null,
           "video": null,
@@ -2269,8 +2269,8 @@
         {
           "name": "Koremasa Station",
           "coordinate": {
-            "longitude": 139.4890711962112,
-            "latitude": 35.65632941189584
+            "longitude": 139.489071196211,
+            "latitude": 35.6563294118958
           },
           "when": null,
           "video": null,
@@ -2359,8 +2359,8 @@
         {
           "name": "Hatchobori Station",
           "coordinate": {
-            "longitude": 139.7769789787339,
-            "latitude": 35.67463451530852
+            "longitude": 139.776978978734,
+            "latitude": 35.6746345153085
           },
           "when": null,
           "video": null,
@@ -2377,8 +2377,8 @@
         {
           "name": "Kayabacho Station",
           "coordinate": {
-            "longitude": 139.7801827878116,
-            "latitude": 35.67993453906711
+            "longitude": 139.780182787812,
+            "latitude": 35.6799345390671
           },
           "when": null,
           "video": null,
@@ -2395,8 +2395,8 @@
         {
           "name": "Monzen Nakacho Station",
           "coordinate": {
-            "longitude": 139.7948626756068,
-            "latitude": 35.67240600326512
+            "longitude": 139.794862675607,
+            "latitude": 35.6724060032651
           },
           "when": null,
           "video": null,
@@ -2413,8 +2413,8 @@
         {
           "name": "Tsukishima Station",
           "coordinate": {
-            "longitude": 139.7848458273662,
-            "latitude": 35.66443461589972
+            "longitude": 139.784845827366,
+            "latitude": 35.6644346158997
           },
           "when": null,
           "video": null,
@@ -2431,8 +2431,8 @@
         {
           "name": "Shin-Kiba Station",
           "coordinate": {
-            "longitude": 139.8270077724637,
-            "latitude": 35.64616742911839
+            "longitude": 139.827007772464,
+            "latitude": 35.6461674291184
           },
           "when": null,
           "video": null,
@@ -2449,8 +2449,8 @@
         {
           "name": "Hello Kitty Lawson",
           "coordinate": {
-            "longitude": 139.4791156855743,
-            "latitude": 35.66540872863524
+            "longitude": 139.479115685574,
+            "latitude": 35.6654087286352
           },
           "when": null,
           "video": null,
@@ -2467,7 +2467,7 @@
         {
           "name": "Fuchu Honmachi Station",
           "coordinate": {
-            "longitude": 139.4770927636207,
+            "longitude": 139.477092763621,
             "latitude": 35.66630117904
           },
           "when": null,
@@ -2485,8 +2485,8 @@
         {
           "name": "Musashi Uwara Station",
           "coordinate": {
-            "longitude": 139.6469201097184,
-            "latitude": 35.84598739843526
+            "longitude": 139.646920109718,
+            "latitude": 35.8459873984353
           },
           "when": null,
           "video": null,
@@ -2503,8 +2503,8 @@
         {
           "name": "Urasa Station",
           "coordinate": {
-            "longitude": 138.9228357073569,
-            "latitude": 37.16764905412104
+            "longitude": 138.922835707357,
+            "latitude": 37.167649054121
           },
           "when": null,
           "video": null,
@@ -2522,7 +2522,7 @@
           "name": "Lightning Tower",
           "coordinate": {
             "longitude": 138.922828513229,
-            "latitude": 37.16751009997988
+            "latitude": 37.1675100999799
           },
           "when": null,
           "video": null,
@@ -2539,8 +2539,8 @@
         {
           "name": "Trap Tower",
           "coordinate": {
-            "longitude": 138.9228307269431,
-            "latitude": 37.16750359962077
+            "longitude": 138.922830726943,
+            "latitude": 37.1675035996208
           },
           "when": null,
           "video": null,
@@ -2557,8 +2557,8 @@
         {
           "name": "Akihabara Station",
           "coordinate": {
-            "longitude": 139.7731692049207,
-            "latitude": 35.69835467875529
+            "longitude": 139.773169204921,
+            "latitude": 35.6983546787553
           },
           "when": null,
           "video": null,
@@ -2593,8 +2593,8 @@
         {
           "name": "Nagaoka Station",
           "coordinate": {
-            "longitude": 138.8538308145184,
-            "latitude": 37.44778112516327
+            "longitude": 138.853830814518,
+            "latitude": 37.4477811251633
           },
           "when": null,
           "video": null,
@@ -2611,8 +2611,8 @@
         {
           "name": "Yairo Station",
           "coordinate": {
-            "longitude": 138.9350453360557,
-            "latitude": 37.19180671963453
+            "longitude": 138.935045336056,
+            "latitude": 37.1918067196345
           },
           "when": null,
           "video": null,
@@ -2647,8 +2647,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 138.9359816262092,
-            "latitude": 37.19264922984872
+            "longitude": 138.935981626209,
+            "latitude": 37.1926492298487
           },
           "when": null,
           "video": null,
@@ -2665,8 +2665,8 @@
         {
           "name": "Shinjuku Station",
           "coordinate": {
-            "longitude": 139.7010527004626,
-            "latitude": 35.68860566483347
+            "longitude": 139.701052700463,
+            "latitude": 35.6886056648335
           },
           "when": null,
           "video": null,
@@ -2683,8 +2683,8 @@
         {
           "name": "Kofu Station",
           "coordinate": {
-            "longitude": 138.5690320192994,
-            "latitude": 35.66722603469459
+            "longitude": 138.569032019299,
+            "latitude": 35.6672260346946
           },
           "when": null,
           "video": null,
@@ -2701,8 +2701,8 @@
         {
           "name": "Mud Tower",
           "coordinate": {
-            "longitude": 138.5692413907929,
-            "latitude": 35.66720452856953
+            "longitude": 138.569241390793,
+            "latitude": 35.6672045285695
           },
           "when": null,
           "video": null,
@@ -2719,8 +2719,8 @@
         {
           "name": "Ben looking for stuff",
           "coordinate": {
-            "longitude": 138.5730982312436,
-            "latitude": 35.66366903835227
+            "longitude": 138.573098231244,
+            "latitude": 35.6636690383523
           },
           "when": null,
           "video": null,
@@ -2737,8 +2737,8 @@
         {
           "name": "940 yen vending machine",
           "coordinate": {
-            "longitude": 138.5723850470139,
-            "latitude": 35.66604577269639
+            "longitude": 138.572385047014,
+            "latitude": 35.6660457726964
           },
           "when": null,
           "video": null,
@@ -2755,8 +2755,8 @@
         {
           "name": "Ben spinning around",
           "coordinate": {
-            "longitude": 138.5743894740176,
-            "latitude": 35.66163065160283
+            "longitude": 138.574389474018,
+            "latitude": 35.6616306516028
           },
           "when": null,
           "video": null,
@@ -2773,7 +2773,7 @@
         {
           "name": "Pizza Tower",
           "coordinate": {
-            "longitude": 138.5693319231909,
+            "longitude": 138.569331923191,
             "latitude": 35.6672227469594
           },
           "when": null,
@@ -2791,7 +2791,7 @@
         {
           "name": "Jail Tower",
           "coordinate": {
-            "longitude": 138.5693084309393,
+            "longitude": 138.569308430939,
             "latitude": 35.6672091594922
           },
           "when": null,
@@ -2809,8 +2809,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 138.5662767484128,
-            "latitude": 35.67111118938712
+            "longitude": 138.566276748413,
+            "latitude": 35.6711111893871
           },
           "when": null,
           "video": null,
@@ -2827,8 +2827,8 @@
         {
           "name": "Pokemon 7-11",
           "coordinate": {
-            "longitude": 139.7582784506983,
-            "latitude": 35.66773250137084
+            "longitude": 139.758278450698,
+            "latitude": 35.6677325013708
           },
           "when": null,
           "video": null,
@@ -2881,8 +2881,8 @@
         {
           "name": "Vampire Tower",
           "coordinate": {
-            "longitude": 139.7566892180072,
-            "latitude": 35.66634099335241
+            "longitude": 139.756689218007,
+            "latitude": 35.6663409933524
           },
           "when": null,
           "video": null,
@@ -2985,8 +2985,8 @@
         {
           "name": "Ice Tower",
           "coordinate": {
-            "longitude": 139.1547385169059,
-            "latitude": 35.25064257712651
+            "longitude": 139.154738516906,
+            "latitude": 35.2506425771265
           },
           "when": null,
           "video": null,
@@ -3001,8 +3001,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 139.1548055934446,
-            "latitude": 35.25064676796121
+            "longitude": 139.154805593445,
+            "latitude": 35.2506467679612
           },
           "when": null,
           "video": null,
@@ -3065,8 +3065,8 @@
         {
           "name": "Gravity Tower",
           "coordinate": {
-            "longitude": 139.1548354321285,
-            "latitude": 35.25624254318172
+            "longitude": 139.154835432128,
+            "latitude": 35.2562425431817
           },
           "when": null,
           "video": null,
@@ -3081,8 +3081,8 @@
         {
           "name": "Vampire Tower",
           "coordinate": {
-            "longitude": 139.1548130448286,
-            "latitude": 35.25616405963451
+            "longitude": 139.154813044829,
+            "latitude": 35.2561640596345
           },
           "when": null,
           "video": null,
@@ -3097,8 +3097,8 @@
         {
           "name": "Jail Tower",
           "coordinate": {
-            "longitude": 139.1548093831907,
-            "latitude": 35.25617566521269
+            "longitude": 139.154809383191,
+            "latitude": 35.2561756652127
           },
           "when": null,
           "video": null,
@@ -3113,7 +3113,7 @@
         {
           "name": "Mishima Station",
           "coordinate": {
-            "longitude": 138.9101551384619,
+            "longitude": 138.910155138462,
             "latitude": 35.1266594398869
           },
           "when": null,
@@ -3129,8 +3129,8 @@
         {
           "name": "Hamamatsu Station",
           "coordinate": {
-            "longitude": 137.7352298964205,
-            "latitude": 34.70387874019868
+            "longitude": 137.73522989642,
+            "latitude": 34.7038787401987
           },
           "when": null,
           "video": null,
@@ -3145,8 +3145,8 @@
         {
           "name": "Mud Tower",
           "coordinate": {
-            "longitude": 137.7349383632585,
-            "latitude": 34.70347786231753
+            "longitude": 137.734938363258,
+            "latitude": 34.7034778623175
           },
           "when": null,
           "video": null,
@@ -3162,7 +3162,7 @@
           "name": "Phototag Spot",
           "coordinate": {
             "longitude": 137.734875421144,
-            "latitude": 34.70341910068586
+            "latitude": 34.7034191006859
           },
           "when": null,
           "video": null,
@@ -3213,8 +3213,8 @@
         {
           "name": "Phototag Spot",
           "coordinate": {
-            "longitude": 139.7717881172849,
-            "latitude": 35.69585755585052
+            "longitude": 139.771788117285,
+            "latitude": 35.6958575558505
           },
           "when": null,
           "video": null,

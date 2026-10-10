@@ -302,8 +302,9 @@ def ensure_geometry_exportable(legs: Sequence[LegRow]) -> None:
     """Exit with a warning if a leg's geometry exceeds :data:`MAX_CELL_CHARS`.
 
     Longer geometries cannot be written to Excel or Google Sheets cells;
-    they must be split by adding a waypoint stop in the middle of the
-    leg (see the geometry-size note in PLAN-seasons-2-9.md).
+    they must be downsampled to at most 30,000 characters by keeping an
+    evenly spaced subset of the polyline (see the geometry-size note in
+    PLAN-seasons-2-9.md).
 
     Raises
     ------
@@ -322,8 +323,8 @@ def ensure_geometry_exportable(legs: Sequence[LegRow]) -> None:
         f"Warning: {len(oversized)} legs have geometries longer than the"
         f" {MAX_CELL_CHARS}-character Excel/Google Sheets cell limit:\n"
         f"{warnings}\n"
-        "Split each of these legs by adding a waypoint stop in the middle"
-        " (see PLAN-seasons-2-9.md)."
+        "Downsample each of these legs to at most 30,000 characters by keeping"
+        " an evenly spaced subset of its polyline (see PLAN-seasons-2-9.md)."
     )
     raise SystemExit(message)
 

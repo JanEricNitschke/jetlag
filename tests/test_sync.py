@@ -224,7 +224,7 @@ def test_xlsx_export_exits_on_oversized_geometry(
     message = excinfo.value.code
     assert isinstance(message, str)
     assert "32767" in message
-    assert "waypoint" in message
+    assert "downsample" in message.lower()
 
 
 def test_run_sync_exits_on_oversized_geometry(
@@ -248,7 +248,7 @@ def test_run_sync_exits_on_oversized_geometry(
     message = excinfo.value.code
     assert isinstance(message, str)
     assert "32767" in message
-    assert "waypoint" in message
+    assert "downsample" in message.lower()
     service_account.assert_not_called()
 
 

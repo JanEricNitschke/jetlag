@@ -1,3 +1,85 @@
 season,season_name,journey_team,journey_color,stop_index,name,longitude,latitude,when_start,when_end,video_episode,video_start,video_end,players_override,additional_players,notes,end_of_day
-19,Japanorama,Sam Denby; Ben Doyle,#F57C00,0,Placeholder,0.0,0.0,,,,,,,,,
-19,Japanorama,Adam Chase; Tom Scott,#00796B,0,Placeholder,0.0,0.0,,,,,,,,,
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,0,Nishi-Oyama Station,130.5766412,31.1903089,2026-05-21T07:00:00,,,,,,,"Race start: southernmost train station in Japan (Ibusuki Makurazaki Line, Kagoshima); 07:50 JST social post
+Both teams start here",
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,1,Kagoshima Cultural Experience (Sengan-en),130.5795502,31.6187848,,,,,,,,Day 1: Shihan Mato bow-and-arrow archery at Sengan-en (opens 9AM),
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,2,Shin-Yatsushiro Station,130.634807,32.5181068,,,,,,,,"Multiple Day 1 clips (approach pin 32.5153/130.6358; mirrored clip, Platform 2; Sam pointing south at local train bound for Kumamoto)
+Day 1 end",1
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,3,Mojiko (Kitakyushu),130.9614588,33.9462017,,,,,,,,"Day 2 start ~7:00 AM (Nishikaigan Ryokuchi, just outside Premier Hotel Mojiko; solar ~7:00-7:34)
+Overnight travel from Shin-Yatsushiro to Kitakyushu not documented
+Kanmon Bridge view clip (33.961192/130.962395) taken in the area",
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,4,Tzusu Beach (Iwakuni),132.210852,34.073044,,,,,,,,"Day 2: fishing challenge (Sam with net); solar estimates range 07:00-14:30 across the two clips
+Nearest station Tsuzu on the JR Sanyo Main Line",
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,5,Cat Café MOFF minamia (Hiroshima),132.4749557,34.3974106,,,,,,,,"Day 2 (doc marks 'Bam?' — question mark carried); open 10:00-20:00; clip is mirrored
+Day 2 end",2
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,6,Fukuyama Station,133.3613787,34.4892001,,,,,,,,"Day 3: Platform 2 toward Osaka/Tokyo; signboard analysis confirms the 10:57 Sakura (the 17:57 would be followed by another Sakura)
+Overnight travel from Hiroshima to Fukuyama not documented",
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,7,Kobe Nunobiki Herb Gardens,135.192087,34.710633,,,,,,,,"Day 3 (doc marks 'Bam?' — Ben's backpack visible in reflection; ropeway open 09:30-17:15 weekdays)
+Nearest station Shin-Kobe
+Day 3 end",3
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,8,Inuyama Castle,136.939484,35.388046,,,,,,,,"Day 4, 10:33 JST social post; several exact pins (35.3868/136.9363; 35.3891/136.9336)
+Nearest station Inuyama-Yuen (Meitetsu Inuyama Line); overnight travel from Kobe not documented",
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,9,Gifu-Hashima Station,136.685295,35.3158405,,,,,,,,"Day 4: Tokaido Shinkansen bound toward Tokyo ('are you ready to go zoom?')
+AMBIGUOUS: solar estimate ~16:00 for this clip conflicts with the Yokohama Stadium 14:54-14:59 and Imperial Palace ~16:29 sequence",
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,10,Yokohama Stadium,139.6401002,35.4432233,,,,,,,,"Day 4: Yokohama Swallows home game (started 14:00); clips at 14:54-14:59 (chance chant for Iwata only in the top of the 4th on 5/24)
+Ben gets a beige cap at the game",
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,11,Tokyo Imperial Palace,139.7543611,35.68725,,,,,,,,"Day 4 ~16:29 JST; Sam drawing lines for the bamboo Instagram poll photo (matches 16:29 social post)
+Travel from Yokohama to Tokyo not documented (mode not stated)
+Day 4 end",4
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,12,Tohoku Main Line (heading toward Ichinoseki),141.11746,38.888858,,,,,,,,"Day 5: clip reversed; camera out the REAR of a northbound train; trains arrive Ichinoseki 13:45 and 14:45
+AMBIGUOUS: team Bam per the 'phone theory' (filming phone case matches Ben's) — not explicit in doc
+Overnight travel Tokyo -> Tohoku not documented",
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,13,Ichinoseki Station,141.1376183,38.926201,,,,,,,,"Day 5: Ichinoseki area, Iwate (per doc prefecture table: Bam)
+Day 5 end",5
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,14,Akita,140.126936,39.716528,,,,,,,,"Day 6: near Akita Station (landscape-award plaque clip)
+Team attribution blank in doc — both teams were converging on nearly the same path; duplicated in both journeys",
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,15,Hokkaido Koma-ga-take,140.6600944,41.960334,,,,,,,,"Day 6: Hokkaido, south of Hakodate (view clip)
+Team attribution blank in doc — duplicated in both journeys; Tohoku -> Hokkaido crossing itself not located",6
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,16,Asahikawa Station,142.3585,43.7628,,,,,,,,"Day 7 09:00: Soya Main Line Limited Express toward Wakkanai (JR Hokkaido Lavender 261-5000 special set assigned to the May 27 9AM train)
+Team unknown in doc (both teams plausible); travel to Asahikawa not documented",
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,17,Soya Main Line approaching Wakkanai,141.663004,45.358857,,,,,,,,Day 7: Mount Rishiri view (alternate pin 45.359581/141.663113),
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,18,Wakkanai Station,141.6771991,45.4166166,,,,,,,,"Race finish: northernmost train station in Japan
+Team unknown (both plausible — doc asks what happens if both arrive on the same train); winner not stated in doc
+Game ended May 27 (doc: 'ended by 15:50 JST'; social post 15:58 JST)",7
+19,Japanorama,Adam Chase; Tom Scott,#00796B,0,Nishi-Oyama Station,130.5766412,31.1903089,2026-05-21T07:00:00,,,,,,,Race start (both teams),
+19,Japanorama,Adam Chase; Tom Scott,#00796B,1,Kagoshima (Ishin Furusato-kan street),130.5472523,31.584833,,,,,,,,Day 1 street clips (Ep1 additional pin 31.5842/130.5478),
+19,Japanorama,Adam Chase; Tom Scott,#00796B,2,Museum and Road of the Meiji Restoration,130.5443573,31.5849724,,,,,,,,Day 1: near Kagoshima Chuo (Amuran ferris wheel in background); 'where they might be attempting a challenge',
+19,Japanorama,Adam Chase; Tom Scott,#00796B,3,Kagoshima Station (2-35 Hamamachi),130.5639943,31.6019526,,,,,,,,"Day 1: Adam holding a watermelon and pole (Nishimuta Kitafuto shop, opens 9:30, is a possible source: 31.5987241/130.5611449)",
+19,Japanorama,Adam Chase; Tom Scott,#00796B,4,Iso Beach,130.575521,31.6149124,,,,,,,,Day 1: Suikawari (watermelon-splitting) challenge direction — Adam holding watermelon + pole,
+19,Japanorama,Adam Chase; Tom Scott,#00796B,5,Sengan-en Station,130.576949,31.616976,,,,,,,,"Day 1: Adam and Tom together with watermelon + pole, looking toward Iso Beach; clip also shows them westbound back toward Kagoshima",
+19,Japanorama,Adam Chase; Tom Scott,#00796B,6,Taniyama Station,130.519675,31.526407,,,,,,,,"Day 1 ~15:52 by train schedule (departures 15:52, 18:03, 19:00; 8:05 impossible); real estate office blinds suggest 15:52
+Day 1 end",1
+19,Japanorama,Adam Chase; Tom Scott,#00796B,7,Usuki Port,131.8104425,33.1261341,,,,,,,,"Day 2: ferry departure from Usuki (Oita)
+Travel from Kagoshima area to Usuki not documented in doc",
+19,Japanorama,Adam Chase; Tom Scott,#00796B,8,Yawatahama,132.42942,33.456849,,,,,,,,"Day 2 ~14:00: 'the town where the ferry from Kyushu arrives' — implies Atom took a ferry from Kyushu (doc discussion)
+Team attribution blank in doc; Atom per prefecture table + discussion — AMBIGUOUS",
+19,Japanorama,Adam Chase; Tom Scott,#00796B,9,Otemachi Station (Ehime),132.7554762,33.8398801,,,,,,,,"Day 2: Iyotetsu Takahama Line
+Day 2 end (evening location unknown in doc)",2
+19,Japanorama,Adam Chase; Tom Scott,#00796B,10,Matsuyama City Station,132.7617619,33.8359766,,,,,,,,Day 3: tram arrives 07:05,
+19,Japanorama,Adam Chase; Tom Scott,#00796B,11,JR Matsuyama Station,132.750762,33.8397822,,,,,,,,Day 3 ~07:57 by sun + train arrival; Series 8000 Limited Express to Okayama (Anpanman Train may run 08:10 or 14:23); train heads south then turns around and heads back north,
+19,Japanorama,Adam Chase; Tom Scott,#00796B,12,Great Seto Bridge,133.828085,34.348466,,,,,,,,Day 3: on the train (bridge/museum pin 34.353692/133.827508),
+19,Japanorama,Adam Chase; Tom Scott,#00796B,13,Shin-Osaka Station,135.501,34.7326,,,,,,,,Day 3: leaving Shin-Osaka ('most likely headed to the Open Air Museum'); Okayama Korakuen clip (34.667281/133.935861) has day unknown and is not placed,
+19,Japanorama,Adam Chase; Tom Scott,#00796B,14,Open Air Museum of Old Japanese Farm Houses (Osaka),135.4872364,34.7794673,,,,,,,,Day 3 (clip 55 team Atom; travel mode from Shin-Osaka not stated),
+19,Japanorama,Adam Chase; Tom Scott,#00796B,15,Arashiyama Bamboo Grove (Kyoto),135.67526,35.017454,,,,,,,,"Day 3 (near Saga-Arashiyama Station, JR Sagano Line)
+Day 3 end",3
+19,Japanorama,Adam Chase; Tom Scott,#00796B,16,Kenroku-en (Kanazawa),136.6620537,36.5643513,,,,,,,,"Day 4: solar estimates conflict (~13:40 in located clips vs 12:30 ±15 in sun calculations)
+Team attribution blank in doc — the Hokuriku route fits Atom (AMBIGUOUS); overnight travel from Kyoto not documented",
+19,Japanorama,Adam Chase; Tom Scott,#00796B,17,Highway 156 near Suganuma Gassho-zukuri Village,136.8819577,36.4008507,,,,,,,,"Day 4 ~16:30 (solar); team attribution blank in doc (fits Atom)
+Candidates for the Gassho-zukuri card-building clip: Suganuma village, Enryaku-ji, 飛騨白川の民家 (34.7788198/135.4876072) — unresolved in doc",
+19,Japanorama,Adam Chase; Tom Scott,#00796B,18,Enryaku-ji (Daikodo),135.8403952,35.0695552,,,,,,,,"Doc marks 'Day 4?' — carry as AMBIGUOUS (temple open 9AM-4PM); reached via the Hieizan Sakamoto Cable Car (station 35.0706650/135.8783509)
+Travel from the Shirakawa-go area to Lake Biwa not documented",4
+19,Japanorama,Adam Chase; Tom Scott,#00796B,19,Ichiburi Station (Niigata),137.6502143,36.9804094,,,,,,,,Day 5 ~07:30 (candidate trains 07:22 and 09:29); team attribution blank in doc — the Hokuriku route fits Atom (AMBIGUOUS),
+19,Japanorama,Adam Chase; Tom Scott,#00796B,20,Mount Chokai view,139.92149,38.835027,,,,,,,,Day 5: view point (candidates 38.89802/139.9058; mountain pin 39.0989/140.0441); team blank in doc,
+19,Japanorama,Adam Chase; Tom Scott,#00796B,21,Weir on Mogami river near Kiyokawa,140.030734,38.7786179,,,,,,,,"Day 5 ~16:15 (solar); team Atom per doc
+Routing from the coast inland unclear in doc — possibly via Shinjo (Tsubasa 137 arrives Shinjo 15:28; Rikuu West Line 1625D Shinjo 16:15 -> Sakata 17:15)",
+19,Japanorama,Adam Chase; Tom Scott,#00796B,22,Sakata Station,139.8458948,38.9222309,,,,,,,,Day 5: Uetsu Main Line platform 2; likely the 17:27 arrival / 17:50 departure pair (doc also cites a 17:15 arrival via the Rikuu West Line — inconsistent),
+19,Japanorama,Adam Chase; Tom Scott,#00796B,23,Mototate (Sakata),139.876282,38.96324,,,,,,,,Day 5 ~17:35 (solar); Sakata Joint Thermal Power Station visible in the shot,
+19,Japanorama,Adam Chase; Tom Scott,#00796B,24,Kisakata Beach (Akita),139.8944476,39.2064502,,,,,,,,"Day 5 ~18:15 (solar); team blank in doc but note says 'Atom have disembarked here'
+Day 5 end",5
+19,Japanorama,Adam Chase; Tom Scott,#00796B,25,Akita,140.126936,39.716528,,,,,,,,"Day 6: near Akita Station
+Team attribution blank in doc — duplicated in both journeys",
+19,Japanorama,Adam Chase; Tom Scott,#00796B,26,Hokkaido Koma-ga-take,140.6600944,41.960334,,,,,,,,Day 6 (south of Hakodate); team blank in doc — duplicated in both journeys; Hokkaido crossing itself not located,6
+19,Japanorama,Adam Chase; Tom Scott,#00796B,27,Asahikawa Station,142.3585,43.7628,,,,,,,,Day 7 09:00: Soya Main Line Limited Express toward Wakkanai; team unknown in doc (both plausible),
+19,Japanorama,Adam Chase; Tom Scott,#00796B,28,Soya Main Line approaching Wakkanai,141.663004,45.358857,,,,,,,,Day 7: Mount Rishiri view,
+19,Japanorama,Adam Chase; Tom Scott,#00796B,29,Wakkanai Station,141.6771991,45.4166166,,,,,,,,"Race finish: northernmost station
+Team unknown (both plausible); winner not stated in doc
+Game ended May 27 ('ended by 15:50 JST'; social post 15:58 JST)",7

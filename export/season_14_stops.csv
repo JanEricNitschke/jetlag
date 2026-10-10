@@ -1,4 +1,99 @@
 season,season_name,journey_team,journey_color,stop_index,name,longitude,latitude,when_start,when_end,video_episode,video_start,video_end,players_override,additional_players,notes,end_of_day
-14,Snake,Adam Chase,#D32F2F,0,Placeholder,0.0,0.0,,,,,,,,,
-14,Snake,Ben Doyle,#FFEE58,0,Placeholder,0.0,0.0,,,,,,,,,
-14,Snake,Sam Denby,#F57C00,0,Placeholder,0.0,0.0,,,,,,,,,
+14,Snake,Adam Chase,#D32F2F,0,Yongsan Station,126.9648276,37.52995733,2025-04-02T07:00:00,,,,,,,"Blocker (with Sam) at game start, Day 1 of Ben's run; blockers start 7:00 per doc
+Adam's 07:22 KST social post from Yongsan 잔디광장 (37.52811, 126.96601)
+Seed: Day 1 timeline — 7:05 KTX toward Shin Haeundae, Yongsan→Cheonan-Asan→Osong",
+14,Snake,Adam Chase,#D32F2F,1,Cheonan-Asan,127.1045762,36.7943331,,,,,,,,"Pass-through node on the 07:05 KTX (with Sam), blockers' ride to Osong",
+14,Snake,Adam Chase,#D32F2F,2,Osong Station,127.327378,36.620453,,,,,,,,"Blocker hub Day 1 (with Sam); ~4–5 cards drawn en route per doc
+Layover ep-1 recap: arrived via Asan; this platform services the Jecheon line
+Sam & Adam construction-zone clip at Osong ~10:00 ±1h solar (outside by bus terminal 36.61901, 127.32727)
+Doc outline variant instead: ITX-Saemaeul 1081 Yongsan→Jochiwon 07:14–08:38 + Mugunghwa 1705 Jochiwon→Osong 09:15–09:20 — competing reconstruction",
+14,Snake,Adam Chase,#D32F2F,3,Jecheon,128.2059487,37.12707938,,,,,,,,Blockers' (Sam+Adam) Day 1 northeast move during Ben's run (Layover-confirmed NE move; exact extent/service unknown),
+14,Snake,Adam Chase,#D32F2F,4,Osong Station,127.327378,36.620453,,,,,,,,"Back at Osong ~11:22 after Ben confirmed heading to Iksan via Hongseong
+Took KTX 413 (alt: KTX 509 toward Yeosu EXPO, dep 11:44, arr Iksan 12:19)",
+14,Snake,Adam Chase,#D32F2F,5,Iksan Station,126.9460147,35.94116804,2025-04-02T11:54:00,,,,,,,"Battle Challenge vs Ben — Ben loses and crashes ~13:00–13:15 (with Sam)
+Clip 'implied that Ben misses based on velocity' at 35.94025, 126.94691",
+14,Snake,Adam Chase,#D32F2F,6,Iksan Station,126.9460147,35.94116804,,,,,,,,Role switch: becomes blocker (with Ben) for Sam's run; blockers start ~13:00–13:30 per doc,
+14,Snake,Adam Chase,#D32F2F,7,Osong Station,127.327378,36.620453,2025-04-02T14:11:00,,,,,,,"Roadblock placed (with Ben) — 'Google Maps rating' challenge proved at a park ~18–20 min walk from Osong
+Sam cleared it ~15:00; blockers misread Sam as heading south",
+14,Snake,Adam Chase,#D32F2F,8,Daejeon Station,127.4346856,36.33219999,2025-04-02T15:03:00,,,,,,,"Roadblock placed (with Ben); Layover: blockers 'placed something in Daejeon then went on'
+Layover: went loosely SE from Daejeon toward Dongdaegu, circled back on the Gyeongbu low-speed line considering a Gimcheon→north connection",
+14,Snake,Adam Chase,#D32F2F,9,Dongdaegu Station,128.6282898,35.87916842,2025-04-02T16:57:00,,,,,,,"Roadblock placed (with Ben); blockers timed out in Daegu end of Day 1 (Layover)
+Doc's further KTX 045 Dongdaegu→Gyeongju leg doubtful — Layover contradicts (omitted)
+Aquarium in the mall next to the station closed minutes before they arrived (Layover)",1
+14,Snake,Adam Chase,#D32F2F,10,Seogyeongju Station,129.2011734,35.86876385,,,,,,,,"Day 2 morning: roadblock placed here (with Ben) — later crashes Sam ~14:14
+Overnighted in Daegu; morning connection Dongdaegu→Seogyeongju not given in doc (doc guess: ITX-Maum 1251 Gyeongju→Seogyeongju 07:07–07:17, contradicted by Layover's Daegu timeout) — leg omitted
+Doc: clip 'exact spot' at 35.88578, 129.17922 near the NEW Seogyeongju station",
+14,Snake,Adam Chase,#D32F2F,11,Pohang Station,129.3415091,36.0718893,2025-04-03T11:02:00,,,,,,,"Pre-positioned (with Ben) for Battle Challenge vs Sam — blockers LOSE
+Station entrance clip (robot statue) 36.07166, 129.34140",
+14,Snake,Adam Chase,#D32F2F,12,Seogyeongju Station,129.2011734,35.86876385,2025-04-03T14:14:00,,,,,,,Returned (with Ben) on the same train Sam rode; Sam crashes here on their roadblock,
+14,Snake,Adam Chase,#D32F2F,13,Seogyeongju Station,129.2011734,35.86876385,,,,,,,,"Adam's run starts here (Sam's crash point); first train Nuriro 1854 departs 17:47
+Run start time not stated in doc (blockers Ben+Sam got their head start at 15:00)",
+14,Snake,Adam Chase,#D32F2F,14,Dongdaegu Station,128.6282898,35.87916842,2025-04-03T18:41:00,,,,,,,Cleared Dongdaegu roadblock (placed by Ben+Sam earlier); overnight here,2
+14,Snake,Adam Chase,#D32F2F,15,Osong Station,127.327378,36.620453,2025-04-04T08:37:00,,,,,,,"Cleared Osong roadblock — 'We're so back' clip (solar ~9:00–10:00)
+Osong clips: 36.61901, 127.32727 / 36.620118, 127.326375",
+14,Snake,Adam Chase,#D32F2F,16,Yongsan Station,126.9648276,37.52995733,2025-04-04T10:59:00,,,,,,,"Battle Challenge vs blockers (Ben+Sam) — blindfolded ramen tasting (3 Balduk bowls vs blockers' 2 a block away)
+Outcome UNKNOWN — may have crashed here; doc: 'we don't have any further information on his run'
+Run distance per doc: 339.5 vs 536 km (conflicting; 536-km breakdown matches outline variant via Busan — AMBIGUOUS)",
+14,Snake,Adam Chase,#D32F2F,17,Shinyongsan Station,126.9664411,37.5292355,,,,,,,,"Ramen-challenge clip geolocated at/near Shinyongsan Station (37.52924, 126.96644); doc: 'possibly at/near Shinyongsan', 'not April 5th, could be April 4th'
+Connection from Yongsan unknown (one subway stop / ~a block) — leg omitted
+Last known position of Adam's run; post-battle fate unknown (Day 4 completely unknown)",3
+14,Snake,Ben Doyle,#FFEE58,0,Yongsan Station,126.9648276,37.52995733,2025-04-02T08:00:00,,,,,,,"Ben's run start (Snaker), 8:00 per doc; game start station for all runs",
+14,Snake,Ben Doyle,#FFEE58,1,Pyeongtaek,127.0852483,36.99079025,,,,,,,,Pass-through node — doc: 'Ben reaches Pyeongtaek based on his map drawing',
+14,Snake,Ben Doyle,#FFEE58,2,Cheonan,127.1481572,36.8090482,2025-04-02T09:46:00,,,,,,,'It's milk' clip at Cheonan-Yeog (not Cheonan-Asan); sun calc ~9:30–10:00,
+14,Snake,Ben Doyle,#FFEE58,3,Onyangoncheon Station,127.011401,36.7794047,2025-04-02T10:36:00,,,,,,,"Pass-through ('via Asan 10:36'); clip geolocated at Onyangoncheon Station, tied to Ben's Yongsan→Pyeongtaek→Cheonan→Hongseong path",
+14,Snake,Ben Doyle,#FFEE58,4,Hongseong,126.6812105,36.59930176,2025-04-02T11:22:00,,,,,,,Pass-through node 11:22 — blockers notified here that Ben was heading to Iksan,
+14,Snake,Ben Doyle,#FFEE58,5,Iksan Station,126.9460147,35.94116804,2025-04-02T12:49:00,,,,,,,"Battle Challenge vs blockers (Sam+Adam) — Ben LOSES and crashes ~13:00–13:15 (sun calc ~13:15 ±15–30 min, high confidence)
+Frame advance: 'implied that Ben misses based on velocity' (not confirmed a challenge fail per se)
+Run distance per doc: ~252.5–263 km (conflicting figures); Ben's run ends here",
+14,Snake,Ben Doyle,#FFEE58,6,Iksan Station,126.9460147,35.94116804,,,,,,,,Role switch: becomes blocker (with Adam) for Sam's run; blockers start ~13:00–13:30 per doc,
+14,Snake,Ben Doyle,#FFEE58,7,Osong Station,127.327378,36.620453,2025-04-02T14:11:00,,,,,,,Roadblock placed (with Adam) — 'Google Maps rating' challenge proved at a park ~18–20 min walk from Osong; Sam cleared it ~15:00,
+14,Snake,Ben Doyle,#FFEE58,8,Daejeon Station,127.4346856,36.33219999,2025-04-02T15:03:00,,,,,,,Roadblock placed (with Adam); Layover: blockers 'placed something in Daejeon then went on',
+14,Snake,Ben Doyle,#FFEE58,9,Dongdaegu Station,128.6282898,35.87916842,2025-04-02T16:57:00,,,,,,,"Timed out in Daegu end of Day 1 (Layover); doc's KTX 045 to Gyeongju doubtful (omitted)
+Layover: circled back on the Gyeongbu low-speed line considering a Gimcheon→north connection",1
+14,Snake,Ben Doyle,#FFEE58,10,Seogyeongju Station,129.2011734,35.86876385,,,,,,,,"Day 2 morning: roadblock placed here (with Adam) — later crashes Sam ~14:14
+Morning connection from Daegu not given in doc (doc guess used Gyeongju, contradicted by Layover) — leg omitted",
+14,Snake,Ben Doyle,#FFEE58,11,Pohang Station,129.3415091,36.0718893,2025-04-03T11:02:00,,,,,,,Pre-positioned (with Adam); Battle Challenge vs Sam — blockers LOSE ('We are going to declare a Battle Challenge' clip),
+14,Snake,Ben Doyle,#FFEE58,12,Seogyeongju Station,129.2011734,35.86876385,2025-04-03T14:14:00,,,,,,,"Returned (with Adam) as Sam crashes here on their roadblock
+New blocker duo Ben+Sam for Adam's run (departs 15:00)",
+14,Snake,Ben Doyle,#FFEE58,13,Pohang Station,129.3415091,36.0718893,2025-04-03T15:18:00,,,,,,,"Roadblock placed (with Sam)
+Outline variant: blockers end Day 2 at Pohang via KTX 247 (18:28–18:43) instead — AMBIGUOUS, main kept",
+14,Snake,Ben Doyle,#FFEE58,14,Dongdaegu Station,128.6282898,35.87916842,2025-04-03T16:56:00,,,,,,,Roadblock placed (with Sam) — Adam clears it on arrival 18:41,
+14,Snake,Ben Doyle,#FFEE58,15,Osong Station,127.327378,36.620453,2025-04-03T18:46:00,,,,,,,End of Day 2 (with Sam); overnight near Osong,2
+14,Snake,Ben Doyle,#FFEE58,16,Osong Station,127.327378,36.620453,,,,,,,,Day 3: roadblock placed at Osong (with Sam); Adam clears it ~08:37 ('We're so back' clip),
+14,Snake,Ben Doyle,#FFEE58,17,Yongsan Station,126.9648276,37.52995733,2025-04-04T09:25:00,,,,,,,"Prep + Battle Challenge vs Adam ~11:00 (blindfolded ramen; Adam's outcome unknown)
+Blockers' last documented position",3
+14,Snake,Sam Denby,#F57C00,0,Yongsan Station,126.9648276,37.52995733,2025-04-02T07:00:00,,,,,,,"Blocker (with Adam) start Day 1 of Ben's run, 7:00 per doc
+Sam's 07:17 KST social post on Apr 2",
+14,Snake,Sam Denby,#F57C00,1,Cheonan-Asan,127.1045762,36.7943331,,,,,,,,Pass-through node on the 07:05 KTX (with Adam),
+14,Snake,Sam Denby,#F57C00,2,Osong Station,127.327378,36.620453,,,,,,,,"Blocker hub Day 1 (with Adam); ~4–5 cards drawn en route
+Layover ep-1 recap: arrived via Asan; this platform services the Jecheon line
+Sam & Adam construction-zone clip ~10:00 ±1h solar (36.61901, 127.32727)
+Doc outline variant instead: ITX-Saemaeul 1081 via Jochiwon — competing reconstruction",
+14,Snake,Sam Denby,#F57C00,3,Jecheon,128.2059487,37.12707938,,,,,,,,Blockers' (Sam+Adam) Day 1 northeast move during Ben's run; exact extent/service unknown,
+14,Snake,Sam Denby,#F57C00,4,Osong Station,127.327378,36.620453,,,,,,,,"~11:22: Ben confirmed heading to Iksan via Hongseong
+Took KTX 413 (alt: KTX 509 toward Yeosu EXPO, dep 11:44, arr Iksan 12:19)",
+14,Snake,Sam Denby,#F57C00,5,Iksan Station,126.9460147,35.94116804,2025-04-02T11:54:00,,,,,,,Battle Challenge vs Ben (with Adam) — Ben loses and crashes ~13:00–13:15,
+14,Snake,Sam Denby,#F57C00,6,Iksan Station,126.9460147,35.94116804,,,,,,,,"Sam's run starts ~14:00–14:30 (approximate per doc) from Iksan, Ben's crash point",
+14,Snake,Sam Denby,#F57C00,7,Osong Station,127.327378,36.620453,2025-04-02T15:03:00,,,,,,,"Roadblock CLEARED — 'Google Maps rating' challenge (Layover-confirmed; blockers' 20-min delay let Sam deduce the park)
+Waited at Osong 'on the high speed line... one direction or the other' while blockers misread him as going south (Layover)
+Platform 13 clip (Chungbuk Line toward Cheongju/Jecheon/Yeongju, person with Sam) — presumably during Sam's run",
+14,Snake,Sam Denby,#F57C00,8,Yongsan Station,126.9648276,37.52995733,2025-04-02T17:22:00,,,,,,,"Layover: crowded trains, little footage until 'back to Yongsan and Seoul'",
+14,Snake,Sam Denby,#F57C00,9,Sangbong Station,127.085664,37.59701805,2025-04-02T18:16:00,,,,,,,Timed out in Seoul end of Day 1; 'perfect connection the following morning' (~7:12 per transcript / 7:16 per doc),1
+14,Snake,Sam Denby,#F57C00,10,Sangbong Station,127.085664,37.59701805,,,,,,,,Day 2 start; doc: KTX 841 from Sangbong 07:16 (or boarded Cheongnyangni / Yangpyeong 07:44 — ambiguous),
+14,Snake,Sam Denby,#F57C00,11,Jinbu Station,128.575125,37.6427627,2025-04-03T08:42:00,,,,,,,KTX 841 timepoint arr 08:42 dep 08:43; 'I really hope we don't have a Battle Challenge' clip,
+14,Snake,Sam Denby,#F57C00,12,Donghae Station,129.1225982,37.49755738,2025-04-03T09:39:00,,,,,,,"KTX 841 terminates here (unusually express, per Layover)
+Beach clip ~9:30 solar at Hanseom Beach, Mukho (37.51987, 129.12237)
+Blockers had planned to cover 'Yeongju or Donghae' but their first train wouldn't leave (delay) (Layover)",
+14,Snake,Sam Denby,#F57C00,13,Pohang Station,129.3415091,36.0718893,2025-04-03T12:37:00,,,,,,,"Battle Challenge vs blockers (Ben+Adam) — Sam WINS
+'We are going to declare a Battle Challenge' clip at station entrance (robot statue 36.07166, 129.34140)",
+14,Snake,Sam Denby,#F57C00,14,Seogyeongju Station,129.2011734,35.86876385,2025-04-03T14:14:00,,,,,,,"CRASH — roadblock placed by blockers earlier on Day 2; Sam's run ends
+Run distance per doc: ~672.2–699 km (conflicting figures)
+SRT 393 via Dongdaegu variant crossed out in doc (SRT likely not in play; solar times don't fit)",
+14,Snake,Sam Denby,#F57C00,15,Seogyeongju Station,129.2011734,35.86876385,,,,,,,,Role switch: becomes blocker (with Ben) for Adam's run; departs 15:00,
+14,Snake,Sam Denby,#F57C00,16,Pohang Station,129.3415091,36.0718893,2025-04-03T15:18:00,,,,,,,"Roadblock placed (with Ben)
+Outline variant: Day 2 ends at Pohang via KTX 247 — AMBIGUOUS, main kept",
+14,Snake,Sam Denby,#F57C00,17,Dongdaegu Station,128.6282898,35.87916842,2025-04-03T16:56:00,,,,,,,Roadblock placed (with Ben) — Adam clears it on arrival 18:41,
+14,Snake,Sam Denby,#F57C00,18,Osong Station,127.327378,36.620453,2025-04-03T18:46:00,,,,,,,End of Day 2 (with Ben),2
+14,Snake,Sam Denby,#F57C00,19,Osong Station,127.327378,36.620453,,,,,,,,Day 3: roadblock placed at Osong (with Ben),
+14,Snake,Sam Denby,#F57C00,20,Yongsan Station,126.9648276,37.52995733,2025-04-04T09:25:00,,,,,,,"Prep + Battle Challenge vs Adam ~11:00 (blindfolded ramen) — outcome unknown
+Day 5 (Apr 6) unknown: Sam's Strava puts him running in Seoul seconds before the game — either Day 5 not played (runs 4+5 folded into Day 4) or Sam Snaking from Seoul 8:00 (open question in doc)",3

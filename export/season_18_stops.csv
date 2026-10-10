@@ -1,3 +1,105 @@
 season,season_name,journey_team,journey_color,stop_index,name,longitude,latitude,when_start,when_end,video_episode,video_start,video_end,players_override,additional_players,notes,end_of_day
-18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,0,Placeholder,0.0,0.0,,,,,,,,,
-18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,0,Placeholder,0.0,0.0,,,,,,,,,
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,0,"Air Margaritaville, Detroit Metro Airport (DTW)",-83.3529754,42.2056991,2026-03-05T17:32:00,,,,,,,"Day 1 (Mar 5): solar ~17:32 ET; ESPN 'Pardon the Interruption' airing points to the 17:30 ET Mar 5 broadcast
+Air Margaritaville not individually geocodable in OSM - using Detroit Metropolitan Wayne County Airport coordinates
+Suspected Margaritaville wild-card trail: DTW (D1), Boston (D2), Mall of America (D4)
+How Samy reached Detroit and then Boston by Day 2 is undocumented - no incoming/outgoing legs",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,1,Boston (Zakim Bridge / Paul Revere Park),-71.062318,42.370194,,,,,,,,"Day 2 (Mar 6)
+Mode of travel to Margaritaville Faneuil Hall not documented - connecting leg omitted",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,2,Margaritaville Boston (Faneuil Hall),-71.0562341,42.3600335,,,,,,,,"Likely Day 2 (Mar 6)
+Margaritaville not geocodable in OSM - using Faneuil Hall coordinates",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,3,Windham (I-93 Exit 3),-71.27121,42.800363,,,,,,,,"Day 2, between 10:00 and 15:00 on a weekday (light traffic)
+Team field blank in doc; Samy context (Boston to NH Day 2)",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,4,Bedford (71 Wentworth Dr),-71.5572135,42.9015474,,,,,,,,"Day 2 (Mar 6)
+House match ~71 Wentworth Dr only 'somewhat of a match' - tentative
+Doc speculates activity near Merrick Covered Bridge
+Flight into STL on Day 3 not identified - no connecting leg",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,5,"Budget Car Rental, STL Airport",-90.361074,38.736298,,,,,,,,"Day 3 (Mar 7)
+Flight into STL not identified - no incoming leg
+Rental: 2022-2025 Ford Escape",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,6,STL Lambert Field exit,-90.369208,38.739858,,,,,,,,"Day 3 (Mar 7), 2022-2025 Ford Escape",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,7,"Eddyville, IA",-92.62636,41.163425,,,,,,,,"Day 3 (Mar 7), solar 16:00-18:00
+Dollar General bag sighting in clip",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,8,"Oskaloosa, IA (Hwy 92)",-92.744037,41.288729,,,,,,,,"Day 3, solar ~18:20 CDT (dusk, sun +/-3 deg around horizon)
+Likely Samy; teaser entry has team blank",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,9,"Neola, IA (W I-880)",-95.730359,41.499402,,,,,,,,"Day 4 (Mar 8), westbound on I-880 toward North Sioux City SD
+Seed's Day 4 line lists Carnes before Neola, but the Carnes pin is 'between Sioux City and Windom' - ordered here after North Sioux City; flagged for review",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,10,"North Sioux City, SD",-96.48789,42.546561,,,,,,,,"Day 4, solar 12:10 +/-30 (after DST switch, Mar 8)
+Amy holding a deck of cards
+Pin essentially identical to the Big Sioux Township entry (same scene confirmed by pole/shadow/clothing match) - no connecting leg",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,11,"Big Sioux Township, SD (Waters Rd & Cemetery Rd)",-96.488036,42.54672,,,,,,,,"Day 4 (Mar 8)
+Two pins (teaser 42deg32'48.2""N, trailer 42deg32'47.6""N) confirmed same location",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,12,"Carnes, IA (RR milemarker 485)",-96.074618,42.915906,,,,,,,,"Day 4 (Mar 8), railroad milemarker 485
+Matching pin found 'between Sioux City and Windom'
+Seed's Day 4 line lists Carnes before Neola; ordered here per pin location between Sioux City and Windom - flagged for review",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,13,"Windom, MN (Cottonwood Lake Park)",-95.102735,43.875597,,,,,,,,"Day 4, solar 14:25 +/-60 (park pin: 43.875449, -95.103855)",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,14,"St. James, MN (St. James Lake)",-94.640206,43.9746,,,,,,,,"Day 4, solar 15:10 +/-60",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,15,"Mall of America, Bloomington, MN",-93.2421195,44.8550204,,,,,,,,"Day 4 (Mar 8): 7:36 on Sam's phone outside Rainforest Cafe - AM vs PM ambiguous (game starts 9 AM after DST)
+Rainforest Cafe ('That's Adam, Ben, Amy, Sam!'), Margaritaville Mall of America, Nickelodeon Universe; one teaser entry (clip #3) has team blank
+Margaritaville wild-card trail inference
+Travel from Minneapolis to New England for Day 5 not documented - no outgoing leg",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,16,"Seabrook, NH",-70.8706857,42.8773076,,,,,,,,"Day 5 (Mar 9)
+Mode of travel to Fort Foster not documented - connecting leg omitted",
+18,Stateside Scramble,Sam Denby; Amy Muller,#EA50EF,17,"Fort Foster, ME (Kittery)",-70.688688,43.069476,,,,,,,,"Day 5 (Mar 9)
+Three separate clip entries/pins (43.068360/-70.691923 and 43.070354/-70.686825 also given)",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,0,"Central Park West & 72nd St, New York",-73.976099,40.776173,,,,,,,,"Day 1 (Mar 5) selfie
+Start of the confirmed Day 1 outline: New York - LGA - MEM - Norfolk, MS - MEM - ATL",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,1,"Jackson Heights (Tenzin Salon, Broadway & 74th St)",-73.892739,40.747014,,,,,,,,"Day 1 (Mar 5)
+E train clip ~74th St & Broadway (Q70 interchange)",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,2,LaGuardia Airport (LGA),-73.873364,40.7757145,,,,,,,,"Day 1 (Mar 5)
+Terminal 3 per trailer entry; archived discussion says Terminal C - inconsistent
+Transcript: 'I was like, I have a wife too, and her name is Tennessee, and I need to go claim her right now'",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,3,Memphis International Airport (MEM),-89.9769022,35.0450205,,,,,,,,"Day 1 (Mar 5)
+Timeline outline only - no located clip
+Nominatim resolves MEM as 'Frederick W. Smith International Airport'",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,4,Southaven Water Tower ('Welcome to Mississippi'),-90.034694,34.991795,,,,,,,,"Day 1 (Mar 5), water tower #3
+Doc spells 'Southhaven'
+Transcript: 'Welcome to Mississippi'",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,5,"Lake Cormorant, MS (10371 Old Hwy 61)",-90.172258,34.962427,,,,,,,,"Day 1, solar 15:45 +/-45",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,6,"Norfolk, MS",-90.245999,34.952512,,,,,,,,"Day 1 (Mar 5), multiple clips (4+ entries); one trailer entry has team blank
+Solar estimates conflict: ~19:00 +/-30 on one clip, 14:30-17:00 (Hernando De Soto River Park) on another - clip sequence unresolved
+Nearby streetview pin 34.953066, -90.245339",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,7,Memphis International Airport (MEM) [return],-89.9769022,35.0450205,,,,,,,,Day 1 (Mar 5) return per confirmed outline,
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,8,Hartsfield-Jackson Atlanta International Airport (ATL),-84.423757,33.63581,,,,,,,,"Day 1 (Mar 5) arrival, evening; overnight in ATL",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,9,"World of Coca-Cola, Atlanta",-84.392436,33.762556,,,,,,,,"Day 2 (Mar 6)
+Intra-day order of Coca-Cola vs Villa Rica vs 13:37 WN899 departure unresolved in doc; ordered Coca-Cola first per seed reconstruction",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,10,"Cinema Tavern, Villa Rica, GA",-84.9201624,33.7317359,,,,,,,,"Day 2 (Mar 6), two identical entries (teaser #28 + trailer #23)
+Doc address: 200 W Montgomery St, Villa Rica GA 30180; Nominatim places Cinema Tavern on S Candler St - address discrepancy, flagged
+Weather tab header 'Villa Rica (D1-2/4-5 in order)' - meaning unclear",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,11,Hartsfield-Jackson Atlanta International Airport (ATL) [departure],-84.423757,33.63581,2026-03-06T13:37:00,,,,,,,"Day 2 (Mar 6) departure
+Terminal T Gate T8 (13:18 on departure board, team blank on that entry); Plane Train escalator, Concourse C; Southwest departure westbound, runway 27R (clip mirrored)",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,12,St. Louis Lambert International Airport (STL),-90.3704702,38.7496273,2026-03-06T14:11:00,,,,,,,"Day 2 (Mar 6) arrival on WN899
+Approach/landing clip at 38deg48'0.2""N 90deg28'16.1""W (mirrored), team blank in doc - attributed to the WN899 arrival",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,13,"St Peters, MO",-90.576611,38.777856,,,,,,,,"Likely Badam, Day 2 - solar 14:00-15:00; Southwest 737NG overhead, WN899 (ATL-STL, Mar 6) the likely suspect
+Position in the Day 2 sequence unclear (west of STL airport while later stops are east/south) - no connecting legs; question for review",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,14,"Gateway Arch, St. Louis",-90.187242,38.6253,,,,,,,,"Day 2 (Mar 6)
+Doc: 'Challenge probably to claim Missouri'
+Social-media post says 2025/03/08 9:10 AM EDT - year typo, and the Mar 8 date conflicts with the Mar 6 visit; unresolved",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,15,"East St. Louis, IL (Martin Luther King Dr)",-90.146204,38.620847,,,,,,,,Day 2 (Mar 6),
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,16,"Benton, IL (I-57)",-88.911926,38.101377,,,,,,,,"Day 2, solar 17:30 +/-30 (teaser; trailer adds 18:30 +/-30)
+Teaser entry team blank; trailer says Badam
+Seed's Day 2 line lists Marion before Benton, but Benton is north of Marion on I-57 south - ordered by route geometry; flagged for review",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,17,"Marion, IL (I-57)",-88.957999,37.741225,,,,,,,,"Day 2 (Mar 6)
+Located via overpass query: McDonald's within 400 m of a Super 8, Pilot truck stop within 800 m
+Presumably Badam driving to Paducah",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,18,St. Louis Lambert International Airport (STL) [departure],-90.3704702,38.7496273,2026-03-07T12:11:00,,,,,,,"Day 3 (Mar 7): WN334 STL-DCA, dep 12:11 PM CST
+Day 2 evening ended at Stella's, Paducah (bourbon shots clip; 'It is astonishing the effect that four shots of bourbon is having on my body') - Stella's not geocodable in OSM, stop omitted",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,19,Ronald Reagan Washington National Airport (DCA),-77.0396889,38.8512894,2026-03-07T14:56:00,,,,,,,"Day 3 (Mar 7) arrival on WN334
+Washington Union Station (team blank, likely Day 3) not attributed to either team - question for review",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,20,"Newburg, MD (Newburg Service Center, Cemetery Rd & Waters Rd)",-76.9533055,38.3773478,,,,,,,,"Day 3, solar 16:00-17:00
+Extract's map link resolves wrongly to East St. Louis MLK Dr - link anomaly; address treated as authoritative
+Service center not individually geocodable - using Newburg village center",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,21,"Westmoreland County, VA",-77.02668,38.226004,,,,,,,,"Likely Badam, Day 3 - solar 16:30-17:30
+Doc: 'on the way to James Monroe Birthplace, most likely challenge involved there'",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,22,"Baltimore, MD (Inner Harbor)",-76.611864,39.283932,,,,,,,,"Likely Badam, Day 4 - solar 10:00 +/-30
+Rest of Day 4 unknown; an unlocated Badam clip is tagged 'Day 4 likely'",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,23,"Lacey Township, NJ (Garden State Parkway)",-74.229438,39.818721,,,,,,,,"Likely Badam, Day 5 - solar 10:30 +/-60
+Only tentatively located (~80% guardrail match; debated in doc)
+GSP southbound toward Atlantic City; Adam driving a 2022+ Nissan Altima",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,24,"Atlantic City, NJ (Margaritaville)",-74.424738,39.361899,,,,,,,,"Likely Badam, Day 5 - solar 11:30 +/-30
+Margaritaville on Adam's left; multiple pins: 78 S North Carolina Ave (used), boardwalk/Ocean Club Condominiums area (39.358045/-74.421747, 39.366124/-74.454112, 39.3582/-74.4214)",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,25,Newark Liberty International Airport (EWR),-74.1772549,40.6890641,2026-03-09T14:21:00,,,,,,,"Day 5 (Mar 9): UA3589 EWR-MYR, dep ~2:21 PM
+United Express Embraer E175; overflew Tinton Falls NJ exit 105 (located clip, Day 5 likely)",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,26,Myrtle Beach International Airport (MYR),-78.9290597,33.6806406,2026-03-09T16:38:00,,,,,,,"Day 5 (Mar 9) arrival on UA3589
+Transport from MYR to the beach clip not documented - connecting leg omitted",
+18,Stateside Scramble,Adam Chase; Ben Doyle,#D32F2F,27,"Myrtle Beach, SC",-78.879554,33.690878,,,,,,,,"Likely Badam, Day 5 - solar 18:15 +/-15 (near dusk)
+Clip is darker than the Central Park selfie",

@@ -5,8 +5,11 @@
     <Folder>
       <name>Adam Chase</name>
       <Placemark>
-        <name>Placeholder</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase</description>
+        <name>London St Pancras</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start; Adam is the first hider (departs London Kings Cross adjacent to St Pancras, 07:00 UTC)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-09-08T07:00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -17,15 +20,378 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>0.0,0.0</coordinates>
+          <coordinates>-0.1270027,51.5327196</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scarborough (White Cliff hiding spot)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 hiding spot near White Cliff (White Nab cliff in background), ~11:00&lt;/li&gt;&lt;li&gt;&amp;#x27;Hello! Welcome to my secret hiding spot&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.389943,54.267849</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scarborough Big Wheel</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 ~midday (wheel opens 10:00; low tide 11:32 that day)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.396414,54.282172</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scarborough Castle</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 afternoon clips (&amp;#x27;Man, what a view.&amp;#x27;); additional exact castle pins: 54.287476/-0.389799 and 54.286328/-0.388266 (the latter&amp;#x27;s day UNKNOWN)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.388582,54.28651</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scarborough Alma Square</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;AMBIGUOUS: located-clips tab says Day 1, archived analysis (solar ~9:00; Adam alone, Day 1 clothes) argues Day 2 morning around the catch&lt;/li&gt;&lt;li&gt;Placed as Day 2 morning since Adam was on a train at 9:00 on Day 1&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.4049674,54.2811163</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scarborough Central Tramway</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;AMBIGUOUS: Day 1 per located-clips tab vs Day 2 morning per archived analysis (solar ~9:45 ±15)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.39713,54.280858</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leeds Railway Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 arrival 16:12 off the TPE train (with Ben and Sam); platform 11c clip ~16:15&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-1.547641,53.794125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebden Bridge</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 evening: FROZEN 19:30-20:00 (Ben&amp;#x27;s hide)&lt;/li&gt;&lt;li&gt;Day 2 end (overnight)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.0087787,53.7377508</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebden Bridge (path back to station)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 ~11:00: Adam (with Ben) returning to the station to start seeking&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.005376,53.741419</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes (Central)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3: arrival 17:00, FROZEN 18:00-20:00 (Ben&amp;#x27;s hide start)&lt;/li&gt;&lt;li&gt;MK Central underpass clip ~08:00 is Day 3 or 4 (AMBIGUOUS) with no team attribution&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 3&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.766388,52.039747</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes (Central)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4 morning 08:00 start (frozen until 08:00); FROZEN again 15:00-19:00 at Kendal&lt;/li&gt;&lt;li&gt;Interleaved doc line &amp;#x27;Milton Keynes (7:00) -&amp;gt; FROZEN (9:00-13:00) -&amp;gt; ?? -&amp;gt; Carlisle? (20:00)&amp;#x27; is AMBIGUOUS (attribution unclear)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.766388,52.039747</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kendal (Town Hall)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Town Hall clock reads 14:15 (clock known unreliable; sun calcs support mid-afternoon)&lt;/li&gt;&lt;li&gt;AMBIGUOUS day: listed as Day 5 in located clips, rain/wind analysis matches Day 4; both Day 4 and Day 5 timelines include a Kendal 14:15 arrival&lt;/li&gt;&lt;li&gt;Sam+Adam here (Sam wants &amp;#x27;aesthetic british flag picture&amp;#x27;)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 4&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.746563,54.325856</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kendal (Town Hall)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 start 07:00&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.746563,54.325856</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kendal Bus Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5: just outside the train station heading towards town; 41A runs Kendal–Oxenholme&lt;/li&gt;&lt;li&gt;Clip attribution: Sam+Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.723575,54.305686</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carlisle</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5, 09:00 per doc timeline&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.9330473,54.8902575</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dumfries Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 ~12:50-12:53: Adam on northbound platform towards Kilmarnock/Glasgow Central&lt;/li&gt;&lt;li&gt;Clip just north of Dumfries (~13:00, 55.075477/-3.605478): Adam&amp;#x27;s phone shows the Carlisle line&lt;/li&gt;&lt;li&gt;Day 5 end (evening location unknown; doc Option 2 interleaved line: &amp;#x27;Carlisle? (20:00)&amp;#x27;)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 5&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-3.6044458,55.0727039</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunbar (Beach Front)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 6: game end (Sep 13, 19:00 per shooting schedule; Option 2 says 20:00)&lt;/li&gt;&lt;li&gt;Doc Option 1 has Adam at Dunbar at game end; Dunbar clips are mostly attributed to Sam — attribution AMBIGUOUS&lt;/li&gt;&lt;li&gt;Dunbar Battery clip (~19:30 vs morning — significant disagreement in sun calcs) not separately placed&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 6&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.521636,56.005515</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London St Pancras to Scarborough (White Cliff hiding spot) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;RTT+ verified options: 07:03 KGX → 09:31 Leeds → 10:59 Scarborough, or 07:06 KGX → 09:29 York → 10:59 Scarborough (the doc&amp;#x27;s original 07:00/08:00 options are infeasible per RTT+)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.1270027,51.5327196 -0.389943,54.267849</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Scarborough Central Tramway to Leeds Railway Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;15:47 TPE (Scarborough–Manchester Vic service) via York, arr Leeds 16:12 (Colton Junction passed 15:52; arrived 45s early)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.39713,54.280858 -1.547641,53.794125</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Leeds Railway Station to Hebden Bridge (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Leeds → Hebden Bridge (service unspecified in doc)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-1.547641,53.794125 -2.0087787,53.7377508</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Hebden Bridge (path back to station) to Milton Keynes (Central) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Hebden Bridge → Milton Keynes (travel mode/service not stated in doc; doc&amp;#x27;s transport tab for Day 3 is empty)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-2.005376,53.741419 -0.766388,52.039747</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes (Central) to Kendal (Town Hall) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Milton Keynes → Kendal (mode/service not stated in doc; likely via WCML/Oxenholme)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.766388,52.039747 -2.746563,54.325856</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kendal (Town Hall) to Kendal Bus Station (bus)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; bus&lt;br&gt;41A bus Kendal–Oxenholme (Adam &amp;#x27;driving the bus&amp;#x27;); buses from Oxenholme at 12:33/13:33 per doc</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-2.746563,54.325856 -2.723575,54.305686</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kendal Bus Station to Carlisle (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Rail via Oxenholme → Carlisle (doc timeline: Carlisle 09:00; specific service not stated)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-2.723575,54.305686 -2.9330473,54.8902575</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Carlisle to Dumfries Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Carlisle → Dumfries (doc&amp;#x27;s train analysis for the Dumfries line; ~12:50-12:53 arrival)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-2.9330473,54.8902575 -3.6044458,55.0727039</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
     <Folder>
       <name>Ben Doyle</name>
       <Placemark>
-        <name>Placeholder</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle</description>
+        <name>London St Pancras</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start as seeker (with Sam), 11:00 UTC (after Adam&amp;#x27;s 4h hiding period began)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-09-08T11:00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -36,15 +402,304 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>0.0,0.0</coordinates>
+          <coordinates>-0.1270027,51.5327196</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leeds Railway Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 15:37, between platforms 12 and 15; boarding the 15:43 from platform 15 towards Scarborough&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-1.547641,53.794125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bridlington</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 evening (~20:00); Day 1 end (overnight)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.189503,54.082253</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bridlington</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 07:30-08:00, platform towards Scarborough&lt;/li&gt;&lt;li&gt;Curse of the Jammed Door: rolled an eight, missing the 07:31 (class 158) and taking the 08:12 instead&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.189503,54.082253</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scarborough (White Cliff area)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 08:50 arrival; Ben (with Sam) finds Adam ~10:00-11:00&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.389943,54.267849</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rochdale Canal, Hebden Bridge</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 ~14:45 ±30 (&amp;#x27;million subscribers&amp;#x27; child conversation clip)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.014276,53.740206</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebden Bridge (hiding area)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2: HIDER from ~10:00-11:00 (after the catch), hiding in the Hebden Bridge area&lt;/li&gt;&lt;li&gt;FOUND ~18:00-19:00, FROZEN 19:30-20:00&lt;/li&gt;&lt;li&gt;Exact Day 2 hiding spot not stated; the Rowland Lane wall clip is dated UNKNOWN (doc treats it as the likely ENDGAME hiding spot)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.0087787,53.7377508</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebden Bridge (path back to station)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 ~11:00: Ben (with Adam) returning to the station to start seeking&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.005376,53.741419</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes (Central)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3: arrival 17:00; becomes HIDER at 18:00 (hides overnight)&lt;/li&gt;&lt;li&gt;Day 3 end&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 3&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.766388,52.039747</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes (Central)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4 07:00; interleaved doc line &amp;#x27;Milton Keynes (7:00) -&amp;gt; HIDER (9:00) -&amp;gt; Kendal (13:00)&amp;#x27; is likely Ben (AMBIGUOUS attribution)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.766388,52.039747</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kendal</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4: Kendal Street clip (&amp;#x27;How did this happen?&amp;#x27;)&lt;/li&gt;&lt;li&gt;FOUND 15:30 per doc, FROZEN 15:00-19:00&lt;/li&gt;&lt;li&gt;Clip 6 attribution (Kendal street, listed &amp;#x27;Day 1 presumably after finding adam&amp;#x27;) is AMBIGUOUS in the doc&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 4&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.750665,54.328645</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kendal</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 start 07:00 (Option 1); interleaved line &amp;#x27;Kendal (7:00) -&amp;gt; FOUND (15:00) -&amp;gt; FROZEN (15:00-19:00)&amp;#x27; is AMBIGUOUS&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.750665,54.328645</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dumfries Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 ~13:00 per doc Option 1 line &amp;#x27;Kendal (7:00) -&amp;gt; Carlisle (9:00) -&amp;gt; Dumfries (13:00)&amp;#x27; (attribution AMBIGUOUS)&lt;/li&gt;&lt;li&gt;Dumfries Station clip ~12:50: Sam audible (suspected editing error); Adam is on the platform&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 5&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-3.6044458,55.0727039</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebden Bridge (Rowland Lane)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Ben&amp;#x27;s likely endgame hiding spot (wall clip, trailer 01:14-01:17); located to Rowland Lane (Burlees Lane also possible)&lt;/li&gt;&lt;li&gt;Day UNKNOWN; fits Day 6 Option 2 (Ben run 3, &amp;#x27;unknown hiding location — possibly Lake District&amp;#x27; — Kendal wall candidates were rejected)&lt;/li&gt;&lt;li&gt;Day 6 Option 1 instead has Ben at Dunbar at game end&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.001028,53.742085</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London St Pancras to Leeds Railway Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;KGX→York 11:03-13:30 (LNER) or 11:27-13:27 (Grand Central), then York→Leeds e.g. 14:08-15:23 (Northern) - not checked against timetables per doc</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.1270027,51.5327196 -1.547641,53.794125</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Leeds Railway Station to Bridlington (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;15:43 from platform 15 towards Scarborough, arr Bridlington ~20:00</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-1.547641,53.794125 -0.189503,54.082253</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Bridlington to Scarborough (White Cliff area) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;08:12 Bridlington → Scarborough (class 170, RTT+ confirmed)</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.189503,54.082253 -0.389943,54.267849</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Scarborough (White Cliff area) to Rochdale Canal, Hebden Bridge (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Ben&amp;#x27;s hide run: left Scarborough midday to hide at Hebden Bridge (~14:30 arrival); service unspecified in doc</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.389943,54.267849 -2.014276,53.740206</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Hebden Bridge (path back to station) to Milton Keynes (Central) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Hebden Bridge → Milton Keynes (travel mode/service not stated in doc; Day 3 transport tab empty)</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-2.005376,53.741419 -0.766388,52.039747</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes (Central) to Kendal (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;MK → Kendal on the WCML (Hincaster clip ~12:45 on approach to Kendal); service unspecified in doc</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.766388,52.039747 -2.750665,54.328645</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
     <Folder>
       <name>Sam Denby</name>
       <Placemark>
-        <name>Placeholder</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby</description>
+        <name>London St Pancras</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start as seeker (with Ben), 11:00 UTC&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-09-08T11:00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -55,8 +710,339 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>0.0,0.0</coordinates>
+          <coordinates>-0.1270027,51.5327196</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leeds Railway Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 15:37 (with Ben), platforms 12-15&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-1.547641,53.794125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bridlington</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 evening (~20:00); Day 1 end (overnight)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.189503,54.082253</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bridlington</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 07:30-08:00&lt;/li&gt;&lt;li&gt;Curse of the Jammed Door: rolled an eight, missing the 07:31 (class 158) and taking the 08:12&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.189503,54.082253</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scarborough (White Cliff area)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 08:50 arrival; finds Adam (with Ben) ~10:00-11:00&lt;/li&gt;&lt;li&gt;Doc timeline: FROZEN 10:30-14:30 (reason not stated in doc)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.389943,54.267849</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leeds Railway Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 16:12 off the TPE train, platform 16 (clip filmed by Sam); platform 11c clip ~16:15 is Sam+Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-1.547641,53.794125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebden Bridge</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 evening: Sam becomes HIDER at 19:30 (run 2); Day 2 end&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.0087787,53.7377508</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes (Unity Place)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 ~11:00 (&amp;#x27;This place sucks&amp;#x27; — Sam)&lt;/li&gt;&lt;li&gt;Overnight travel from Hebden Bridge to MK not documented (mode not stated)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.772264,52.036359</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes (Central)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3: FROZEN 18:00-20:00 (Ben&amp;#x27;s hide start); Day 3 end&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 3&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.766388,52.039747</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes (Central)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4: FROZEN until 08:00, then 08:00 start&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-0.766388,52.039747</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kendal (Town Hall)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4 14:15 (with Adam); Sam wants &amp;#x27;aesthetic british flag picture&amp;#x27;&lt;/li&gt;&lt;li&gt;AMBIGUOUS day: listed Day 5 in located clips, rain/wind analysis matches Day 4&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 4&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.746563,54.325856</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kendal (Town Hall)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 start 07:00; interleaved doc line &amp;#x27;Carlisle (7:00) -&amp;gt; Gretna -&amp;gt; Dumfries (8:40/10:40) -&amp;gt; Kendal (14:15) -&amp;gt; HIDER (15:00) -&amp;gt; Dunbar (19:00)&amp;#x27; has AMBIGUOUS attribution&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.746563,54.325856</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kendal Bus Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 (exact time unknown); 41A runs Kendal–Oxenholme&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.723575,54.305686</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunbar (street)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 6 ~07:30 ±30 (Sam, seeking a veto)&lt;/li&gt;&lt;li&gt;Travel from Kendal to Dunbar on Day 5 evening not documented&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.505223,55.998734</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunbar Beach Front</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 6, low tide puts the time at ~10:45-12:45 (team attribution blank in doc)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.521636,56.005515</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunbar Battery</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 6: sun calcs disagree (~19:30 ±30 evening vs ≤10:15 morning) — AMBIGUOUS&lt;/li&gt;&lt;li&gt;Game end (Option 1: Sam found at Dunbar; schedule ends Sep 13 19:00, Option 2 says 20:00)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 6&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-2.512441,56.006096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London St Pancras to Leeds Railway Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;KGX→York 11:03-13:30 (LNER) or 11:27-13:27 (Grand Central), then York→Leeds e.g. 14:08-15:23 (Northern)</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.1270027,51.5327196 -1.547641,53.794125</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Leeds Railway Station to Bridlington (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;15:43 from platform 15 towards Scarborough, arr Bridlington ~20:00</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-1.547641,53.794125 -0.189503,54.082253</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Bridlington to Scarborough (White Cliff area) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;08:12 Bridlington → Scarborough (class 170, RTT+ confirmed)</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.189503,54.082253 -0.389943,54.267849</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Scarborough (White Cliff area) to Leeds Railway Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;15:47 TPE (Scarborough–Manchester Vic) via York, arr Leeds 16:12 (Colton Junction 15:52)</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.389943,54.267849 -1.547641,53.794125</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Leeds Railway Station to Hebden Bridge (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Leeds → Hebden Bridge (service unspecified; doc lists Hebden Bridge departures from 17:17)</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-1.547641,53.794125 -2.0087787,53.7377508</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Milton Keynes (Central) to Kendal (Town Hall) (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Milton Keynes → Kendal (mode/service not stated in doc)</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-0.766388,52.039747 -2.746563,54.325856</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kendal (Town Hall) to Kendal Bus Station (bus)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; bus&lt;br&gt;41A bus Kendal–Oxenholme (clip: Sam+Adam, Adam &amp;#x27;driving the bus&amp;#x27;)</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-2.746563,54.325856 -2.723575,54.305686</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
   </Document>

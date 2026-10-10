@@ -236,15 +236,28 @@ def _unwrapped(points: Sequence[tuple[float, float]]) -> list[tuple[float, float
     return result
 
 
-def _add_leg_lines(group: folium.FeatureGroup, journey: Journey) -> None:
+_LINE_DASHES = ("", "14 8", "2 7")
+"""Dash patterns per journey index, so legs of different journeys that run
+along the same corridor stay distinguishable instead of hiding each other."""
+
+
+def _add_leg_lines(
+    group: folium.FeatureGroup, journey: Journey, journey_index: int = 0
+) -> None:
     """Add one journey-colored, arrowed polyline per ``to_next`` leg."""
     color = str(journey.color)
+    dash = _LINE_DASHES[journey_index % len(_LINE_DASHES)]
     for stop, nxt in zip(journey.stops, journey.stops[1:], strict=False):
         for leg in stop.to_next:
             coordinates = leg.geometry or [stop.coordinate, nxt.coordinate]
             points = _unwrapped([(c.latitude, c.longitude) for c in coordinates])
             line = folium.PolyLine(
-                points, color=color, weight=4, opacity=0.8, popup=_leg_popup(leg)
+                points,
+                color=color,
+                weight=4,
+                opacity=0.8,
+                popup=_leg_popup(leg),
+                dash_array=dash,
             )
             line.add_to(group)
             _add_direction_arrows(group, line, color)
@@ -393,15 +406,15 @@ def _build_map(
         match markers:
             case MarkerMode.CLUSTER:
                 cluster = MarkerCluster(options=_CLUSTER_OPTIONS)
-                for journey in season.journeys:
+                for journey_index, journey in enumerate(season.journeys):
                     _add_clustered_stop_markers(cluster, journey)
-                    _add_leg_lines(group, journey)
+                    _add_leg_lines(group, journey, journey_index)
                     all_points.extend(_journey_points(journey))
                 group.add_child(cluster)
             case MarkerMode.SPLIT:
                 _add_split_stop_markers(group, season)
-                for journey in season.journeys:
-                    _add_leg_lines(group, journey)
+                for journey_index, journey in enumerate(season.journeys):
+                    _add_leg_lines(group, journey, journey_index)
                     all_points.extend(_journey_points(journey))
         group.add_to(map_)
     if markers == MarkerMode.CLUSTER:
