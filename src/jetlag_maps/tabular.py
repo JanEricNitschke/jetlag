@@ -71,6 +71,7 @@ from pydantic import BaseModel, BeforeValidator
 from jetlag_maps.config import Color, Player
 from jetlag_maps.format import (
     Coordinate,
+    GeometryQuality,
     Journey,
     SeasonFile,
     Stop,
@@ -164,6 +165,7 @@ class LegRow(BaseModel):
     mode: _CellStr
     note: _CellStr = ""
     players_override: _CellStr = ""
+    quality: _CellStr = ""
     geometry: _CellStr = ""
 
 
@@ -287,6 +289,7 @@ def leg_rows(seasons: Sequence[SeasonFile]) -> list[LegRow]:
                                 if leg.players_override
                                 else ""
                             ),
+                            quality=leg.quality.value,
                             geometry=_encode_geometry(leg.geometry),
                         )
                     )
@@ -477,6 +480,9 @@ def _row_to_leg(row: LegRow) -> ToNext:
         note=row.note,
         players_override=_decode_players(row.players_override) or None,
         geometry=_decode_geometry(row.geometry),
+        quality=(
+            GeometryQuality(row.quality) if row.quality else GeometryQuality.UNKNOWN
+        ),
     )
 
 

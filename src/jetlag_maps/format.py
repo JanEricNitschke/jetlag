@@ -34,6 +34,28 @@ class TravelMode(StrEnum):
     BUS = "bus"
 
 
+class GeometryQuality(StrEnum):
+    """How trustworthy a leg's geometry is.
+
+    - ``UNKNOWN``: placeholder only — the geometry is empty or a straight
+      line between the stops; nothing is known about the actual path.
+    - ``MODE``: the travel mode is right and the geometry is a plausible
+      route for it (OSRM road/walking routing, great circles), but neither
+      the actual route nor the service is confirmed.
+    - ``ROUTE``: the geometry follows the actual route of a known service —
+      the specific train line, bus route or flight is identified (a named
+      transit line from routing, a representative real flight, or a line
+      confirmed in review).
+    - ``EXACT``: the actually-ridden track itself (user-provided GPX, a
+      dated FlightAware scrape of the real flight).
+    """
+
+    UNKNOWN = "unknown"
+    MODE = "mode"
+    ROUTE = "route"
+    EXACT = "exact"
+
+
 _SECONDS_PER_MINUTE = 60
 _SECONDS_PER_HOUR = 3600
 
@@ -109,6 +131,7 @@ class ToNext(BaseModel):
     note: str = ""
     players_override: list[Player] | None = Field(default=None, min_length=1)
     geometry: list[Coordinate] = []
+    quality: GeometryQuality = GeometryQuality.UNKNOWN
 
 
 class Stop(BaseModel):
