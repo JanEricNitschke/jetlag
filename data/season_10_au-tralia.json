@@ -10,16 +10,161 @@
       "color": "#7B1FA2",
       "stops": [
         {
-          "name": "Placeholder",
+          "name": "Sydney Opera House",
           "coordinate": {
-            "longitude": 0.0,
-            "latitude": 0.0
+            "longitude": 151.2151234,
+            "latitude": -33.857198
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [],
+          "notes": [
+            "Game start, Day 1 7:30 AM; NSW challenge board location",
+            "Claimed New South Wales; snack-tasting (1.5x on $300) and Indigenous Rock Engravings challenges won; Luna Park challenge lost"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Inter-region travel is by full-price flight per the rules",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Gold Coast Airport",
+          "coordinate": {
+            "longitude": 153.5098183,
+            "latitude": -28.1675254
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 1 evening; Toby's strategic end-location theory (airport sits on the NSW/QLD border)",
+            "Missed their bus to the challenge board at episode end"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "bus",
+              "note": "Bus toward the Gold Coast challenge board (missed connection)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Coomera Station (Gold Coast challenge board)",
+          "coordinate": {
+            "longitude": 153.3170517,
+            "latitude": -27.8523611
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 2: QLD challenge board (Coomera); the Brisbane-sign steal pops up"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "bus",
+              "note": "Bus to Brisbane, positioning for the steal at the Brisbane Sign",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Brisbane Sign",
+          "coordinate": {
+            "longitude": 153.0203174,
+            "latitude": -27.4738881
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 2: positioned for the 'Mind Meld at the Brisbane Sign' steal",
+            "Day 2 end"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "AMBIGUOUS ordering: day of the ACT claim is not in the sources; inter-region flight per rules",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Canberra (Parliament House)",
+          "coordinate": {
+            "longitude": 149.1246038,
+            "latitude": -35.3075604
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "ACT challenge board location; claimed the Australian Capital Territory (Wikipedia)",
+            "AMBIGUOUS: visit day not in episode pages"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "AMBIGUOUS ordering: flight to the NT not dated in sources",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Alice Springs (ANZAC Hill)",
+          "coordinate": {
+            "longitude": 133.88211,
+            "latitude": -23.69473
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "NT challenge board location; 'amass power for a strategic comeback' (Morse-code telegraphing, golf)",
+            "AMBIGUOUS: visited around E4/E5; whether Soby claimed or only pressured the NT is not stated"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Final day: flight to Gold Coast Airport",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Gold Coast Airport",
+          "coordinate": {
+            "longitude": 153.5098183,
+            "latitude": -28.1675254
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Final day: claimed Queensland and New South Wales in quick succession from the border airport — WON 4-3"
+          ],
           "end_of_day": [],
           "to_next": []
         }
@@ -33,16 +178,160 @@
       "color": "#D32F2F",
       "stops": [
         {
-          "name": "Placeholder",
+          "name": "Sydney Opera House",
           "coordinate": {
-            "longitude": 0.0,
-            "latitude": 0.0
+            "longitude": 151.2151234,
+            "latitude": -33.857198
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [],
+          "notes": [
+            "Game start, Day 1 7:30 AM"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "'Really cheap flight to Hobart'",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Hobart (Cenotaph)",
+          "coordinate": {
+            "longitude": 147.3361735,
+            "latitude": -42.8769885
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 1: TAS challenge board location (Cenotaph)",
+            "Signal flags at Mount Nelson Signal Station; 'Throw a Shrimp on the Barbie' 3x wager $800 succeeded on try 37 (budget $3,224)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Inter-region flight per rules (AMBIGUOUS day order for TAS->SA->VIC->NT)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Adelaide (Victoria Square)",
+          "coordinate": {
+            "longitude": 138.5999227,
+            "latitude": -34.9289493
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "E3: 'Predict Market Flow at Adelaide's Central Market' — they were in Adelaide",
+            "SA challenge board location"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Inter-region flight per rules",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Melbourne (Flinders Street station)",
+          "coordinate": {
+            "longitude": 144.9664779,
+            "latitude": -37.8184161
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "E4: built a cart in Melbourne; VIC challenge board location"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "AMBIGUOUS: order of the NT visit not in sources",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Alice Springs (ANZAC Hill)",
+          "coordinate": {
+            "longitude": 133.88211,
+            "latitude": -23.69473
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "NT challenge board location; claimed the Northern Territory (Wikipedia) — visit day not in episode stubs"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Final day: direct flights to Canberra booked out, so they flew to Sydney",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Sydney",
+          "coordinate": {
+            "longitude": 151.2151234,
+            "latitude": -33.857198
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Final day: reclaimed New South Wales (flew to Sydney when Canberra flights were booked out)",
+            "AMBIGUOUS pin: shown at the Opera House area, the NSW board location"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Believing Sam+Toby were heading to Tasmania, they flew to Melbourne",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Melbourne (Flinders Street station)",
+          "coordinate": {
+            "longitude": 144.9664779,
+            "latitude": -37.8184161
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Final day: the Tasmania guess was wrong — Sam+Toby claimed QLD+NSW at Gold Coast Airport",
+            "Lost 4-3"
+          ],
           "end_of_day": [],
           "to_next": []
         }

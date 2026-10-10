@@ -72,6 +72,146 @@
           ],
           "end_of_day": [],
           "to_next": []
+        },
+        {
+          "name": "Anchorage",
+          "coordinate": {
+            "longitude": -149.9978919,
+            "latitude": 61.1810353
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Won the 'Build a snowman on the beach' Twitter poll -> nonstop ticket to Anchorage (E1); Alaska Airlines website booking issues",
+            "E2-E3: completed many ticket challenges around Anchorage while Badam were stuck in Utqiagvik"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Boise",
+          "coordinate": {
+            "longitude": -116.2080749,
+            "latitude": 43.5600566
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "E4: leading in Boise, Idaho (arrival via tickets — routing not in sources)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Drove across the Rocky Mountains to Montrose — forced when Badam took the Seattle->Denver nonstop; E5's risky drive through sparse regions",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Montrose",
+          "coordinate": {
+            "longitude": -107.892488,
+            "latitude": 38.5118206
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "End of the Rockies drive; flew out from here"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Montrose -> Dallas",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Dallas",
+          "coordinate": {
+            "longitude": -97.0458529,
+            "latitude": 32.8962047
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "AMBIGUOUS pin: Dallas/Fort Worth assumed (airport not stated in sources)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Dallas -> Birmingham",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Birmingham",
+          "coordinate": {
+            "longitude": -86.7504578,
+            "latitude": 33.5646818
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Drove to Atlanta",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Atlanta",
+          "coordinate": {
+            "longitude": -84.4298161,
+            "latitude": 33.6374009
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "E6: reached Key West via two stolen tickets ('Steal Jimmy Johns' crown' E4, 'Steal Elvis' spot' E6) while Badam were still at the airport"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Key West (Southernmost Point)",
+          "coordinate": {
+            "longitude": -81.7974808,
+            "latitude": 24.5465299
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FINISH — first to reach the southernmost point of the continental US; WON Season 8",
+            "Final Atlanta -> Key West hop via stolen tickets (mode not explicitly stated in sources)"
+          ],
+          "end_of_day": [],
+          "to_next": []
         }
       ]
     },
@@ -142,6 +282,142 @@
           "additional_players": [],
           "notes": [
             "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Adam\n2) Ben\nChallenge: Dance like nobody's watching (Adam, Ben)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Anchorage",
+          "coordinate": {
+            "longitude": -149.9978919,
+            "latitude": 61.1810353
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "E3: first flight out of Utqiagvik to Anchorage, delayed by hours"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Flight to Seattle — 30 minutes to the connection; begged the gate agent to let them on",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Seattle",
+          "coordinate": {
+            "longitude": -122.3080159,
+            "latitude": 47.4475673
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "E4: struggling in Seattle"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "'Do a mile drunk (not high)' — won the crucial nonstop to Denver (the Mile High City)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Denver",
+          "coordinate": {
+            "longitude": -104.6853673,
+            "latitude": 39.8606676
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Winning the Denver nonstop forced Sam+Michelle's alternate Rockies route"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "'Do a milk walkie' — nonstop flight to Milwaukee",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Milwaukee",
+          "coordinate": {
+            "longitude": -87.8972578,
+            "latitude": 42.9465423
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Chicago Union Station",
+          "coordinate": {
+            "longitude": -87.6404084,
+            "latitude": 41.878701
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Transfer to the sleeper train (mode from Milwaukee not stated)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Amtrak sleeper train from Chicago to Connellsville (service not specified in sources)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Connellsville",
+          "coordinate": {
+            "longitude": -79.5928417,
+            "latitude": 40.0202257
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Atlanta",
+          "coordinate": {
+            "longitude": -84.4298161,
+            "latitude": 33.6374009
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "E6: still at the Atlanta Airport when Sam+Michelle reached Key West — LOST"
           ],
           "end_of_day": [],
           "to_next": []

@@ -9,16 +9,252 @@
       "color": "#D32F2F",
       "stops": [
         {
-          "name": "Placeholder",
+          "name": "Tokyo Station",
           "coordinate": {
-            "longitude": 0.0,
-            "latitude": 0.0
+            "longitude": 139.764981,
+            "latitude": 35.6818017
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [],
+          "notes": [
+            "Game start as seeker (with Sam), chasing Ben's run 1"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Shinkansen northeast to Sendai",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Sendai Station",
+          "coordinate": {
+            "longitude": 140.8800249,
+            "latitude": 38.2597526
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Seeker hub chasing Ben (100-mile radar, thermometer, photo questions)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Local line toward Yamadera",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Yamadera Station",
+          "coordinate": {
+            "longitude": 140.434729,
+            "latitude": 38.3095946
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND Ben under the bridge by the river (9:19:03 + 40 min = 9:59:03)",
+            "Run 1 start for Adam (3.5h from where Ben was found)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Run 1: south (via Sendai); hid near a station close to Utsunomiya",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Tobiyama Castle Site Station area",
+          "coordinate": {
+            "longitude": 139.9661517,
+            "latitude": 36.5535416
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Run 1 hiding spot: a park near the station (single-story tallest building)",
+            "FOUND at 7:11:12 + 30 min = 7:41:12 (Mediocre Travel Agent curse info used against him)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As seeker: to Tokyo Station",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Tokyo Station",
+          "coordinate": {
+            "longitude": 139.764981,
+            "latitude": 35.6818017
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Cleared the Impressionable Consumer + Right Turn curses here"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "To the Narita area — Sam's hiding spot",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Higashi-Narita Station",
+          "coordinate": {
+            "longitude": 140.3870949,
+            "latitude": 35.7702974
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND Sam at 7:42:45"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As seeker chasing Ben's run 2: down the Izu side (Atami)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Atami Station",
+          "coordinate": {
+            "longitude": 139.0787599,
+            "latitude": 35.1037666
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Seeker stop (over 5 hours into Ben's run); refused the Ito-line theory; went WEST to Mishima instead (wrong)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "West to Mishima",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Mishima Station",
+          "coordinate": {
+            "longitude": 138.948713,
+            "latitude": 35.1473609
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "25-mile radar hit; checked the inland Gotemba line (wrong); then south to Izu-Kogen"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Down to Izu-Kogen",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Izu-Kogen Station",
+          "coordinate": {
+            "longitude": 139.1086037,
+            "latitude": 34.8787978
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND Ben at night — final 13:09:28",
+            "Run 2 start for Adam (from where Ben was found)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Run 2: to Saruhashi (routing not specified in sources)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Saruhashi Station",
+          "coordinate": {
+            "longitude": 138.9680239,
+            "latitude": 35.6128739
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Run 2 hiding spot; misled the seekers with answers and decoy photos",
+            "FOUND after an exhaustive search (final 11:21)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As seeker: chasing Sam's 2nd run through Tokyo's train lines",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Naka-Urawa Station",
+          "coordinate": {
+            "longitude": 139.637178,
+            "latitude": 35.853493
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND Sam near Naka-Urawa after his Move card (final 10:46:04) — Ben wins the season"
+          ],
           "end_of_day": [],
           "to_next": []
         }
@@ -31,16 +267,232 @@
       "color": "#FFEE58",
       "stops": [
         {
-          "name": "Placeholder",
+          "name": "Tokyo Station",
           "coordinate": {
-            "longitude": 0.0,
-            "latitude": 0.0
+            "longitude": 139.764981,
+            "latitude": 35.6818017
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [],
+          "notes": [
+            "Run 1 start (the day before the first game day)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Northeast via Sendai (service not specified in sources)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Yamadera Station",
+          "coordinate": {
+            "longitude": 140.434729,
+            "latitude": 38.3095946
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Run 1 hiding spot: under a bridge next to the local river",
+            "FOUND at 9:19:03 + 40 min bonus = final 9:59:03 (seekers stalled ~2h in Sendai by the Jammed Door curse)",
+            "Seekers' radar/thermometer questions put Ben in the northeast; found via Strava-analysis at Yamadera"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As seeker (with Sam): Shinkansen out of Sendai — the WRONG way (north) at first",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Sendai Station",
+          "coordinate": {
+            "longitude": 140.8800249,
+            "latitude": 38.2597526
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Seeker stop chasing Adam: corrected direction after questions (Adam was south)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Toward Utsunomiya",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Utsunomiya Station",
+          "coordinate": {
+            "longitude": 139.8983141,
+            "latitude": 36.5596305
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Cleared the Curse of the Hidden Hangman here (won on 'fuzzy')"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Toward the station that matched Adam's tallest-building photo",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Tobiyama Castle Site Station area",
+          "coordinate": {
+            "longitude": 139.9661517,
+            "latitude": 36.5535416
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND Adam in a park near here at 7:11:12 + 30 min = 7:41:12",
+            "Pin is Tobiyama Castle (the castle-site station is nearby); fan wiki calls the station 'Konoyama' — a mis-romanization"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Seekers (with Adam) cleared two curses at Tokyo Station",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Tokyo Station",
+          "coordinate": {
+            "longitude": 139.764981,
+            "latitude": 35.6818017
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Seeker stop chasing Sam: cleared Impressionable Consumer + Right Turn curses here"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "To Narita — the tallest-building photo gave away Narita Airport",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Higashi-Narita Station",
+          "coordinate": {
+            "longitude": 140.3870949,
+            "latitude": 35.7702974
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND Sam at 7:12:45 + 30 min = 7:42:45 (seekers accidentally took a train to his exact location)",
+            "Run 2 start for Ben (from where Sam was found)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Run 2: south toward the Izu peninsula (via Tokyo/Atami presumably — not specified in sources)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Izu-Kogen Station",
+          "coordinate": {
+            "longitude": 139.1086037,
+            "latitude": 34.8787978
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Run 2 hiding spot: near Izu-Kogen station; zone contained the Teddy Bear Museum",
+            "FOUND at night after the seekers' Atami/Mishima/Gotemba detours — final 13:09:28 (2h+ of bonus cards)",
+            "SEASON-BEST RUN — Ben wins Season 12"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As seeker: pursuing Adam's 2nd run",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Saruhashi Station",
+          "coordinate": {
+            "longitude": 138.9680239,
+            "latitude": 35.6128739
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND Adam here on his 2nd run (final time 11:21); route details not in episode sources"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As seeker: chasing Sam's 2nd run through Tokyo's dense urban landscape",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Naka-Urawa Station",
+          "coordinate": {
+            "longitude": 139.637178,
+            "latitude": 35.853493
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND Sam near Naka-Urawa after he used the Move card to relocate from Kawagoe — final 10:46:04",
+            "Game end — Ben wins with the longest hiding time (13:09:28)"
+          ],
           "end_of_day": [],
           "to_next": []
         }
@@ -53,16 +505,270 @@
       "color": "#F57C00",
       "stops": [
         {
-          "name": "Placeholder",
+          "name": "Tokyo Station",
           "coordinate": {
-            "longitude": 0.0,
-            "latitude": 0.0
+            "longitude": 139.764981,
+            "latitude": 35.6818017
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [],
+          "notes": [
+            "Game start as seeker (with Adam), chasing Ben's run 1"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Shinkansen northeast to Sendai",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Sendai Station",
+          "coordinate": {
+            "longitude": 140.8800249,
+            "latitude": 38.2597526
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Seeker hub chasing Ben"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Local line toward Yamadera",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Yamadera Station",
+          "coordinate": {
+            "longitude": 140.434729,
+            "latitude": 38.3095946
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND Ben under the bridge (9:59:03)",
+            "Run 1 start for Ben; seekers chase Adam next"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Shinkansen out of Sendai (wrong way north), then south",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Utsunomiya Station",
+          "coordinate": {
+            "longitude": 139.8983141,
+            "latitude": 36.5596305
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Seeker stop: transfer toward the station matching Adam's photo"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "To the Tobiyama Castle Site area",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Tobiyama Castle Site Station area",
+          "coordinate": {
+            "longitude": 139.9661517,
+            "latitude": 36.5535416
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND Adam in a park (7:41:12)",
+            "Run 1 start for Sam (3.5h from where Adam was found) — hid at an airport"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Run 1: toward Narita",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Higashi-Narita Station",
+          "coordinate": {
+            "longitude": 140.3870949,
+            "latitude": 35.7702974
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Run 1 hiding spot: Narita Airport area",
+            "FOUND at 7:42:45 (the seekers accidentally took a train to his exact location)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As seeker chasing Ben's run 2: Atami",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Atami Station",
+          "coordinate": {
+            "longitude": 139.0787599,
+            "latitude": 35.1037666
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Seeker stop; rejected the 'south of Atami to Ito' theory and went west — the mistake"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "West to Mishima",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Mishima Station",
+          "coordinate": {
+            "longitude": 138.948713,
+            "latitude": 35.1473609
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "25-mile radar hit; Gotemba-line check; realized Ben went south of Atami"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "South to Izu-Kogen",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Izu-Kogen Station",
+          "coordinate": {
+            "longitude": 139.1086037,
+            "latitude": 34.8787978
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND Ben at night (13:09:28)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As seeker: pursuing Adam's 2nd run",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Saruhashi Station",
+          "coordinate": {
+            "longitude": 138.9680239,
+            "latitude": 35.6128739
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND Adam on his 2nd run (11:21)",
+            "Run 2 start for Sam (from where Adam was found)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Run 2: toward Kawagoe (routing not specified in sources)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Kawagoe Station",
+          "coordinate": {
+            "longitude": 139.4833595,
+            "latitude": 35.9077866
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Run 2 initial hiding spot near Kawagoe Station",
+            "Used the rare 'Move' card as the seekers approached — relocated for 1 hour into a new hiding zone"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Naka-Urawa Station",
+          "coordinate": {
+            "longitude": 139.637178,
+            "latitude": 35.853493
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "FOUND near Naka-Urawa after the Move (final 10:46:04)",
+            "Game end — Ben wins the season"
+          ],
           "end_of_day": [],
           "to_next": []
         }

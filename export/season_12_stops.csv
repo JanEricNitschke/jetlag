@@ -1,4 +1,51 @@
 season,season_name,journey_team,journey_color,stop_index,name,longitude,latitude,when_start,when_end,video_episode,video_start,video_end,players_override,additional_players,notes,end_of_day
-12,Hide + Seek Japan,Adam Chase,#D32F2F,0,Placeholder,0.0,0.0,,,,,,,,,
-12,Hide + Seek Japan,Ben Doyle,#FFEE58,0,Placeholder,0.0,0.0,,,,,,,,,
-12,Hide + Seek Japan,Sam Denby,#F57C00,0,Placeholder,0.0,0.0,,,,,,,,,
+12,Hide + Seek Japan,Adam Chase,#D32F2F,0,Tokyo Station,139.764981,35.6818017,,,,,,,,"Game start as seeker (with Sam), chasing Ben's run 1",
+12,Hide + Seek Japan,Adam Chase,#D32F2F,1,Sendai Station,140.8800249,38.2597526,,,,,,,,"Seeker hub chasing Ben (100-mile radar, thermometer, photo questions)",
+12,Hide + Seek Japan,Adam Chase,#D32F2F,2,Yamadera Station,140.434729,38.3095946,,,,,,,,"FOUND Ben under the bridge by the river (9:19:03 + 40 min = 9:59:03)
+Run 1 start for Adam (3.5h from where Ben was found)",
+12,Hide + Seek Japan,Adam Chase,#D32F2F,3,Tobiyama Castle Site Station area,139.9661517,36.5535416,,,,,,,,"Run 1 hiding spot: a park near the station (single-story tallest building)
+FOUND at 7:11:12 + 30 min = 7:41:12 (Mediocre Travel Agent curse info used against him)",
+12,Hide + Seek Japan,Adam Chase,#D32F2F,4,Tokyo Station,139.764981,35.6818017,,,,,,,,Cleared the Impressionable Consumer + Right Turn curses here,
+12,Hide + Seek Japan,Adam Chase,#D32F2F,5,Higashi-Narita Station,140.3870949,35.7702974,,,,,,,,FOUND Sam at 7:42:45,
+12,Hide + Seek Japan,Adam Chase,#D32F2F,6,Atami Station,139.0787599,35.1037666,,,,,,,,Seeker stop (over 5 hours into Ben's run); refused the Ito-line theory; went WEST to Mishima instead (wrong),
+12,Hide + Seek Japan,Adam Chase,#D32F2F,7,Mishima Station,138.948713,35.1473609,,,,,,,,25-mile radar hit; checked the inland Gotemba line (wrong); then south to Izu-Kogen,
+12,Hide + Seek Japan,Adam Chase,#D32F2F,8,Izu-Kogen Station,139.1086037,34.8787978,,,,,,,,"FOUND Ben at night — final 13:09:28
+Run 2 start for Adam (from where Ben was found)",
+12,Hide + Seek Japan,Adam Chase,#D32F2F,9,Saruhashi Station,138.9680239,35.6128739,,,,,,,,"Run 2 hiding spot; misled the seekers with answers and decoy photos
+FOUND after an exhaustive search (final 11:21)",
+12,Hide + Seek Japan,Adam Chase,#D32F2F,10,Naka-Urawa Station,139.637178,35.853493,,,,,,,,FOUND Sam near Naka-Urawa after his Move card (final 10:46:04) — Ben wins the season,
+12,Hide + Seek Japan,Ben Doyle,#FFEE58,0,Tokyo Station,139.764981,35.6818017,,,,,,,,Run 1 start (the day before the first game day),
+12,Hide + Seek Japan,Ben Doyle,#FFEE58,1,Yamadera Station,140.434729,38.3095946,,,,,,,,"Run 1 hiding spot: under a bridge next to the local river
+FOUND at 9:19:03 + 40 min bonus = final 9:59:03 (seekers stalled ~2h in Sendai by the Jammed Door curse)
+Seekers' radar/thermometer questions put Ben in the northeast; found via Strava-analysis at Yamadera",
+12,Hide + Seek Japan,Ben Doyle,#FFEE58,2,Sendai Station,140.8800249,38.2597526,,,,,,,,Seeker stop chasing Adam: corrected direction after questions (Adam was south),
+12,Hide + Seek Japan,Ben Doyle,#FFEE58,3,Utsunomiya Station,139.8983141,36.5596305,,,,,,,,Cleared the Curse of the Hidden Hangman here (won on 'fuzzy'),
+12,Hide + Seek Japan,Ben Doyle,#FFEE58,4,Tobiyama Castle Site Station area,139.9661517,36.5535416,,,,,,,,"FOUND Adam in a park near here at 7:11:12 + 30 min = 7:41:12
+Pin is Tobiyama Castle (the castle-site station is nearby); fan wiki calls the station 'Konoyama' — a mis-romanization",
+12,Hide + Seek Japan,Ben Doyle,#FFEE58,5,Tokyo Station,139.764981,35.6818017,,,,,,,,Seeker stop chasing Sam: cleared Impressionable Consumer + Right Turn curses here,
+12,Hide + Seek Japan,Ben Doyle,#FFEE58,6,Higashi-Narita Station,140.3870949,35.7702974,,,,,,,,"FOUND Sam at 7:12:45 + 30 min = 7:42:45 (seekers accidentally took a train to his exact location)
+Run 2 start for Ben (from where Sam was found)",
+12,Hide + Seek Japan,Ben Doyle,#FFEE58,7,Izu-Kogen Station,139.1086037,34.8787978,,,,,,,,"Run 2 hiding spot: near Izu-Kogen station; zone contained the Teddy Bear Museum
+FOUND at night after the seekers' Atami/Mishima/Gotemba detours — final 13:09:28 (2h+ of bonus cards)
+SEASON-BEST RUN — Ben wins Season 12",
+12,Hide + Seek Japan,Ben Doyle,#FFEE58,8,Saruhashi Station,138.9680239,35.6128739,,,,,,,,FOUND Adam here on his 2nd run (final time 11:21); route details not in episode sources,
+12,Hide + Seek Japan,Ben Doyle,#FFEE58,9,Naka-Urawa Station,139.637178,35.853493,,,,,,,,"FOUND Sam near Naka-Urawa after he used the Move card to relocate from Kawagoe — final 10:46:04
+Game end — Ben wins with the longest hiding time (13:09:28)",
+12,Hide + Seek Japan,Sam Denby,#F57C00,0,Tokyo Station,139.764981,35.6818017,,,,,,,,"Game start as seeker (with Adam), chasing Ben's run 1",
+12,Hide + Seek Japan,Sam Denby,#F57C00,1,Sendai Station,140.8800249,38.2597526,,,,,,,,Seeker hub chasing Ben,
+12,Hide + Seek Japan,Sam Denby,#F57C00,2,Yamadera Station,140.434729,38.3095946,,,,,,,,"FOUND Ben under the bridge (9:59:03)
+Run 1 start for Ben; seekers chase Adam next",
+12,Hide + Seek Japan,Sam Denby,#F57C00,3,Utsunomiya Station,139.8983141,36.5596305,,,,,,,,Seeker stop: transfer toward the station matching Adam's photo,
+12,Hide + Seek Japan,Sam Denby,#F57C00,4,Tobiyama Castle Site Station area,139.9661517,36.5535416,,,,,,,,"FOUND Adam in a park (7:41:12)
+Run 1 start for Sam (3.5h from where Adam was found) — hid at an airport",
+12,Hide + Seek Japan,Sam Denby,#F57C00,5,Higashi-Narita Station,140.3870949,35.7702974,,,,,,,,"Run 1 hiding spot: Narita Airport area
+FOUND at 7:42:45 (the seekers accidentally took a train to his exact location)",
+12,Hide + Seek Japan,Sam Denby,#F57C00,6,Atami Station,139.0787599,35.1037666,,,,,,,,Seeker stop; rejected the 'south of Atami to Ito' theory and went west — the mistake,
+12,Hide + Seek Japan,Sam Denby,#F57C00,7,Mishima Station,138.948713,35.1473609,,,,,,,,25-mile radar hit; Gotemba-line check; realized Ben went south of Atami,
+12,Hide + Seek Japan,Sam Denby,#F57C00,8,Izu-Kogen Station,139.1086037,34.8787978,,,,,,,,FOUND Ben at night (13:09:28),
+12,Hide + Seek Japan,Sam Denby,#F57C00,9,Saruhashi Station,138.9680239,35.6128739,,,,,,,,"FOUND Adam on his 2nd run (11:21)
+Run 2 start for Sam (from where Adam was found)",
+12,Hide + Seek Japan,Sam Denby,#F57C00,10,Kawagoe Station,139.4833595,35.9077866,,,,,,,,"Run 2 initial hiding spot near Kawagoe Station
+Used the rare 'Move' card as the seekers approached — relocated for 1 hour into a new hiding zone",
+12,Hide + Seek Japan,Sam Denby,#F57C00,11,Naka-Urawa Station,139.637178,35.853493,,,,,,,,"FOUND near Naka-Urawa after the Move (final 10:46:04)
+Game end — Ben wins the season",

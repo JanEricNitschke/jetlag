@@ -9,16 +9,345 @@
       "color": "#D32F2F",
       "stops": [
         {
-          "name": "Placeholder",
+          "name": "Ferrara (Castello Estense)",
           "coordinate": {
-            "longitude": 0.0,
-            "latitude": 0.0
+            "longitude": 11.6198419,
+            "latitude": 44.8375096
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Game start (front of the Castello Estense); Adam is the first runner (random), aiming for Bratislava",
+            "Filmed ~May 29-31, 2024; game days 6:00-20:00 CET"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "06:15 train from Ferrara to Venice Mestre (1,140 coins)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Venice Mestre",
+          "coordinate": {
+            "longitude": 12.2317016,
+            "latitude": 45.482462
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
           "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Udine",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Udine",
+          "coordinate": {
+            "longitude": 13.241926,
+            "latitude": 46.0559274
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "08:08 'Guesstimate a Kilometer' completed (+1,000 coins)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Got off early at Susegana believing the chasers made their connection",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Susegana",
+          "coordinate": {
+            "longitude": 12.2582495,
+            "latitude": 45.8211312
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Failed 'Play Local Spirit Pong'"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "bus",
+              "note": "Bus to Conegliano",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Conegliano",
+          "coordinate": {
+            "longitude": 12.2989957,
+            "latitude": 45.8846972
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Gorizia",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Gorizia",
+          "coordinate": {
+            "longitude": 13.6068521,
+            "latitude": 45.9330366
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Crossed the border into Slovenia on foot",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Nova Gorica",
+          "coordinate": {
+            "longitude": 13.6352798,
+            "latitude": 45.9552303
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Vetoed 'Get Lucky on Coin Flips'; completed 'Build a Spaghetti Tower'",
+            "TAGGED at Nova Gorica station (local teen Teo tried to mislead the chasers)",
+            "Chaser movement to here: Trieste -> Monfalcone -> Gorizia"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As chaser: regrouped and took the good Venice connection from Monfalcone",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Monfalcone",
+          "coordinate": {
+            "longitude": 13.5430428,
+            "latitude": 45.8075124
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train that conveniently continues to Vicenza",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Vicenza",
+          "coordinate": {
+            "longitude": 11.5407637,
+            "latitude": 45.5414812
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Chasers' base for the night (plan: block Trento in the morning)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Chasers leave for Verona (blocking Sam's south route to Lyon)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Verona",
+          "coordinate": {
+            "longitude": 10.9823706,
+            "latitude": 45.429182
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train north to Trento",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Trento",
+          "coordinate": {
+            "longitude": 11.1193186,
+            "latitude": 46.0722416
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Ben caught Sam here (E3); post-tag freeze",
+            "Ben's run 1: chasers initially followed his original plan toward Verona (not placed)",
+            "Day 2 end"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ferrara (Castello Estense)",
+          "coordinate": {
+            "longitude": 11.6198419,
+            "latitude": 44.8375096
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 3: start of Adam's 2nd run (game resumed where Ben's run ended, back at the starting point)",
+            "E5: Adam escapes from a train in Ferrara heading toward Venice"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train toward Venice, stopped ~1 hour by a police investigation; improvised an unexpected route west (toward Verona, aiming eventually for Innsbruck) — path AMBIGUOUS in sources",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Castelfranco Veneto",
+          "coordinate": {
+            "longitude": 11.9340294,
+            "latitude": 45.6666558
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "TAGGED in Castelfranco Veneto on his 2nd run (had evaded the chasers twice while at the same train station)",
+            "Day 3"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As chaser: pursuing Sam's 2nd run via Padua",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Padua",
+          "coordinate": {
+            "longitude": 11.8804975,
+            "latitude": 45.4177424
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Chasers trailing Sam (bad trains for them from Padua onward)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Pursuit onward via Milan",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Milan",
+          "coordinate": {
+            "longitude": 9.2042617,
+            "latitude": 45.4858786
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hospental",
+          "coordinate": {
+            "longitude": 8.5673,
+            "latitude": 46.6193
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Caught Sam with 58 minutes left in the game (Sam posted up at Hospental Castle — Adam's S9-E1 hiding spot)",
+            "Game end; Sam wins (closest to his own win location, Lyon)"
+          ],
           "end_of_day": [],
           "to_next": []
         }
@@ -31,16 +360,360 @@
       "color": "#FFEE58",
       "stops": [
         {
-          "name": "Placeholder",
+          "name": "Ferrara (Castello Estense)",
           "coordinate": {
-            "longitude": 0.0,
-            "latitude": 0.0
+            "longitude": 11.6198419,
+            "latitude": 44.8375096
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Game start as chaser (with Sam); 07:43 train, delayed, missed the Udine connection"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Chasers head to Trieste",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Trieste",
+          "coordinate": {
+            "longitude": 13.7715808,
+            "latitude": 45.6583007
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
           "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Monfalcone",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Monfalcone",
+          "coordinate": {
+            "longitude": 13.5430428,
+            "latitude": 45.8075124
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Good connection toward Venice/Gorizia"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Gorizia",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Gorizia",
+          "coordinate": {
+            "longitude": 13.6068521,
+            "latitude": 45.9330366
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Crossed to Nova Gorica and caught Adam",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Nova Gorica",
+          "coordinate": {
+            "longitude": 13.6352798,
+            "latitude": 45.9552303
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Adam tagged at the station (E1); Ben becomes chaser",
+            "Day 1 end"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As chaser (E2): Monfalcone connection toward Venice",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Monfalcone",
+          "coordinate": {
+            "longitude": 13.5430428,
+            "latitude": 45.8075124
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Vicenza",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Vicenza",
+          "coordinate": {
+            "longitude": 11.5407637,
+            "latitude": 45.5414812
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "To Verona (E3)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Verona",
+          "coordinate": {
+            "longitude": 10.9823706,
+            "latitude": 45.429182
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train north to Trento",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Trento",
+          "coordinate": {
+            "longitude": 11.1193186,
+            "latitude": 46.0722416
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Ben caught Sam here (E3) and became the runner"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Run 1: just missed the (delayed) direct train to Verona; slower route to Bassano del Grappa 30 min later",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Bassano del Grappa",
+          "coordinate": {
+            "longitude": 11.7412694,
+            "latitude": 45.7666297
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Run 1: slower route via Bassano; then rethought toward Bologna"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Connections via Castelfranco and Padua toward Bologna",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Castelfranco Veneto",
+          "coordinate": {
+            "longitude": 11.9340294,
+            "latitude": 45.6666558
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "On toward Padua",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Padua",
+          "coordinate": {
+            "longitude": 11.8804975,
+            "latitude": 45.4177424
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Planned challenge stops to fund the run (challenges in Castelfranco and Padua per E4)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Toward Bologna",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Bologna",
+          "coordinate": {
+            "longitude": 11.3433433,
+            "latitude": 44.5058779
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Fan wiki E5 places the post-tag freeze in Bologna; Wikipedia says his run only made it back to the starting point of Ferrara — AMBIGUOUS"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Ferrara (Castello Estense)",
+          "coordinate": {
+            "longitude": 11.6198419,
+            "latitude": 44.8375096
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "TAGGED at the starting point of Ferrara (per Wikipedia; E5's freeze-in-Bologna carries the discrepancy)",
+            "Day 2 end; Adam becomes the runner again"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As chaser: freeze, then pursuing Adam's 2nd run",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Padua",
+          "coordinate": {
+            "longitude": 11.8804975,
+            "latitude": 45.4177424
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Chasing Sam's 2nd run (with Adam) — bad trains for the chasers from Padua & Milan per the season result"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Pursuit via Milan",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Milan",
+          "coordinate": {
+            "longitude": 9.2042617,
+            "latitude": 45.4858786
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Hospental",
+          "coordinate": {
+            "longitude": 8.5673,
+            "latitude": 46.6193
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Caught Sam with 58 minutes left (Sam posted up to be caught); game over — Sam wins, Ben finishes as runner-up"
+          ],
           "end_of_day": [],
           "to_next": []
         }
@@ -53,16 +726,354 @@
       "color": "#F57C00",
       "stops": [
         {
-          "name": "Placeholder",
+          "name": "Ferrara (Castello Estense)",
           "coordinate": {
-            "longitude": 0.0,
-            "latitude": 0.0
+            "longitude": 11.6198419,
+            "latitude": 44.8375096
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Game start as chaser (with Ben); 07:43 train, delayed, missed the Udine connection"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Chasers head to Trieste",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Trieste",
+          "coordinate": {
+            "longitude": 13.7715808,
+            "latitude": 45.6583007
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
           "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Monfalcone",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Monfalcone",
+          "coordinate": {
+            "longitude": 13.5430428,
+            "latitude": 45.8075124
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Gorizia",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Gorizia",
+          "coordinate": {
+            "longitude": 13.6068521,
+            "latitude": 45.9330366
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Crossed to Nova Gorica; caught Adam",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Nova Gorica",
+          "coordinate": {
+            "longitude": 13.6352798,
+            "latitude": 45.9552303
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Adam tagged (E1); Sam becomes the runner (round-robin)",
+            "Day 1 end"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Walked back into Italy",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Udine",
+          "coordinate": {
+            "longitude": 13.241926,
+            "latitude": 46.0559274
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Venice",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Venice Mestre",
+          "coordinate": {
+            "longitude": 12.2317016,
+            "latitude": 45.482462
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Trento",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Trento",
+          "coordinate": {
+            "longitude": 11.1193186,
+            "latitude": 46.0722416
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "1st visit en route; then off early at Castelfranco Veneto for the Bassano connection"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train toward Vicenza",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Castelfranco Veneto",
+          "coordinate": {
+            "longitude": 11.9340294,
+            "latitude": 45.6666558
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Got off early to make the connection to his strategic hub"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Connection to Bassano del Grappa",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Bassano del Grappa",
+          "coordinate": {
+            "longitude": 11.7412694,
+            "latitude": 45.7666297
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Strategic hub; missed an onward connection toward Trento; vetoed 'Solve Amy's Puzzle Box' (a piece was lost in his backpack)",
+            "Day 1 end"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Day 2: pulled Dead Phone + Data Leak curses doubled with Double Coins (~5,800 coins); after the veto period, headed for Trento",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Trento",
+          "coordinate": {
+            "longitude": 11.1193186,
+            "latitude": 46.0722416
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "TAGGED by Ben in Trento (E3); kept his large coin balance for a later run"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As chaser: followed Ben's original plan toward Verona (E4), then to the tag",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Ferrara (Castello Estense)",
+          "coordinate": {
+            "longitude": 11.6198419,
+            "latitude": 44.8375096
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Ben's run ended back at Ferrara (E4/E5); post-tag freeze (fan wiki places it in Bologna)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As chaser: pursuing Adam's 2nd run (Day 3)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Castelfranco Veneto",
+          "coordinate": {
+            "longitude": 11.9340294,
+            "latitude": 45.6666558
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "TAGGED Adam here on his 2nd run (E5); Sam becomes the runner again"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Run 2: fortuitous train schedules toward Padua; 'Eat This Card' challenge timed for a multi-hour gap",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Padua",
+          "coordinate": {
+            "longitude": 11.8804975,
+            "latitude": 45.4177424
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Good trains for Sam / bad trains for the chasers from Padua & Milan (season result)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "On to Milan",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Milan",
+          "coordinate": {
+            "longitude": 9.2042617,
+            "latitude": 45.4858786
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Into Switzerland, far into his win region (toward Lyon)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Hospental",
+          "coordinate": {
+            "longitude": 8.5673,
+            "latitude": 46.6193
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Posted up at Hospental Castle (Adam's S9-E1 hiding spot) and let himself be caught with 58 minutes left",
+            "Closest to his own win location (Lyon) -> WINNER of Season 11"
+          ],
           "end_of_day": [],
           "to_next": []
         }

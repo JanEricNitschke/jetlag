@@ -1,4 +1,63 @@
 season,season_name,journey_team,journey_color,stop_index,name,longitude,latitude,when_start,when_end,video_episode,video_start,video_end,players_override,additional_players,notes,end_of_day
-11,Tag Eur It 3,Adam Chase,#D32F2F,0,Placeholder,0.0,0.0,,,,,,,,,
-11,Tag Eur It 3,Ben Doyle,#FFEE58,0,Placeholder,0.0,0.0,,,,,,,,,
-11,Tag Eur It 3,Sam Denby,#F57C00,0,Placeholder,0.0,0.0,,,,,,,,,
+11,Tag Eur It 3,Adam Chase,#D32F2F,0,Ferrara (Castello Estense),11.6198419,44.8375096,,,,,,,,"Game start (front of the Castello Estense); Adam is the first runner (random), aiming for Bratislava
+Filmed ~May 29-31, 2024; game days 6:00-20:00 CET",
+11,Tag Eur It 3,Adam Chase,#D32F2F,1,Venice Mestre,12.2317016,45.482462,,,,,,,,,
+11,Tag Eur It 3,Adam Chase,#D32F2F,2,Udine,13.241926,46.0559274,,,,,,,,"08:08 'Guesstimate a Kilometer' completed (+1,000 coins)",
+11,Tag Eur It 3,Adam Chase,#D32F2F,3,Susegana,12.2582495,45.8211312,,,,,,,,Failed 'Play Local Spirit Pong',
+11,Tag Eur It 3,Adam Chase,#D32F2F,4,Conegliano,12.2989957,45.8846972,,,,,,,,,
+11,Tag Eur It 3,Adam Chase,#D32F2F,5,Gorizia,13.6068521,45.9330366,,,,,,,,,
+11,Tag Eur It 3,Adam Chase,#D32F2F,6,Nova Gorica,13.6352798,45.9552303,,,,,,,,"Vetoed 'Get Lucky on Coin Flips'; completed 'Build a Spaghetti Tower'
+TAGGED at Nova Gorica station (local teen Teo tried to mislead the chasers)
+Chaser movement to here: Trieste -> Monfalcone -> Gorizia",
+11,Tag Eur It 3,Adam Chase,#D32F2F,7,Monfalcone,13.5430428,45.8075124,,,,,,,,,
+11,Tag Eur It 3,Adam Chase,#D32F2F,8,Vicenza,11.5407637,45.5414812,,,,,,,,Chasers' base for the night (plan: block Trento in the morning),
+11,Tag Eur It 3,Adam Chase,#D32F2F,9,Verona,10.9823706,45.429182,,,,,,,,,
+11,Tag Eur It 3,Adam Chase,#D32F2F,10,Trento,11.1193186,46.0722416,,,,,,,,"Ben caught Sam here (E3); post-tag freeze
+Ben's run 1: chasers initially followed his original plan toward Verona (not placed)
+Day 2 end",
+11,Tag Eur It 3,Adam Chase,#D32F2F,11,Ferrara (Castello Estense),11.6198419,44.8375096,,,,,,,,"Day 3: start of Adam's 2nd run (game resumed where Ben's run ended, back at the starting point)
+E5: Adam escapes from a train in Ferrara heading toward Venice",
+11,Tag Eur It 3,Adam Chase,#D32F2F,12,Castelfranco Veneto,11.9340294,45.6666558,,,,,,,,"TAGGED in Castelfranco Veneto on his 2nd run (had evaded the chasers twice while at the same train station)
+Day 3",
+11,Tag Eur It 3,Adam Chase,#D32F2F,13,Padua,11.8804975,45.4177424,,,,,,,,Chasers trailing Sam (bad trains for them from Padua onward),
+11,Tag Eur It 3,Adam Chase,#D32F2F,14,Milan,9.2042617,45.4858786,,,,,,,,,
+11,Tag Eur It 3,Adam Chase,#D32F2F,15,Hospental,8.5673,46.6193,,,,,,,,"Caught Sam with 58 minutes left in the game (Sam posted up at Hospental Castle — Adam's S9-E1 hiding spot)
+Game end; Sam wins (closest to his own win location, Lyon)",
+11,Tag Eur It 3,Ben Doyle,#FFEE58,0,Ferrara (Castello Estense),11.6198419,44.8375096,,,,,,,,"Game start as chaser (with Sam); 07:43 train, delayed, missed the Udine connection",
+11,Tag Eur It 3,Ben Doyle,#FFEE58,1,Trieste,13.7715808,45.6583007,,,,,,,,,
+11,Tag Eur It 3,Ben Doyle,#FFEE58,2,Monfalcone,13.5430428,45.8075124,,,,,,,,Good connection toward Venice/Gorizia,
+11,Tag Eur It 3,Ben Doyle,#FFEE58,3,Gorizia,13.6068521,45.9330366,,,,,,,,,
+11,Tag Eur It 3,Ben Doyle,#FFEE58,4,Nova Gorica,13.6352798,45.9552303,,,,,,,,"Adam tagged at the station (E1); Ben becomes chaser
+Day 1 end",
+11,Tag Eur It 3,Ben Doyle,#FFEE58,5,Monfalcone,13.5430428,45.8075124,,,,,,,,,
+11,Tag Eur It 3,Ben Doyle,#FFEE58,6,Vicenza,11.5407637,45.5414812,,,,,,,,,
+11,Tag Eur It 3,Ben Doyle,#FFEE58,7,Verona,10.9823706,45.429182,,,,,,,,,
+11,Tag Eur It 3,Ben Doyle,#FFEE58,8,Trento,11.1193186,46.0722416,,,,,,,,Ben caught Sam here (E3) and became the runner,
+11,Tag Eur It 3,Ben Doyle,#FFEE58,9,Bassano del Grappa,11.7412694,45.7666297,,,,,,,,Run 1: slower route via Bassano; then rethought toward Bologna,
+11,Tag Eur It 3,Ben Doyle,#FFEE58,10,Castelfranco Veneto,11.9340294,45.6666558,,,,,,,,,
+11,Tag Eur It 3,Ben Doyle,#FFEE58,11,Padua,11.8804975,45.4177424,,,,,,,,Planned challenge stops to fund the run (challenges in Castelfranco and Padua per E4),
+11,Tag Eur It 3,Ben Doyle,#FFEE58,12,Bologna,11.3433433,44.5058779,,,,,,,,Fan wiki E5 places the post-tag freeze in Bologna; Wikipedia says his run only made it back to the starting point of Ferrara — AMBIGUOUS,
+11,Tag Eur It 3,Ben Doyle,#FFEE58,13,Ferrara (Castello Estense),11.6198419,44.8375096,,,,,,,,"TAGGED at the starting point of Ferrara (per Wikipedia; E5's freeze-in-Bologna carries the discrepancy)
+Day 2 end; Adam becomes the runner again",
+11,Tag Eur It 3,Ben Doyle,#FFEE58,14,Padua,11.8804975,45.4177424,,,,,,,,Chasing Sam's 2nd run (with Adam) — bad trains for the chasers from Padua & Milan per the season result,
+11,Tag Eur It 3,Ben Doyle,#FFEE58,15,Milan,9.2042617,45.4858786,,,,,,,,,
+11,Tag Eur It 3,Ben Doyle,#FFEE58,16,Hospental,8.5673,46.6193,,,,,,,,"Caught Sam with 58 minutes left (Sam posted up to be caught); game over — Sam wins, Ben finishes as runner-up",
+11,Tag Eur It 3,Sam Denby,#F57C00,0,Ferrara (Castello Estense),11.6198419,44.8375096,,,,,,,,"Game start as chaser (with Ben); 07:43 train, delayed, missed the Udine connection",
+11,Tag Eur It 3,Sam Denby,#F57C00,1,Trieste,13.7715808,45.6583007,,,,,,,,,
+11,Tag Eur It 3,Sam Denby,#F57C00,2,Monfalcone,13.5430428,45.8075124,,,,,,,,,
+11,Tag Eur It 3,Sam Denby,#F57C00,3,Gorizia,13.6068521,45.9330366,,,,,,,,,
+11,Tag Eur It 3,Sam Denby,#F57C00,4,Nova Gorica,13.6352798,45.9552303,,,,,,,,"Adam tagged (E1); Sam becomes the runner (round-robin)
+Day 1 end",
+11,Tag Eur It 3,Sam Denby,#F57C00,5,Udine,13.241926,46.0559274,,,,,,,,,
+11,Tag Eur It 3,Sam Denby,#F57C00,6,Venice Mestre,12.2317016,45.482462,,,,,,,,,
+11,Tag Eur It 3,Sam Denby,#F57C00,7,Trento,11.1193186,46.0722416,,,,,,,,1st visit en route; then off early at Castelfranco Veneto for the Bassano connection,
+11,Tag Eur It 3,Sam Denby,#F57C00,8,Castelfranco Veneto,11.9340294,45.6666558,,,,,,,,Got off early to make the connection to his strategic hub,
+11,Tag Eur It 3,Sam Denby,#F57C00,9,Bassano del Grappa,11.7412694,45.7666297,,,,,,,,"Strategic hub; missed an onward connection toward Trento; vetoed 'Solve Amy's Puzzle Box' (a piece was lost in his backpack)
+Day 1 end",
+11,Tag Eur It 3,Sam Denby,#F57C00,10,Trento,11.1193186,46.0722416,,,,,,,,TAGGED by Ben in Trento (E3); kept his large coin balance for a later run,
+11,Tag Eur It 3,Sam Denby,#F57C00,11,Ferrara (Castello Estense),11.6198419,44.8375096,,,,,,,,Ben's run ended back at Ferrara (E4/E5); post-tag freeze (fan wiki places it in Bologna),
+11,Tag Eur It 3,Sam Denby,#F57C00,12,Castelfranco Veneto,11.9340294,45.6666558,,,,,,,,TAGGED Adam here on his 2nd run (E5); Sam becomes the runner again,
+11,Tag Eur It 3,Sam Denby,#F57C00,13,Padua,11.8804975,45.4177424,,,,,,,,Good trains for Sam / bad trains for the chasers from Padua & Milan (season result),
+11,Tag Eur It 3,Sam Denby,#F57C00,14,Milan,9.2042617,45.4858786,,,,,,,,,
+11,Tag Eur It 3,Sam Denby,#F57C00,15,Hospental,8.5673,46.6193,,,,,,,,"Posted up at Hospental Castle (Adam's S9-E1 hiding spot) and let himself be caught with 58 minutes left
+Closest to his own win location (Lyon) -> WINNER of Season 11",

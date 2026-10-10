@@ -1,1 +1,13 @@
 season,journey_team,stop_index,leg_index,mode,note,players_override,quality,geometry
+10,Sam Denby; Toby Hendy,0,0,plane,Inter-region travel is by full-price flight per the rules,,unknown,
+10,Sam Denby; Toby Hendy,1,0,bus,Bus toward the Gold Coast challenge board (missed connection),,unknown,
+10,Sam Denby; Toby Hendy,2,0,bus,"Bus to Brisbane, positioning for the steal at the Brisbane Sign",,unknown,
+10,Sam Denby; Toby Hendy,3,0,plane,AMBIGUOUS ordering: day of the ACT claim is not in the sources; inter-region flight per rules,,unknown,
+10,Sam Denby; Toby Hendy,4,0,plane,AMBIGUOUS ordering: flight to the NT not dated in sources,,unknown,
+10,Sam Denby; Toby Hendy,5,0,plane,Final day: flight to Gold Coast Airport,,unknown,
+10,Adam Chase; Ben Doyle,0,0,plane,'Really cheap flight to Hobart',,unknown,
+10,Adam Chase; Ben Doyle,1,0,plane,Inter-region flight per rules (AMBIGUOUS day order for TAS->SA->VIC->NT),,unknown,
+10,Adam Chase; Ben Doyle,2,0,plane,Inter-region flight per rules,,unknown,
+10,Adam Chase; Ben Doyle,3,0,plane,AMBIGUOUS: order of the NT visit not in sources,,unknown,
+10,Adam Chase; Ben Doyle,4,0,plane,"Final day: direct flights to Canberra booked out, so they flew to Sydney",,unknown,
+10,Adam Chase; Ben Doyle,5,0,plane,"Believing Sam+Toby were heading to Tasmania, they flew to Melbourne",,unknown,

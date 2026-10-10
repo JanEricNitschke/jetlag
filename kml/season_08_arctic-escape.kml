@@ -90,6 +90,170 @@ Members who visited:
           <coordinates>-156.7750277,71.2876213</coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Anchorage</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Won the &amp;#x27;Build a snowman on the beach&amp;#x27; Twitter poll -&amp;gt; nonstop ticket to Anchorage (E1); Alaska Airlines website booking issues&lt;/li&gt;&lt;li&gt;E2-E3: completed many ticket challenges around Anchorage while Badam were stuck in Utqiagvik&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-149.9978919,61.1810353</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boise</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;E4: leading in Boise, Idaho (arrival via tickets — routing not in sources)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.2080749,43.5600566</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montrose</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;End of the Rockies drive; flew out from here&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-107.892488,38.5118206</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dallas</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;AMBIGUOUS pin: Dallas/Fort Worth assumed (airport not stated in sources)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-97.0458529,32.8962047</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birmingham</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-86.7504578,33.5646818</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atlanta</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;E6: reached Key West via two stolen tickets (&amp;#x27;Steal Jimmy Johns&amp;#x27; crown&amp;#x27; E4, &amp;#x27;Steal Elvis&amp;#x27; spot&amp;#x27; E6) while Badam were still at the airport&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-84.4298161,33.6374009</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Key West (Southernmost Point)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FINISH — first to reach the southernmost point of the continental US; WON Season 8&lt;/li&gt;&lt;li&gt;Final Atlanta -&amp;gt; Key West hop via stolen tickets (mode not explicitly stated in sources)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ffd27619</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-81.7974808,24.5465299</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boise to Montrose (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Drove across the Rocky Mountains to Montrose — forced when Badam took the Seattle-&amp;gt;Denver nonstop; E5&amp;#x27;s risky drive through sparse regions</description>
+        <Style>
+          <LineStyle>
+            <color>ffd27619</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-116.2080749,43.5600566 -107.892488,38.5118206</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Montrose to Dallas (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Montrose -&amp;gt; Dallas</description>
+        <Style>
+          <LineStyle>
+            <color>ffd27619</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-107.892488,38.5118206 -97.0458529,32.8962047</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dallas to Birmingham (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Dallas -&amp;gt; Birmingham</description>
+        <Style>
+          <LineStyle>
+            <color>ffd27619</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-97.0458529,32.8962047 -86.7504578,33.5646818</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Birmingham to Atlanta (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Drove to Atlanta</description>
+        <Style>
+          <LineStyle>
+            <color>ffd27619</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-86.7504578,33.5646818 -84.4298161,33.6374009</coordinates>
+        </LineString>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Adam Chase &amp; Ben Doyle</name>
@@ -178,6 +342,170 @@ Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&g
         <Point>
           <coordinates>-156.722109855276,71.3051278327597</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anchorage</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;E3: first flight out of Utqiagvik to Anchorage, delayed by hours&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-149.9978919,61.1810353</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;E4: struggling in Seattle&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3080159,47.4475673</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Denver</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Winning the Denver nonstop forced Sam+Michelle&amp;#x27;s alternate Rockies route&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.6853673,39.8606676</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milwaukee</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-87.8972578,42.9465423</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chicago Union Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Transfer to the sleeper train (mode from Milwaukee not stated)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-87.6404084,41.878701</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Connellsville</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-79.5928417,40.0202257</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atlanta</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;E6: still at the Atlanta Airport when Sam+Michelle reached Key West — LOST&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-84.4298161,33.6374009</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anchorage to Seattle (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Flight to Seattle — 30 minutes to the connection; begged the gate agent to let them on</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-149.9978919,61.1810353 -122.3080159,47.4475673</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Seattle to Denver (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;&amp;#x27;Do a mile drunk (not high)&amp;#x27; — won the crucial nonstop to Denver (the Mile High City)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3080159,47.4475673 -104.6853673,39.8606676</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Denver to Milwaukee (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;&amp;#x27;Do a milk walkie&amp;#x27; — nonstop flight to Milwaukee</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-104.6853673,39.8606676 -87.8972578,42.9465423</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Chicago Union Station to Connellsville (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Amtrak sleeper train from Chicago to Connellsville (service not specified in sources)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-87.6404084,41.878701 -79.5928417,40.0202257</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
   </Document>

@@ -5,8 +5,8 @@
     <Folder>
       <name>Adam Chase</name>
       <Placemark>
-        <name>Placeholder</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase</description>
+        <name>Tokyo Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start as seeker (with Sam), chasing Ben&amp;#x27;s run 1&lt;/li&gt;&lt;/ul&gt;</description>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -17,15 +17,305 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>0.0,0.0</coordinates>
+          <coordinates>139.764981,35.6818017</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sendai Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker hub chasing Ben (100-mile radar, thermometer, photo questions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.8800249,38.2597526</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yamadera Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Ben under the bridge by the river (9:19:03 + 40 min = 9:59:03)&lt;/li&gt;&lt;li&gt;Run 1 start for Adam (3.5h from where Ben was found)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.434729,38.3095946</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobiyama Castle Site Station area</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 1 hiding spot: a park near the station (single-story tallest building)&lt;/li&gt;&lt;li&gt;FOUND at 7:11:12 + 30 min = 7:41:12 (Mediocre Travel Agent curse info used against him)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.9661517,36.5535416</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Cleared the Impressionable Consumer + Right Turn curses here&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.764981,35.6818017</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Higashi-Narita Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Sam at 7:42:45&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.3870949,35.7702974</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atami Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker stop (over 5 hours into Ben&amp;#x27;s run); refused the Ito-line theory; went WEST to Mishima instead (wrong)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.0787599,35.1037666</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mishima Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;25-mile radar hit; checked the inland Gotemba line (wrong); then south to Izu-Kogen&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>138.948713,35.1473609</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Izu-Kogen Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Ben at night — final 13:09:28&lt;/li&gt;&lt;li&gt;Run 2 start for Adam (from where Ben was found)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.1086037,34.8787978</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saruhashi Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 2 hiding spot; misled the seekers with answers and decoy photos&lt;/li&gt;&lt;li&gt;FOUND after an exhaustive search (final 11:21)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>138.9680239,35.6128739</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naka-Urawa Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Sam near Naka-Urawa after his Move card (final 10:46:04) — Ben wins the season&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.637178,35.853493</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station to Sendai Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Shinkansen northeast to Sendai</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.764981,35.6818017 140.8800249,38.2597526</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sendai Station to Yamadera Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Local line toward Yamadera</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>140.8800249,38.2597526 140.434729,38.3095946</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Yamadera Station to Tobiyama Castle Site Station area (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Run 1: south (via Sendai); hid near a station close to Utsunomiya</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>140.434729,38.3095946 139.9661517,36.5535416</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tobiyama Castle Site Station area to Tokyo Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker: to Tokyo Station</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.9661517,36.5535416 139.764981,35.6818017</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station to Higashi-Narita Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;To the Narita area — Sam&amp;#x27;s hiding spot</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.764981,35.6818017 140.3870949,35.7702974</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Higashi-Narita Station to Atami Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker chasing Ben&amp;#x27;s run 2: down the Izu side (Atami)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>140.3870949,35.7702974 139.0787599,35.1037666</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Atami Station to Mishima Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;West to Mishima</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.0787599,35.1037666 138.948713,35.1473609</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mishima Station to Izu-Kogen Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Down to Izu-Kogen</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>138.948713,35.1473609 139.1086037,34.8787978</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Izu-Kogen Station to Saruhashi Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Run 2: to Saruhashi (routing not specified in sources)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.1086037,34.8787978 138.9680239,35.6128739</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Saruhashi Station to Naka-Urawa Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker: chasing Sam&amp;#x27;s 2nd run through Tokyo&amp;#x27;s train lines</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>138.9680239,35.6128739 139.637178,35.853493</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
     <Folder>
       <name>Ben Doyle</name>
       <Placemark>
-        <name>Placeholder</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle</description>
+        <name>Tokyo Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 1 start (the day before the first game day)&lt;/li&gt;&lt;/ul&gt;</description>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -36,15 +326,276 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>0.0,0.0</coordinates>
+          <coordinates>139.764981,35.6818017</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yamadera Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 1 hiding spot: under a bridge next to the local river&lt;/li&gt;&lt;li&gt;FOUND at 9:19:03 + 40 min bonus = final 9:59:03 (seekers stalled ~2h in Sendai by the Jammed Door curse)&lt;/li&gt;&lt;li&gt;Seekers&amp;#x27; radar/thermometer questions put Ben in the northeast; found via Strava-analysis at Yamadera&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.434729,38.3095946</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sendai Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker stop chasing Adam: corrected direction after questions (Adam was south)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.8800249,38.2597526</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Utsunomiya Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Cleared the Curse of the Hidden Hangman here (won on &amp;#x27;fuzzy&amp;#x27;)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.8983141,36.5596305</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobiyama Castle Site Station area</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Adam in a park near here at 7:11:12 + 30 min = 7:41:12&lt;/li&gt;&lt;li&gt;Pin is Tobiyama Castle (the castle-site station is nearby); fan wiki calls the station &amp;#x27;Konoyama&amp;#x27; — a mis-romanization&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.9661517,36.5535416</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker stop chasing Sam: cleared Impressionable Consumer + Right Turn curses here&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.764981,35.6818017</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Higashi-Narita Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Sam at 7:12:45 + 30 min = 7:42:45 (seekers accidentally took a train to his exact location)&lt;/li&gt;&lt;li&gt;Run 2 start for Ben (from where Sam was found)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.3870949,35.7702974</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Izu-Kogen Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 2 hiding spot: near Izu-Kogen station; zone contained the Teddy Bear Museum&lt;/li&gt;&lt;li&gt;FOUND at night after the seekers&amp;#x27; Atami/Mishima/Gotemba detours — final 13:09:28 (2h+ of bonus cards)&lt;/li&gt;&lt;li&gt;SEASON-BEST RUN — Ben wins Season 12&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.1086037,34.8787978</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saruhashi Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Adam here on his 2nd run (final time 11:21); route details not in episode sources&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>138.9680239,35.6128739</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naka-Urawa Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Sam near Naka-Urawa after he used the Move card to relocate from Kawagoe — final 10:46:04&lt;/li&gt;&lt;li&gt;Game end — Ben wins with the longest hiding time (13:09:28)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.637178,35.853493</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station to Yamadera Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Northeast via Sendai (service not specified in sources)</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.764981,35.6818017 140.434729,38.3095946</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Yamadera Station to Sendai Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker (with Sam): Shinkansen out of Sendai — the WRONG way (north) at first</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>140.434729,38.3095946 140.8800249,38.2597526</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sendai Station to Utsunomiya Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Toward Utsunomiya</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>140.8800249,38.2597526 139.8983141,36.5596305</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Utsunomiya Station to Tobiyama Castle Site Station area (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Toward the station that matched Adam&amp;#x27;s tallest-building photo</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.8983141,36.5596305 139.9661517,36.5535416</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tobiyama Castle Site Station area to Tokyo Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Seekers (with Adam) cleared two curses at Tokyo Station</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.9661517,36.5535416 139.764981,35.6818017</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station to Higashi-Narita Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;To Narita — the tallest-building photo gave away Narita Airport</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.764981,35.6818017 140.3870949,35.7702974</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Higashi-Narita Station to Izu-Kogen Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Run 2: south toward the Izu peninsula (via Tokyo/Atami presumably — not specified in sources)</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>140.3870949,35.7702974 139.1086037,34.8787978</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Izu-Kogen Station to Saruhashi Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker: pursuing Adam&amp;#x27;s 2nd run</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.1086037,34.8787978 138.9680239,35.6128739</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Saruhashi Station to Naka-Urawa Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker: chasing Sam&amp;#x27;s 2nd run through Tokyo&amp;#x27;s dense urban landscape</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>138.9680239,35.6128739 139.637178,35.853493</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
     <Folder>
       <name>Sam Denby</name>
       <Placemark>
-        <name>Placeholder</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby</description>
+        <name>Tokyo Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start as seeker (with Adam), chasing Ben&amp;#x27;s run 1&lt;/li&gt;&lt;/ul&gt;</description>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -55,8 +606,314 @@
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>0.0,0.0</coordinates>
+          <coordinates>139.764981,35.6818017</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sendai Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker hub chasing Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.8800249,38.2597526</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yamadera Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Ben under the bridge (9:59:03)&lt;/li&gt;&lt;li&gt;Run 1 start for Ben; seekers chase Adam next&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.434729,38.3095946</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Utsunomiya Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker stop: transfer toward the station matching Adam&amp;#x27;s photo&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.8983141,36.5596305</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tobiyama Castle Site Station area</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Adam in a park (7:41:12)&lt;/li&gt;&lt;li&gt;Run 1 start for Sam (3.5h from where Adam was found) — hid at an airport&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.9661517,36.5535416</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Higashi-Narita Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 1 hiding spot: Narita Airport area&lt;/li&gt;&lt;li&gt;FOUND at 7:42:45 (the seekers accidentally took a train to his exact location)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>140.3870949,35.7702974</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atami Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker stop; rejected the &amp;#x27;south of Atami to Ito&amp;#x27; theory and went west — the mistake&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.0787599,35.1037666</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mishima Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;25-mile radar hit; Gotemba-line check; realized Ben went south of Atami&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>138.948713,35.1473609</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Izu-Kogen Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Ben at night (13:09:28)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.1086037,34.8787978</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saruhashi Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Adam on his 2nd run (11:21)&lt;/li&gt;&lt;li&gt;Run 2 start for Sam (from where Adam was found)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>138.9680239,35.6128739</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kawagoe Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 2 initial hiding spot near Kawagoe Station&lt;/li&gt;&lt;li&gt;Used the rare &amp;#x27;Move&amp;#x27; card as the seekers approached — relocated for 1 hour into a new hiding zone&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.4833595,35.9077866</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naka-Urawa Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND near Naka-Urawa after the Move (final 10:46:04)&lt;/li&gt;&lt;li&gt;Game end — Ben wins the season&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.637178,35.853493</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station to Sendai Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Shinkansen northeast to Sendai</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.764981,35.6818017 140.8800249,38.2597526</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sendai Station to Yamadera Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Local line toward Yamadera</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>140.8800249,38.2597526 140.434729,38.3095946</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Yamadera Station to Utsunomiya Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Shinkansen out of Sendai (wrong way north), then south</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>140.434729,38.3095946 139.8983141,36.5596305</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Utsunomiya Station to Tobiyama Castle Site Station area (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;To the Tobiyama Castle Site area</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.8983141,36.5596305 139.9661517,36.5535416</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tobiyama Castle Site Station area to Higashi-Narita Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Run 1: toward Narita</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.9661517,36.5535416 140.3870949,35.7702974</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Higashi-Narita Station to Atami Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker chasing Ben&amp;#x27;s run 2: Atami</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>140.3870949,35.7702974 139.0787599,35.1037666</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Atami Station to Mishima Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;West to Mishima</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.0787599,35.1037666 138.948713,35.1473609</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mishima Station to Izu-Kogen Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;South to Izu-Kogen</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>138.948713,35.1473609 139.1086037,34.8787978</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Izu-Kogen Station to Saruhashi Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker: pursuing Adam&amp;#x27;s 2nd run</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.1086037,34.8787978 138.9680239,35.6128739</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Saruhashi Station to Kawagoe Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Run 2: toward Kawagoe (routing not specified in sources)</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>138.9680239,35.6128739 139.4833595,35.9077866</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
   </Document>

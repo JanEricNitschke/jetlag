@@ -176,6 +176,170 @@ Members who visited:
           <coordinates>8.570959,46.62108</coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Göschenen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2 (Ben hides): missed a train toward Zug (didn&amp;#x27;t press the stop button); rest period here 17:30 -&amp;gt; 07:30; then train toward Zug&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5887626,46.6658534</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zug</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2: Zug theory (from the &amp;#x27;rug&amp;#x27; rhyme); Ben revealed he was &amp;#x27;rather in the south&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5539378,47.1486137</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Steinen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2: the &amp;#x27;lake&amp;#x27; near Steinen was a shadow; 25-mi radar hit; wrongly went back to Zug before matching the Strava map to Merlischachen&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.6108291,47.0500549</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Merlischachen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2 FIND: Ben in a secret playground; cheese-rolling curse (roll 8) cleared at a supermarket; final time 9:36:05&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.4071994,47.0655534</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Winterthur</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 3 seeker: found Sam in the woods on the outskirts after the cheese-shop curse, the wrong/right McDonald&amp;#x27;s and the umbrella decoy (7:23:23)&lt;/li&gt;&lt;li&gt;Round 4 start: Adam&amp;#x27;s train from Winterthur ran &amp;#x27;as far from Bern as possible&amp;#x27; before his hiding period ended&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.7239736,47.5003138</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thun</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 4: arrival station — ran to a nearby municipality that rail couldn&amp;#x27;t reach in time&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.6296169,46.7549449</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Steffisburg</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 4 hiding spot: a castle in his zone, like round 1 — NEVER FOUND&lt;/li&gt;&lt;li&gt;Passed Ben&amp;#x27;s 9:36:05 by 5 seconds -&amp;gt; ADAM WINS Season 9&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.6354195,46.7774738</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zug to Steinen (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Train to Steinen (Strava-map match)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.5539378,47.1486137 8.6108291,47.0500549</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Steinen to Merlischachen (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Back south to Merlischachen</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.6108291,47.0500549 8.4071994,47.0655534</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Winterthur to Thun (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Round 4: his train got into Thun</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.7239736,47.5003138 7.6296169,46.7549449</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Thun to Steffisburg (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Ran from Thun to Steffisburg</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.6296169,46.7549449 7.6354195,46.7774738</coordinates>
+        </LineString>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Sam Denby</name>
@@ -380,6 +544,331 @@ Members who visited:
           <coordinates>8.570959,46.62108</coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Göschenen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2 (Ben hides): missed a train toward Zug (didn&amp;#x27;t press the stop button); rest period here 17:30 -&amp;gt; 07:30; then train toward Zug&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5887626,46.6658534</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zug</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2: Zug theory (from the &amp;#x27;rug&amp;#x27; rhyme); Ben revealed he was &amp;#x27;rather in the south&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5539378,47.1486137</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Steinen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2: the &amp;#x27;lake&amp;#x27; near Steinen was a shadow; 25-mi radar hit; wrongly went back to Zug before matching the Strava map to Merlischachen&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.6108291,47.0500549</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Merlischachen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2 FIND: Ben in a secret playground; cheese-rolling curse (roll 8) cleared at a supermarket; final time 9:36:05&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.4071994,47.0655534</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Winterthur</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 3 HIDING SPOT: woods on the city&amp;#x27;s outskirts (860 ft from the nearest road; NW-running street)&lt;/li&gt;&lt;li&gt;FOUND after 7:23:23 — the seekers searched over five hours&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.7239736,47.5003138</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Winterthur Töss</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 4 seeker start: from the woods at Töss, train back to Winterthur main station&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.7092798,47.4897747</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bern</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 4 (Adam hides): high-speed train through Zürich and Bern; 10-mi radar miss; longitude east; within 25 mi of Bern&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.4399554,46.9489092</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Solothurn</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Wrong direction — 5-mi radar split the options; &amp;#x27;odd departure time&amp;#x27; answer -&amp;gt; Wiedlisbach&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.5426793,47.2042524</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wiedlisbach</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The train-station photo didn&amp;#x27;t match — suspected the Bätterkinden/Utzenstorf trick&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.6471049,47.2524377</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Utzenstorf</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Ads matched the red bar from Adam&amp;#x27;s photo but the station didn&amp;#x27;t; dead-end train to Bergdorf afterwards&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.5577607,47.1293896</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Langenthal</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Direct Winterthur-&amp;gt;Langenthal theory (Adam passed Sam&amp;#x27;s 7:23:23 during this ride)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.7848627,47.2172915</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rohrbach</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Final stop of the search — no match; time expired; Adam passed Ben&amp;#x27;s 9:36:05 by 5 seconds -&amp;gt; Adam wins&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.815146,47.1356989</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zurich Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Post-game: the trio flew out together (outtakes)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff007cf5</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5533661,47.4633881</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zug to Steinen (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Train to Steinen (Strava-map match)</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.5539378,47.1486137 8.6108291,47.0500549</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Steinen to Merlischachen (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Back south to Merlischachen</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.6108291,47.0500549 8.4071994,47.0655534</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Winterthur Töss to Bern (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;High-speed train through Zürich and Bern</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.7092798,47.4897747 7.4399554,46.9489092</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Bern to Solothurn (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Train to Solothurn (the 12 options were mostly north of Bern)</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.4399554,46.9489092 7.5426793,47.2042524</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Solothurn to Wiedlisbach (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Train to Wiedlisbach</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.5426793,47.2042524 7.6471049,47.2524377</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Wiedlisbach to Utzenstorf (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Back via Solothurn, south to Utzenstorf</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.6471049,47.2524377 7.5577607,47.1293896</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Utzenstorf to Langenthal (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;After the Bergdorf dead end: to Langenthal</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.5577607,47.1293896 7.7848627,47.2172915</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Langenthal to Rohrbach (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Last hope: the Langenthal-&amp;gt;Rohrbach line through Lotzwil and Madiswil — every station crossed out</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.7848627,47.2172915 7.815146,47.1356989</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Rohrbach to Zurich Airport (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Post-game: out via Zürich Flughafen</description>
+        <Style>
+          <LineStyle>
+            <color>ff007cf5</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.815146,47.1356989 8.5533661,47.4633881</coordinates>
+        </LineString>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Ben Doyle</name>
@@ -583,6 +1072,254 @@ Members who visited:
         <Point>
           <coordinates>8.570959,46.62108</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>Merlischachen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2 HIDING SPOT (from Hospental): a secret playground south of Zug&lt;/li&gt;&lt;li&gt;Misdirected the seekers toward Cham/Zug with rhymes; FOUND at 9:36:05 (+cheese-rolling curse cleared)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.4071994,47.0655534</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Winterthur</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 3 seeker: found Sam in the woodland on the outskirts (7:23:23)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.7239736,47.5003138</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bern</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 4 (Adam hides): high-speed train through Zürich and Bern; 10-mi radar miss; longitude east; within 25 mi of Bern&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.4399554,46.9489092</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Solothurn</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Wrong direction — 5-mi radar split the options; &amp;#x27;odd departure time&amp;#x27; answer -&amp;gt; Wiedlisbach&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.5426793,47.2042524</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wiedlisbach</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The train-station photo didn&amp;#x27;t match — suspected the Bätterkinden/Utzenstorf trick&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.6471049,47.2524377</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Utzenstorf</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Ads matched the red bar from Adam&amp;#x27;s photo but the station didn&amp;#x27;t; dead-end train to Bergdorf afterwards&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.5577607,47.1293896</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Langenthal</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Direct Winterthur-&amp;gt;Langenthal theory (Adam passed Sam&amp;#x27;s 7:23:23 during this ride)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.7848627,47.2172915</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rohrbach</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Final stop of the search — no match; time expired; Adam passed Ben&amp;#x27;s 9:36:05 by 5 seconds -&amp;gt; Adam wins&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>7.815146,47.1356989</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zurich Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Post-game: the trio flew out together (outtakes)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff58eeff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>8.5533661,47.4633881</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Merlischachen to Winterthur (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker: to Winterthur, chasing Sam</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.4071994,47.0655534 8.7239736,47.5003138</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Winterthur to Bern (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Round 4 seeker: after Sam was found, high-speed train through Zürich and Bern</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>8.7239736,47.5003138 7.4399554,46.9489092</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Bern to Solothurn (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Train to Solothurn (the 12 options were mostly north of Bern)</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.4399554,46.9489092 7.5426793,47.2042524</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Solothurn to Wiedlisbach (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Train to Wiedlisbach</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.5426793,47.2042524 7.6471049,47.2524377</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Wiedlisbach to Utzenstorf (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Back via Solothurn, south to Utzenstorf</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.6471049,47.2524377 7.5577607,47.1293896</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Utzenstorf to Langenthal (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;After the Bergdorf dead end: to Langenthal</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.5577607,47.1293896 7.7848627,47.2172915</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Langenthal to Rohrbach (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Last hope: the Langenthal-&amp;gt;Rohrbach line through Lotzwil and Madiswil — every station crossed out</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.7848627,47.2172915 7.815146,47.1356989</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Rohrbach to Zurich Airport (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Post-game: out via Zürich Flughafen</description>
+        <Style>
+          <LineStyle>
+            <color>ff58eeff</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>7.815146,47.1356989 8.5533661,47.4633881</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
   </Document>

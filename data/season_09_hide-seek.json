@@ -151,6 +151,148 @@
           ],
           "end_of_day": [],
           "to_next": []
+        },
+        {
+          "name": "Göschenen",
+          "coordinate": {
+            "longitude": 8.5887626,
+            "latitude": 46.6658534
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 2 (Ben hides): missed a train toward Zug (didn't press the stop button); rest period here 17:30 -> 07:30; then train toward Zug"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Zug",
+          "coordinate": {
+            "longitude": 8.5539378,
+            "latitude": 47.1486137
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 2: Zug theory (from the 'rug' rhyme); Ben revealed he was 'rather in the south'"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Steinen (Strava-map match)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Steinen",
+          "coordinate": {
+            "longitude": 8.6108291,
+            "latitude": 47.0500549
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 2: the 'lake' near Steinen was a shadow; 25-mi radar hit; wrongly went back to Zug before matching the Strava map to Merlischachen"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Back south to Merlischachen",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Merlischachen",
+          "coordinate": {
+            "longitude": 8.4071994,
+            "latitude": 47.0655534
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 2 FIND: Ben in a secret playground; cheese-rolling curse (roll 8) cleared at a supermarket; final time 9:36:05"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Winterthur",
+          "coordinate": {
+            "longitude": 8.7239736,
+            "latitude": 47.5003138
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 3 seeker: found Sam in the woods on the outskirts after the cheese-shop curse, the wrong/right McDonald's and the umbrella decoy (7:23:23)",
+            "Round 4 start: Adam's train from Winterthur ran 'as far from Bern as possible' before his hiding period ended"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Round 4: his train got into Thun",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Thun",
+          "coordinate": {
+            "longitude": 7.6296169,
+            "latitude": 46.7549449
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 4: arrival station — ran to a nearby municipality that rail couldn't reach in time"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Ran from Thun to Steffisburg",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Steffisburg",
+          "coordinate": {
+            "longitude": 7.6354195,
+            "latitude": 46.7774738
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 4 hiding spot: a castle in his zone, like round 1 — NEVER FOUND",
+            "Passed Ben's 9:36:05 by 5 seconds -> ADAM WINS Season 9"
+          ],
+          "end_of_day": [],
+          "to_next": []
         }
       ]
     },
@@ -319,6 +461,278 @@
           ],
           "end_of_day": [],
           "to_next": []
+        },
+        {
+          "name": "Göschenen",
+          "coordinate": {
+            "longitude": 8.5887626,
+            "latitude": 46.6658534
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 2 (Ben hides): missed a train toward Zug (didn't press the stop button); rest period here 17:30 -> 07:30; then train toward Zug"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Zug",
+          "coordinate": {
+            "longitude": 8.5539378,
+            "latitude": 47.1486137
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 2: Zug theory (from the 'rug' rhyme); Ben revealed he was 'rather in the south'"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Steinen (Strava-map match)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Steinen",
+          "coordinate": {
+            "longitude": 8.6108291,
+            "latitude": 47.0500549
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 2: the 'lake' near Steinen was a shadow; 25-mi radar hit; wrongly went back to Zug before matching the Strava map to Merlischachen"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Back south to Merlischachen",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Merlischachen",
+          "coordinate": {
+            "longitude": 8.4071994,
+            "latitude": 47.0655534
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 2 FIND: Ben in a secret playground; cheese-rolling curse (roll 8) cleared at a supermarket; final time 9:36:05"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Winterthur",
+          "coordinate": {
+            "longitude": 8.7239736,
+            "latitude": 47.5003138
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 3 HIDING SPOT: woods on the city's outskirts (860 ft from the nearest road; NW-running street)",
+            "FOUND after 7:23:23 — the seekers searched over five hours"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Winterthur Töss",
+          "coordinate": {
+            "longitude": 8.7092798,
+            "latitude": 47.4897747
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 4 seeker start: from the woods at Töss, train back to Winterthur main station"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "High-speed train through Zürich and Bern",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Bern",
+          "coordinate": {
+            "longitude": 7.4399554,
+            "latitude": 46.9489092
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 4 (Adam hides): high-speed train through Zürich and Bern; 10-mi radar miss; longitude east; within 25 mi of Bern"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Solothurn (the 12 options were mostly north of Bern)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Solothurn",
+          "coordinate": {
+            "longitude": 7.5426793,
+            "latitude": 47.2042524
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Wrong direction — 5-mi radar split the options; 'odd departure time' answer -> Wiedlisbach"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Wiedlisbach",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Wiedlisbach",
+          "coordinate": {
+            "longitude": 7.6471049,
+            "latitude": 47.2524377
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The train-station photo didn't match — suspected the Bätterkinden/Utzenstorf trick"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Back via Solothurn, south to Utzenstorf",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Utzenstorf",
+          "coordinate": {
+            "longitude": 7.5577607,
+            "latitude": 47.1293896
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Ads matched the red bar from Adam's photo but the station didn't; dead-end train to Bergdorf afterwards"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "After the Bergdorf dead end: to Langenthal",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Langenthal",
+          "coordinate": {
+            "longitude": 7.7848627,
+            "latitude": 47.2172915
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Direct Winterthur->Langenthal theory (Adam passed Sam's 7:23:23 during this ride)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Last hope: the Langenthal->Rohrbach line through Lotzwil and Madiswil — every station crossed out",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Rohrbach",
+          "coordinate": {
+            "longitude": 7.815146,
+            "latitude": 47.1356989
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Final stop of the search — no match; time expired; Adam passed Ben's 9:36:05 by 5 seconds -> Adam wins"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Post-game: out via Zürich Flughafen",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Zurich Airport",
+          "coordinate": {
+            "longitude": 8.5533661,
+            "latitude": 47.4633881
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Post-game: the trio flew out together (outtakes)"
+          ],
+          "end_of_day": [],
+          "to_next": []
         }
       ]
     },
@@ -484,6 +898,207 @@
           "additional_players": [],
           "notes": [
             "Present in Jet Lag: Hide + Seek (Season 9)\nMembers who visited: \n1) Sam\n2) Adam\n3) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Merlischachen",
+          "coordinate": {
+            "longitude": 8.4071994,
+            "latitude": 47.0655534
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 2 HIDING SPOT (from Hospental): a secret playground south of Zug",
+            "Misdirected the seekers toward Cham/Zug with rhymes; FOUND at 9:36:05 (+cheese-rolling curse cleared)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "As seeker: to Winterthur, chasing Sam",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Winterthur",
+          "coordinate": {
+            "longitude": 8.7239736,
+            "latitude": 47.5003138
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 3 seeker: found Sam in the woodland on the outskirts (7:23:23)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Round 4 seeker: after Sam was found, high-speed train through Zürich and Bern",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Bern",
+          "coordinate": {
+            "longitude": 7.4399554,
+            "latitude": 46.9489092
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Round 4 (Adam hides): high-speed train through Zürich and Bern; 10-mi radar miss; longitude east; within 25 mi of Bern"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Solothurn (the 12 options were mostly north of Bern)",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Solothurn",
+          "coordinate": {
+            "longitude": 7.5426793,
+            "latitude": 47.2042524
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Wrong direction — 5-mi radar split the options; 'odd departure time' answer -> Wiedlisbach"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Train to Wiedlisbach",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Wiedlisbach",
+          "coordinate": {
+            "longitude": 7.6471049,
+            "latitude": 47.2524377
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "The train-station photo didn't match — suspected the Bätterkinden/Utzenstorf trick"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Back via Solothurn, south to Utzenstorf",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Utzenstorf",
+          "coordinate": {
+            "longitude": 7.5577607,
+            "latitude": 47.1293896
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Ads matched the red bar from Adam's photo but the station didn't; dead-end train to Bergdorf afterwards"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "After the Bergdorf dead end: to Langenthal",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Langenthal",
+          "coordinate": {
+            "longitude": 7.7848627,
+            "latitude": 47.2172915
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Direct Winterthur->Langenthal theory (Adam passed Sam's 7:23:23 during this ride)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Last hope: the Langenthal->Rohrbach line through Lotzwil and Madiswil — every station crossed out",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Rohrbach",
+          "coordinate": {
+            "longitude": 7.815146,
+            "latitude": 47.1356989
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Final stop of the search — no match; time expired; Adam passed Ben's 9:36:05 by 5 seconds -> Adam wins"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Post-game: out via Zürich Flughafen",
+              "players_override": null,
+              "geometry": []
+            }
+          ]
+        },
+        {
+          "name": "Zurich Airport",
+          "coordinate": {
+            "longitude": 8.5533661,
+            "latitude": 47.4633881
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Post-game: the trio flew out together (outtakes)"
           ],
           "end_of_day": [],
           "to_next": []

@@ -1,3 +1,24 @@
 season,season_name,journey_team,journey_color,stop_index,name,longitude,latitude,when_start,when_end,video_episode,video_start,video_end,players_override,additional_players,notes,end_of_day
-10,Au$tralia,Sam Denby; Toby Hendy,#7B1FA2,0,Placeholder,0.0,0.0,,,,,,,,,
-10,Au$tralia,Adam Chase; Ben Doyle,#D32F2F,0,Placeholder,0.0,0.0,,,,,,,,,
+10,Au$tralia,Sam Denby; Toby Hendy,#7B1FA2,0,Sydney Opera House,151.2151234,-33.857198,,,,,,,,"Game start, Day 1 7:30 AM; NSW challenge board location
+Claimed New South Wales; snack-tasting (1.5x on $300) and Indigenous Rock Engravings challenges won; Luna Park challenge lost",
+10,Au$tralia,Sam Denby; Toby Hendy,#7B1FA2,1,Gold Coast Airport,153.5098183,-28.1675254,,,,,,,,"Day 1 evening; Toby's strategic end-location theory (airport sits on the NSW/QLD border)
+Missed their bus to the challenge board at episode end",
+10,Au$tralia,Sam Denby; Toby Hendy,#7B1FA2,2,Coomera Station (Gold Coast challenge board),153.3170517,-27.8523611,,,,,,,,Day 2: QLD challenge board (Coomera); the Brisbane-sign steal pops up,
+10,Au$tralia,Sam Denby; Toby Hendy,#7B1FA2,3,Brisbane Sign,153.0203174,-27.4738881,,,,,,,,"Day 2: positioned for the 'Mind Meld at the Brisbane Sign' steal
+Day 2 end",
+10,Au$tralia,Sam Denby; Toby Hendy,#7B1FA2,4,Canberra (Parliament House),149.1246038,-35.3075604,,,,,,,,"ACT challenge board location; claimed the Australian Capital Territory (Wikipedia)
+AMBIGUOUS: visit day not in episode pages",
+10,Au$tralia,Sam Denby; Toby Hendy,#7B1FA2,5,Alice Springs (ANZAC Hill),133.88211,-23.69473,,,,,,,,"NT challenge board location; 'amass power for a strategic comeback' (Morse-code telegraphing, golf)
+AMBIGUOUS: visited around E4/E5; whether Soby claimed or only pressured the NT is not stated",
+10,Au$tralia,Sam Denby; Toby Hendy,#7B1FA2,6,Gold Coast Airport,153.5098183,-28.1675254,,,,,,,,Final day: claimed Queensland and New South Wales in quick succession from the border airport — WON 4-3,
+10,Au$tralia,Adam Chase; Ben Doyle,#D32F2F,0,Sydney Opera House,151.2151234,-33.857198,,,,,,,,"Game start, Day 1 7:30 AM",
+10,Au$tralia,Adam Chase; Ben Doyle,#D32F2F,1,Hobart (Cenotaph),147.3361735,-42.8769885,,,,,,,,"Day 1: TAS challenge board location (Cenotaph)
+Signal flags at Mount Nelson Signal Station; 'Throw a Shrimp on the Barbie' 3x wager $800 succeeded on try 37 (budget $3,224)",
+10,Au$tralia,Adam Chase; Ben Doyle,#D32F2F,2,Adelaide (Victoria Square),138.5999227,-34.9289493,,,,,,,,"E3: 'Predict Market Flow at Adelaide's Central Market' — they were in Adelaide
+SA challenge board location",
+10,Au$tralia,Adam Chase; Ben Doyle,#D32F2F,3,Melbourne (Flinders Street station),144.9664779,-37.8184161,,,,,,,,E4: built a cart in Melbourne; VIC challenge board location,
+10,Au$tralia,Adam Chase; Ben Doyle,#D32F2F,4,Alice Springs (ANZAC Hill),133.88211,-23.69473,,,,,,,,NT challenge board location; claimed the Northern Territory (Wikipedia) — visit day not in episode stubs,
+10,Au$tralia,Adam Chase; Ben Doyle,#D32F2F,5,Sydney,151.2151234,-33.857198,,,,,,,,"Final day: reclaimed New South Wales (flew to Sydney when Canberra flights were booked out)
+AMBIGUOUS pin: shown at the Opera House area, the NSW board location",
+10,Au$tralia,Adam Chase; Ben Doyle,#D32F2F,6,Melbourne (Flinders Street station),144.9664779,-37.8184161,,,,,,,,"Final day: the Tasmania guess was wrong — Sam+Toby claimed QLD+NSW at Gold Coast Airport
+Lost 4-3",
