@@ -92,7 +92,7 @@ GOOGLE_CREDENTIALS_FILE = Path("google-credentials.json")
 #: Google Sheet tab layout of PLAN-seasons-2-9.md (e.g. the tab is
 #: "Season 5 - Race to the End", not "Season 5 - Race to the End of the
 #: World"). All other tabs derive their name from the season data.
-SEASON_TAB_NAME_OVERRIDES: dict[int, str] = {
+SEASON_TAB_NAME_OVERRIDES: dict[int | float, str] = {
     1: "Connect 4",
     4: "Battle 4 America",
     5: "Race to the End",

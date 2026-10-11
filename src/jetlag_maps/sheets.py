@@ -49,7 +49,7 @@ if TYPE_CHECKING:
 logger = logging.getLogger(__name__)
 
 #: Title pattern of the per-season tabs written by ``jetlag-maps sync``.
-_TAB_TITLE = re.compile(r"^Season (\d+) - ")
+_TAB_TITLE = re.compile(r"^Season (\d+(?:\.\d+)?) - ")
 
 
 def season_tab_name(season: SeasonFile) -> str:

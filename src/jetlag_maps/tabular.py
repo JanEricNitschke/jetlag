@@ -81,6 +81,7 @@ from jetlag_maps.format import (
     When,
     format_video_time,
     load_seasons,
+    season_num_str,
 )
 
 if TYPE_CHECKING:
@@ -98,7 +99,7 @@ logger = logging.getLogger(__name__)
 csv.field_size_limit(sys.maxsize)
 
 #: Sheet-name pattern of a per-season Excel table, e.g. ``S02 stops``.
-_SHEET_NAME = re.compile(r"^S(\d{2}) (stops|legs)$")
+_SHEET_NAME = re.compile(r"^S(\d{2}(?:\.\d)?) (stops|legs)$")
 
 #: Maximum length of one cell's text. Excel cells hold at most 32,767
 #: characters (Google Sheet cells 50,000), so any longer geometry has to
@@ -117,6 +118,16 @@ def _cell_int(value: object) -> int:
     return int(float(_cell_str(value)))
 
 
+def _cell_season(value: object) -> int | float:
+    """Normalize a raw cell value to a season number.
+
+    Whole numbers become ``int`` so existing seasons keep their type;
+    fractional specials (13.5) stay exact instead of truncating to 13.
+    """
+    number = float(_cell_str(value))
+    return int(number) if number.is_integer() else number
+
+
 def _cell_float(value: object) -> float:
     """Normalize a raw cell value to a float."""
     return float(_cell_str(value))
@@ -130,13 +141,14 @@ def _cell_optional_int(value: object) -> int | None:
 _CellStr = Annotated[str, BeforeValidator(_cell_str)]
 _CellFloat = Annotated[float, BeforeValidator(_cell_float)]
 _CellInt = Annotated[int, BeforeValidator(_cell_int)]
+_CellSeason = Annotated[int | float, BeforeValidator(_cell_season)]
 _OptionalCellInt = Annotated[int | None, BeforeValidator(_cell_optional_int)]
 
 
 class StopRow(BaseModel):
     """One ``stops`` table row describing a single stop."""
 
-    season: _CellInt
+    season: _CellSeason
     season_name: _CellStr
     journey_team: _CellStr
     journey_color: _CellStr
@@ -158,7 +170,7 @@ class StopRow(BaseModel):
 class LegRow(BaseModel):
     """One ``legs`` table row describing a single ``to_next`` leg."""
 
-    season: _CellInt
+    season: _CellSeason
     journey_team: _CellStr
     stop_index: _CellInt
     leg_index: _CellInt
@@ -339,13 +351,13 @@ def export_season_tables(season: SeasonFile) -> tuple[list[StopRow], list[LegRow
 
 def season_csv_paths(directory: Path, season: SeasonFile) -> tuple[Path, Path]:
     """Paths of a season's per-table CSV files under ``directory``."""
-    stem = f"season_{season.season:02d}"
+    stem = f"season_{season_num_str(season.season)}"
     return directory / f"{stem}_stops.csv", directory / f"{stem}_legs.csv"
 
 
 def season_sheet_names(season: SeasonFile) -> tuple[str, str]:
     """Sheet names of a season's per-table Excel sheets."""
-    stem = f"S{season.season:02d}"
+    stem = f"S{season_num_str(season.season)}"
     return f"{stem} stops", f"{stem} legs"
 
 
@@ -357,11 +369,21 @@ def _write_season_csvs(directory: Path, season: SeasonFile) -> None:
     legs_path.write_text(_csv_table(LegRow, legs), newline="", encoding="utf-8")
 
 
+def _season_file_sort_key(path: Path) -> float:
+    """Sort ``season_NN_*`` files by season number (13.5 sorts after 13)."""
+    match = re.match(r"season_(\d+(?:\.\d+)?)", path.name)
+    return float(match[1]) if match else float("inf")
+
+
 def csv_tables(path: Path) -> tuple[list[StopRow], list[LegRow]]:
     """Read the per-season ``season_NN_stops.csv``/``-``legs.csv`` tables."""
     return (
-        _read_csv_files(sorted(path.glob("season_*_stops.csv")), StopRow),
-        _read_csv_files(sorted(path.glob("season_*_legs.csv")), LegRow),
+        _read_csv_files(
+            sorted(path.glob("season_*_stops.csv"), key=_season_file_sort_key), StopRow
+        ),
+        _read_csv_files(
+            sorted(path.glob("season_*_legs.csv"), key=_season_file_sort_key), LegRow
+        ),
     )
 
 
@@ -489,13 +511,13 @@ def _row_to_leg(row: LegRow) -> ToNext:
 def _tables_to_seasons(
     stop_records: Sequence[StopRow], leg_records: Sequence[LegRow]
 ) -> list[SeasonFile]:
-    legs_by_stop: dict[tuple[int, str, int], list[ToNext]] = {}
+    legs_by_stop: dict[tuple[int | float, str, int], list[ToNext]] = {}
     for record in leg_records:
         key = (record.season, record.journey_team, record.stop_index)
         legs_by_stop.setdefault(key, []).append(_row_to_leg(record))
-    stops_by_journey: dict[int, dict[str, list[Stop]]] = {}
-    season_names: dict[int, str] = {}
-    journey_colors: dict[int, dict[str, str]] = {}
+    stops_by_journey: dict[int | float, dict[str, list[Stop]]] = {}
+    season_names: dict[int | float, str] = {}
+    journey_colors: dict[int | float, dict[str, str]] = {}
     for record in sorted(stop_records, key=lambda row: (row.season, row.stop_index)):
         season = record.season
         team = record.journey_team

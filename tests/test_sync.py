@@ -12,7 +12,7 @@ from openpyxl import load_workbook
 
 from jetlag_maps.cli import ExportArgs, PullArgs, SyncArgs
 from jetlag_maps.config import GOOGLE_SHEET_ID
-from jetlag_maps.format import SeasonFile, load_seasons
+from jetlag_maps.format import SeasonFile, load_seasons, season_num_str
 from jetlag_maps.sheets import (
     run_pull,
     run_sync,
@@ -45,13 +45,13 @@ def test_export_writes_only_per_season_csvs(
     """The CSV export writes exactly one stops/legs file pair per season."""
     run_export(ExportArgs(data=committed_data, out=tmp_path))
     for season in load_seasons(committed_data):
-        stem = f"season_{season.season:02d}"
+        stem = f"season_{season_num_str(season.season)}"
         stops = _read_rows(tmp_path / f"{stem}_stops.csv", StopRow)
         legs = _read_rows(tmp_path / f"{stem}_legs.csv", LegRow)
         assert (stops, legs) == export_tables([season])
     written = {path.name for path in tmp_path.iterdir()}
     expected = {
-        f"season_{season.season:02d}_{table}.csv"
+        f"season_{season_num_str(season.season)}_{table}.csv"
         for season in load_seasons(committed_data)
         for table in ("stops", "legs")
     }

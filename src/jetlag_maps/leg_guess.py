@@ -57,6 +57,7 @@ from jetlag_maps.format import (
     TravelMode,
     join_players,
     load_seasons,
+    season_num_str,
 )
 
 if TYPE_CHECKING:
@@ -86,7 +87,7 @@ _CACHE_FILE = Path.home() / ".cache" / "jetlag-maps" / "stop_classes.json"
 _REPORT_FILE = Path("leg_guesses.txt")
 _AIRPORT_NAME_RE = re.compile(r"airport|aerodrome", re.IGNORECASE)
 
-_SEASON_ALLOWED_MODES: dict[int, frozenset[TravelMode]] = {
+_SEASON_ALLOWED_MODES: dict[int | float, frozenset[TravelMode]] = {
     1: frozenset({TravelMode.FOOT, TravelMode.CAR, TravelMode.PLANE}),
 }
 
@@ -239,7 +240,7 @@ def _fill_season_legs(
                 mode_counts[guessed] += 1
                 mode = guessed.value
             report.append(
-                f"S{season.season:02d} | {join_players(journey.team)} | "
+                f"S{season_num_str(season.season)} | {join_players(journey.team)} | "
                 f"{stop.name} -> {nxt.name} | {distance / 1000:.1f} km | {mode}"
             )
     return mode_counts, skipped, report
@@ -414,7 +415,7 @@ def _log_season(
         f"{source.value}={count}" for source, count in sorted(source_counts.items())
     )
     logger.info(
-        "Season %d (%s): guessed legs: %s; skipped %d stop pairs (<%.0f m);"
+        "Season %s (%s): guessed legs: %s; skipped %d stop pairs (<%.0f m);"
         " classifications: %s",
         season.season,
         season.name,

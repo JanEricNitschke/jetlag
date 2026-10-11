@@ -21,7 +21,8 @@ animations/
 *.code-workspace
 
 # Local planning notes
-PLAN.md
+PLAN*.md
+MODEL-season-*
 
 # Seed-data research from Google Docs (raw dumps, extracts, curated notes)
 seed/

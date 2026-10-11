@@ -1,0 +1,308 @@
+{
+  "season": 13.5,
+  "name": "Hide + Seek NYC",
+  "journeys": [
+    {
+      "team": [
+        "Adam Chase",
+        "Amy Muller"
+      ],
+      "color": "#D32F2F",
+      "stops": [
+        {
+          "name": "Grand Central Terminal",
+          "coordinate": {
+            "longitude": -73.977253,
+            "latitude": 40.7526944
+          },
+          "when": {
+            "start": "2024-12-17T12:30:00",
+            "end": null
+          },
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Game start, Day 1 (Dec 17, 2024) 12:30 PM; both teams start here",
+            "Adamy are the Day 1 hiding team (60-minute hiding period, 1/4-mile radius home-game rules)",
+            "Transit to Forest Hills via NYC subway (line not specified in sources)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "1-10 Ascan Avenue (Forest Hills)",
+          "coordinate": {
+            "longitude": -73.8408683,
+            "latitude": 40.717877
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "~1:15 PM; doc: 'Possibly Adamy searching for their hiding spot?'"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Forest Hills hiding area",
+          "coordinate": {
+            "longitude": -73.845266,
+            "latitude": 40.719436
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 1 hiding spot near Forest Hills-71 Av station (station pin 40.7217/-73.8445)",
+            "Hid near the Forest Hills-71st Avenue subway station in Queens (Wikipedia)",
+            "Seekers found them USING THE TILE COLOURS of the hiders' station (Wikipedia)",
+            "Caught ~4 PM (likely) with a final time of 4 hours 2 seconds"
+          ],
+          "end_of_day": [
+            1
+          ],
+          "to_next": []
+        },
+        {
+          "name": "108-11 69th Road (Forest Hills)",
+          "coordinate": {
+            "longitude": -73.8419339,
+            "latitude": 40.7252617
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 2 (Jan 29, 2025): Adamy start as seekers; sun analysis puts this at ~9 AM (doc leans 9 over 10)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "37 Warren Street",
+          "coordinate": {
+            "longitude": -74.0087073,
+            "latitude": 40.7143916
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "~1 PM (reflection analysis); Adamy seeking in Lower Manhattan"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elevated Acre (55 Water Street)",
+          "coordinate": {
+            "longitude": -74.0090671,
+            "latitude": 40.7032255
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Found Bam's hiding spot here; game end (~2 PM likely)",
+            "Bam's time bonuses made their run longer (4:28:00 vs Adamy's 4:00:02) — Bam won the special"
+          ],
+          "end_of_day": [
+            2
+          ],
+          "to_next": []
+        }
+      ]
+    },
+    {
+      "team": [
+        "Ben Doyle",
+        "Sam Denby"
+      ],
+      "color": "#00796B",
+      "stops": [
+        {
+          "name": "Grand Central Terminal",
+          "coordinate": {
+            "longitude": -73.977253,
+            "latitude": 40.7526944
+          },
+          "when": {
+            "start": "2024-12-17T12:30:00",
+            "end": null
+          },
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Game start, Day 1 12:30 PM; Bam seek after the hiding period",
+            "Doc: 'Might be a 4 train' (unconfirmed train line detail)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "145th Street area",
+          "coordinate": {
+            "longitude": -73.9362163,
+            "latitude": 40.8204635
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Searching near '145 St' (doc)",
+            "AMBIGUOUS which station: the resolved pin is the Lenox Ave 145 St stop; the Bronx IND Concourse 145 St is the other candidate — the doc does not disambiguate"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "149th Street-Grand Concourse station",
+          "coordinate": {
+            "longitude": -73.9270562,
+            "latitude": 40.8185039
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Doc route note: 'fastest way back to Queens via the Grand Concourse Station'"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bronx seek point A",
+          "coordinate": {
+            "longitude": -73.930594,
+            "latitude": 40.820804
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "~1:30 PM (doc DMS 40-49-14.893 N 73-55-50.137 W)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bronx seek point B",
+          "coordinate": {
+            "longitude": -73.930449,
+            "latitude": 40.820119
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "~1:30 PM (doc DMS 40-49-12.428 N 73-55-49.617 W)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Bronx seek point C",
+          "coordinate": {
+            "longitude": -73.936942,
+            "latitude": 40.819406
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "~1:45 PM (doc DMS 40-49-9.861 N 73-56-12.991 W)"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "37-22 77th Street (Jackson Heights)",
+          "coordinate": {
+            "longitude": -73.889133,
+            "latitude": 40.7501584
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "~2:30 PM; likely the Curse of the Egg Partner spot (listed adjacent to the curse in the doc — not explicitly stated)",
+            "Street-level pin; the exact address did not resolve"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Forest Hills Station (post-catch)",
+          "coordinate": {
+            "longitude": -73.844521,
+            "latitude": 40.721691
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "'Probably Forest Hills Station' (blurry sign shot, Manhattan-bound direction — post-catch inference, uncertain)",
+            "Caught Adamy near the hiding area ~4 PM (likely)"
+          ],
+          "end_of_day": [
+            1
+          ],
+          "to_next": []
+        },
+        {
+          "name": "36 Liberty Street",
+          "coordinate": {
+            "longitude": -74.009838,
+            "latitude": 40.708243
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 2 (Jan 29, 2025) ~9 AM (likely; sun behind the Federal Reserve Bank)",
+            "AMBIGUOUS: team not explicitly stated; doc notes the timing overlap with Adamy's ~9 AM Forest Hills start",
+            "Game day started 8:00 AM per the doc's shooting schedule"
+          ],
+          "end_of_day": [],
+          "to_next": []
+        },
+        {
+          "name": "Elevated Acre (55 Water Street)",
+          "coordinate": {
+            "longitude": -74.0090671,
+            "latitude": 40.7032255
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Day 2 HIDING SPOT: the Elevated Acre near the Wall Street subway station (Wikipedia)",
+            "Seekers reached them quicker than in round 1, but several time-bonus cards brought the total to 4:28:00",
+            "CAUGHT ~2 PM (likely) — WON the special (4:28:00 vs Adamy's 4:00:02)"
+          ],
+          "end_of_day": [
+            2
+          ],
+          "to_next": []
+        }
+      ]
+    }
+  ]
+}

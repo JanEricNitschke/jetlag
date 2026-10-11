@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Season 13.5: Hide + Seek NYC</name>
+    <Folder>
+      <name>Adam Chase &amp; Amy Muller</name>
+      <Placemark>
+        <name>Grand Central Terminal</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start, Day 1 (Dec 17, 2024) 12:30 PM; both teams start here&lt;/li&gt;&lt;li&gt;Adamy are the Day 1 hiding team (60-minute hiding period, 1/4-mile radius home-game rules)&lt;/li&gt;&lt;li&gt;Transit to Forest Hills via NYC subway (line not specified in sources)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-12-17T12:30:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.977253,40.7526944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-10 Ascan Avenue (Forest Hills)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;~1:15 PM; doc: &amp;#x27;Possibly Adamy searching for their hiding spot?&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.8408683,40.717877</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forest Hills hiding area</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 hiding spot near Forest Hills-71 Av station (station pin 40.7217/-73.8445)&lt;/li&gt;&lt;li&gt;Hid near the Forest Hills-71st Avenue subway station in Queens (Wikipedia)&lt;/li&gt;&lt;li&gt;Seekers found them USING THE TILE COLOURS of the hiders&amp;#x27; station (Wikipedia)&lt;/li&gt;&lt;li&gt;Caught ~4 PM (likely) with a final time of 4 hours 2 seconds&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.845266,40.719436</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>108-11 69th Road (Forest Hills)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 (Jan 29, 2025): Adamy start as seekers; sun analysis puts this at ~9 AM (doc leans 9 over 10)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.8419339,40.7252617</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>37 Warren Street</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;~1 PM (reflection analysis); Adamy seeking in Lower Manhattan&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-74.0087073,40.7143916</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elevated Acre (55 Water Street)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Found Bam&amp;#x27;s hiding spot here; game end (~2 PM likely)&lt;/li&gt;&lt;li&gt;Bam&amp;#x27;s time bonuses made their run longer (4:28:00 vs Adamy&amp;#x27;s 4:00:02) — Bam won the special&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-74.0090671,40.7032255</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Ben Doyle &amp; Sam Denby</name>
+      <Placemark>
+        <name>Grand Central Terminal</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start, Day 1 12:30 PM; Bam seek after the hiding period&lt;/li&gt;&lt;li&gt;Doc: &amp;#x27;Might be a 4 train&amp;#x27; (unconfirmed train line detail)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-12-17T12:30:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.977253,40.7526944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>145th Street area</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Searching near &amp;#x27;145 St&amp;#x27; (doc)&lt;/li&gt;&lt;li&gt;AMBIGUOUS which station: the resolved pin is the Lenox Ave 145 St stop; the Bronx IND Concourse 145 St is the other candidate — the doc does not disambiguate&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.9362163,40.8204635</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>149th Street-Grand Concourse station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Doc route note: &amp;#x27;fastest way back to Queens via the Grand Concourse Station&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.9270562,40.8185039</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bronx seek point A</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;~1:30 PM (doc DMS 40-49-14.893 N 73-55-50.137 W)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.930594,40.820804</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bronx seek point B</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;~1:30 PM (doc DMS 40-49-12.428 N 73-55-49.617 W)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.930449,40.820119</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bronx seek point C</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;~1:45 PM (doc DMS 40-49-9.861 N 73-56-12.991 W)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.936942,40.819406</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>37-22 77th Street (Jackson Heights)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;~2:30 PM; likely the Curse of the Egg Partner spot (listed adjacent to the curse in the doc — not explicitly stated)&lt;/li&gt;&lt;li&gt;Street-level pin; the exact address did not resolve&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.889133,40.7501584</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forest Hills Station (post-catch)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&amp;#x27;Probably Forest Hills Station&amp;#x27; (blurry sign shot, Manhattan-bound direction — post-catch inference, uncertain)&lt;/li&gt;&lt;li&gt;Caught Adamy near the hiding area ~4 PM (likely)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-73.844521,40.721691</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>36 Liberty Street</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 (Jan 29, 2025) ~9 AM (likely; sun behind the Federal Reserve Bank)&lt;/li&gt;&lt;li&gt;AMBIGUOUS: team not explicitly stated; doc notes the timing overlap with Adamy&amp;#x27;s ~9 AM Forest Hills start&lt;/li&gt;&lt;li&gt;Game day started 8:00 AM per the doc&amp;#x27;s shooting schedule&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-74.009838,40.708243</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elevated Acre (55 Water Street)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 HIDING SPOT: the Elevated Acre near the Wall Street subway station (Wikipedia)&lt;/li&gt;&lt;li&gt;Seekers reached them quicker than in round 1, but several time-bonus cards brought the total to 4:28:00&lt;/li&gt;&lt;li&gt;CAUGHT ~2 PM (likely) — WON the special (4:28:00 vs Adamy&amp;#x27;s 4:00:02)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff6b7900</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-74.0090671,40.7032255</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

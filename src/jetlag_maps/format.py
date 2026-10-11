@@ -153,14 +153,25 @@ class Journey(BaseModel):
 
 
 class SeasonFile(BaseModel):
-    season: int
+    season: int | float
     name: str
     journeys: list[Journey] = Field(min_length=2)
 
     @property
     def slug(self) -> str:
         stem = re.sub(r"[^a-z0-9]+", "-", self.name.lower()).strip("-")
-        return f"season_{self.season:02d}_{stem}"
+        return f"season_{season_num_str(self.season)}_{stem}"
+
+
+def season_num_str(season: float) -> str:
+    """Format a season number for file/sheet stems: 9 -> ``"09"``, 13.5 -> ``"13.5"``.
+
+    Whole seasons keep the zero-padded two-digit form; fractional seasons
+    (specials like 13.5) are rendered as-is.
+    """
+    if isinstance(season, int):
+        return f"{season:02d}"
+    return f"{int(season):02d}" if float(season).is_integer() else str(season)
 
 
 def load_seasons(data: Path) -> list[SeasonFile]:
