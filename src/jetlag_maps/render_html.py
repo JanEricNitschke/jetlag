@@ -19,7 +19,7 @@ from jetlag_maps.format import (
 )
 
 if TYPE_CHECKING:
-    from collections.abc import Sequence
+    from collections.abc import Callable, Sequence
 
     from jetlag_maps.cli import WebArgs
     from jetlag_maps.format import Journey, Stop, ToNext
@@ -125,12 +125,95 @@ def _leg_popup(leg: ToNext) -> str:
     return "<br>".join(parts)
 
 
+def _merge_stop_popup(stops: Sequence[Stop], journey: Journey) -> str:
+    """Build a single popup merging the content of coincident stops."""
+    parts: list[str] = []
+    names: list[str] = []
+    for stop in stops:
+        if stop.name not in names:
+            names.append(stop.name)
+    parts.append(f"<div><b>{html.escape(' / '.join(names))}</b></div>")
+    players = _stop_players(stops[0], journey)
+    parts.append(
+        f"<div>Players: {', '.join(html.escape(str(p)) for p in players)}</div>"
+    )
+    parts.extend(_merged_stamps(stops, "when", _format_when))
+    parts.extend(_merged_stamps(stops, "video", _format_video))
+    for stop in stops:
+        for note in stop.notes:
+            text = html.escape(note)
+            if f"Note: {text}" not in str(parts):
+                parts.append(f"<div>Note: {text}</div>")
+    for stop in stops:
+        for day in stop.end_of_day:
+            badge = f'<span style="{_EOD_BADGE_CSS}">End of Day {day}</span>'
+            if badge not in parts:
+                parts.append(badge)
+    return "<br>".join(parts)
+
+
+def _format_when(stop: Stop) -> str | None:
+    if stop.when is None:
+        return None
+    stamp = stop.when.start.strftime("%Y-%m-%d %H:%M")
+    if stop.when.end is not None:
+        stamp += f" - {stop.when.end.strftime('%Y-%m-%d %H:%M')}"
+    return stamp
+
+
+def _format_video(stop: Stop) -> str | None:
+    if stop.video is None:
+        return None
+    return (
+        f"Episode {stop.video.episode}:"
+        f" {format_video_time(stop.video.start)}"
+        f"-{format_video_time(stop.video.end)}"
+    )
+
+
+def _merged_stamps(
+    stops: Sequence[Stop], attr: str, formatter: Callable[[Stop], str | None]
+) -> list[str]:
+    """Collect unique formatted stamps from coincident stops."""
+    stamps: list[str] = []
+    for stop in stops:
+        stamp = formatter(stop)
+        if stamp is not None and stamp not in stamps:
+            stamps.append(stamp)
+    label = "Time" if attr == "when" else "Video"
+    return [f"<div>{label}: {s}</div>" for s in stamps]
+
+
 def _add_clustered_stop_markers(cluster: MarkerCluster, journey: Journey) -> None:
-    """Add one colored dot marker per stop of the journey to a cluster."""
+    """Add one colored dot marker per stop of the journey to a cluster.
+
+    Coincident stops of the same journey (same coordinates, same players)
+    share a single marker with merged popup content.
+    """
+    seen: dict[tuple[float, float, str], list[Stop]] = {}
     for stop in journey.stops:
-        _stop_marker(
-            (stop.coordinate.latitude, stop.coordinate.longitude), journey, stop
-        ).add_to(cluster)
+        key = (
+            stop.coordinate.latitude,
+            stop.coordinate.longitude,
+            ", ".join(str(p) for p in _stop_players(stop, journey)),
+        )
+        seen.setdefault(key, []).append(stop)
+    for (lat, lon, _players), stops in seen.items():
+        if len(stops) == 1:
+            _stop_marker((lat, lon), journey, stops[0]).add_to(cluster)
+        else:
+            tooltip = " / ".join(dict.fromkeys(_stop_tooltip(s) for s in stops))
+            folium.Marker(
+                location=(lat, lon),
+                icon=_dot_icon(
+                    [str(journey.color)],
+                    eod=any(s.end_of_day for s in stops),
+                ),
+                tooltip=tooltip,
+                popup=folium.Popup(
+                    _merge_stop_popup(stops, journey), max_width=_POPUP_MAX_WIDTH
+                ),
+            ).add_to(cluster)
 
 
 def _add_split_stop_markers(group: folium.FeatureGroup, season: SeasonFile) -> None:
@@ -142,9 +225,24 @@ def _add_split_stop_markers(group: folium.FeatureGroup, season: SeasonFile) -> N
     """
     by_location: dict[tuple[float, float], list[tuple[Journey, Stop]]] = {}
     for journey in season.journeys:
+        # Deduplicate coincident stops within a journey before grouping.
+        seen: dict[tuple[float, float, str], Stop] = {}
         for stop in journey.stops:
-            key = (stop.coordinate.latitude, stop.coordinate.longitude)
-            by_location.setdefault(key, []).append((journey, stop))
+            key = (
+                stop.coordinate.latitude,
+                stop.coordinate.longitude,
+                ", ".join(str(p) for p in _stop_players(stop, journey)),
+            )
+            if key in seen:
+                first = seen[key]
+                first.notes.extend(n for n in stop.notes if n not in first.notes)
+                first.end_of_day = list(
+                    dict.fromkeys([*first.end_of_day, *stop.end_of_day])
+                )
+            else:
+                seen[key] = stop
+                loc_key = (stop.coordinate.latitude, stop.coordinate.longitude)
+                by_location.setdefault(loc_key, []).append((journey, stop))
     for (latitude, longitude), entries in by_location.items():
         colors = [str(journey.color) for journey, _ in entries]
         has_eod = any(stop.end_of_day for _, stop in entries)

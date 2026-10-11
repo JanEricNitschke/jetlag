@@ -32,6 +32,8 @@ class TravelMode(StrEnum):
     PLANE = "plane"
     FERRY = "ferry"
     BUS = "bus"
+    SCOOTER = "scooter"
+    HELICOPTER = "helicopter"
 
 
 class GeometryQuality(StrEnum):

@@ -34,6 +34,16 @@ train
     stitched along the matched relation instead; falls back to the generic
     railway method with a warning when no matching relation connects the
     endpoints.
+    **WARNING: this method is unreliable in practice** and has produced
+    both hard failures and plausible-looking but wrong geometry (observed:
+    a 48 km stitched "train" path for a 1.8 km hop; silently following
+    parallel freight rails instead of the passenger line; monorails and
+    other non-``railway=rail`` services being invisible to it entirely).
+    For season data, prefer the Google Routes API in TRANSIT mode with
+    ``allowedTravelModes=["RAIL"]`` (and a weekday mid-morning
+    ``departureTime`` so the full schedule is used) — it returns geometry
+    that follows the actual scheduled service, including the specific
+    line names.
 plane
     Great-circle spherical interpolation between the endpoints. When the
     ``note`` contains a flight designator, the actually flown track is
@@ -74,6 +84,12 @@ plane
     flight) the great-circle path is returned with a warning. The
     OpenSky Network (https://opensky-network.org/) remains a possible
     API-based alternative for actually flown paths.
+    scooter
+        FOSSGIS OSRM ``bike`` profile: rental scooters follow street and
+        bike-path geometry, which is the closest available routing profile.
+    helicopter
+        Great-circle interpolation, like ``plane`` but without the
+        FlightAware designator support (no helicopter tracks there).
 """
 
 from __future__ import annotations
@@ -146,7 +162,7 @@ _FINDFLIGHT_RESULTS_RE = re.compile(
     r"FA\.findflight\.resultsContent\s*=\s*(\[.*?\]);", re.DOTALL
 )
 _FINDFLIGHT_IDENT_RE = re.compile(r">\s*([A-Z0-9]+)\s*</a>")
-_FINDFLIGHT_LINK_RE = re.compile(r'href="([^"]+)"')
+_FINDFLIGHT_LINK_RE = re.compile(r'href=(?:\\)?"([^"\\]+)')
 _FLIGHT_NOTE_RE = re.compile(
     r"\b(?P<ident>[A-Z]{2,3}\d{1,4})"
     r"(?:@(?P<date>\d{4}-\d{2}-\d{2}|\d{8}))?"
@@ -370,7 +386,7 @@ class _RepresentativeTrack(NamedTuple):
     track: list[Coordinate]
 
 
-def fetch_geometry(
+def fetch_geometry(  # noqa: PLR0911 — one return per travel mode is the clearest dispatch
     mode: TravelMode,
     start: Coordinate,
     end: Coordinate,
@@ -432,6 +448,10 @@ def fetch_geometry(
             return _fetch_ferry(start, end)
         case TravelMode.TRAIN:
             return _fetch_train(start, end, note)
+        case TravelMode.SCOOTER:
+            return _fetch_osrm(_OSRM_FOSSGIS.format(profile="bike"), "bike", start, end)
+        case TravelMode.HELICOPTER:
+            return _great_circle(start, end)
 
 
 def _fetch_osrm(
