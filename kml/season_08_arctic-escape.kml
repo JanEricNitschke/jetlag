@@ -5,17 +5,14 @@
     <Folder>
       <name>Sam Denby &amp; Michelle Khare</name>
       <Placemark>
-        <name>Whale Bone Arch</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: Arctic Escape (Season 8)
-Members who visited: 
-1) Sam
-2) Michelle
-3) Adam
-4) Ben
-Challenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Utqiagvik Whale Bone Arch</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-23T15:00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ffd27619</color>
+            <color>ff3c8e38</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -23,22 +20,15 @@ Challenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)&lt;/li&gt;&lt
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-156.773957214216,71.298465517043</coordinates>
+          <coordinates>-156.7737474,71.2984596</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Snowman Beach</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
-Members who visited: 
-1) Sam
-2) Michelle
-3) Adam
-4) Ben
-Challenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)
-Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Arctic Coast - snowmen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
         <Style>
           <IconStyle>
-            <color>ffd27619</color>
+            <color>ff3c8e38</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -46,19 +36,15 @@ Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&g
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-156.774786485596,71.2985100085435</coordinates>
+          <coordinates>-156.7750183,71.2986116</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Stuaqpak</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
-Members who visited: 
-1) Sam
-2) Michelle
-Challenge: Build a snowman on the beach (Sam, Michelle)&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Stuaqpak Supermarket</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
         <Style>
           <IconStyle>
-            <color>ffd27619</color>
+            <color>ff3c8e38</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -66,20 +52,52 @@ Challenge: Build a snowman on the beach (Sam, Michelle)&lt;/li&gt;&lt;/ul&gt;</d
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-156.755414610363,71.2989527217593</coordinates>
+          <coordinates>-156.7555119,71.2989228</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snack Zone</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7637,71.3025</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Michelle's clothes lost on the arctic beach</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7808508,71.2965159</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Wiley Post-Will Rogers Memorial Airport (BRW)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
-Members who visited: 
+Members who visited:
 1) Sam
 2) Michelle
 3) Adam
 4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
         <Style>
           <IconStyle>
-            <color>ffd27619</color>
+            <color>ff3c8e38</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -87,79 +105,15 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-156.7750277,71.2876213</coordinates>
+          <coordinates>-156.7750106,71.2877074</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Anchorage</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Won the &amp;#x27;Build a snowman on the beach&amp;#x27; Twitter poll -&amp;gt; nonstop ticket to Anchorage (E1); Alaska Airlines website booking issues&lt;/li&gt;&lt;li&gt;E2-E3: completed many ticket challenges around Anchorage while Badam were stuck in Utqiagvik&lt;/li&gt;&lt;/ul&gt;</description>
-        <Style>
-          <IconStyle>
-            <color>ffd27619</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>-149.9978919,61.1810353</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Boise</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;E4: leading in Boise, Idaho (arrival via tickets — routing not in sources)&lt;/li&gt;&lt;/ul&gt;</description>
-        <Style>
-          <IconStyle>
-            <color>ffd27619</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>-116.2080749,43.5600566</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Montrose</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;End of the Rockies drive; flew out from here&lt;/li&gt;&lt;/ul&gt;</description>
-        <Style>
-          <IconStyle>
-            <color>ffd27619</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>-107.892488,38.5118206</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Dallas</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;AMBIGUOUS pin: Dallas/Fort Worth assumed (airport not stated in sources)&lt;/li&gt;&lt;/ul&gt;</description>
-        <Style>
-          <IconStyle>
-            <color>ffd27619</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>-97.0458529,32.8962047</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Birmingham</name>
+        <name>X̱áat Ḵwáani Salmon Plane</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
         <Style>
           <IconStyle>
-            <color>ffd27619</color>
+            <color>ff3c8e38</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -167,15 +121,15 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-86.7504578,33.5646818</coordinates>
+          <coordinates>-156.7755024,71.2866092</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Atlanta</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;E6: reached Key West via two stolen tickets (&amp;#x27;Steal Jimmy Johns&amp;#x27; crown&amp;#x27; E4, &amp;#x27;Steal Elvis&amp;#x27; spot&amp;#x27; E6) while Badam were still at the airport&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Anchorage Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
         <Style>
           <IconStyle>
-            <color>ffd27619</color>
+            <color>ff3c8e38</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -183,15 +137,15 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-84.4298161,33.6374009</coordinates>
+          <coordinates>-149.9815668,61.1737247</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Key West (Southernmost Point)</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FINISH — first to reach the southernmost point of the continental US; WON Season 8&lt;/li&gt;&lt;li&gt;Final Atlanta -&amp;gt; Key West hop via stolen tickets (mode not explicitly stated in sources)&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Earthquake Park climbing tree</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
         <Style>
           <IconStyle>
-            <color>ffd27619</color>
+            <color>ff3c8e38</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -199,73 +153,1572 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-81.7974808,24.5465299</coordinates>
+          <coordinates>-149.9761076,61.19602</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Boise to Montrose (car)</name>
-        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Drove across the Rocky Mountains to Montrose — forced when Badam took the Seattle-&amp;gt;Denver nonstop; E5&amp;#x27;s risky drive through sparse regions</description>
+        <name>Earthquake Park Rest period hugging tree</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-149.9760996,61.1959459</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morning twilight view of Anchorage</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-149.9740191,61.1993843</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McHugh Creek waterfall</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-149.73191,61.0163947</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walmart</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-96.8248818,32.6843023</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anchorage Zoo</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-149.7904736,61.1238285</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anchorage Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-149.9815668,61.1737247</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sea-Tac Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3021074,47.4436055</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Archie McPhee</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3417195,47.6616019</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Safeway Liquor</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3578014,47.6235718</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sea-Tac Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3021074,47.4436055</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boise Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.221826,43.5689181</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam spells "roll" on Strava in Parking Garage</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.2232619,43.5702576</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Welcome to Boise Sign</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.2170464,43.5695606</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Albertsons</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.2155749,43.5890494</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Michelle spells "acid" on Strava on Parking Lot</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.2151126,43.5892289</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boise Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.221826,43.5689181</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boise River Dam - Black Cliffs Rock Climbing</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.0926371,43.5387703</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Home Depot Boise</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.1850664,43.567904</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fred Meyer, Boise</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.1875697,43.5684775</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boise Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-116.221826,43.5689181</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salt Lake City Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-111.9848892,40.7841203</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Petco</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-111.9575089,40.6935977</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Costco</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-111.9543114,40.6905139</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jimmy John's</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-111.9575336,40.6926372</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Petco</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-111.9575089,40.6935977</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holiday Inn Express &amp; Suites</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-110.8321657,39.6011831</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dairy Queen</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-110.8315602,39.6011565</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holiday Inn Express &amp; Suites</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-110.8321657,39.6011831</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Welcome to Colorful Colorado</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-109.0514828,39.1933387</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chipotle</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-108.5889942,39.0828383</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chick-fil-A</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-108.5842354,39.0808464</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chipotle</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-108.5889942,39.0828383</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Welcome to Montrose sign</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-107.914888,38.5129406</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Enterprise Rent-A-Car</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-107.9009654,38.498703</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montrose Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-107.8993246,38.5004165</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dallas Fort Worth International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-97.0402445,32.8977625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Medieval Times Restaurant</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-96.822835,32.8006238</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walmart</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-96.8248818,32.6843023</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fence</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-96.8029144,32.7661723</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dallas Sportatorium</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-96.8030828,32.766399</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big red flags</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-96.9324631,32.8373391</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hyatt Place Hotel</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-97.0388297,32.8545716</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dallas Fort Worth International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-97.0402445,32.8977625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birmingham-Shuttlesworth International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-86.7519238,33.5620255</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buc-ee's!!!</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-86.5907943,33.5449598</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Welcome to Georgia sign</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-85.341184,33.6759745</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hartsfield-Jackson Atlanta International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-84.445113,33.6408608</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Key West International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-81.7551279,24.5535319</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southernmost Point Bar</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-81.7967238,24.5471576</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southernmost Point of Continental USA marker</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <Style>
+          <IconStyle>
+            <color>ff3c8e38</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-81.7975114,24.5465123</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Utqiagvik Whale Bone Arch to Arctic Coast - snowmen (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Snowman complete; Twitter poll WON; reward: nonstop flight to Anchorage</description>
         <Style>
           <LineStyle>
-            <color>ffd27619</color>
+            <color>ff3c8e38</color>
             <width>3</width>
           </LineStyle>
         </Style>
         <LineString>
-          <coordinates>-116.2080749,43.5600566 -107.892488,38.5118206</coordinates>
+          <coordinates>-156.7737474,71.2984596 -156.7750183,71.2986116</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Montrose to Dallas (plane)</name>
-        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Montrose -&amp;gt; Dallas</description>
+        <name>Arctic Coast - snowmen to Stuaqpak Supermarket (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Picnic supplies</description>
         <Style>
           <LineStyle>
-            <color>ffd27619</color>
+            <color>ff3c8e38</color>
             <width>3</width>
           </LineStyle>
         </Style>
         <LineString>
-          <coordinates>-107.892488,38.5118206 -97.0458529,32.8962047</coordinates>
+          <coordinates>-156.7750183,71.2986116 -156.7555119,71.2989228</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Dallas to Birmingham (plane)</name>
-        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Dallas -&amp;gt; Birmingham</description>
+        <name>Stuaqpak Supermarket to Snack Zone (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Picnic complete; reward: 1500-mi flight to a coastal state</description>
         <Style>
           <LineStyle>
-            <color>ffd27619</color>
+            <color>ff3c8e38</color>
             <width>3</width>
           </LineStyle>
         </Style>
         <LineString>
-          <coordinates>-97.0458529,32.8962047 -86.7504578,33.5646818</coordinates>
+          <coordinates>-156.7555119,71.2989228 -156.7637,71.3025</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Birmingham to Atlanta (car)</name>
-        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Drove to Atlanta</description>
+        <name>Snack Zone to Michelle's clothes lost on the arctic beach (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Beach; dance challenge</description>
         <Style>
           <LineStyle>
-            <color>ffd27619</color>
+            <color>ff3c8e38</color>
             <width>3</width>
           </LineStyle>
         </Style>
         <LineString>
-          <coordinates>-86.7504578,33.5646818 -84.4298161,33.6374009</coordinates>
+          <coordinates>-156.7637,71.3025 -156.7808508,71.2965159</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Michelle's clothes lost on the arctic beach to Wiley Post-Will Rogers Memorial Airport (BRW) (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Back to the airport; ticket used: nonstop flight to Anchorage</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-156.7808508,71.2965159 -156.7750106,71.2877074</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Wiley Post-Will Rogers Memorial Airport (BRW) to X̱áat Ḵwáani Salmon Plane (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;The famous Alaska Airlines 737-800 salmon livery</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-156.7750106,71.2877074 -156.7755024,71.2866092</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>X̱áat Ḵwáani Salmon Plane to Anchorage Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Utqiagvik to Anchorage</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-156.7755024,71.2866092 -149.9815668,61.1737247</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Anchorage Airport to Earthquake Park climbing tree (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Taxi; challenge complete: climb a tree; REST PERIOD (Night 1: S&amp;amp;M)</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-149.9815668,61.1737247 -149.9761076,61.19602</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Earthquake Park climbing tree to Earthquake Park Rest period hugging tree (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Rest ends</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-149.9761076,61.19602 -149.9760996,61.1959459</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Earthquake Park Rest period hugging tree to Morning twilight view of Anchorage (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;View before heading out</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-149.9760996,61.1959459 -149.9740191,61.1993843</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Morning twilight view of Anchorage to McHugh Creek waterfall (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Taxi south; challenge complete: contribute to a waterfall; reward: 450-mi flight</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-149.9740191,61.1993843 -149.73191,61.0163947</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>McHugh Creek waterfall to Walmart (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Challenge complete: find a real gun; reward: 800-mi train (later stolen by A&amp;amp;B)</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-149.73191,61.0163947 -96.8248818,32.6843023</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Walmart to Anchorage Zoo (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Challenge complete: cry; reward: 400-mi car; challenge complete: amuse a moose; reward: 1600-mi flight</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-96.8248818,32.6843023 -149.7904736,61.1238285</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Anchorage Zoo to Anchorage Airport (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Back to the airport; ticket used: 1600-mi flight</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-149.7904736,61.1238285 -149.9815668,61.1737247</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Anchorage Airport to Sea-Tac Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Anchorage to Seattle</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-149.9815668,61.1737247 -122.3021074,47.4436055</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sea-Tac Airport to Archie McPhee (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Taxi; challenge complete: go somewhere #random; reward: 600-mi flight on a random airline</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3021074,47.4436055 -122.3417195,47.6616019</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Archie McPhee to Safeway Liquor (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Taxi; REST PERIOD (Night 2: S&amp;amp;M)</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3417195,47.6616019 -122.3578014,47.6235718</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Safeway Liquor to Sea-Tac Airport (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Back to the airport</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3578014,47.6235718 -122.3021074,47.4436055</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sea-Tac Airport to Boise Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Seattle to Boise</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3021074,47.4436055 -116.221826,43.5689181</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Boise Airport to Sam spells "roll" on Strava in Parking Garage (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Airport garage; challenge complete: write a word on Strava; reward: 800-mi train</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-116.221826,43.5689181 -116.2232619,43.5702576</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sam spells "roll" on Strava in Parking Garage to Welcome to Boise Sign (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-116.2232619,43.5702576 -116.2170464,43.5695606</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Welcome to Boise Sign to Albertsons (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Groceries</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-116.2170464,43.5695606 -116.2155749,43.5890494</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Albertsons to Michelle spells "acid" on Strava on Parking Lot (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Second Strava word</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-116.2155749,43.5890494 -116.2151126,43.5892289</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Michelle spells "acid" on Strava on Parking Lot to Boise Airport (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Walked back to the rental car at Boise Airport</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-116.2151126,43.5892289 -116.221826,43.5689181</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Boise Airport to Boise River Dam - Black Cliffs Rock Climbing (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Drove to Black Cliffs with the rental car</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-116.221826,43.5689181 -116.0926371,43.5387703</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Boise River Dam - Black Cliffs Rock Climbing to The Home Depot Boise (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Challenge complete: fund the military industrial complex; reward: 400-mi car</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-116.0926371,43.5387703 -116.1850664,43.567904</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>The Home Depot Boise to Fred Meyer, Boise (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Challenge complete: become a pumpkin parent; reward: 450-mi flight</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-116.1850664,43.567904 -116.1875697,43.5684775</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Fred Meyer, Boise to Boise Airport (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Back to the airport; ticket used: 450-mi flight</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-116.1875697,43.5684775 -116.221826,43.5689181</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Boise Airport to Salt Lake City Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Boise to SLC</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-116.221826,43.5689181 -111.9848892,40.7841203</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Salt Lake City Airport to Petco (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Rental car; challenge complete: explain the birds and the bees; reward: 400-mi car</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-111.9848892,40.7841203 -111.9575089,40.6935977</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Petco to Costco (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-111.9575089,40.6935977 -111.9543114,40.6905139</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Costco to Jimmy John's (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Challenge complete: steal Jimmy John&amp;#x27;s crown; reward: Steal</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-111.9543114,40.6905139 -111.9575336,40.6926372</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Jimmy John's to Petco (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Walked back to the parked rental car at Petco</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-111.9575336,40.6926372 -111.9575089,40.6935977</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Petco to Holiday Inn Express &amp; Suites (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Drove southeast to Price, UT with the rental car</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-111.9575089,40.6935977 -110.8321657,39.6011831</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Holiday Inn Express &amp; Suites to Dairy Queen (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Breakfast next to the hotel</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-110.8321657,39.6011831 -110.8315602,39.6011565</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dairy Queen to Holiday Inn Express &amp; Suites (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Walked back to the car at the hotel</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-110.8315602,39.6011565 -110.8321657,39.6011831</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Holiday Inn Express &amp; Suites to Welcome to Colorful Colorado (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Drove into Colorado with the rental car</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-110.8321657,39.6011831 -109.0514828,39.1933387</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Welcome to Colorful Colorado to Chipotle (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Lunch in Grand Junction</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-109.0514828,39.1933387 -108.5889942,39.0828383</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Chipotle to Chick-fil-A (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-108.5889942,39.0828383 -108.5842354,39.0808464</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Chick-fil-A to Chipotle (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Walked back to the car at Chipotle parking</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-108.5842354,39.0808464 -108.5889942,39.0828383</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Chipotle to Welcome to Montrose sign (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Drove to Montrose with the rental car</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-108.5889942,39.0828383 -107.914888,38.5129406</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Welcome to Montrose sign to Enterprise Rent-A-Car (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Rental car drop-off</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-107.914888,38.5129406 -107.9009654,38.498703</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Enterprise Rent-A-Car to Montrose Airport (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Ticket used: 1000-mi flight (Montrose sits at 5759 ft above 5500 ft)</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-107.9009654,38.498703 -107.8993246,38.5004165</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Montrose Airport to Dallas Fort Worth International Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Montrose to Dallas</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-107.8993246,38.5004165 -97.0402445,32.8977625</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dallas Fort Worth International Airport to Medieval Times Restaurant (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Evening</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-97.0402445,32.8977625 -96.822835,32.8006238</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Medieval Times Restaurant to Walmart (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Challenge complete: get a team mascot; reward: 400-mi car</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-96.822835,32.8006238 -96.8248818,32.6843023</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Walmart to Fence (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-96.8248818,32.6843023 -96.8029144,32.7661723</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Fence to Dallas Sportatorium (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-96.8029144,32.7661723 -96.8030828,32.766399</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dallas Sportatorium to Big red flags (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-96.8030828,32.766399 -96.9324631,32.8373391</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Big red flags to Hyatt Place Hotel (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;REST PERIOD (Night 4: S&amp;amp;M)</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-96.9324631,32.8373391 -97.0388297,32.8545716</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Hyatt Place Hotel to Dallas Fort Worth International Airport (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Back to the airport; ticket used: 600-mi flight on a random airline</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-97.0388297,32.8545716 -97.0402445,32.8977625</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Dallas Fort Worth International Airport to Birmingham-Shuttlesworth International Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Dallas to Birmingham</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-97.0402445,32.8977625 -86.7519238,33.5620255</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Birmingham-Shuttlesworth International Airport to Buc-ee's!!! (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Rental car south</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-86.7519238,33.5620255 -86.5907943,33.5449598</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Buc-ee's!!! to Welcome to Georgia sign (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;On the drive to Atlanta</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-86.5907943,33.5449598 -85.341184,33.6759745</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Welcome to Georgia sign to Hartsfield-Jackson Atlanta International Airport (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Ticket used: 450-mi flight</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-85.341184,33.6759745 -84.445113,33.6408608</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Hartsfield-Jackson Atlanta International Airport to Key West International Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Atlanta to Key West</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-84.445113,33.6408608 -81.7551279,24.5535319</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Key West International Airport to Southernmost Point Bar (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Celebration</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-81.7551279,24.5535319 -81.7967238,24.5471576</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Southernmost Point Bar to Southernmost Point of Continental USA marker (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;FINISH - S&amp;amp;M WIN Season 8</description>
+        <Style>
+          <LineStyle>
+            <color>ff3c8e38</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-81.7967238,24.5471576 -81.7975114,24.5465123</coordinates>
         </LineString>
       </Placemark>
     </Folder>
     <Folder>
       <name>Adam Chase &amp; Ben Doyle</name>
       <Placemark>
-        <name>Whale Bone Arch</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The starting point of Jet Lag: Arctic Escape (Season 8)
-Members who visited: 
-1) Sam
-2) Michelle
-3) Adam
-4) Ben
-Challenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Utqiagvik Whale Bone Arch</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-23T15:00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -276,123 +1729,11 @@ Challenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)&lt;/li&gt;&lt
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-156.773957214216,71.298465517043</coordinates>
+          <coordinates>-156.7737474,71.2984596</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Snowman Beach</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
-Members who visited: 
-1) Sam
-2) Michelle
-3) Adam
-4) Ben
-Challenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)
-Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&gt;</description>
-        <Style>
-          <IconStyle>
-            <color>ff2f2fd3</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>-156.774786485596,71.2985100085435</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Wiley Post-Will Rogers Memorial Airport (BRW)</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
-Members who visited: 
-1) Sam
-2) Michelle
-3) Adam
-4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
-        <Style>
-          <IconStyle>
-            <color>ff2f2fd3</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>-156.7750277,71.2876213</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Dance spot</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
-Members who visited: 
-1) Adam
-2) Ben
-Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&gt;</description>
-        <Style>
-          <IconStyle>
-            <color>ff2f2fd3</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>-156.722109855276,71.3051278327597</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Anchorage</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;E3: first flight out of Utqiagvik to Anchorage, delayed by hours&lt;/li&gt;&lt;/ul&gt;</description>
-        <Style>
-          <IconStyle>
-            <color>ff2f2fd3</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>-149.9978919,61.1810353</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Seattle</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;E4: struggling in Seattle&lt;/li&gt;&lt;/ul&gt;</description>
-        <Style>
-          <IconStyle>
-            <color>ff2f2fd3</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>-122.3080159,47.4475673</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Denver</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Winning the Denver nonstop forced Sam+Michelle&amp;#x27;s alternate Rockies route&lt;/li&gt;&lt;/ul&gt;</description>
-        <Style>
-          <IconStyle>
-            <color>ff2f2fd3</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>-104.6853673,39.8606676</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Milwaukee</name>
+        <name>Arctic Coast - snowmen</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
         <Style>
           <IconStyle>
@@ -404,7 +1745,492 @@ Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&g
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-87.8972578,42.9465423</coordinates>
+          <coordinates>-156.7749139,71.298654</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Large Icicle</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7733906,71.2984063</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Middle of Nowhere</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7230909,71.3058254</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chocolate pipes</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7527634,71.2953669</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ben and Adam see the first flight leave</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7504475,71.2914214</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stuaqpak Supermarket</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7555488,71.2989587</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Top of the World Hotel</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7714318,71.2977743</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inupiat Heritage Center</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7535865,71.2982934</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taxidermied Polar Bear</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7534352,71.298221</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wiley Post-Will Rogers Memorial Airport (BRW)</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Arctic Escape (Season 8)
+Members who visited:
+1) Sam
+2) Michelle
+3) Adam
+4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-156.7750392,71.2876775</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anchorage Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-149.9816322,61.17363</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sea-Tac Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3018693,47.443317</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sea-Tac Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3018693,47.443317</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Voula's Offshore Cafe</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3215395,47.654658</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle Outlet Goodwill</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3268963,47.587364</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mary's Place Donation Center</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3269175,47.5629776</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oxbow Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3209547,47.544964</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giant Hat &amp; Boots</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3216995,47.5451051</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Grand Comptoir</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.3037707,47.4456819</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam is drunk in Concourse A</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.2978267,47.4393411</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flight to Denver is delayed 129 minutes while the bags are not on board for over 100 minutes</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-122.2981878,47.4391848</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Denver Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.6741164,39.8501816</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabod Coffee</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.6742475,39.8489624</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabod Coffee</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.6742475,39.8489624</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Castle Marne</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.9631486,39.7416936</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sword stick behind fence</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.9628245,39.7414123</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 Mile Stables</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.8170228,39.6147226</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blucifer</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.6763345,39.8340272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Denver Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-104.6741164,39.8501816</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milwaukee Mitchell International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-87.9000843,42.9502114</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milwaukee Airport Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-87.9250122,42.9405754</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -420,11 +2246,11 @@ Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&g
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-87.6404084,41.878701</coordinates>
+          <coordinates>-87.6403414,41.878727</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Connellsville</name>
+        <name>Grant Park</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
         <Style>
           <IconStyle>
@@ -436,12 +2262,12 @@ Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&g
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-79.5928417,40.0202257</coordinates>
+          <coordinates>-87.6215095,41.8783228</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Atlanta</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;E6: still at the Atlanta Airport when Sam+Michelle reached Key West — LOST&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Lou Malnati's Pizzeria</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -452,12 +2278,220 @@ Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&g
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-84.4298161,33.6374009</coordinates>
+          <coordinates>-87.6273264,41.8715643</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Anchorage to Seattle (plane)</name>
-        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Flight to Seattle — 30 minutes to the connection; begged the gate agent to let them on</description>
+        <name>Chicago Union Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Transfer to the sleeper train (mode from Milwaukee not stated)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-87.6403414,41.878727</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Connellsville Station</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-79.5928053,40.0202052</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gazebo</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-79.5915899,40.0198224</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Squirrel Park</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-79.5885245,40.0164396</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pechin Express</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-79.5898705,40.0193792</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Port-a-potty</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-79.5965391,40.0254229</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rite Aid Pharmacy</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-79.5951315,40.023892</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tunnel</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-79.5955927,40.0227143</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pittsburgh Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-80.2560336,40.4958304</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hartsfield-Jackson Atlanta International Airport</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-84.439251,33.6437278</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Simply Books</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-84.4387748,33.6408711</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flight to Sarasota</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-84.4388611,33.6379439</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trophy Trash Can</name>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-84.4452581,33.6418711</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Utqiagvik Whale Bone Arch to Arctic Coast - snowmen (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Lost the Twitter poll</description>
         <Style>
           <LineStyle>
             <color>ff2f2fd3</color>
@@ -465,12 +2499,12 @@ Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&g
           </LineStyle>
         </Style>
         <LineString>
-          <coordinates>-149.9978919,61.1810353 -122.3080159,47.4475673</coordinates>
+          <coordinates>-156.7737474,71.2984596 -156.7749139,71.298654</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Seattle to Denver (plane)</name>
-        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;&amp;#x27;Do a mile drunk (not high)&amp;#x27; — won the crucial nonstop to Denver (the Mile High City)</description>
+        <name>Arctic Coast - snowmen to Large Icicle (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot</description>
         <Style>
           <LineStyle>
             <color>ff2f2fd3</color>
@@ -478,12 +2512,12 @@ Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&g
           </LineStyle>
         </Style>
         <LineString>
-          <coordinates>-122.3080159,47.4475673 -104.6853673,39.8606676</coordinates>
+          <coordinates>-156.7749139,71.298654 -156.7733906,71.2984063</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Denver to Milwaukee (plane)</name>
-        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;&amp;#x27;Do a milk walkie&amp;#x27; — nonstop flight to Milwaukee</description>
+        <name>Large Icicle to Middle of Nowhere (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Challenge complete: dance like nobody&amp;#x27;s watching; reward: 800-mi flight; &amp;#x27;Polar bear check!&amp;#x27;</description>
         <Style>
           <LineStyle>
             <color>ff2f2fd3</color>
@@ -491,12 +2525,12 @@ Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&g
           </LineStyle>
         </Style>
         <LineString>
-          <coordinates>-104.6853673,39.8606676 -87.8972578,42.9465423</coordinates>
+          <coordinates>-156.7733906,71.2984063 -156.7230909,71.3058254</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Chicago Union Station to Connellsville (train)</name>
-        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Amtrak sleeper train from Chicago to Connellsville (service not specified in sources)</description>
+        <name>Middle of Nowhere to Chocolate pipes (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&amp;#x27;What do you think is in these pipes? Chocolate.&amp;#x27;</description>
         <Style>
           <LineStyle>
             <color>ff2f2fd3</color>
@@ -504,7 +2538,566 @@ Challenge: Dance like nobody&amp;#x27;s watching (Adam, Ben)&lt;/li&gt;&lt;/ul&g
           </LineStyle>
         </Style>
         <LineString>
-          <coordinates>-87.6404084,41.878701 -79.5928417,40.0202257</coordinates>
+          <coordinates>-156.7230909,71.3058254 -156.7527634,71.2953669</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Chocolate pipes to Ben and Adam see the first flight leave (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;S&amp;amp;M&amp;#x27;s flight leaves without them</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-156.7527634,71.2953669 -156.7504475,71.2914214</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ben and Adam see the first flight leave to Stuaqpak Supermarket (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Challenge complete: find a non-American flag; reward: 300-mi car</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-156.7504475,71.2914214 -156.7555488,71.2989587</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Stuaqpak Supermarket to Top of the World Hotel (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;REST PERIOD (Night 1: A&amp;amp;B)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-156.7555488,71.2989587 -156.7714318,71.2977743</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Top of the World Hotel to Inupiat Heritage Center (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Anonymous threat challenge</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-156.7714318,71.2977743 -156.7535865,71.2982934</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Inupiat Heritage Center to Taxidermied Polar Bear (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;At the Heritage Center</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-156.7535865,71.2982934 -156.7534352,71.298221</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Taxidermied Polar Bear to Wiley Post-Will Rogers Memorial Airport (BRW) (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Back to the airport; ticket used: 800-mi flight</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-156.7534352,71.298221 -156.7750392,71.2876775</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Wiley Post-Will Rogers Memorial Airport (BRW) to Anchorage Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Utqiagvik to Anchorage (connecting)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-156.7750392,71.2876775 -149.9816322,61.17363</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Anchorage Airport to Sea-Tac Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Ticket used: 1500-mi flight to a coastal state; Anchorage to Seattle; REST PERIOD (Night 2: A&amp;amp;B at the airport)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-149.9816322,61.17363 -122.3018693,47.443317</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sea-Tac Airport to Sea-Tac Airport (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Rest ends; into the city</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3018693,47.443317 -122.3018693,47.443317</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sea-Tac Airport to Voula's Offshore Cafe (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Taxi; challenge complete: visit a diner, drive-in, or dive; reward: 600-mi flight (the Guy Fieri ticket); Snack Zone</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3018693,47.443317 -122.3215395,47.654658</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Voula's Offshore Cafe to Seattle Outlet Goodwill (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Challenge start: be a great neighbor</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3215395,47.654658 -122.3268963,47.587364</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Seattle Outlet Goodwill to Mary's Place Donation Center (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Challenge complete: be a great neighbor; reward: 800-mi flight to a neighboring state</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3268963,47.587364 -122.3269175,47.5629776</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mary's Place Donation Center to Oxbow Park (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3269175,47.5629776 -122.3209547,47.544964</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Oxbow Park to Giant Hat &amp; Boots (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Challenge complete: make a giant roadside attraction look small; reward: 600-mi flight on a small aircraft</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3209547,47.544964 -122.3216995,47.5451051</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Giant Hat &amp; Boots to Le Grand Comptoir (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Back to Sea-Tac; challenge start: run a mile drunk</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3216995,47.5451051 -122.3037707,47.4456819</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Le Grand Comptoir to Adam is drunk in Concourse A (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Run a mile drunk complete; reward: nonstop flight to Mile High City</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.3037707,47.4456819 -122.2978267,47.4393411</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Adam is drunk in Concourse A to Flight to Denver is delayed 129 minutes while the bags are not on board for over 100 minutes (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Waiting at the gate</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.2978267,47.4393411 -122.2981878,47.4391848</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Flight to Denver is delayed 129 minutes while the bags are not on board for over 100 minutes to Denver Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Seattle to Denver; REST PERIOD (Night 3: A&amp;amp;B at the airport)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-122.2981878,47.4391848 -104.6741164,39.8501816</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Denver Airport to Kabod Coffee (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Morning at the airport; challenge start: do a milk walkie</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-104.6741164,39.8501816 -104.6742475,39.8489624</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kabod Coffee to Kabod Coffee (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Milk walkie complete; reward: nonstop flight to Milwaukee; new challenge: get knighted at an American castle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-104.6742475,39.8489624 -104.6742475,39.8489624</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kabod Coffee to Castle Marne (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Taxi into town; challenge complete: get knighted at an American castle; reward: 459-mi flight</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-104.6742475,39.8489624 -104.9631486,39.7416936</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Castle Marne to Sword stick behind fence (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;At Castle Marne</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-104.9631486,39.7416936 -104.9628245,39.7414123</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sword stick behind fence to 12 Mile Stables (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;South of town; challenge complete: ride a horse; reward: 1000-mi flight west</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-104.9628245,39.7414123 -104.8170228,39.6147226</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12 Mile Stables to Blucifer (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;The blue Mustang on the way back to the airport</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-104.8170228,39.6147226 -104.6763345,39.8340272</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Blucifer to Denver Airport (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Back to the airport; ticket used: nonstop flight to Milwaukee</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-104.6763345,39.8340272 -104.6741164,39.8501816</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Denver Airport to Milwaukee Mitchell International Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Denver to Milwaukee</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-104.6741164,39.8501816 -87.9000843,42.9502114</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Milwaukee Mitchell International Airport to Milwaukee Airport Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Amtrak station at the airport; challenge complete: get a car to honk; reward: 600-mi train; ticket used: 600-mi train</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-87.9000843,42.9502114 -87.9250122,42.9405754</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Milwaukee Airport Station to Chicago Union Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Hiawatha: Milwaukee to Chicago</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-87.9250122,42.9405754 -87.6403414,41.878727</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Chicago Union Station to Grant Park (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Challenge complete: join the American literary canon; ticket used: 800-mi train (the sleeper)</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-87.6403414,41.878727 -87.6215095,41.8783228</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Grant Park to Lou Malnati's Pizzeria (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Deep dish in the layover</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-87.6215095,41.8783228 -87.6273264,41.8715643</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Lou Malnati's Pizzeria to Chicago Union Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Back to the station; REST PERIOD on board</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-87.6273264,41.8715643 -87.6403414,41.878727</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Chicago Union Station to Connellsville Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Sleeper train: Chicago to Connellsville overnight; rest ends on arrival</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-87.6403414,41.878727 -79.5928053,40.0202052</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Connellsville Station to Gazebo (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Challenge complete: memorize everywhere</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-79.5928053,40.0202052 -79.5915899,40.0198224</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Gazebo to Squirrel Park (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-79.5915899,40.0198224 -79.5885245,40.0164396</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Squirrel Park to Pechin Express (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-79.5885245,40.0164396 -79.5898705,40.0193792</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pechin Express to Port-a-potty (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Challenge complete: become Florida Man</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-79.5898705,40.0193792 -79.5965391,40.0254229</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Port-a-potty to Rite Aid Pharmacy (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Challenge complete: pop a kernel of corn</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-79.5965391,40.0254229 -79.5951315,40.023892</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Rite Aid Pharmacy to Tunnel (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;Challenge complete: spell your name in graffiti</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-79.5951315,40.023892 -79.5955927,40.0227143</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tunnel to Pittsburgh Airport (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Taxi; ticket used: 800-mi flight</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-79.5955927,40.0227143 -80.2560336,40.4958304</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pittsburgh Airport to Hartsfield-Jackson Atlanta International Airport (plane)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;Pittsburgh to Atlanta</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-80.2560336,40.4958304 -84.439251,33.6437278</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Hartsfield-Jackson Atlanta International Airport to Simply Books (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-84.439251,33.6437278 -84.4387748,33.6408711</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Simply Books to Flight to Sarasota (car)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; car&lt;br&gt;Back to the gates; 800-mi neighboring-state flight; boarded a flight to Sarasota after a bad roll of the die they built; game already lost</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-84.4387748,33.6408711 -84.4388611,33.6379439</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Flight to Sarasota to Trophy Trash Can (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;End of Season 8 - A&amp;amp;B second</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-84.4388611,33.6379439 -84.4452581,33.6418711</coordinates>
         </LineString>
       </Placemark>
     </Folder>

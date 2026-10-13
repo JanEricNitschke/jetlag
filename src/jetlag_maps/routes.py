@@ -90,6 +90,9 @@ plane
     helicopter
         Great-circle interpolation, like ``plane`` but without the
         FlightAware designator support (no helicopter tracks there).
+    kayak
+        Great-circle interpolation: small human-powered watercraft
+        follow no fixed route, and no routing source covers them.
 """
 
 from __future__ import annotations
@@ -451,6 +454,8 @@ def fetch_geometry(  # noqa: PLR0911 — one return per travel mode is the clear
         case TravelMode.SCOOTER:
             return _fetch_osrm(_OSRM_FOSSGIS.format(profile="bike"), "bike", start, end)
         case TravelMode.HELICOPTER:
+            return _great_circle(start, end)
+        case TravelMode.KAYAK:
             return _great_circle(start, end)
 
 

@@ -7,163 +7,172 @@
         "Sam Denby",
         "Michelle Khare"
       ],
-      "color": "#1976D2",
+      "color": "#388E3C",
       "stops": [
         {
-          "name": "Whale Bone Arch",
+          "name": "Utqiagvik Whale Bone Arch",
           "coordinate": {
-            "longitude": -156.773957214216,
-            "latitude": 71.298465517043
+            "longitude": -156.7737474,
+            "latitude": 71.2984596
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-23T15:00:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [
-            "The starting point of Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\n3) Adam\n4) Ben\nChallenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)"
-          ],
+          "notes": [],
           "end_of_day": [],
-          "to_next": []
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Snowman complete; Twitter poll WON; reward: nonstop flight to Anchorage",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
         },
         {
-          "name": "Snowman Beach",
+          "name": "Arctic Coast - snowmen",
           "coordinate": {
-            "longitude": -156.774786485596,
-            "latitude": 71.2985100085435
+            "longitude": -156.7750183,
+            "latitude": 71.2986116
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [
-            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\n3) Adam\n4) Ben\nChallenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)\nChallenge: Dance like nobody's watching (Adam, Ben)"
-          ],
+          "notes": [],
           "end_of_day": [],
-          "to_next": []
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Picnic supplies",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
         },
         {
-          "name": "Stuaqpak",
+          "name": "Stuaqpak Supermarket",
           "coordinate": {
-            "longitude": -156.755414610363,
-            "latitude": 71.2989527217593
+            "longitude": -156.7555119,
+            "latitude": 71.2989228
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [
-            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\nChallenge: Build a snowman on the beach (Sam, Michelle)"
-          ],
+          "notes": [],
           "end_of_day": [],
-          "to_next": []
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Picnic complete; reward: 1500-mi flight to a coastal state",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Snack Zone",
+          "coordinate": {
+            "longitude": -156.7637,
+            "latitude": 71.3025
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Beach; dance challenge",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Michelle's clothes lost on the arctic beach",
+          "coordinate": {
+            "longitude": -156.7808508,
+            "latitude": 71.2965159
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Back to the airport; ticket used: nonstop flight to Anchorage",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
         },
         {
           "name": "Wiley Post-Will Rogers Memorial Airport (BRW)",
           "coordinate": {
-            "longitude": -156.7750277,
-            "latitude": 71.2876213
+            "longitude": -156.7750106,
+            "latitude": 71.2877074
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
           "notes": [
-            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\n3) Adam\n4) Ben"
-          ],
-          "end_of_day": [],
-          "to_next": []
-        },
-        {
-          "name": "Anchorage",
-          "coordinate": {
-            "longitude": -149.9978919,
-            "latitude": 61.1810353
-          },
-          "when": null,
-          "video": null,
-          "players_override": null,
-          "additional_players": [],
-          "notes": [
-            "Won the 'Build a snowman on the beach' Twitter poll -> nonstop ticket to Anchorage (E1); Alaska Airlines website booking issues",
-            "E2-E3: completed many ticket challenges around Anchorage while Badam were stuck in Utqiagvik"
-          ],
-          "end_of_day": [],
-          "to_next": []
-        },
-        {
-          "name": "Boise",
-          "coordinate": {
-            "longitude": -116.2080749,
-            "latitude": 43.5600566
-          },
-          "when": null,
-          "video": null,
-          "players_override": null,
-          "additional_players": [],
-          "notes": [
-            "E4: leading in Boise, Idaho (arrival via tickets — routing not in sources)"
+            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited:\n1) Sam\n2) Michelle\n3) Adam\n4) Ben"
           ],
           "end_of_day": [],
           "to_next": [
             {
-              "mode": "car",
-              "note": "Drove across the Rocky Mountains to Montrose — forced when Badam took the Seattle->Denver nonstop; E5's risky drive through sparse regions",
+              "mode": "foot",
+              "note": "The famous Alaska Airlines 737-800 salmon livery",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
         {
-          "name": "Montrose",
+          "name": "X̱áat Ḵwáani Salmon Plane",
           "coordinate": {
-            "longitude": -107.892488,
-            "latitude": 38.5118206
+            "longitude": -156.7755024,
+            "latitude": 71.2866092
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [
-            "End of the Rockies drive; flew out from here"
-          ],
+          "notes": [],
           "end_of_day": [],
           "to_next": [
             {
               "mode": "plane",
-              "note": "Montrose -> Dallas",
+              "note": "Utqiagvik to Anchorage",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
         {
-          "name": "Dallas",
+          "name": "Anchorage Airport",
           "coordinate": {
-            "longitude": -97.0458529,
-            "latitude": 32.8962047
-          },
-          "when": null,
-          "video": null,
-          "players_override": null,
-          "additional_players": [],
-          "notes": [
-            "AMBIGUOUS pin: Dallas/Fort Worth assumed (airport not stated in sources)"
-          ],
-          "end_of_day": [],
-          "to_next": [
-            {
-              "mode": "plane",
-              "note": "Dallas -> Birmingham",
-              "players_override": null,
-              "geometry": []
-            }
-          ]
-        },
-        {
-          "name": "Birmingham",
-          "coordinate": {
-            "longitude": -86.7504578,
-            "latitude": 33.5646818
+            "longitude": -149.9815668,
+            "latitude": 61.1737247
           },
           "when": null,
           "video": null,
@@ -174,42 +183,1124 @@
           "to_next": [
             {
               "mode": "car",
-              "note": "Drove to Atlanta",
+              "note": "Taxi; challenge complete: climb a tree; REST PERIOD (Night 1: S&M)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
         {
-          "name": "Atlanta",
+          "name": "Earthquake Park climbing tree",
           "coordinate": {
-            "longitude": -84.4298161,
-            "latitude": 33.6374009
+            "longitude": -149.9761076,
+            "latitude": 61.19602
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [
-            "E6: reached Key West via two stolen tickets ('Steal Jimmy Johns' crown' E4, 'Steal Elvis' spot' E6) while Badam were still at the airport"
-          ],
+          "notes": [],
           "end_of_day": [],
-          "to_next": []
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Rest ends",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
         },
         {
-          "name": "Key West (Southernmost Point)",
+          "name": "Earthquake Park Rest period hugging tree",
           "coordinate": {
-            "longitude": -81.7974808,
-            "latitude": 24.5465299
+            "longitude": -149.9760996,
+            "latitude": 61.1959459
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [
-            "FINISH — first to reach the southernmost point of the continental US; WON Season 8",
-            "Final Atlanta -> Key West hop via stolen tickets (mode not explicitly stated in sources)"
-          ],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "View before heading out",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Morning twilight view of Anchorage",
+          "coordinate": {
+            "longitude": -149.9740191,
+            "latitude": 61.1993843
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Taxi south; challenge complete: contribute to a waterfall; reward: 450-mi flight",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "McHugh Creek waterfall",
+          "coordinate": {
+            "longitude": -149.73191,
+            "latitude": 61.0163947
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Challenge complete: find a real gun; reward: 800-mi train (later stolen by A&B)",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Walmart",
+          "coordinate": {
+            "longitude": -96.8248818,
+            "latitude": 32.6843023
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Challenge complete: cry; reward: 400-mi car; challenge complete: amuse a moose; reward: 1600-mi flight",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Anchorage Zoo",
+          "coordinate": {
+            "longitude": -149.7904736,
+            "latitude": 61.1238285
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Back to the airport; ticket used: 1600-mi flight",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Anchorage Airport",
+          "coordinate": {
+            "longitude": -149.9815668,
+            "latitude": 61.1737247
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Anchorage to Seattle",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Sea-Tac Airport",
+          "coordinate": {
+            "longitude": -122.3021074,
+            "latitude": 47.4436055
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Taxi; challenge complete: go somewhere #random; reward: 600-mi flight on a random airline",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Archie McPhee",
+          "coordinate": {
+            "longitude": -122.3417195,
+            "latitude": 47.6616019
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Taxi; REST PERIOD (Night 2: S&M)",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Safeway Liquor",
+          "coordinate": {
+            "longitude": -122.3578014,
+            "latitude": 47.6235718
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Back to the airport",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Sea-Tac Airport",
+          "coordinate": {
+            "longitude": -122.3021074,
+            "latitude": 47.4436055
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Seattle to Boise",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Boise Airport",
+          "coordinate": {
+            "longitude": -116.221826,
+            "latitude": 43.5689181
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Airport garage; challenge complete: write a word on Strava; reward: 800-mi train",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Sam spells \"roll\" on Strava in Parking Garage",
+          "coordinate": {
+            "longitude": -116.2232619,
+            "latitude": 43.5702576
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Welcome to Boise Sign",
+          "coordinate": {
+            "longitude": -116.2170464,
+            "latitude": 43.5695606
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Groceries",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Albertsons",
+          "coordinate": {
+            "longitude": -116.2155749,
+            "latitude": 43.5890494
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Second Strava word",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Michelle spells \"acid\" on Strava on Parking Lot",
+          "coordinate": {
+            "longitude": -116.2151126,
+            "latitude": 43.5892289
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Walked back to the rental car at Boise Airport",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Boise Airport",
+          "coordinate": {
+            "longitude": -116.221826,
+            "latitude": 43.5689181
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Drove to Black Cliffs with the rental car",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Boise River Dam - Black Cliffs Rock Climbing",
+          "coordinate": {
+            "longitude": -116.0926371,
+            "latitude": 43.5387703
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Challenge complete: fund the military industrial complex; reward: 400-mi car",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "The Home Depot Boise",
+          "coordinate": {
+            "longitude": -116.1850664,
+            "latitude": 43.567904
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Challenge complete: become a pumpkin parent; reward: 450-mi flight",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Fred Meyer, Boise",
+          "coordinate": {
+            "longitude": -116.1875697,
+            "latitude": 43.5684775
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Back to the airport; ticket used: 450-mi flight",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Boise Airport",
+          "coordinate": {
+            "longitude": -116.221826,
+            "latitude": 43.5689181
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Boise to SLC",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Salt Lake City Airport",
+          "coordinate": {
+            "longitude": -111.9848892,
+            "latitude": 40.7841203
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Rental car; challenge complete: explain the birds and the bees; reward: 400-mi car",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Petco",
+          "coordinate": {
+            "longitude": -111.9575089,
+            "latitude": 40.6935977
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Costco",
+          "coordinate": {
+            "longitude": -111.9543114,
+            "latitude": 40.6905139
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Challenge complete: steal Jimmy John's crown; reward: Steal",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Jimmy John's",
+          "coordinate": {
+            "longitude": -111.9575336,
+            "latitude": 40.6926372
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Walked back to the parked rental car at Petco",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Petco",
+          "coordinate": {
+            "longitude": -111.9575089,
+            "latitude": 40.6935977
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Drove southeast to Price, UT with the rental car",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Holiday Inn Express & Suites",
+          "coordinate": {
+            "longitude": -110.8321657,
+            "latitude": 39.6011831
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Breakfast next to the hotel",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Dairy Queen",
+          "coordinate": {
+            "longitude": -110.8315602,
+            "latitude": 39.6011565
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Walked back to the car at the hotel",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Holiday Inn Express & Suites",
+          "coordinate": {
+            "longitude": -110.8321657,
+            "latitude": 39.6011831
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Drove into Colorado with the rental car",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Welcome to Colorful Colorado",
+          "coordinate": {
+            "longitude": -109.0514828,
+            "latitude": 39.1933387
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Lunch in Grand Junction",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Chipotle",
+          "coordinate": {
+            "longitude": -108.5889942,
+            "latitude": 39.0828383
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Chick-fil-A",
+          "coordinate": {
+            "longitude": -108.5842354,
+            "latitude": 39.0808464
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Walked back to the car at Chipotle parking",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Chipotle",
+          "coordinate": {
+            "longitude": -108.5889942,
+            "latitude": 39.0828383
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Drove to Montrose with the rental car",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Welcome to Montrose sign",
+          "coordinate": {
+            "longitude": -107.914888,
+            "latitude": 38.5129406
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Rental car drop-off",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Enterprise Rent-A-Car",
+          "coordinate": {
+            "longitude": -107.9009654,
+            "latitude": 38.498703
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Ticket used: 1000-mi flight (Montrose sits at 5759 ft above 5500 ft)",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Montrose Airport",
+          "coordinate": {
+            "longitude": -107.8993246,
+            "latitude": 38.5004165
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Montrose to Dallas",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Dallas Fort Worth International Airport",
+          "coordinate": {
+            "longitude": -97.0402445,
+            "latitude": 32.8977625
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Evening",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Medieval Times Restaurant",
+          "coordinate": {
+            "longitude": -96.822835,
+            "latitude": 32.8006238
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Challenge complete: get a team mascot; reward: 400-mi car",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Walmart",
+          "coordinate": {
+            "longitude": -96.8248818,
+            "latitude": 32.6843023
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Fence",
+          "coordinate": {
+            "longitude": -96.8029144,
+            "latitude": 32.7661723
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Dallas Sportatorium",
+          "coordinate": {
+            "longitude": -96.8030828,
+            "latitude": 32.766399
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Big red flags",
+          "coordinate": {
+            "longitude": -96.9324631,
+            "latitude": 32.8373391
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "REST PERIOD (Night 4: S&M)",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Hyatt Place Hotel",
+          "coordinate": {
+            "longitude": -97.0388297,
+            "latitude": 32.8545716
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Back to the airport; ticket used: 600-mi flight on a random airline",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Dallas Fort Worth International Airport",
+          "coordinate": {
+            "longitude": -97.0402445,
+            "latitude": 32.8977625
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Dallas to Birmingham",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Birmingham-Shuttlesworth International Airport",
+          "coordinate": {
+            "longitude": -86.7519238,
+            "latitude": 33.5620255
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Rental car south",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Buc-ee's!!!",
+          "coordinate": {
+            "longitude": -86.5907943,
+            "latitude": 33.5449598
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "On the drive to Atlanta",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Welcome to Georgia sign",
+          "coordinate": {
+            "longitude": -85.341184,
+            "latitude": 33.6759745
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Ticket used: 450-mi flight",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Hartsfield-Jackson Atlanta International Airport",
+          "coordinate": {
+            "longitude": -84.445113,
+            "latitude": 33.6408608
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Atlanta to Key West",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Key West International Airport",
+          "coordinate": {
+            "longitude": -81.7551279,
+            "latitude": 24.5535319
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Celebration",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Southernmost Point Bar",
+          "coordinate": {
+            "longitude": -81.7967238,
+            "latitude": 24.5471576
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "FINISH - S&M WIN Season 8",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Southernmost Point of Continental USA marker",
+          "coordinate": {
+            "longitude": -81.7975114,
+            "latitude": 24.5465123
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
           "end_of_day": [],
           "to_next": []
         }
@@ -223,143 +1314,35 @@
       "color": "#D32F2F",
       "stops": [
         {
-          "name": "Whale Bone Arch",
+          "name": "Utqiagvik Whale Bone Arch",
           "coordinate": {
-            "longitude": -156.773957214216,
-            "latitude": 71.298465517043
+            "longitude": -156.7737474,
+            "latitude": 71.2984596
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-23T15:00:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [
-            "The starting point of Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\n3) Adam\n4) Ben\nChallenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)"
-          ],
-          "end_of_day": [],
-          "to_next": []
-        },
-        {
-          "name": "Snowman Beach",
-          "coordinate": {
-            "longitude": -156.774786485596,
-            "latitude": 71.2985100085435
-          },
-          "when": null,
-          "video": null,
-          "players_override": null,
-          "additional_players": [],
-          "notes": [
-            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\n3) Adam\n4) Ben\nChallenge: Build a snowman on the beach (Sam, Michelle, Adam, Ben)\nChallenge: Dance like nobody's watching (Adam, Ben)"
-          ],
-          "end_of_day": [],
-          "to_next": []
-        },
-        {
-          "name": "Wiley Post-Will Rogers Memorial Airport (BRW)",
-          "coordinate": {
-            "longitude": -156.7750277,
-            "latitude": 71.2876213
-          },
-          "when": null,
-          "video": null,
-          "players_override": null,
-          "additional_players": [],
-          "notes": [
-            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Sam\n2) Michelle\n3) Adam\n4) Ben"
-          ],
-          "end_of_day": [],
-          "to_next": []
-        },
-        {
-          "name": "Dance spot",
-          "coordinate": {
-            "longitude": -156.722109855276,
-            "latitude": 71.3051278327597
-          },
-          "when": null,
-          "video": null,
-          "players_override": null,
-          "additional_players": [],
-          "notes": [
-            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited: \n1) Adam\n2) Ben\nChallenge: Dance like nobody's watching (Adam, Ben)"
-          ],
-          "end_of_day": [],
-          "to_next": []
-        },
-        {
-          "name": "Anchorage",
-          "coordinate": {
-            "longitude": -149.9978919,
-            "latitude": 61.1810353
-          },
-          "when": null,
-          "video": null,
-          "players_override": null,
-          "additional_players": [],
-          "notes": [
-            "E3: first flight out of Utqiagvik to Anchorage, delayed by hours"
-          ],
+          "notes": [],
           "end_of_day": [],
           "to_next": [
             {
-              "mode": "plane",
-              "note": "Flight to Seattle — 30 minutes to the connection; begged the gate agent to let them on",
+              "mode": "foot",
+              "note": "Lost the Twitter poll",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
         {
-          "name": "Seattle",
+          "name": "Arctic Coast - snowmen",
           "coordinate": {
-            "longitude": -122.3080159,
-            "latitude": 47.4475673
-          },
-          "when": null,
-          "video": null,
-          "players_override": null,
-          "additional_players": [],
-          "notes": [
-            "E4: struggling in Seattle"
-          ],
-          "end_of_day": [],
-          "to_next": [
-            {
-              "mode": "plane",
-              "note": "'Do a mile drunk (not high)' — won the crucial nonstop to Denver (the Mile High City)",
-              "players_override": null,
-              "geometry": []
-            }
-          ]
-        },
-        {
-          "name": "Denver",
-          "coordinate": {
-            "longitude": -104.6853673,
-            "latitude": 39.8606676
-          },
-          "when": null,
-          "video": null,
-          "players_override": null,
-          "additional_players": [],
-          "notes": [
-            "Winning the Denver nonstop forced Sam+Michelle's alternate Rockies route"
-          ],
-          "end_of_day": [],
-          "to_next": [
-            {
-              "mode": "plane",
-              "note": "'Do a milk walkie' — nonstop flight to Milwaukee",
-              "players_override": null,
-              "geometry": []
-            }
-          ]
-        },
-        {
-          "name": "Milwaukee",
-          "coordinate": {
-            "longitude": -87.8972578,
-            "latitude": 42.9465423
+            "longitude": -156.7749139,
+            "latitude": 71.298654
           },
           "when": null,
           "video": null,
@@ -367,13 +1350,751 @@
           "additional_players": [],
           "notes": [],
           "end_of_day": [],
-          "to_next": []
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Large Icicle",
+          "coordinate": {
+            "longitude": -156.7733906,
+            "latitude": 71.2984063
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Challenge complete: dance like nobody's watching; reward: 800-mi flight; 'Polar bear check!'",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Middle of Nowhere",
+          "coordinate": {
+            "longitude": -156.7230909,
+            "latitude": 71.3058254
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "'What do you think is in these pipes? Chocolate.'",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Chocolate pipes",
+          "coordinate": {
+            "longitude": -156.7527634,
+            "latitude": 71.2953669
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "S&M's flight leaves without them",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Ben and Adam see the first flight leave",
+          "coordinate": {
+            "longitude": -156.7504475,
+            "latitude": 71.2914214
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Challenge complete: find a non-American flag; reward: 300-mi car",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Stuaqpak Supermarket",
+          "coordinate": {
+            "longitude": -156.7555488,
+            "latitude": 71.2989587
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "REST PERIOD (Night 1: A&B)",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Top of the World Hotel",
+          "coordinate": {
+            "longitude": -156.7714318,
+            "latitude": 71.2977743
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Anonymous threat challenge",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Inupiat Heritage Center",
+          "coordinate": {
+            "longitude": -156.7535865,
+            "latitude": 71.2982934
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "At the Heritage Center",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Taxidermied Polar Bear",
+          "coordinate": {
+            "longitude": -156.7534352,
+            "latitude": 71.298221
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Back to the airport; ticket used: 800-mi flight",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Wiley Post-Will Rogers Memorial Airport (BRW)",
+          "coordinate": {
+            "longitude": -156.7750392,
+            "latitude": 71.2876775
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Present in Jet Lag: Arctic Escape (Season 8)\nMembers who visited:\n1) Sam\n2) Michelle\n3) Adam\n4) Ben"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Utqiagvik to Anchorage (connecting)",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Anchorage Airport",
+          "coordinate": {
+            "longitude": -149.9816322,
+            "latitude": 61.17363
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Ticket used: 1500-mi flight to a coastal state; Anchorage to Seattle; REST PERIOD (Night 2: A&B at the airport)",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Sea-Tac Airport",
+          "coordinate": {
+            "longitude": -122.3018693,
+            "latitude": 47.443317
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Rest ends; into the city",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Sea-Tac Airport",
+          "coordinate": {
+            "longitude": -122.3018693,
+            "latitude": 47.443317
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Taxi; challenge complete: visit a diner, drive-in, or dive; reward: 600-mi flight (the Guy Fieri ticket); Snack Zone",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Voula's Offshore Cafe",
+          "coordinate": {
+            "longitude": -122.3215395,
+            "latitude": 47.654658
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Challenge start: be a great neighbor",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Seattle Outlet Goodwill",
+          "coordinate": {
+            "longitude": -122.3268963,
+            "latitude": 47.587364
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Challenge complete: be a great neighbor; reward: 800-mi flight to a neighboring state",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Mary's Place Donation Center",
+          "coordinate": {
+            "longitude": -122.3269175,
+            "latitude": 47.5629776
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Oxbow Park",
+          "coordinate": {
+            "longitude": -122.3209547,
+            "latitude": 47.544964
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Challenge complete: make a giant roadside attraction look small; reward: 600-mi flight on a small aircraft",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Giant Hat & Boots",
+          "coordinate": {
+            "longitude": -122.3216995,
+            "latitude": 47.5451051
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Back to Sea-Tac; challenge start: run a mile drunk",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Le Grand Comptoir",
+          "coordinate": {
+            "longitude": -122.3037707,
+            "latitude": 47.4456819
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Run a mile drunk complete; reward: nonstop flight to Mile High City",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Adam is drunk in Concourse A",
+          "coordinate": {
+            "longitude": -122.2978267,
+            "latitude": 47.4393411
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Waiting at the gate",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Flight to Denver is delayed 129 minutes while the bags are not on board for over 100 minutes",
+          "coordinate": {
+            "longitude": -122.2981878,
+            "latitude": 47.4391848
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Seattle to Denver; REST PERIOD (Night 3: A&B at the airport)",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Denver Airport",
+          "coordinate": {
+            "longitude": -104.6741164,
+            "latitude": 39.8501816
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Morning at the airport; challenge start: do a milk walkie",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Kabod Coffee",
+          "coordinate": {
+            "longitude": -104.6742475,
+            "latitude": 39.8489624
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Milk walkie complete; reward: nonstop flight to Milwaukee; new challenge: get knighted at an American castle",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Kabod Coffee",
+          "coordinate": {
+            "longitude": -104.6742475,
+            "latitude": 39.8489624
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Taxi into town; challenge complete: get knighted at an American castle; reward: 459-mi flight",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Castle Marne",
+          "coordinate": {
+            "longitude": -104.9631486,
+            "latitude": 39.7416936
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "At Castle Marne",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Sword stick behind fence",
+          "coordinate": {
+            "longitude": -104.9628245,
+            "latitude": 39.7414123
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "South of town; challenge complete: ride a horse; reward: 1000-mi flight west",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "12 Mile Stables",
+          "coordinate": {
+            "longitude": -104.8170228,
+            "latitude": 39.6147226
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "The blue Mustang on the way back to the airport",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Blucifer",
+          "coordinate": {
+            "longitude": -104.6763345,
+            "latitude": 39.8340272
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Back to the airport; ticket used: nonstop flight to Milwaukee",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Denver Airport",
+          "coordinate": {
+            "longitude": -104.6741164,
+            "latitude": 39.8501816
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Denver to Milwaukee",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Milwaukee Mitchell International Airport",
+          "coordinate": {
+            "longitude": -87.9000843,
+            "latitude": 42.9502114
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Amtrak station at the airport; challenge complete: get a car to honk; reward: 600-mi train; ticket used: 600-mi train",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Milwaukee Airport Station",
+          "coordinate": {
+            "longitude": -87.9250122,
+            "latitude": 42.9405754
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "train",
+              "note": "Hiawatha: Milwaukee to Chicago",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
         },
         {
           "name": "Chicago Union Station",
           "coordinate": {
-            "longitude": -87.6404084,
-            "latitude": 41.878701
+            "longitude": -87.6403414,
+            "latitude": 41.878727
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [
+            "Transfer to the sleeper train (mode from Milwaukee not stated)"
+          ],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Challenge complete: join the American literary canon; ticket used: 800-mi train (the sleeper)",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Grant Park",
+          "coordinate": {
+            "longitude": -87.6215095,
+            "latitude": 41.8783228
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Deep dish in the layover",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Lou Malnati's Pizzeria",
+          "coordinate": {
+            "longitude": -87.6273264,
+            "latitude": 41.8715643
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Back to the station; REST PERIOD on board",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Chicago Union Station",
+          "coordinate": {
+            "longitude": -87.6403414,
+            "latitude": 41.878727
           },
           "when": null,
           "video": null,
@@ -386,17 +2107,18 @@
           "to_next": [
             {
               "mode": "train",
-              "note": "Amtrak sleeper train from Chicago to Connellsville (service not specified in sources)",
+              "note": "Sleeper train: Chicago to Connellsville overnight; rest ends on arrival",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
         {
-          "name": "Connellsville",
+          "name": "Connellsville Station",
           "coordinate": {
-            "longitude": -79.5928417,
-            "latitude": 40.0202257
+            "longitude": -79.5928053,
+            "latitude": 40.0202052
           },
           "when": null,
           "video": null,
@@ -404,21 +2126,247 @@
           "additional_players": [],
           "notes": [],
           "end_of_day": [],
-          "to_next": []
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Challenge complete: memorize everywhere",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
         },
         {
-          "name": "Atlanta",
+          "name": "Gazebo",
           "coordinate": {
-            "longitude": -84.4298161,
-            "latitude": 33.6374009
+            "longitude": -79.5915899,
+            "latitude": 40.0198224
           },
           "when": null,
           "video": null,
           "players_override": null,
           "additional_players": [],
-          "notes": [
-            "E6: still at the Atlanta Airport when Sam+Michelle reached Key West — LOST"
-          ],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Squirrel Park",
+          "coordinate": {
+            "longitude": -79.5885245,
+            "latitude": 40.0164396
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Pechin Express",
+          "coordinate": {
+            "longitude": -79.5898705,
+            "latitude": 40.0193792
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Challenge complete: become Florida Man",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Port-a-potty",
+          "coordinate": {
+            "longitude": -79.5965391,
+            "latitude": 40.0254229
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Challenge complete: pop a kernel of corn",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Rite Aid Pharmacy",
+          "coordinate": {
+            "longitude": -79.5951315,
+            "latitude": 40.023892
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "Challenge complete: spell your name in graffiti",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Tunnel",
+          "coordinate": {
+            "longitude": -79.5955927,
+            "latitude": 40.0227143
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Taxi; ticket used: 800-mi flight",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Pittsburgh Airport",
+          "coordinate": {
+            "longitude": -80.2560336,
+            "latitude": 40.4958304
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "plane",
+              "note": "Pittsburgh to Atlanta",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Hartsfield-Jackson Atlanta International Airport",
+          "coordinate": {
+            "longitude": -84.439251,
+            "latitude": 33.6437278
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Simply Books",
+          "coordinate": {
+            "longitude": -84.4387748,
+            "latitude": 33.6408711
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "car",
+              "note": "Back to the gates; 800-mi neighboring-state flight; boarded a flight to Sarasota after a bad roll of the die they built; game already lost",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Flight to Sarasota",
+          "coordinate": {
+            "longitude": -84.4388611,
+            "latitude": 33.6379439
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
+          "end_of_day": [],
+          "to_next": [
+            {
+              "mode": "foot",
+              "note": "End of Season 8 - A&B second",
+              "players_override": null,
+              "geometry": [],
+              "quality": "unknown"
+            }
+          ]
+        },
+        {
+          "name": "Trophy Trash Can",
+          "coordinate": {
+            "longitude": -84.4452581,
+            "latitude": 33.6418711
+          },
+          "when": null,
+          "video": null,
+          "players_override": null,
+          "additional_players": [],
+          "notes": [],
           "end_of_day": [],
           "to_next": []
         }
