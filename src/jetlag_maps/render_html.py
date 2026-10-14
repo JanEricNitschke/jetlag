@@ -158,26 +158,34 @@ def _leg_popup(leg: ToNext) -> str:
     return "<br>".join(parts)
 
 
-def _merge_stop_popup(stops: Sequence[Stop], journey: Journey) -> str:
-    """Build a single popup merging the content of coincident stops."""
+def _merged_team_popup(entries: Sequence[tuple[Journey, Stop]]) -> str:
+    """Build one popup section for coincident same-team stops.
+
+    One Players line names the union of the team members present; the
+    other team never appears here — it gets its own marker.
+    """
     parts: list[str] = []
     names: list[str] = []
-    for stop in stops:
+    for _, stop in entries:
         if stop.name not in names:
             names.append(stop.name)
     parts.append(f"<div><b>{html.escape(' / '.join(names))}</b></div>")
-    players = _stop_players(stops[0], journey)
+    players: list[str] = []
+    for journey, stop in entries:
+        for player in _stop_players(stop, journey):
+            if player in journey.team and player not in players:
+                players.append(player)
     parts.append(
         f"<div>Players: {', '.join(html.escape(str(p)) for p in players)}</div>"
     )
-    parts.extend(_merged_stamps(stops, "when", _format_when))
-    parts.extend(_merged_stamps(stops, "video", _format_video))
-    for stop in stops:
+    parts.extend(_merged_stamps(entries, "when", _format_when))
+    parts.extend(_merged_stamps(entries, "video", _format_video))
+    for _, stop in entries:
         for note in stop.notes:
             text = html.escape(note)
             if f"Note: {text}" not in str(parts):
                 parts.append(f"<div>Note: {text}</div>")
-    for stop in stops:
+    for _, stop in entries:
         for day in stop.end_of_day:
             badge = f'<span style="{_EOD_BADGE_CSS}">End of Day {day}</span>'
             if badge not in parts:
@@ -205,11 +213,13 @@ def _format_video(stop: Stop) -> str | None:
 
 
 def _merged_stamps(
-    stops: Sequence[Stop], attr: str, formatter: Callable[[Stop], str | None]
+    entries: Sequence[tuple[Journey, Stop]],
+    attr: str,
+    formatter: Callable[[Stop], str | None],
 ) -> list[str]:
     """Collect unique formatted stamps from coincident stops."""
     stamps: list[str] = []
-    for stop in stops:
+    for _, stop in entries:
         stamp = formatter(stop)
         if stamp is not None and stamp not in stamps:
             stamps.append(stamp)
@@ -217,36 +227,59 @@ def _merged_stamps(
     return [f"<div>{label}: {s}</div>" for s in stamps]
 
 
-def _add_clustered_stop_markers(cluster: MarkerCluster, journey: Journey) -> None:
-    """Add one colored dot marker per stop of the journey to a cluster.
+def _add_clustered_stop_markers(cluster: MarkerCluster, season: SeasonFile) -> None:
+    """Add one marker per (location, team) to a cluster.
 
-    Coincident stops of the same journey (same coordinates, same players)
-    share a single marker with merged popup content.
+    Coincident stops of the same journey (same coordinates, same
+    players) share a single marker with merged popup content, and stops
+    of journeys with the same team at the same location — teammates
+    above all — also collapse into one marker with a single merged
+    popup section. Different teams keep separate markers, clustered
+    by Leaflet as usual.
     """
-    seen: dict[tuple[float, float, str], list[Stop]] = {}
-    for stop in journey.stops:
-        key = (
-            stop.coordinate.latitude,
-            stop.coordinate.longitude,
-            ", ".join(str(p) for p in _stop_players(stop, journey)),
-        )
-        seen.setdefault(key, []).append(stop)
-    for (lat, lon, _players), stops in seen.items():
-        if len(stops) == 1:
-            _stop_marker((lat, lon), journey, stops[0]).add_to(cluster)
+    by_group: dict[
+        tuple[float, float, tuple[str, ...]], list[tuple[Journey, Stop]]
+    ] = {}
+    for journey in season.journeys:
+        team_key = tuple(sorted(str(p) for p in journey.team))
+        seen: dict[tuple[float, float, str], Stop] = {}
+        for stop in journey.stops:
+            key = (
+                stop.coordinate.latitude,
+                stop.coordinate.longitude,
+                ", ".join(str(p) for p in _stop_players(stop, journey)),
+            )
+            if key in seen:
+                first = seen[key]
+                first.notes.extend(n for n in stop.notes if n not in first.notes)
+                first.end_of_day = list(
+                    dict.fromkeys([*first.end_of_day, *stop.end_of_day])
+                )
+                continue
+            seen[key] = stop
+            location = (stop.coordinate.latitude, stop.coordinate.longitude)
+            by_group.setdefault((*location, team_key), []).append((journey, stop))
+    for (lat, lon, _team), entries in by_group.items():
+        journey = entries[0][0]
+        team_present = {
+            p
+            for j, stop in entries
+            for p in _stop_players(stop, j)
+            if p in set(journey.team)
+        }
+        if len(team_present) == len(journey.team):
+            # the whole team visited this spot across the merged visits
+            colors = [str(journey.color)]
         else:
-            tooltip = " / ".join(dict.fromkeys(_stop_tooltip(s) for s in stops))
-            folium.Marker(
-                location=(lat, lon),
-                icon=_dot_icon(
-                    _stop_colors(journey, stops[0]),
-                    eod=any(s.end_of_day for s in stops),
-                ),
-                tooltip=tooltip,
-                popup=folium.Popup(
-                    _merge_stop_popup(stops, journey), max_width=_POPUP_MAX_WIDTH
-                ),
-            ).add_to(cluster)
+            colors = [c for j, stop in entries for c in _stop_colors(j, stop)]
+        has_eod = any(stop.end_of_day for _, stop in entries)
+        tooltip = " / ".join(dict.fromkeys(_stop_tooltip(stop) for _, stop in entries))
+        folium.Marker(
+            location=(lat, lon),
+            icon=_dot_icon(colors, eod=has_eod),
+            tooltip=tooltip,
+            popup=folium.Popup(_merged_team_popup(entries), max_width=_POPUP_MAX_WIDTH),
+        ).add_to(cluster)
 
 
 def _add_split_stop_markers(group: folium.FeatureGroup, season: SeasonFile) -> None:
@@ -367,7 +400,7 @@ def _unwrapped(points: Sequence[tuple[float, float]]) -> list[tuple[float, float
     return result
 
 
-_LINE_DASHES = ("", "14 8", "2 7")
+_LINE_DASHES = ("", "14 8", "2 7", "8 4 2 4", "2 4 8 4")
 """Dash patterns per journey index, so legs of different journeys that run
 along the same corridor stay distinguishable instead of hiding each other."""
 
@@ -440,7 +473,9 @@ def _add_legend(map_: folium.Map, layers: Sequence[tuple[str, SeasonFile]]) -> N
                 f"{html.escape(join_players(journey.team))}"
                 "</div>"
             )
-            if len(journey.team) > 1:
+            if len(journey.team) > 1 and any(
+                stop.players_override for stop in journey.stops
+            ):
                 dots = []
                 for player in journey.team:
                     shade = _shaded(str(journey.color), _player_step(journey, player))
@@ -564,8 +599,8 @@ def _build_map(
         match markers:
             case MarkerMode.CLUSTER:
                 cluster = MarkerCluster(options=_CLUSTER_OPTIONS)
+                _add_clustered_stop_markers(cluster, season)
                 for journey_index, journey in enumerate(season.journeys):
-                    _add_clustered_stop_markers(cluster, journey)
                     _add_leg_lines(group, journey, journey_index)
                     all_points.extend(_journey_points(journey))
                 group.add_child(cluster)
