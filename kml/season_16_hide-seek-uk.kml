@@ -8,7 +8,7 @@
         <name>London St Pancras</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start; Adam is the first hider (departs London Kings Cross adjacent to St Pancras, 07:00 UTC)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-09-08T07:00:00</begin>
+          <begin>2025-09-08T06:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -390,7 +390,7 @@
         <name>London St Pancras</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start as seeker (with Sam), 11:00 UTC (after Adam&amp;#x27;s 4h hiding period began)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-09-08T11:00:00</begin>
+          <begin>2025-09-08T10:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -698,7 +698,7 @@
         <name>London St Pancras</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start as seeker (with Ben), 11:00 UTC&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-09-08T11:00:00</begin>
+          <begin>2025-09-08T10:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>

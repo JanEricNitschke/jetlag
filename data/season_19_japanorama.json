@@ -16,7 +16,7 @@
             "latitude": 31.1903089
           },
           "when": {
-            "start": "2026-05-21T07:00:00",
+            "start": "2026-05-21T07:00:00+09:00",
             "end": null
           },
           "video": null,
@@ -32,7 +32,8 @@
               "mode": "train",
               "note": "JR Ibusuki Makurazaki Line north to the Kagoshima area",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -55,7 +56,8 @@
               "mode": "train",
               "note": "Northbound from Kagoshima: Kyushu Shinkansen to Shin-Yatsushiro, then local toward Kumamoto (per doc clips)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -73,7 +75,9 @@
             "Multiple Day 1 clips (approach pin 32.5153/130.6358; mirrored clip, Platform 2; Sam pointing south at local train bound for Kumamoto)",
             "Day 1 end"
           ],
-          "end_of_day": [1],
+          "end_of_day": [
+            1
+          ],
           "to_next": []
         },
         {
@@ -97,7 +101,8 @@
               "mode": "train",
               "note": "Sanyo Main Line west toward Iwakuni",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -121,7 +126,8 @@
               "mode": "train",
               "note": "Sanyo Main Line to Hiroshima",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -139,7 +145,9 @@
             "Day 2 (doc marks 'Bam?' — question mark carried); open 10:00-20:00; clip is mirrored",
             "Day 2 end"
           ],
-          "end_of_day": [2],
+          "end_of_day": [
+            2
+          ],
           "to_next": []
         },
         {
@@ -162,7 +170,8 @@
               "mode": "train",
               "note": "Sakura 10:57 Sanyo Shinkansen eastbound toward Osaka/Kobe",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -181,7 +190,9 @@
             "Nearest station Shin-Kobe",
             "Day 3 end"
           ],
-          "end_of_day": [3],
+          "end_of_day": [
+            3
+          ],
           "to_next": []
         },
         {
@@ -204,7 +215,8 @@
               "mode": "car",
               "note": "Possibly a taxi between the castle and Gifu-Hashima (doc discusses a taxi; direction AMBIGUOUS — placed castle -> station per doc's timeline; taxis must return to the same place before advancing)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -228,7 +240,8 @@
               "mode": "train",
               "note": "Tokaido Shinkansen toward Tokyo/Nagoya-Yokohama",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -264,7 +277,9 @@
             "Travel from Yokohama to Tokyo not documented (mode not stated)",
             "Day 4 end"
           ],
-          "end_of_day": [4],
+          "end_of_day": [
+            4
+          ],
           "to_next": []
         },
         {
@@ -288,7 +303,8 @@
               "mode": "train",
               "note": "Tohoku Main Line into Ichinoseki (Ichinoseki Tunnel clip en route)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -306,7 +322,9 @@
             "Day 5: Ichinoseki area, Iwate (per doc prefecture table: Bam)",
             "Day 5 end"
           ],
-          "end_of_day": [5],
+          "end_of_day": [
+            5
+          ],
           "to_next": []
         },
         {
@@ -340,7 +358,9 @@
             "Day 6: Hokkaido, south of Hakodate (view clip)",
             "Team attribution blank in doc — duplicated in both journeys; Tohoku -> Hokkaido crossing itself not located"
           ],
-          "end_of_day": [6],
+          "end_of_day": [
+            6
+          ],
           "to_next": []
         },
         {
@@ -363,7 +383,8 @@
               "mode": "train",
               "note": "Soya Main Line Limited Express, dep 9:00",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -386,7 +407,8 @@
               "mode": "train",
               "note": "Soya Main Line arrival into Wakkanai",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -405,7 +427,9 @@
             "Team unknown (both plausible — doc asks what happens if both arrive on the same train); winner not stated in doc",
             "Game ended May 27 (doc: 'ended by 15:50 JST'; social post 15:58 JST)"
           ],
-          "end_of_day": [7],
+          "end_of_day": [
+            7
+          ],
           "to_next": []
         }
       ]
@@ -424,7 +448,7 @@
             "latitude": 31.1903089
           },
           "when": {
-            "start": "2026-05-21T07:00:00",
+            "start": "2026-05-21T07:00:00+09:00",
             "end": null
           },
           "video": null,
@@ -439,7 +463,8 @@
               "mode": "train",
               "note": "JR Ibusuki Makurazaki Line north (clip between Ibusuki and Nigatsuden stations: 31.2507601/130.6336644)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -526,7 +551,8 @@
               "mode": "train",
               "note": "Southbound Nanohana Rapid through Taniyama ~15:52 (direction as given in doc — unexplained)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -544,7 +570,9 @@
             "Day 1 ~15:52 by train schedule (departures 15:52, 18:03, 19:00; 8:05 impossible); real estate office blinds suggest 15:52",
             "Day 1 end"
           ],
-          "end_of_day": [1],
+          "end_of_day": [
+            1
+          ],
           "to_next": []
         },
         {
@@ -567,7 +595,8 @@
               "mode": "ferry",
               "note": "Usuki -> Yawatahama ferry, 11:30-13:50 (arrival ~14:00 per sun calc)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -591,7 +620,8 @@
               "mode": "train",
               "note": "Iyotetsu northbound to Takahama (clip 26: northbound to Takahama)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -609,7 +639,9 @@
             "Day 2: Iyotetsu Takahama Line",
             "Day 2 end (evening location unknown in doc)"
           ],
-          "end_of_day": [2],
+          "end_of_day": [
+            2
+          ],
           "to_next": []
         },
         {
@@ -647,7 +679,8 @@
               "mode": "train",
               "note": "Shiokaze Limited Express Matsuyama -> Okayama direct; clip on approach to the Great Seto Bridge (Uzushio cruise boat seen below)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -670,7 +703,8 @@
               "mode": "train",
               "note": "Sanyo Shinkansen Okayama -> Shin-Osaka (shinkansen card required by the rules)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -720,7 +754,9 @@
             "Day 3 (near Saga-Arashiyama Station, JR Sagano Line)",
             "Day 3 end"
           ],
-          "end_of_day": [3],
+          "end_of_day": [
+            3
+          ],
           "to_next": []
         },
         {
@@ -743,7 +779,8 @@
               "mode": "bus",
               "note": "Along Highway 156 toward Shirakawa-go (doc: 'probably a bus to Shirakawa-go')",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -778,7 +815,9 @@
             "Doc marks 'Day 4?' — carry as AMBIGUOUS (temple open 9AM-4PM); reached via the Hieizan Sakamoto Cable Car (station 35.0706650/135.8783509)",
             "Travel from the Shirakawa-go area to Lake Biwa not documented"
           ],
-          "end_of_day": [4],
+          "end_of_day": [
+            4
+          ],
           "to_next": []
         },
         {
@@ -800,7 +839,8 @@
               "mode": "train",
               "note": "Coastal rail northbound toward Sakata (Mount Chokai clip is from a train, probably reversed => northbound)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -840,7 +880,8 @@
               "mode": "train",
               "note": "Rikuu West Line 1625D (Shinjo 16:15 -> Sakata 17:15)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -863,7 +904,8 @@
               "mode": "train",
               "note": "Uetsu Main Line northbound, dep 17:50 (Mototate clip at ~17:35 conflicts with this departure — doc timing inconsistency)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -886,7 +928,8 @@
               "mode": "train",
               "note": "Uetsu Main Line ('Cannot be seen from the train so Atom have disembarked here', ~18:15)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -904,7 +947,9 @@
             "Day 5 ~18:15 (solar); team blank in doc but note says 'Atom have disembarked here'",
             "Day 5 end"
           ],
-          "end_of_day": [5],
+          "end_of_day": [
+            5
+          ],
           "to_next": []
         },
         {
@@ -937,7 +982,9 @@
           "notes": [
             "Day 6 (south of Hakodate); team blank in doc — duplicated in both journeys; Hokkaido crossing itself not located"
           ],
-          "end_of_day": [6],
+          "end_of_day": [
+            6
+          ],
           "to_next": []
         },
         {
@@ -959,7 +1006,8 @@
               "mode": "train",
               "note": "Soya Main Line Limited Express, dep 9:00",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -982,7 +1030,8 @@
               "mode": "train",
               "note": "Soya Main Line arrival into Wakkanai",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -1001,7 +1050,9 @@
             "Team unknown (both plausible); winner not stated in doc",
             "Game ended May 27 ('ended by 15:50 JST'; social post 15:58 JST)"
           ],
-          "end_of_day": [7],
+          "end_of_day": [
+            7
+          ],
           "to_next": []
         }
       ]

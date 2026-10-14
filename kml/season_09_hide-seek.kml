@@ -9,6 +9,9 @@
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Hide + Seek (Season 9)
 Members who visited: 
 1) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T05:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -124,6 +127,9 @@ Members who visited:
 1) Sam
 2) Adam
 3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T12:09:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -179,6 +185,9 @@ Members who visited:
       <Placemark>
         <name>Göschenen</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2 (Ben hides): missed a train toward Zug (didn&amp;#x27;t press the stop button); rest period here 17:30 -&amp;gt; 07:30; then train toward Zug&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T16:08:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -195,6 +204,9 @@ Members who visited:
       <Placemark>
         <name>Zug</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2: Zug theory (from the &amp;#x27;rug&amp;#x27; rhyme); Ben revealed he was &amp;#x27;rather in the south&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-12T08:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -211,6 +223,9 @@ Members who visited:
       <Placemark>
         <name>Steinen</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2: the &amp;#x27;lake&amp;#x27; near Steinen was a shadow; 25-mi radar hit; wrongly went back to Zug before matching the Strava map to Merlischachen&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-12T09:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -227,6 +242,9 @@ Members who visited:
       <Placemark>
         <name>Merlischachen</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2 FIND: Ben in a secret playground; cheese-rolling curse (roll 8) cleared at a supermarket; final time 9:36:05&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-12T12:23:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -243,6 +261,9 @@ Members who visited:
       <Placemark>
         <name>Winterthur</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 3 seeker: found Sam in the woods on the outskirts after the cheese-shop curse, the wrong/right McDonald&amp;#x27;s and the umbrella decoy (7:23:23)&lt;/li&gt;&lt;li&gt;Round 4 start: Adam&amp;#x27;s train from Winterthur ran &amp;#x27;as far from Bern as possible&amp;#x27; before his hiding period ended&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-13T13:54:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -275,6 +296,9 @@ Members who visited:
       <Placemark>
         <name>Steffisburg</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 4 hiding spot: a castle in his zone, like round 1 — NEVER FOUND&lt;/li&gt;&lt;li&gt;Passed Ben&amp;#x27;s 9:36:05 by 5 seconds -&amp;gt; ADAM WINS Season 9&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T16:06:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -349,6 +373,9 @@ Members who visited:
 Members who visited: 
 1) Sam
 2)  Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T05:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -409,6 +436,9 @@ Members who visited:
 1) Sam
 2) Ben
 Curse: William Tell Curse (Sam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T09:47:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -430,6 +460,9 @@ Members who visited:
 2) Ben
 Curse: William Tell Curse (Sam and Ben)
 Question: Hotel price (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T10:03:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -470,6 +503,9 @@ Members who visited:
 1) Sam
 2) Adam
 3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T12:09:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -490,6 +526,9 @@ Members who visited:
 1) Sam
 2) Ben
 Curse: William Tell Curse (Sam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T09:07:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -531,6 +570,9 @@ Members who visited:
 1) Sam
 2) Adam
 3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T11:28:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -547,6 +589,9 @@ Members who visited:
       <Placemark>
         <name>Göschenen</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2 (Ben hides): missed a train toward Zug (didn&amp;#x27;t press the stop button); rest period here 17:30 -&amp;gt; 07:30; then train toward Zug&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T16:08:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -563,6 +608,9 @@ Members who visited:
       <Placemark>
         <name>Zug</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2: Zug theory (from the &amp;#x27;rug&amp;#x27; rhyme); Ben revealed he was &amp;#x27;rather in the south&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-12T08:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -579,6 +627,9 @@ Members who visited:
       <Placemark>
         <name>Steinen</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2: the &amp;#x27;lake&amp;#x27; near Steinen was a shadow; 25-mi radar hit; wrongly went back to Zug before matching the Strava map to Merlischachen&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-12T09:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -595,6 +646,9 @@ Members who visited:
       <Placemark>
         <name>Merlischachen</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2 FIND: Ben in a secret playground; cheese-rolling curse (roll 8) cleared at a supermarket; final time 9:36:05&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-12T12:23:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -611,6 +665,9 @@ Members who visited:
       <Placemark>
         <name>Winterthur</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 3 HIDING SPOT: woods on the city&amp;#x27;s outskirts (860 ft from the nearest road; NW-running street)&lt;/li&gt;&lt;li&gt;FOUND after 7:23:23 — the seekers searched over five hours&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-12T16:46:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -643,6 +700,9 @@ Members who visited:
       <Placemark>
         <name>Bern</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 4 (Adam hides): high-speed train through Zürich and Bern; 10-mi radar miss; longitude east; within 25 mi of Bern&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T08:27:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -659,6 +719,9 @@ Members who visited:
       <Placemark>
         <name>Solothurn</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Wrong direction — 5-mi radar split the options; &amp;#x27;odd departure time&amp;#x27; answer -&amp;gt; Wiedlisbach&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T10:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -675,6 +738,9 @@ Members who visited:
       <Placemark>
         <name>Wiedlisbach</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The train-station photo didn&amp;#x27;t match — suspected the Bätterkinden/Utzenstorf trick&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T11:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -691,6 +757,9 @@ Members who visited:
       <Placemark>
         <name>Utzenstorf</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Ads matched the red bar from Adam&amp;#x27;s photo but the station didn&amp;#x27;t; dead-end train to Bergdorf afterwards&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T12:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -707,6 +776,9 @@ Members who visited:
       <Placemark>
         <name>Langenthal</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Direct Winterthur-&amp;gt;Langenthal theory (Adam passed Sam&amp;#x27;s 7:23:23 during this ride)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T14:43:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -723,6 +795,9 @@ Members who visited:
       <Placemark>
         <name>Rohrbach</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Final stop of the search — no match; time expired; Adam passed Ben&amp;#x27;s 9:36:05 by 5 seconds -&amp;gt; Adam wins&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T15:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -878,6 +953,9 @@ Members who visited:
 Members who visited: 
 1) Sam
 2)  Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T05:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -938,6 +1016,9 @@ Members who visited:
 1) Sam
 2) Ben
 Curse: William Tell Curse (Sam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T09:47:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -959,6 +1040,9 @@ Members who visited:
 2) Ben
 Curse: William Tell Curse (Sam and Ben)
 Question: Hotel price (Adam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T10:03:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -999,6 +1083,9 @@ Members who visited:
 1) Sam
 2) Adam
 3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T12:09:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -1019,6 +1106,9 @@ Members who visited:
 1) Sam
 2) Ben
 Curse: William Tell Curse (Sam and Ben)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T09:07:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -1060,6 +1150,9 @@ Members who visited:
 1) Sam
 2) Adam
 3) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T11:28:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -1076,6 +1169,9 @@ Members who visited:
       <Placemark>
         <name>Merlischachen</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 2 HIDING SPOT (from Hospental): a secret playground south of Zug&lt;/li&gt;&lt;li&gt;Misdirected the seekers toward Cham/Zug with rhymes; FOUND at 9:36:05 (+cheese-rolling curse cleared)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-11T16:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -1092,6 +1188,9 @@ Members who visited:
       <Placemark>
         <name>Winterthur</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 3 seeker: found Sam in the woodland on the outskirts (7:23:23)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-13T08:29:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -1108,6 +1207,9 @@ Members who visited:
       <Placemark>
         <name>Bern</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Round 4 (Adam hides): high-speed train through Zürich and Bern; 10-mi radar miss; longitude east; within 25 mi of Bern&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T08:27:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -1124,6 +1226,9 @@ Members who visited:
       <Placemark>
         <name>Solothurn</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Wrong direction — 5-mi radar split the options; &amp;#x27;odd departure time&amp;#x27; answer -&amp;gt; Wiedlisbach&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T10:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -1140,6 +1245,9 @@ Members who visited:
       <Placemark>
         <name>Wiedlisbach</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;The train-station photo didn&amp;#x27;t match — suspected the Bätterkinden/Utzenstorf trick&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T11:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -1156,6 +1264,9 @@ Members who visited:
       <Placemark>
         <name>Utzenstorf</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Ads matched the red bar from Adam&amp;#x27;s photo but the station didn&amp;#x27;t; dead-end train to Bergdorf afterwards&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T12:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -1172,6 +1283,9 @@ Members who visited:
       <Placemark>
         <name>Langenthal</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Direct Winterthur-&amp;gt;Langenthal theory (Adam passed Sam&amp;#x27;s 7:23:23 during this ride)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T14:43:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -1188,6 +1302,9 @@ Members who visited:
       <Placemark>
         <name>Rohrbach</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Final stop of the search — no match; time expired; Adam passed Ben&amp;#x27;s 9:36:05 by 5 seconds -&amp;gt; Adam wins&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-12-14T15:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>

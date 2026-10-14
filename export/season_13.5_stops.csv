@@ -1,5 +1,5 @@
 season,season_name,journey_team,journey_color,stop_index,name,longitude,latitude,when_start,when_end,video_episode,video_start,video_end,players_override,additional_players,notes,end_of_day
-13.5,Hide + Seek NYC,Adam Chase; Amy Muller,#D32F2F,0,Grand Central Terminal,-73.977253,40.7526944,2024-12-17T12:30:00,,,,,,,"Game start, Day 1 (Dec 17, 2024) 12:30 PM; both teams start here
+13.5,Hide + Seek NYC,Adam Chase; Amy Muller,#D32F2F,0,Grand Central Terminal,-73.977253,40.7526944,2024-12-17T12:30:00-05:00,,,,,,,"Game start, Day 1 (Dec 17, 2024) 12:30 PM; both teams start here
 Adamy are the Day 1 hiding team (60-minute hiding period, 1/4-mile radius home-game rules)
 Transit to Forest Hills via NYC subway (line not specified in sources)",
 13.5,Hide + Seek NYC,Adam Chase; Amy Muller,#D32F2F,1,1-10 Ascan Avenue (Forest Hills),-73.8408683,40.717877,,,,,,,,~1:15 PM; doc: 'Possibly Adamy searching for their hiding spot?',
@@ -7,25 +7,25 @@ Transit to Forest Hills via NYC subway (line not specified in sources)",
 Hid near the Forest Hills-71st Avenue subway station in Queens (Wikipedia)
 Seekers found them USING THE TILE COLOURS of the hiders' station (Wikipedia)
 Caught ~4 PM (likely) with a final time of 4 hours 2 seconds",1
-13.5,Hide + Seek NYC,Adam Chase; Amy Muller,#D32F2F,3,108-11 69th Road (Forest Hills),-73.8419339,40.7252617,,,,,,,,"Day 2 (Jan 29, 2025): Adamy start as seekers; sun analysis puts this at ~9 AM (doc leans 9 over 10)",
-13.5,Hide + Seek NYC,Adam Chase; Amy Muller,#D32F2F,4,37 Warren Street,-74.0087073,40.7143916,,,,,,,,~1 PM (reflection analysis); Adamy seeking in Lower Manhattan,
-13.5,Hide + Seek NYC,Adam Chase; Amy Muller,#D32F2F,5,Elevated Acre (55 Water Street),-74.0090671,40.7032255,,,,,,,,"Found Bam's hiding spot here; game end (~2 PM likely)
+13.5,Hide + Seek NYC,Adam Chase; Amy Muller,#D32F2F,3,108-11 69th Road (Forest Hills),-73.8419339,40.7252617,2024-12-18T08:27:00-05:00,,,,,,,"Day 2 (Jan 29, 2025): Adamy start as seekers; sun analysis puts this at ~9 AM (doc leans 9 over 10)",
+13.5,Hide + Seek NYC,Adam Chase; Amy Muller,#D32F2F,4,37 Warren Street,-74.0087073,40.7143916,2025-01-29T11:15:00-05:00,,,,,,,~1 PM (reflection analysis); Adamy seeking in Lower Manhattan,
+13.5,Hide + Seek NYC,Adam Chase; Amy Muller,#D32F2F,5,Elevated Acre (55 Water Street),-74.0090671,40.7032255,2025-01-29T12:56:00-05:00,,,,,,,"Found Bam's hiding spot here; game end (~2 PM likely)
 Bam's time bonuses made their run longer (4:28:00 vs Adamy's 4:00:02) — Bam won the special",2
-13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,0,Grand Central Terminal,-73.977253,40.7526944,2024-12-17T12:30:00,,,,,,,"Game start, Day 1 12:30 PM; Bam seek after the hiding period
+13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,0,Grand Central Terminal,-73.977253,40.7526944,2024-12-17T12:30:00-05:00,,,,,,,"Game start, Day 1 12:30 PM; Bam seek after the hiding period
 Doc: 'Might be a 4 train' (unconfirmed train line detail)",
-13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,1,145th Street area,-73.9362163,40.8204635,,,,,,,,"Searching near '145 St' (doc)
+13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,1,145th Street area,-73.9362163,40.8204635,2024-12-17T14:06:00-05:00,,,,,,,"Searching near '145 St' (doc)
 AMBIGUOUS which station: the resolved pin is the Lenox Ave 145 St stop; the Bronx IND Concourse 145 St is the other candidate — the doc does not disambiguate",
-13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,2,149th Street-Grand Concourse station,-73.9270562,40.8185039,,,,,,,,Doc route note: 'fastest way back to Queens via the Grand Concourse Station',
-13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,3,Bronx seek point A,-73.930594,40.820804,,,,,,,,~1:30 PM (doc DMS 40-49-14.893 N 73-55-50.137 W),
-13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,4,Bronx seek point B,-73.930449,40.820119,,,,,,,,~1:30 PM (doc DMS 40-49-12.428 N 73-55-49.617 W),
+13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,2,149th Street-Grand Concourse station,-73.9270562,40.8185039,2024-12-17T13:20:00-05:00,,,,,,,Doc route note: 'fastest way back to Queens via the Grand Concourse Station',
+13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,3,Bronx seek point A,-73.930594,40.820804,2024-12-17T13:41:00-05:00,,,,,,,~1:30 PM (doc DMS 40-49-14.893 N 73-55-50.137 W),
+13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,4,Bronx seek point B,-73.930449,40.820119,2024-12-17T14:01:00-05:00,,,,,,,~1:30 PM (doc DMS 40-49-12.428 N 73-55-49.617 W),
 13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,5,Bronx seek point C,-73.936942,40.819406,,,,,,,,~1:45 PM (doc DMS 40-49-9.861 N 73-56-12.991 W),
-13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,6,37-22 77th Street (Jackson Heights),-73.889133,40.7501584,,,,,,,,"~2:30 PM; likely the Curse of the Egg Partner spot (listed adjacent to the curse in the doc — not explicitly stated)
+13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,6,37-22 77th Street (Jackson Heights),-73.889133,40.7501584,2024-12-17T15:17:00-05:00,,,,,,,"~2:30 PM; likely the Curse of the Egg Partner spot (listed adjacent to the curse in the doc — not explicitly stated)
 Street-level pin; the exact address did not resolve",
-13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,7,Forest Hills Station (post-catch),-73.844521,40.721691,,,,,,,,"'Probably Forest Hills Station' (blurry sign shot, Manhattan-bound direction — post-catch inference, uncertain)
+13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,7,Forest Hills Station (post-catch),-73.844521,40.721691,2024-12-17T15:55:00-05:00,,,,,,,"'Probably Forest Hills Station' (blurry sign shot, Manhattan-bound direction — post-catch inference, uncertain)
 Caught Adamy near the hiding area ~4 PM (likely)",1
-13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,8,36 Liberty Street,-74.009838,40.708243,,,,,,,,"Day 2 (Jan 29, 2025) ~9 AM (likely; sun behind the Federal Reserve Bank)
+13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,8,36 Liberty Street,-74.009838,40.708243,2025-01-29T10:30:00-05:00,,,,,,,"Day 2 (Jan 29, 2025) ~9 AM (likely; sun behind the Federal Reserve Bank)
 AMBIGUOUS: team not explicitly stated; doc notes the timing overlap with Adamy's ~9 AM Forest Hills start
 Game day started 8:00 AM per the doc's shooting schedule",
-13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,9,Elevated Acre (55 Water Street),-74.0090671,40.7032255,,,,,,,,"Day 2 HIDING SPOT: the Elevated Acre near the Wall Street subway station (Wikipedia)
+13.5,Hide + Seek NYC,Ben Doyle; Sam Denby,#00796B,9,Elevated Acre (55 Water Street),-74.0090671,40.7032255,2025-01-29T12:56:00-05:00,,,,,,,"Day 2 HIDING SPOT: the Elevated Acre near the Wall Street subway station (Wikipedia)
 Seekers reached them quicker than in round 1, but several time-bonus cards brought the total to 4:28:00
 CAUGHT ~2 PM (likely) — WON the special (4:28:00 vs Adamy's 4:00:02)",2

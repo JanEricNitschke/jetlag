@@ -14,7 +14,10 @@
             "longitude": 139.764981,
             "latitude": 35.6818017
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-17T07:48:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -27,7 +30,8 @@
               "mode": "train",
               "note": "Shinkansen northeast to Sendai",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -37,7 +41,10 @@
             "longitude": 140.8800249,
             "latitude": 38.2597526
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-17T11:10:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -50,7 +57,8 @@
               "mode": "train",
               "note": "Local line toward Yamadera",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -60,7 +68,10 @@
             "longitude": 140.434729,
             "latitude": 38.3095946
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-17T16:49:03+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -74,7 +85,8 @@
               "mode": "train",
               "note": "Run 1: south (via Sendai); hid near a station close to Utsunomiya",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -84,7 +96,10 @@
             "longitude": 139.9661517,
             "latitude": 36.5535416
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-18T15:11:12+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -98,7 +113,8 @@
               "mode": "train",
               "note": "As seeker: to Tokyo Station",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -108,7 +124,10 @@
             "longitude": 139.764981,
             "latitude": 35.6818017
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-19T10:47:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -121,7 +140,8 @@
               "mode": "train",
               "note": "To the Narita area — Sam's hiding spot",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -131,7 +151,10 @@
             "longitude": 140.3870949,
             "latitude": 35.7702974
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-19T14:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -144,7 +167,8 @@
               "mode": "train",
               "note": "As seeker chasing Ben's run 2: down the Izu side (Atami)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -154,7 +178,10 @@
             "longitude": 139.0787599,
             "latitude": 35.1037666
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-20T12:10:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -167,7 +194,8 @@
               "mode": "train",
               "note": "West to Mishima",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -190,7 +218,8 @@
               "mode": "train",
               "note": "Down to Izu-Kogen",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -200,7 +229,10 @@
             "longitude": 139.1086037,
             "latitude": 34.8787978
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-20T18:29:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -214,7 +246,8 @@
               "mode": "train",
               "note": "Run 2: to Saruhashi (routing not specified in sources)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -224,7 +257,10 @@
             "longitude": 138.9680239,
             "latitude": 35.6128739
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-21T17:46:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -238,7 +274,8 @@
               "mode": "train",
               "note": "As seeker: chasing Sam's 2nd run through Tokyo's train lines",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -248,7 +285,10 @@
             "longitude": 139.637178,
             "latitude": 35.853493
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-21T17:46:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -272,7 +312,10 @@
             "longitude": 139.764981,
             "latitude": 35.6818017
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-16T15:00:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -285,7 +328,8 @@
               "mode": "train",
               "note": "Northeast via Sendai (service not specified in sources)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -295,7 +339,10 @@
             "longitude": 140.434729,
             "latitude": 38.3095946
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-17T16:49:03+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -310,7 +357,8 @@
               "mode": "train",
               "note": "As seeker (with Sam): Shinkansen out of Sendai — the WRONG way (north) at first",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -320,7 +368,10 @@
             "longitude": 140.8800249,
             "latitude": 38.2597526
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-18T09:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -333,7 +384,8 @@
               "mode": "train",
               "note": "Toward Utsunomiya",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -343,7 +395,10 @@
             "longitude": 139.8983141,
             "latitude": 36.5596305
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-18T13:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -356,7 +411,8 @@
               "mode": "train",
               "note": "Toward the station that matched Adam's tallest-building photo",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -366,7 +422,10 @@
             "longitude": 139.9661517,
             "latitude": 36.5535416
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-18T15:11:12+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -380,7 +439,8 @@
               "mode": "train",
               "note": "Seekers (with Adam) cleared two curses at Tokyo Station",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -390,7 +450,10 @@
             "longitude": 139.764981,
             "latitude": 35.6818017
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-19T10:47:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -403,7 +466,8 @@
               "mode": "train",
               "note": "To Narita — the tallest-building photo gave away Narita Airport",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -413,7 +477,10 @@
             "longitude": 140.3870949,
             "latitude": 35.7702974
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-19T14:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -427,7 +494,8 @@
               "mode": "train",
               "note": "Run 2: south toward the Izu peninsula (via Tokyo/Atami presumably — not specified in sources)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -437,7 +505,10 @@
             "longitude": 139.1086037,
             "latitude": 34.8787978
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-20T18:29:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -452,7 +523,8 @@
               "mode": "train",
               "note": "As seeker: pursuing Adam's 2nd run",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -462,7 +534,10 @@
             "longitude": 138.9680239,
             "latitude": 35.6128739
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-21T17:46:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -475,7 +550,8 @@
               "mode": "train",
               "note": "As seeker: chasing Sam's 2nd run through Tokyo's dense urban landscape",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -485,7 +561,10 @@
             "longitude": 139.637178,
             "latitude": 35.853493
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-21T17:46:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -510,7 +589,10 @@
             "longitude": 139.764981,
             "latitude": 35.6818017
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-17T07:48:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -523,7 +605,8 @@
               "mode": "train",
               "note": "Shinkansen northeast to Sendai",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -533,7 +616,10 @@
             "longitude": 140.8800249,
             "latitude": 38.2597526
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-17T11:10:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -546,7 +632,8 @@
               "mode": "train",
               "note": "Local line toward Yamadera",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -556,7 +643,10 @@
             "longitude": 140.434729,
             "latitude": 38.3095946
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-17T16:49:03+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -570,7 +660,8 @@
               "mode": "train",
               "note": "Shinkansen out of Sendai (wrong way north), then south",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -580,7 +671,10 @@
             "longitude": 139.8983141,
             "latitude": 36.5596305
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-18T13:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -593,7 +687,8 @@
               "mode": "train",
               "note": "To the Tobiyama Castle Site area",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -603,7 +698,10 @@
             "longitude": 139.9661517,
             "latitude": 36.5535416
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-18T15:11:12+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -617,7 +715,8 @@
               "mode": "train",
               "note": "Run 1: toward Narita",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -627,7 +726,10 @@
             "longitude": 140.3870949,
             "latitude": 35.7702974
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-19T14:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -641,7 +743,8 @@
               "mode": "train",
               "note": "As seeker chasing Ben's run 2: Atami",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -651,7 +754,10 @@
             "longitude": 139.0787599,
             "latitude": 35.1037666
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-20T12:10:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -664,7 +770,8 @@
               "mode": "train",
               "note": "West to Mishima",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -687,7 +794,8 @@
               "mode": "train",
               "note": "South to Izu-Kogen",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -697,7 +805,10 @@
             "longitude": 139.1086037,
             "latitude": 34.8787978
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-20T18:29:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -710,7 +821,8 @@
               "mode": "train",
               "note": "As seeker: pursuing Adam's 2nd run",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -720,7 +832,10 @@
             "longitude": 138.9680239,
             "latitude": 35.6128739
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-21T17:46:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -734,7 +849,8 @@
               "mode": "train",
               "note": "Run 2: toward Kawagoe (routing not specified in sources)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -744,7 +860,10 @@
             "longitude": 139.4833595,
             "latitude": 35.9077866
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-21T13:59:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -761,7 +880,10 @@
             "longitude": 139.637178,
             "latitude": 35.853493
           },
-          "when": null,
+          "when": {
+            "start": "2024-09-21T17:46:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],

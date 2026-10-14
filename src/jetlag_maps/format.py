@@ -11,17 +11,23 @@ mistake. Exceptions:
 from __future__ import annotations
 
 import datetime as dt
+import functools
+import logging
 import re
+import zoneinfo
 from enum import StrEnum
 from typing import TYPE_CHECKING, Annotated
 
 from pydantic import BaseModel, BeforeValidator, Field, PlainSerializer
+from timezonefinder import TimezoneFinder
 
 from .config import Color, Player
 
 if TYPE_CHECKING:
     from collections.abc import Sequence
     from pathlib import Path
+
+logger = logging.getLogger(__name__)
 
 
 class TravelMode(StrEnum):
@@ -119,6 +125,16 @@ class Coordinate(BaseModel):
 
 
 class When(BaseModel):
+    """A stop visit in time.
+
+    ``start``/``end`` are local wall-clock times: either naive (zone
+    unknown, e.g. legacy data) or timezone-aware, serialized as ISO 8601
+    with the UTC offset (e.g. ``2022-07-26T08:00:00+02:00``). Awareness
+    is attached from the stop location's IANA zone on import and by
+    :func:`ensure_timezones`; the resulting offsets are DST-correct for
+    the visited date.
+    """
+
     start: dt.datetime
     end: dt.datetime | None = None
 
@@ -200,3 +216,91 @@ def join_players(players: Sequence[Player]) -> str:
     if len(names) == 1:
         return names[0]
     return f"{', '.join(names[:-1])} & {names[-1]}"
+
+
+def format_when(when: When) -> str:
+    """Format a visit as local ``YYYY-MM-DD HH:MM`` text.
+
+    Naive times render as before; aware times append the UTC offset
+    (e.g. ``UTC+09:00``) so visits in different zones stay comparable on
+    the maps.
+    """
+    stamp = when.start.strftime("%Y-%m-%d %H:%M")
+    if when.end is not None:
+        stamp += f" - {when.end.strftime('%Y-%m-%d %H:%M')}"
+    if when.start.tzinfo is not None:
+        stamp += f" UTC{_format_offset(when.start)}"
+    return stamp
+
+
+class _UnawareMomentError(ValueError):
+    def __init__(self) -> None:
+        super().__init__("moment must be timezone-aware")
+
+
+class _NoTimezoneFoundError(LookupError):
+    def __init__(self, coordinate: Coordinate) -> None:
+        super().__init__(
+            f"no timezone found near {coordinate.latitude}, {coordinate.longitude}"
+        )
+
+
+def _format_offset(moment: dt.datetime) -> str:
+    """Format a UTC offset as signed ``±HH:MM`` text."""
+    total = moment.utcoffset()
+    if total is None:  # only called for aware moments
+        raise _UnawareMomentError
+    seconds = int(total.total_seconds())
+    sign = "+" if seconds >= 0 else "-"
+    hours, remainder = divmod(abs(seconds), _SECONDS_PER_HOUR)
+    return f"{sign}{hours:02d}:{remainder // _SECONDS_PER_MINUTE:02d}"
+
+
+@functools.lru_cache(maxsize=1)
+def _timezone_finder() -> TimezoneFinder:
+    """Build the single shared timezone lookup (loading its polygons)."""
+    return TimezoneFinder()
+
+
+def timezone_for(coordinate: Coordinate) -> str:
+    """Return the IANA zone name containing (or nearest to) a coordinate.
+
+    Open-water coordinates resolve to the nautical ``Etc/GMT±X`` fixed
+    zones instead of a country zone.
+    """
+    zone = _timezone_finder().timezone_at(
+        lat=coordinate.latitude, lng=coordinate.longitude
+    )
+    if zone is None:
+        raise _NoTimezoneFoundError(coordinate)
+    return zone
+
+
+def ensure_timezones(season: SeasonFile) -> bool:
+    """Attach the stop location's IANA zone to naive ``When`` times.
+
+    Aware times are left untouched even when their offset disagrees
+    with the coordinate, so hand-made corrections survive. Returns
+    whether any stop changed.
+    """
+    changed = False
+    for journey in season.journeys:
+        for stop in journey.stops:
+            when = stop.when
+            if when is None or when.start.tzinfo is not None:
+                continue
+            try:
+                zone = zoneinfo.ZoneInfo(timezone_for(stop.coordinate))
+            except LookupError:
+                logger.warning(
+                    "Season %s: no timezone found for %r; left naive",
+                    season.season,
+                    stop.name,
+                )
+                continue
+            stop.when = When(
+                start=when.start.replace(tzinfo=zone),
+                end=(when.end.replace(tzinfo=zone) if when.end is not None else None),
+            )
+            changed = True
+    return changed

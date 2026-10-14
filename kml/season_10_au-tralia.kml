@@ -7,6 +7,9 @@
       <Placemark>
         <name>Sydney Opera House</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start, Day 1 7:30 AM; NSW challenge board location&lt;/li&gt;&lt;li&gt;Claimed New South Wales; snack-tasting (1.5x on $300) and Indigenous Rock Engravings challenges won; Luna Park challenge lost&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-11T07:30:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffa21f7b</color>
@@ -23,6 +26,9 @@
       <Placemark>
         <name>Gold Coast Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 evening; Toby&amp;#x27;s strategic end-location theory (airport sits on the NSW/QLD border)&lt;/li&gt;&lt;li&gt;Missed their bus to the challenge board at episode end&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-11T02:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffa21f7b</color>
@@ -39,6 +45,9 @@
       <Placemark>
         <name>Coomera Station (Gold Coast challenge board)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2: QLD challenge board (Coomera); the Brisbane-sign steal pops up&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-11T05:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffa21f7b</color>
@@ -55,6 +64,9 @@
       <Placemark>
         <name>Brisbane Sign</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2: positioned for the &amp;#x27;Mind Meld at the Brisbane Sign&amp;#x27; steal&lt;/li&gt;&lt;li&gt;Day 2 end&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-11T09:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffa21f7b</color>
@@ -71,6 +83,9 @@
       <Placemark>
         <name>Canberra (Parliament House)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;ACT challenge board location; claimed the Australian Capital Territory (Wikipedia)&lt;/li&gt;&lt;li&gt;AMBIGUOUS: visit day not in episode pages&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-12T09:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffa21f7b</color>
@@ -103,6 +118,9 @@
       <Placemark>
         <name>Gold Coast Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Final day: claimed Queensland and New South Wales in quick succession from the border airport — WON 4-3&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-14T09:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffa21f7b</color>
@@ -200,6 +218,9 @@
       <Placemark>
         <name>Sydney Opera House</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start, Day 1 7:30 AM&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-11T07:30:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -216,6 +237,9 @@
       <Placemark>
         <name>Hobart (Cenotaph)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1: TAS challenge board location (Cenotaph)&lt;/li&gt;&lt;li&gt;Signal flags at Mount Nelson Signal Station; &amp;#x27;Throw a Shrimp on the Barbie&amp;#x27; 3x wager $800 succeeded on try 37 (budget $3,224)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-11T01:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -232,6 +256,9 @@
       <Placemark>
         <name>Adelaide (Victoria Square)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;E3: &amp;#x27;Predict Market Flow at Adelaide&amp;#x27;s Central Market&amp;#x27; — they were in Adelaide&lt;/li&gt;&lt;li&gt;SA challenge board location&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-11T09:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -248,6 +275,9 @@
       <Placemark>
         <name>Melbourne (Flinders Street station)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;E4: built a cart in Melbourne; VIC challenge board location&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-12T09:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -264,6 +294,9 @@
       <Placemark>
         <name>Alice Springs (ANZAC Hill)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;NT challenge board location; claimed the Northern Territory (Wikipedia) — visit day not in episode stubs&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-13T09:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -280,6 +313,9 @@
       <Placemark>
         <name>Sydney</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Final day: reclaimed New South Wales (flew to Sydney when Canberra flights were booked out)&lt;/li&gt;&lt;li&gt;AMBIGUOUS pin: shown at the Opera House area, the NSW board location&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-14T06:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -296,6 +332,9 @@
       <Placemark>
         <name>Melbourne (Flinders Street station)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Final day: the Tasmania guess was wrong — Sam+Toby claimed QLD+NSW at Gold Coast Airport&lt;/li&gt;&lt;li&gt;Lost 4-3&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-03-14T09:05:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>

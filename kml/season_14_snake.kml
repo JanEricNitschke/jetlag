@@ -8,7 +8,7 @@
         <name>Yongsan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Blocker (with Sam) at game start, Day 1 of Ben&amp;#x27;s run; blockers start 7:00 per doc&lt;/li&gt;&lt;li&gt;Adam&amp;#x27;s 07:22 KST social post from Yongsan 잔디광장 (37.52811, 126.96601)&lt;/li&gt;&lt;li&gt;Seed: Day 1 timeline — 7:05 KTX toward Shin Haeundae, Yongsan→Cheonan-Asan→Osong&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T07:00:00</begin>
+          <begin>2025-04-01T22:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -91,7 +91,7 @@
         <name>Iksan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Battle Challenge vs Ben — Ben loses and crashes ~13:00–13:15 (with Sam)&lt;/li&gt;&lt;li&gt;Clip &amp;#x27;implied that Ben misses based on velocity&amp;#x27; at 35.94025, 126.94691&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T11:54:00</begin>
+          <begin>2025-04-02T02:54:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -109,6 +109,9 @@
       <Placemark>
         <name>Iksan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Role switch: becomes blocker (with Ben) for Sam&amp;#x27;s run; blockers start ~13:00–13:30 per doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-04-02T04:36:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -126,7 +129,7 @@
         <name>Osong Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Roadblock placed (with Ben) — &amp;#x27;Google Maps rating&amp;#x27; challenge proved at a park ~18–20 min walk from Osong&lt;/li&gt;&lt;li&gt;Sam cleared it ~15:00; blockers misread Sam as heading south&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T14:11:00</begin>
+          <begin>2025-04-02T05:11:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -145,7 +148,7 @@
         <name>Daejeon Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Roadblock placed (with Ben); Layover: blockers &amp;#x27;placed something in Daejeon then went on&amp;#x27;&lt;/li&gt;&lt;li&gt;Layover: went loosely SE from Daejeon toward Dongdaegu, circled back on the Gyeongbu low-speed line considering a Gimcheon→north connection&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T15:03:00</begin>
+          <begin>2025-04-02T06:03:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -164,7 +167,7 @@
         <name>Dongdaegu Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Roadblock placed (with Ben); blockers timed out in Daegu end of Day 1 (Layover)&lt;/li&gt;&lt;li&gt;Doc&amp;#x27;s further KTX 045 Dongdaegu→Gyeongju leg doubtful — Layover contradicts (omitted)&lt;/li&gt;&lt;li&gt;Aquarium in the mall next to the station closed minutes before they arrived (Layover)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T16:57:00</begin>
+          <begin>2025-04-02T07:57:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -199,7 +202,7 @@
         <name>Pohang Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Pre-positioned (with Ben) for Battle Challenge vs Sam — blockers LOSE&lt;/li&gt;&lt;li&gt;Station entrance clip (robot statue) 36.07166, 129.34140&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T11:02:00</begin>
+          <begin>2025-04-03T02:02:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -218,7 +221,7 @@
         <name>Seogyeongju Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Returned (with Ben) on the same train Sam rode; Sam crashes here on their roadblock&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T14:14:00</begin>
+          <begin>2025-04-03T05:14:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -253,7 +256,7 @@
         <name>Dongdaegu Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Cleared Dongdaegu roadblock (placed by Ben+Sam earlier); overnight here&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T18:41:00</begin>
+          <begin>2025-04-03T09:41:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -272,7 +275,7 @@
         <name>Osong Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Cleared Osong roadblock — &amp;#x27;We&amp;#x27;re so back&amp;#x27; clip (solar ~9:00–10:00)&lt;/li&gt;&lt;li&gt;Osong clips: 36.61901, 127.32727 / 36.620118, 127.326375&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-04T08:37:00</begin>
+          <begin>2025-04-03T23:37:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -291,7 +294,7 @@
         <name>Yongsan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Battle Challenge vs blockers (Ben+Sam) — blindfolded ramen tasting (3 Balduk bowls vs blockers&amp;#x27; 2 a block away)&lt;/li&gt;&lt;li&gt;Outcome UNKNOWN — may have crashed here; doc: &amp;#x27;we don&amp;#x27;t have any further information on his run&amp;#x27;&lt;/li&gt;&lt;li&gt;Run distance per doc: 339.5 vs 536 km (conflicting; 536-km breakdown matches outline variant via Busan — AMBIGUOUS)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-04T10:59:00</begin>
+          <begin>2025-04-04T01:59:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -498,7 +501,7 @@
         <name>Yongsan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Ben&amp;#x27;s run start (Snaker), 8:00 per doc; game start station for all runs&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T08:00:00</begin>
+          <begin>2025-04-01T23:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -516,6 +519,9 @@
       <Placemark>
         <name>Pyeongtaek</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Pass-through node — doc: &amp;#x27;Ben reaches Pyeongtaek based on his map drawing&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-04-02T00:23:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -533,7 +539,7 @@
         <name>Cheonan</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&amp;#x27;It&amp;#x27;s milk&amp;#x27; clip at Cheonan-Yeog (not Cheonan-Asan); sun calc ~9:30–10:00&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T09:46:00</begin>
+          <begin>2025-04-02T00:46:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -552,7 +558,7 @@
         <name>Onyangoncheon Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Pass-through (&amp;#x27;via Asan 10:36&amp;#x27;); clip geolocated at Onyangoncheon Station, tied to Ben&amp;#x27;s Yongsan→Pyeongtaek→Cheonan→Hongseong path&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T10:36:00</begin>
+          <begin>2025-04-02T01:36:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -571,7 +577,7 @@
         <name>Hongseong</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Pass-through node 11:22 — blockers notified here that Ben was heading to Iksan&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T11:22:00</begin>
+          <begin>2025-04-02T02:22:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -590,7 +596,7 @@
         <name>Iksan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Battle Challenge vs blockers (Sam+Adam) — Ben LOSES and crashes ~13:00–13:15 (sun calc ~13:15 ±15–30 min, high confidence)&lt;/li&gt;&lt;li&gt;Frame advance: &amp;#x27;implied that Ben misses based on velocity&amp;#x27; (not confirmed a challenge fail per se)&lt;/li&gt;&lt;li&gt;Run distance per doc: ~252.5–263 km (conflicting figures); Ben&amp;#x27;s run ends here&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T12:49:00</begin>
+          <begin>2025-04-02T03:49:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -608,6 +614,9 @@
       <Placemark>
         <name>Iksan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Role switch: becomes blocker (with Adam) for Sam&amp;#x27;s run; blockers start ~13:00–13:30 per doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-04-02T04:36:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -625,7 +634,7 @@
         <name>Osong Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Roadblock placed (with Adam) — &amp;#x27;Google Maps rating&amp;#x27; challenge proved at a park ~18–20 min walk from Osong; Sam cleared it ~15:00&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T14:11:00</begin>
+          <begin>2025-04-02T05:11:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -644,7 +653,7 @@
         <name>Daejeon Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Roadblock placed (with Adam); Layover: blockers &amp;#x27;placed something in Daejeon then went on&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T15:03:00</begin>
+          <begin>2025-04-02T06:03:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -663,7 +672,7 @@
         <name>Dongdaegu Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Timed out in Daegu end of Day 1 (Layover); doc&amp;#x27;s KTX 045 to Gyeongju doubtful (omitted)&lt;/li&gt;&lt;li&gt;Layover: circled back on the Gyeongbu low-speed line considering a Gimcheon→north connection&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T16:57:00</begin>
+          <begin>2025-04-02T07:57:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -698,7 +707,7 @@
         <name>Pohang Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Pre-positioned (with Adam); Battle Challenge vs Sam — blockers LOSE (&amp;#x27;We are going to declare a Battle Challenge&amp;#x27; clip)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T11:02:00</begin>
+          <begin>2025-04-03T02:02:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -717,7 +726,7 @@
         <name>Seogyeongju Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Returned (with Adam) as Sam crashes here on their roadblock&lt;/li&gt;&lt;li&gt;New blocker duo Ben+Sam for Adam&amp;#x27;s run (departs 15:00)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T14:14:00</begin>
+          <begin>2025-04-03T05:14:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -736,7 +745,7 @@
         <name>Pohang Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Roadblock placed (with Sam)&lt;/li&gt;&lt;li&gt;Outline variant: blockers end Day 2 at Pohang via KTX 247 (18:28–18:43) instead — AMBIGUOUS, main kept&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T15:18:00</begin>
+          <begin>2025-04-03T06:18:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -755,7 +764,7 @@
         <name>Dongdaegu Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Roadblock placed (with Sam) — Adam clears it on arrival 18:41&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T16:56:00</begin>
+          <begin>2025-04-03T07:56:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -774,7 +783,7 @@
         <name>Osong Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;End of Day 2 (with Sam); overnight near Osong&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T18:46:00</begin>
+          <begin>2025-04-03T09:46:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -809,7 +818,7 @@
         <name>Yongsan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Prep + Battle Challenge vs Adam ~11:00 (blindfolded ramen; Adam&amp;#x27;s outcome unknown)&lt;/li&gt;&lt;li&gt;Blockers&amp;#x27; last documented position&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 3&lt;/b&gt;</description>
         <TimeSpan>
-          <begin>2025-04-04T09:25:00</begin>
+          <begin>2025-04-04T00:25:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1013,7 +1022,7 @@
         <name>Yongsan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Blocker (with Adam) start Day 1 of Ben&amp;#x27;s run, 7:00 per doc&lt;/li&gt;&lt;li&gt;Sam&amp;#x27;s 07:17 KST social post on Apr 2&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T07:00:00</begin>
+          <begin>2025-04-01T22:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1096,7 +1105,7 @@
         <name>Iksan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Battle Challenge vs Ben (with Adam) — Ben loses and crashes ~13:00–13:15&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T11:54:00</begin>
+          <begin>2025-04-02T02:54:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1114,6 +1123,9 @@
       <Placemark>
         <name>Iksan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Sam&amp;#x27;s run starts ~14:00–14:30 (approximate per doc) from Iksan, Ben&amp;#x27;s crash point&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-04-02T05:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -1131,7 +1143,7 @@
         <name>Osong Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Roadblock CLEARED — &amp;#x27;Google Maps rating&amp;#x27; challenge (Layover-confirmed; blockers&amp;#x27; 20-min delay let Sam deduce the park)&lt;/li&gt;&lt;li&gt;Waited at Osong &amp;#x27;on the high speed line... one direction or the other&amp;#x27; while blockers misread him as going south (Layover)&lt;/li&gt;&lt;li&gt;Platform 13 clip (Chungbuk Line toward Cheongju/Jecheon/Yeongju, person with Sam) — presumably during Sam&amp;#x27;s run&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T15:03:00</begin>
+          <begin>2025-04-02T06:03:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1150,7 +1162,7 @@
         <name>Yongsan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Layover: crowded trains, little footage until &amp;#x27;back to Yongsan and Seoul&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T17:22:00</begin>
+          <begin>2025-04-02T08:22:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1169,7 +1181,7 @@
         <name>Sangbong Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Timed out in Seoul end of Day 1; &amp;#x27;perfect connection the following morning&amp;#x27; (~7:12 per transcript / 7:16 per doc)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
         <TimeSpan>
-          <begin>2025-04-02T18:16:00</begin>
+          <begin>2025-04-02T09:16:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1187,6 +1199,9 @@
       <Placemark>
         <name>Sangbong Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 start; doc: KTX 841 from Sangbong 07:16 (or boarded Cheongnyangni / Yangpyeong 07:44 — ambiguous)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-04-02T22:16:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -1204,7 +1219,7 @@
         <name>Jinbu Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;KTX 841 timepoint arr 08:42 dep 08:43; &amp;#x27;I really hope we don&amp;#x27;t have a Battle Challenge&amp;#x27; clip&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T08:42:00</begin>
+          <begin>2025-04-02T23:42:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1223,7 +1238,7 @@
         <name>Donghae Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;KTX 841 terminates here (unusually express, per Layover)&lt;/li&gt;&lt;li&gt;Beach clip ~9:30 solar at Hanseom Beach, Mukho (37.51987, 129.12237)&lt;/li&gt;&lt;li&gt;Blockers had planned to cover &amp;#x27;Yeongju or Donghae&amp;#x27; but their first train wouldn&amp;#x27;t leave (delay) (Layover)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T09:39:00</begin>
+          <begin>2025-04-03T00:39:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1242,7 +1257,7 @@
         <name>Pohang Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Battle Challenge vs blockers (Ben+Adam) — Sam WINS&lt;/li&gt;&lt;li&gt;&amp;#x27;We are going to declare a Battle Challenge&amp;#x27; clip at station entrance (robot statue 36.07166, 129.34140)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T12:37:00</begin>
+          <begin>2025-04-03T03:37:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1261,7 +1276,7 @@
         <name>Seogyeongju Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;CRASH — roadblock placed by blockers earlier on Day 2; Sam&amp;#x27;s run ends&lt;/li&gt;&lt;li&gt;Run distance per doc: ~672.2–699 km (conflicting figures)&lt;/li&gt;&lt;li&gt;SRT 393 via Dongdaegu variant crossed out in doc (SRT likely not in play; solar times don&amp;#x27;t fit)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T14:14:00</begin>
+          <begin>2025-04-03T05:14:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1296,7 +1311,7 @@
         <name>Pohang Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Roadblock placed (with Ben)&lt;/li&gt;&lt;li&gt;Outline variant: Day 2 ends at Pohang via KTX 247 — AMBIGUOUS, main kept&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T15:18:00</begin>
+          <begin>2025-04-03T06:18:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1315,7 +1330,7 @@
         <name>Dongdaegu Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Roadblock placed (with Ben) — Adam clears it on arrival 18:41&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T16:56:00</begin>
+          <begin>2025-04-03T07:56:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1334,7 +1349,7 @@
         <name>Osong Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;End of Day 2 (with Ben)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
         <TimeSpan>
-          <begin>2025-04-03T18:46:00</begin>
+          <begin>2025-04-03T09:46:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1369,7 +1384,7 @@
         <name>Yongsan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Prep + Battle Challenge vs Adam ~11:00 (blindfolded ramen) — outcome unknown&lt;/li&gt;&lt;li&gt;Day 5 (Apr 6) unknown: Sam&amp;#x27;s Strava puts him running in Seoul seconds before the game — either Day 5 not played (runs 4+5 folded into Day 4) or Sam Snaking from Seoul 8:00 (open question in doc)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 3&lt;/b&gt;</description>
         <TimeSpan>
-          <begin>2025-04-04T09:25:00</begin>
+          <begin>2025-04-04T00:25:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>

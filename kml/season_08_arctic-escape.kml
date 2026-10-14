@@ -8,7 +8,7 @@
         <name>Utqiagvik Whale Bone Arch</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
         <TimeSpan>
-          <begin>2023-10-23T15:00:00</begin>
+          <begin>2023-10-23T23:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -95,6 +95,9 @@ Members who visited:
 2) Michelle
 3) Adam
 4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-10-24T01:37:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -127,6 +130,9 @@ Members who visited:
       <Placemark>
         <name>Anchorage Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-24T03:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -143,6 +149,9 @@ Members who visited:
       <Placemark>
         <name>Earthquake Park climbing tree</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-24T03:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -159,6 +168,9 @@ Members who visited:
       <Placemark>
         <name>Earthquake Park Rest period hugging tree</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-24T04:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -175,6 +187,9 @@ Members who visited:
       <Placemark>
         <name>Morning twilight view of Anchorage</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-24T16:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -191,6 +206,9 @@ Members who visited:
       <Placemark>
         <name>McHugh Creek waterfall</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-24T16:55:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -207,6 +225,9 @@ Members who visited:
       <Placemark>
         <name>Walmart</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-24T17:55:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -217,12 +238,15 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>-96.8248818,32.6843023</coordinates>
+          <coordinates>-149.8700635,61.1402298</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Anchorage Zoo</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-24T18:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -239,6 +263,9 @@ Members who visited:
       <Placemark>
         <name>Anchorage Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-24T20:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -255,6 +282,9 @@ Members who visited:
       <Placemark>
         <name>Sea-Tac Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-24T23:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -271,6 +301,9 @@ Members who visited:
       <Placemark>
         <name>Archie McPhee</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-25T01:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -287,6 +320,9 @@ Members who visited:
       <Placemark>
         <name>Safeway Liquor</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-25T02:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -303,6 +339,9 @@ Members who visited:
       <Placemark>
         <name>Sea-Tac Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-25T14:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -319,6 +358,9 @@ Members who visited:
       <Placemark>
         <name>Boise Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-25T15:55:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -367,6 +409,9 @@ Members who visited:
       <Placemark>
         <name>Albertsons</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-25T16:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -415,6 +460,9 @@ Members who visited:
       <Placemark>
         <name>Boise River Dam - Black Cliffs Rock Climbing</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-25T17:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -431,6 +479,9 @@ Members who visited:
       <Placemark>
         <name>The Home Depot Boise</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-25T17:50:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -463,6 +514,9 @@ Members who visited:
       <Placemark>
         <name>Boise Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-25T19:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -479,6 +533,9 @@ Members who visited:
       <Placemark>
         <name>Salt Lake City Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-25T20:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -495,6 +552,9 @@ Members who visited:
       <Placemark>
         <name>Petco</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-25T21:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -543,6 +603,9 @@ Members who visited:
       <Placemark>
         <name>Petco</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-25T22:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -559,6 +622,9 @@ Members who visited:
       <Placemark>
         <name>Holiday Inn Express &amp; Suites</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-26T01:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -591,6 +657,9 @@ Members who visited:
       <Placemark>
         <name>Holiday Inn Express &amp; Suites</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-26T12:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -687,6 +756,9 @@ Members who visited:
       <Placemark>
         <name>Enterprise Rent-A-Car</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-26T15:16:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -703,6 +775,9 @@ Members who visited:
       <Placemark>
         <name>Montrose Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-26T18:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -719,6 +794,9 @@ Members who visited:
       <Placemark>
         <name>Dallas Fort Worth International Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-26T21:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -751,6 +829,9 @@ Members who visited:
       <Placemark>
         <name>Walmart</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-26T22:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -783,6 +864,9 @@ Members who visited:
       <Placemark>
         <name>Dallas Sportatorium</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-26T23:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -815,6 +899,9 @@ Members who visited:
       <Placemark>
         <name>Hyatt Place Hotel</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-27T00:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -831,6 +918,9 @@ Members who visited:
       <Placemark>
         <name>Dallas Fort Worth International Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-27T12:29:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -847,6 +937,9 @@ Members who visited:
       <Placemark>
         <name>Birmingham-Shuttlesworth International Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-27T14:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -895,6 +988,9 @@ Members who visited:
       <Placemark>
         <name>Hartsfield-Jackson Atlanta International Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-27T17:03:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -911,6 +1007,9 @@ Members who visited:
       <Placemark>
         <name>Key West International Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-27T20:50:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -927,6 +1026,9 @@ Members who visited:
       <Placemark>
         <name>Southernmost Point Bar</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-27T21:40:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -943,6 +1045,9 @@ Members who visited:
       <Placemark>
         <name>Southernmost Point of Continental USA marker</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michelle Khare</description>
+        <TimeSpan>
+          <begin>2023-10-27T21:44:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -1109,7 +1214,7 @@ Members who visited:
           </LineStyle>
         </Style>
         <LineString>
-          <coordinates>-149.73191,61.0163947 -96.8248818,32.6843023</coordinates>
+          <coordinates>-149.73191,61.0163947 -149.8700635,61.1402298</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -1122,7 +1227,7 @@ Members who visited:
           </LineStyle>
         </Style>
         <LineString>
-          <coordinates>-96.8248818,32.6843023 -149.7904736,61.1238285</coordinates>
+          <coordinates>-149.8700635,61.1402298 -149.7904736,61.1238285</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -1717,7 +1822,7 @@ Members who visited:
         <name>Utqiagvik Whale Bone Arch</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
         <TimeSpan>
-          <begin>2023-10-23T15:00:00</begin>
+          <begin>2023-10-23T23:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -1831,6 +1936,9 @@ Members who visited:
       <Placemark>
         <name>Top of the World Hotel</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-24T04:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1884,6 +1992,9 @@ Members who visited:
 2) Michelle
 3) Adam
 4) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-10-24T19:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1900,6 +2011,9 @@ Members who visited:
       <Placemark>
         <name>Anchorage Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-24T22:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1916,6 +2030,9 @@ Members who visited:
       <Placemark>
         <name>Sea-Tac Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-25T01:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1932,6 +2049,9 @@ Members who visited:
       <Placemark>
         <name>Sea-Tac Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-25T13:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1948,6 +2068,9 @@ Members who visited:
       <Placemark>
         <name>Voula's Offshore Cafe</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-25T13:47:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1964,6 +2087,9 @@ Members who visited:
       <Placemark>
         <name>Seattle Outlet Goodwill</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-25T14:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1980,6 +2106,9 @@ Members who visited:
       <Placemark>
         <name>Mary's Place Donation Center</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-25T15:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1996,6 +2125,9 @@ Members who visited:
       <Placemark>
         <name>Oxbow Park</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-25T15:50:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2012,6 +2144,9 @@ Members who visited:
       <Placemark>
         <name>Giant Hat &amp; Boots</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-25T16:50:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2060,6 +2195,9 @@ Members who visited:
       <Placemark>
         <name>Flight to Denver is delayed 129 minutes while the bags are not on board for over 100 minutes</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-25T22:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2076,6 +2214,9 @@ Members who visited:
       <Placemark>
         <name>Denver Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-26T00:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2124,6 +2265,9 @@ Members who visited:
       <Placemark>
         <name>Castle Marne</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-26T13:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2156,6 +2300,9 @@ Members who visited:
       <Placemark>
         <name>12 Mile Stables</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-26T14:05:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2188,6 +2335,9 @@ Members who visited:
       <Placemark>
         <name>Denver Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-26T16:55:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2204,6 +2354,9 @@ Members who visited:
       <Placemark>
         <name>Milwaukee Mitchell International Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-26T19:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2220,6 +2373,9 @@ Members who visited:
       <Placemark>
         <name>Milwaukee Airport Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-26T20:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2236,6 +2392,9 @@ Members who visited:
       <Placemark>
         <name>Chicago Union Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Transfer to the sleeper train (mode from Milwaukee not stated)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-10-26T21:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2268,6 +2427,9 @@ Members who visited:
       <Placemark>
         <name>Lou Malnati's Pizzeria</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-26T22:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2284,6 +2446,9 @@ Members who visited:
       <Placemark>
         <name>Chicago Union Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Transfer to the sleeper train (mode from Milwaukee not stated)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-10-26T23:40:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2300,6 +2465,9 @@ Members who visited:
       <Placemark>
         <name>Connellsville Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-27T11:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2412,6 +2580,9 @@ Members who visited:
       <Placemark>
         <name>Pittsburgh Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-27T15:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2428,6 +2599,9 @@ Members who visited:
       <Placemark>
         <name>Hartsfield-Jackson Atlanta International Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-27T18:57:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -2460,6 +2634,9 @@ Members who visited:
       <Placemark>
         <name>Flight to Sarasota</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-10-27T21:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>

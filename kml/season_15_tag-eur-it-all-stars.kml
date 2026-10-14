@@ -8,7 +8,7 @@
         <name>Charleville-Mézières</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start, day 1, 06:00 CEST (teaser clip 1 at the Beffroi; &amp;#x27;Should we say we&amp;#x27;re back in Charleville?&amp;#x27;)&lt;/li&gt;&lt;li&gt;Day-1 morning AMBIGUOUS: Charleville 6:30 -&amp;gt; Hirson 7:07 -&amp;gt; Laon 9:17 (cost 1290) vs Charleville 6:08 -&amp;gt; Reims 7:00 -&amp;gt; Laon 8:03 (cost 1000; Reims clip solar 7:15 leans this way) — no legs&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T06:00:00</begin>
+          <begin>2025-06-10T04:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -27,7 +27,7 @@
         <name>Laon</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day-1 clips: Ruelle des Harengs (&amp;#x27;We&amp;#x27;re in a crevice!&amp;#x27;), Église Saint-Marcel solar 09:30, 5 Rue du Cloitre, Cathédrale Notre-Dame; challenges here&lt;/li&gt;&lt;li&gt;Arrival 08:03 (via-Reims branch) or 09:17 (via-Hirson branch); clip time 09:30 used&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T09:30:00</begin>
+          <begin>2025-06-10T07:30:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -46,7 +46,7 @@
         <name>Reims</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Reims station clips day 1 (trailer 5 solar 7:15 — morning branch pass; trailer 12 &amp;#x27;prank show&amp;#x27;)&lt;/li&gt;&lt;li&gt;Midday visit after Laon challenges (common to both morning branches)&lt;/li&gt;&lt;li&gt;Reims 14:16 -&amp;gt; Prunay 14:48 leg OMITTED: doc says the connection is &amp;#x27;partly a bus route&amp;#x27; — mode unclear&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T14:05:00</begin>
+          <begin>2025-06-10T12:05:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -65,7 +65,7 @@
         <name>Prunay</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Soby TAGGED by Madame at the Mairie (teaser clip 18, solar 16:00); tag freeze 16:15-17:00&lt;/li&gt;&lt;li&gt;Doc Q9: possibly aiming for a Prunay charter flight to Jersey (8800 coins)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T16:00:00</begin>
+          <begin>2025-06-10T14:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -84,7 +84,7 @@
         <name>Paris</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Overnight Paris day 1 (Prunay 17:43 -&amp;gt; 19:36)&lt;/li&gt;&lt;li&gt;Station not specified in doc; Gare de l&amp;#x27;Est coordinate used&lt;/li&gt;&lt;li&gt;Day-2 departure AMBIGUOUS: CDG 7:11 flight AF1542 CDG-GVA -&amp;gt; Nyon 8:39 -&amp;gt; Visp 10:50 -&amp;gt; Zermatt 12:17 (primary) vs Gare du Nord 6:54 train via Basel -&amp;gt; Zermatt 14:17 (alternative, used in doc cost table) — no legs&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T19:36:00</begin>
+          <begin>2025-06-10T17:36:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -135,7 +135,7 @@
         <name>Olten</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Overnight Olten; frozen by Bean 18:30-19:15 (&amp;#x27;Olten-Bern moves seem to be a cooperation between the chasers to catch Madame&amp;#x27;)&lt;/li&gt;&lt;li&gt;Doc: 19:20 Zurich train — either missed or frozen&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-11T17:48:00</begin>
+          <begin>2025-06-11T15:48:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -154,7 +154,7 @@
         <name>Basel</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day-3 morning stop (return)&lt;/li&gt;&lt;li&gt;Onward AMBIGUOUS: Basel 7:06 -&amp;gt; Stuttgart 10:04 or 6:06 -&amp;gt; 8:59, or via Strasbourg 6:20 -&amp;gt; 7:39 -&amp;gt; 8:45 -&amp;gt; Stuttgart 10:04 (delayed 10:38) — no legs&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-12T06:54:00</begin>
+          <begin>2025-06-12T04:54:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -172,6 +172,9 @@
       <Placemark>
         <name>Stuttgart</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Arrival 10:04 / 8:59 / 10:38 depending on branch&lt;/li&gt;&lt;li&gt;Onward AMBIGUOUS: Stuttgart 10:58 -&amp;gt; Nuremberg 13:20 (delayed 13:39) or 10:09 -&amp;gt; Nürnberg 12:18 (frozen by Bean); Frankfurt variant Stuttgart 11:27 -&amp;gt; Frankfurt 12:59 -&amp;gt; Kassel 15:22 — no legs&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-06-12T08:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffa21f7b</color>
@@ -188,6 +191,9 @@
       <Placemark>
         <name>Nuremberg</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Arrival 13:20 (delayed 13:39) or 12:18 depending on branch; Stuttgart -&amp;gt; Nürnberg legs omitted&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-06-12T11:39:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffa21f7b</color>
@@ -205,7 +211,7 @@
         <name>Kassel (IntercityHotel)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Toby Hendy&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Bean tagged here ~16:30-17:00; tag by Soby implied (Ben: &amp;#x27;Are you ready to kill Sam once and for all?&amp;#x27;)&lt;/li&gt;&lt;li&gt;Doc Q10: both Ben and Brian running in the clip — who holds the camera&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-12T16:34:00</begin>
+          <begin>2025-06-12T14:34:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -305,7 +311,7 @@
         <name>Charleville-Mézières</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start, day 1, 06:00 CEST; Madame departs 7:17&lt;/li&gt;&lt;li&gt;Doc team color for this team is green (season JSON color #1976D2 differs — kept per canonical file)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T06:00:00</begin>
+          <begin>2025-06-10T04:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -324,7 +330,7 @@
         <name>Paris (Gare de l'Est)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Gare de l&amp;#x27;Est clips day 1 (teaser clip 3, trailer clip 1)&lt;/li&gt;&lt;li&gt;Doc: train connects toward Laon but Soby had a train in the opposite direction at the same time&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T09:01:00</begin>
+          <begin>2025-06-10T07:01:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -343,7 +349,7 @@
         <name>Prunay</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;TAGS Soby here ~16:00-16:15 (Mairie de Prunay clip, teaser clip 18); tag freeze 16:15-17:00 (all teams)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T16:00:00</begin>
+          <begin>2025-06-10T14:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -362,7 +368,7 @@
         <name>Maison Blanche (Reims)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Challenge stop (Maison Blanche clip 17:00-17:30; Adam counting &amp;#x27;two... three&amp;#x27;)&lt;/li&gt;&lt;li&gt;Doc: &amp;#x27;Reims is dangerous if Bean is frozen there, Champagne Ardenne doesn&amp;#x27;t have many store options&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T17:11:00</begin>
+          <begin>2025-06-10T15:11:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -381,7 +387,7 @@
         <name>Strasbourg</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Overnight Strasbourg; morning clip June 11 solar ~7:10 at 10 Bd du Président-Wilson (&amp;#x27;Today is not going to be a lesson about hubris, Michelle&amp;#x27;)&lt;/li&gt;&lt;li&gt;Day-2 morning AMBIGUOUS: direct Strasbourg 6:21 -&amp;gt; Zermatt 11:17 (primary) vs Strasbourg 7:21 -&amp;gt; Basel 8:56 -&amp;gt; (Bern/Thun) -&amp;gt; Zermatt 14:17 (alternative, used in doc cost table) — no legs&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T19:33:00</begin>
+          <begin>2025-06-10T17:33:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -399,6 +405,9 @@
       <Placemark>
         <name>Zermatt</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Runner day 2; arrival 11:17 (primary; frozen by Bean 12:05-12:50) or 14:17 (alt; frozen by Bean 14:17-15:02)&lt;/li&gt;&lt;li&gt;Gornergrat win-alternative (11:30 train, 360 coins) NOT included — doc&amp;#x27;s leading theory: Madame did not win day 2 (Q10)&lt;/li&gt;&lt;li&gt;Evening AMBIGUOUS: primary Zermatt 13:06 -&amp;gt; Zurich 16:28 -&amp;gt; Olten 17:21 -&amp;gt; Bern 18:21 (overnight Bern, frozen by Bean 18:30-19:15) vs alt Zermatt 15:37 -&amp;gt; Thun 17:34 -&amp;gt; Basel 19:01 — no legs; Bean&amp;#x27;s tag of Madame (making Bean the day-3 runner) implied, location/time not stated&lt;/li&gt;&lt;li&gt;Day-3 block starts from Olten 6:02 — inconsistent with both overnight options (doc Uncertain #4)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-06-11T09:21:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffd27619</color>
@@ -432,7 +441,7 @@
         <name>Zurich HBF</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Michelle Khare</description>
         <TimeSpan>
-          <begin>2025-06-12T06:54:00</begin>
+          <begin>2025-06-12T04:54:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -451,7 +460,7 @@
         <name>Ulm</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Michelle Khare</description>
         <TimeSpan>
-          <begin>2025-06-12T10:40:00</begin>
+          <begin>2025-06-12T08:40:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -470,7 +479,7 @@
         <name>Nuremberg</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Same Nuremberg 14:34 -&amp;gt; Kassel train as Soby&amp;#x27;s leg (consistent with the interchangeable note)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-12T13:53:00</begin>
+          <begin>2025-06-12T11:53:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -489,7 +498,7 @@
         <name>Kassel (IntercityHotel)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Michelle Khare&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Arrival ~16:34 for Bean&amp;#x27;s tag ~16:30-17:00 (IntercityHotel clips)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-12T16:34:00</begin>
+          <begin>2025-06-12T14:34:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -615,7 +624,7 @@
         <name>Charleville-Mézières</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start, day 1, 06:00 CEST; Bean departs 7:04&lt;/li&gt;&lt;li&gt;Unlocated teaser clip 16 (flat landscape) tentatively on the Charleville-Reims line (Rethel-Bazancourt, 49.316223 4.146104) — Brian&amp;#x27;s jersey in reflection, &amp;#x27;hard to confirm&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T06:00:00</begin>
+          <begin>2025-06-10T04:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -634,7 +643,7 @@
         <name>Poix-Terron</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Station clip (teaser clip 2, Ben: &amp;#x27;Let&amp;#x27;s fucking go, Brian!&amp;#x27;); track 1 = direction Sedan, track 2 = Champagne-Ardenne&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T07:15:00</begin>
+          <begin>2025-06-10T05:15:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -653,7 +662,7 @@
         <name>Reims</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Trailer clip 12 (Ben: &amp;#x27;Maybe it was a prank show&amp;#x27;) at Reims station day 1&lt;/li&gt;&lt;li&gt;Onward AMBIGUOUS (doc Uncertain #2): primary Reims 8:02/8:32 -&amp;gt; Paris Nord 9:01/9:31-10:32 -&amp;gt; Laon 13:16 vs alternative Reims 12:38 -&amp;gt; Laon 13:31 (or 8:30 -&amp;gt; 12:25 via Charleville return) — no legs; seed: first better supported&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T08:00:00</begin>
+          <begin>2025-06-10T06:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -672,7 +681,7 @@
         <name>Laon</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Clip at 7 Pl. des Droits de l&amp;#x27;Homme, day 1 solar 12:00, Bean (image mirrored per Brian&amp;#x27;s jersey)&lt;/li&gt;&lt;li&gt;Arrival 13:16 (primary via Paris Nord) / 13:31 or 12:25 (alternative branches)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-10T12:00:00</begin>
+          <begin>2025-06-10T10:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -690,6 +699,9 @@
       <Placemark>
         <name>Paris (Gare du Nord)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Overnight Paris day 1; primary has Paris Nord 9:01-10:32 (Gare du Nord clip solar 10:15, Michelle/Brian) plus the evening return; alternative arrives 18:16 from Reims&lt;/li&gt;&lt;li&gt;Primary-branch stops not included: freeze at Crépy-en-Valois 16:15-17:00 (&amp;#x27;made it only to Crépy-en-Valois&amp;#x27; after Laon 15:34), Mitry-Mory Transilien K clip ~18:00 (medium confidence)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-06-10T08:28:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>fff5a542</color>
@@ -706,6 +718,9 @@
       <Placemark>
         <name>Paris Charles de Gaulle Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day-2 departure; flight CDG-&amp;gt;ZRH dep 6:37 (primary) or 9:17 (alternative) — same route both branches&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-06-10T16:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>fff5a542</color>
@@ -722,6 +737,9 @@
       <Placemark>
         <name>Zurich Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Arrivals A gates past gate A70 clip (&amp;#x27;Day B&amp;#x27; = likely day 2, Bean flying in)&lt;/li&gt;&lt;li&gt;Arrival 7:48 (primary) or 10:28 (alt)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-06-11T05:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>fff5a542</color>
@@ -739,7 +757,7 @@
         <name>Visp</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Station clock clip 10:31 (Ben: &amp;#x27;We&amp;#x27;re this fucking close Brian!&amp;#x27;); change point for Zermatt trains (usually platform 3)&lt;/li&gt;&lt;li&gt;Clock time supports the primary (6:37 flight) branch&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-11T10:31:00</begin>
+          <begin>2025-06-11T08:31:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -757,6 +775,9 @@
       <Placemark>
         <name>Zermatt</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Arrival 11:50 (primary; supported by Visp clock 10:31) or 14:17 (alt); frozen by Madame 16:30-17:15 (primary)&lt;/li&gt;&lt;li&gt;Afternoon AMBIGUOUS: primary Zermatt 12:06/12:37 -&amp;gt; Zurich 15:28/15:58, then Zurich 17:32 -&amp;gt; Bern 18:28, Bern 18:33 -&amp;gt; Zurich 19:54 (track 15) vs alt Zermatt 14:37 -&amp;gt; Basel 18:01, Basel 18:06/18:43 -&amp;gt; Zurich 19:00/19:52 (track 15) — no legs&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-06-11T09:50:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>fff5a542</color>
@@ -773,6 +794,9 @@
       <Placemark>
         <name>Zurich HBF</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Tracks 14/15 clip; evening arrival on track 15 minutes before the rest period (both branches)&lt;/li&gt;&lt;li&gt;Day-3 start here; dep 6:05 (transport tab) or 6:37 IC (clip discussion; track-change fake-out then run to track 12)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-06-12T04:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>fff5a542</color>
@@ -790,7 +814,7 @@
         <name>Singen</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Doc: &amp;#x27;Rheinfall confirms the train to Singen&amp;#x27;; Stuttgart route rejected (chasers would arrive 20 min earlier)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-12T07:18:00</begin>
+          <begin>2025-06-12T05:18:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -809,7 +833,7 @@
         <name>Ulm</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Onward AMBIGUOUS (doc Uncertain #8): branch A Ulm 10:01 -&amp;gt; Augsburg 10:41 -&amp;gt; Nürnberg 12:59 vs branch B Ulm 10:18 -&amp;gt; Donauwörth 11:44 -&amp;gt; Nürnberg 12:59 — no legs&lt;/li&gt;&lt;li&gt;Tram clip (&amp;#x27;Parken verboten&amp;#x27;, day 3 clothing) unresolved: Ulm or Augsburg candidates&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-12T09:40:00</begin>
+          <begin>2025-06-12T07:40:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -828,7 +852,7 @@
         <name>Nuremberg</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Arrival 12:59 via Augsburg or Donauwörth — both branches agree on the arrival time&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-12T12:59:00</begin>
+          <begin>2025-06-12T10:59:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -847,7 +871,7 @@
         <name>Kassel (IntercityHotel)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle &amp; Brian McManus&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;TAGGED here ~16:30-17:00 (IntercityHotel clips, solar 16:30 &amp;amp; 17:00; &amp;#x27;probably about to be tagged&amp;#x27;)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-06-12T15:34:00</begin>
+          <begin>2025-06-12T13:34:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>

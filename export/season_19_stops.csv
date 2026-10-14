@@ -1,5 +1,5 @@
 season,season_name,journey_team,journey_color,stop_index,name,longitude,latitude,when_start,when_end,video_episode,video_start,video_end,players_override,additional_players,notes,end_of_day
-19,Japanorama,Sam Denby; Ben Doyle,#F57C00,0,Nishi-Oyama Station,130.5766412,31.1903089,2026-05-21T07:00:00,,,,,,,"Race start: southernmost train station in Japan (Ibusuki Makurazaki Line, Kagoshima); 07:50 JST social post
+19,Japanorama,Sam Denby; Ben Doyle,#F57C00,0,Nishi-Oyama Station,130.5766412,31.1903089,2026-05-21T07:00:00+09:00,,,,,,,"Race start: southernmost train station in Japan (Ibusuki Makurazaki Line, Kagoshima); 07:50 JST social post
 Both teams start here",
 19,Japanorama,Sam Denby; Ben Doyle,#F57C00,1,Kagoshima Cultural Experience (Sengan-en),130.5795502,31.6187848,,,,,,,,Day 1: Shihan Mato bow-and-arrow archery at Sengan-en (opens 9AM),
 19,Japanorama,Sam Denby; Ben Doyle,#F57C00,2,Shin-Yatsushiro Station,130.634807,32.5181068,,,,,,,,"Multiple Day 1 clips (approach pin 32.5153/130.6358; mirrored clip, Platform 2; Sam pointing south at local train bound for Kumamoto)
@@ -40,7 +40,7 @@ Team unknown in doc (both teams plausible); travel to Asahikawa not documented",
 19,Japanorama,Sam Denby; Ben Doyle,#F57C00,18,Wakkanai Station,141.6771991,45.4166166,,,,,,,,"Race finish: northernmost train station in Japan
 Team unknown (both plausible — doc asks what happens if both arrive on the same train); winner not stated in doc
 Game ended May 27 (doc: 'ended by 15:50 JST'; social post 15:58 JST)",7
-19,Japanorama,Adam Chase; Tom Scott,#00796B,0,Nishi-Oyama Station,130.5766412,31.1903089,2026-05-21T07:00:00,,,,,,,Race start (both teams),
+19,Japanorama,Adam Chase; Tom Scott,#00796B,0,Nishi-Oyama Station,130.5766412,31.1903089,2026-05-21T07:00:00+09:00,,,,,,,Race start (both teams),
 19,Japanorama,Adam Chase; Tom Scott,#00796B,1,Kagoshima (Ishin Furusato-kan street),130.5472523,31.584833,,,,,,,,Day 1 street clips (Ep1 additional pin 31.5842/130.5478),
 19,Japanorama,Adam Chase; Tom Scott,#00796B,2,Museum and Road of the Meiji Restoration,130.5443573,31.5849724,,,,,,,,Day 1: near Kagoshima Chuo (Amuran ferris wheel in background); 'where they might be attempting a challenge',
 19,Japanorama,Adam Chase; Tom Scott,#00796B,3,Kagoshima Station (2-35 Hamamachi),130.5639943,31.6019526,,,,,,,,"Day 1: Adam holding a watermelon and pole (Nishimuta Kitafuto shop, opens 9:30, is a possible source: 31.5987241/130.5611449)",

@@ -33,7 +33,8 @@ Cell encodings
   ``"-0.12 51.5; -0.13 51.6"``.
 - Empty cells mean an empty list, or ``None`` for nullable fields
   (``when``, ``video``, ``players_override``, ``when_end``).
-- ``when_start``/``when_end``: ISO 8601 timestamps.
+- ``when_start``/``when_end``: local wall-clock ISO 8601 timestamps,
+  with the UTC offset for timezone-aware times.
 - ``video_start``/``video_end``: ``HH:MM:SS`` strings, accepted back by
   the :class:`jetlag_maps.format.VideoTime` validators.
 - ``journey_color``: a ``#RRGGBB`` hex string; ``mode``: a

@@ -16,7 +16,7 @@
             "latitude": 40.7526944
           },
           "when": {
-            "start": "2024-12-17T12:30:00",
+            "start": "2024-12-17T12:30:00-05:00",
             "end": null
           },
           "video": null,
@@ -73,7 +73,10 @@
             "longitude": -73.8419339,
             "latitude": 40.7252617
           },
-          "when": null,
+          "when": {
+            "start": "2024-12-18T08:27:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -89,7 +92,10 @@
             "longitude": -74.0087073,
             "latitude": 40.7143916
           },
-          "when": null,
+          "when": {
+            "start": "2025-01-29T11:15:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -105,7 +111,10 @@
             "longitude": -74.0090671,
             "latitude": 40.7032255
           },
-          "when": null,
+          "when": {
+            "start": "2025-01-29T12:56:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -134,7 +143,7 @@
             "latitude": 40.7526944
           },
           "when": {
-            "start": "2024-12-17T12:30:00",
+            "start": "2024-12-17T12:30:00-05:00",
             "end": null
           },
           "video": null,
@@ -153,7 +162,10 @@
             "longitude": -73.9362163,
             "latitude": 40.8204635
           },
-          "when": null,
+          "when": {
+            "start": "2024-12-17T14:06:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -170,7 +182,10 @@
             "longitude": -73.9270562,
             "latitude": 40.8185039
           },
-          "when": null,
+          "when": {
+            "start": "2024-12-17T13:20:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -186,7 +201,10 @@
             "longitude": -73.930594,
             "latitude": 40.820804
           },
-          "when": null,
+          "when": {
+            "start": "2024-12-17T13:41:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -202,7 +220,10 @@
             "longitude": -73.930449,
             "latitude": 40.820119
           },
-          "when": null,
+          "when": {
+            "start": "2024-12-17T14:01:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -234,7 +255,10 @@
             "longitude": -73.889133,
             "latitude": 40.7501584
           },
-          "when": null,
+          "when": {
+            "start": "2024-12-17T15:17:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -251,7 +275,10 @@
             "longitude": -73.844521,
             "latitude": 40.721691
           },
-          "when": null,
+          "when": {
+            "start": "2024-12-17T15:55:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -270,7 +297,10 @@
             "longitude": -74.009838,
             "latitude": 40.708243
           },
-          "when": null,
+          "when": {
+            "start": "2025-01-29T10:30:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -288,7 +318,10 @@
             "longitude": -74.0090671,
             "latitude": 40.7032255
           },
-          "when": null,
+          "when": {
+            "start": "2025-01-29T12:56:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],

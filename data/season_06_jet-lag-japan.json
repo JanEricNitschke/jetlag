@@ -15,7 +15,10 @@
             "longitude": 139.7654768,
             "latitude": 35.6815604
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T07:00:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [
@@ -51,7 +54,10 @@
             "longitude": 139.7671248,
             "latitude": 35.6812362
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T07:28:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [
@@ -343,7 +349,10 @@
             "longitude": 139.7387597,
             "latitude": 35.6284713
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T07:40:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -466,7 +475,10 @@
             "longitude": 139.7387597,
             "latitude": 35.6284713
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T08:27:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -2407,7 +2419,10 @@
             "longitude": 140.1133591,
             "latitude": 35.6131339
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T09:19:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -2639,7 +2654,10 @@
             "longitude": 140.116362771016,
             "latitude": 35.609928542587
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T10:05:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -2873,7 +2891,10 @@
             "longitude": 140.114171734897,
             "latitude": 35.612083673627
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T09:24:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -3060,7 +3081,10 @@
             "longitude": 140.122211,
             "latitude": 35.6036441
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T09:30:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -3199,7 +3223,10 @@
             "longitude": 140.1207196,
             "latitude": 35.6018503
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T09:58:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -3266,7 +3293,10 @@
             "longitude": 140.1133591,
             "latitude": 35.6131339
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T10:25:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [
@@ -5261,7 +5291,10 @@
             "longitude": 139.7387597,
             "latitude": 35.6284713
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T11:15:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -5936,7 +5969,10 @@
             "longitude": 139.7387597,
             "latitude": 35.6284713
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T11:55:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -6193,7 +6229,10 @@
             "longitude": 139.7630204,
             "latitude": 35.6750133
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T12:10:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -6524,7 +6563,10 @@
             "longitude": 139.7671248,
             "latitude": 35.6812362
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T13:33:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -6535,7 +6577,7 @@
           "to_next": [
             {
               "mode": "train",
-              "note": "**Shinkansen Hikari 645 caught — Adam tags Sam & Scotty here (E2)**",
+              "note": "Shinkansen Hikari 645 toward Shin-Yokohama — boarded to escape",
               "players_override": null,
               "geometry": [
                 {
@@ -6845,7 +6887,10 @@
             "longitude": 139.7387597,
             "latitude": 35.6284713
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T13:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [
@@ -6858,7 +6903,7 @@
           "to_next": [
             {
               "mode": "train",
-              "note": "jail period; keihin tohoku line",
+              "note": "Tagged by Adam here (E2); jail period, then Keihin-Tohoku line back",
               "players_override": null,
               "geometry": [
                 {
@@ -7136,7 +7181,10 @@
             "longitude": 139.7671248,
             "latitude": 35.6812362
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T14:05:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8031,7 +8079,10 @@
             "longitude": 139.7671248,
             "latitude": 35.6812362
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T15:57:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8047,7 +8098,10 @@
             "longitude": 140.8818889,
             "latitude": 38.2593333
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T08:05:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8063,7 +8117,10 @@
             "longitude": 140.8793611,
             "latitude": 38.2628889
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T08:10:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8095,7 +8152,10 @@
             "longitude": 139.624008777632,
             "latitude": 35.9064300820765
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T12:22:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8111,7 +8171,10 @@
             "longitude": 139.89845951807,
             "latitude": 36.5591827642874
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T09:29:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8127,7 +8190,10 @@
             "longitude": 139.880633351056,
             "latitude": 36.5593171904333
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T09:52:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8145,7 +8211,10 @@
             "longitude": 139.731316453883,
             "latitude": 36.371659227902
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T10:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8181,7 +8250,10 @@
             "longitude": 139.623182655923,
             "latitude": 35.9062860256651
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T11:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8197,7 +8269,10 @@
             "longitude": 139.623327228382,
             "latitude": 35.9063189640231
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T11:51:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -8215,7 +8290,10 @@
             "longitude": 139.758172618751,
             "latitude": 35.6666909393895
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T13:38:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8231,7 +8309,10 @@
             "longitude": 139.012778021944,
             "latitude": 36.3224888622544
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T11:55:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8249,7 +8330,10 @@
             "longitude": 139.757975613803,
             "latitude": 35.6658365460543
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T12:22:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -8267,7 +8351,10 @@
             "longitude": 139.751244805772,
             "latitude": 35.66056989498
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T08:32:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8283,7 +8370,10 @@
             "longitude": 139.751319422858,
             "latitude": 35.6606955440284
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T08:32:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8301,7 +8391,10 @@
             "longitude": 139.9079984,
             "latitude": 35.8389264
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T09:30:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8319,7 +8412,10 @@
             "longitude": 139.904139778803,
             "latitude": 35.8379242277172
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T09:25:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8337,7 +8433,10 @@
             "longitude": 139.958953146484,
             "latitude": 35.7074240124801
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T09:48:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8355,7 +8454,10 @@
             "longitude": 139.817314243109,
             "latitude": 35.6695975003903
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T10:10:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8373,7 +8475,10 @@
             "longitude": 139.817298347191,
             "latitude": 35.658820313746
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T11:00:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8391,7 +8496,10 @@
             "longitude": 139.061452577325,
             "latitude": 37.9120143133505
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T10:20:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -8409,7 +8517,10 @@
             "longitude": 139.108804459623,
             "latitude": 37.9087233627535
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T10:25:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -8427,7 +8538,10 @@
             "longitude": 139.1092063,
             "latitude": 37.9068796
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T10:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -8463,7 +8577,10 @@
             "longitude": 138.922835707357,
             "latitude": 37.167649054121
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T11:58:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -8481,7 +8598,10 @@
             "longitude": 138.922828513229,
             "latitude": 37.1675100999799
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T11:55:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -8499,7 +8619,10 @@
             "longitude": 138.922830726943,
             "latitude": 37.1675035996208
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T11:58:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -8517,7 +8640,10 @@
             "longitude": 139.773169204921,
             "latitude": 35.6983546787553
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T11:41:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8533,7 +8659,10 @@
             "longitude": 138.935045336056,
             "latitude": 37.1918067196345
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T12:50:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -8551,7 +8680,10 @@
             "longitude": 138.9350355,
             "latitude": 37.1922989
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T13:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -8605,7 +8737,10 @@
             "longitude": 138.569032019299,
             "latitude": 35.6672260346946
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T15:30:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8677,7 +8812,10 @@
             "longitude": 138.566276748413,
             "latitude": 35.6711111893871
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T15:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8749,7 +8887,10 @@
             "longitude": 139.1553932,
             "latitude": 35.2564449
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T10:05:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8765,7 +8906,10 @@
             "longitude": 139.1545956,
             "latitude": 35.2505602
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T10:29:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -8783,7 +8927,10 @@
             "longitude": 139.154738516906,
             "latitude": 35.2506425771265
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T10:25:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8835,7 +8982,10 @@
             "longitude": 139.617726229081,
             "latitude": 35.5074815429616
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T12:15:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8851,7 +9001,10 @@
             "longitude": 139.154835432128,
             "latitude": 35.2562425431817
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T13:01:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8867,7 +9020,10 @@
             "longitude": 139.154813044829,
             "latitude": 35.2561640596345
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T13:02:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8883,7 +9039,10 @@
             "longitude": 139.154809383191,
             "latitude": 35.2561756652127
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T13:02:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8917,7 +9076,10 @@
             "longitude": 137.73522989642,
             "latitude": 34.7038787401987
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T14:46:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8935,7 +9097,10 @@
             "longitude": 137.734938363258,
             "latitude": 34.7034778623175
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T14:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8971,7 +9136,10 @@
             "longitude": 139.7414004,
             "latitude": 35.6721312
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:25:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -8989,7 +9157,10 @@
             "longitude": 139.771788117285,
             "latitude": 35.6958575558505
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:26:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -9025,7 +9196,10 @@
             "longitude": 139.7674597,
             "latitude": 35.69496
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -9043,7 +9217,10 @@
             "longitude": 139.7518216,
             "latitude": 35.7084859
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:40:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -9079,7 +9256,10 @@
             "longitude": 139.7546418,
             "latitude": 35.7057886
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Sam Denby"
@@ -9133,7 +9313,10 @@
             "longitude": 139.7456842,
             "latitude": 35.6583053
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T08:50:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Scotty Allen"
@@ -9178,7 +9361,10 @@
             "longitude": 139.7654768,
             "latitude": 35.6815604
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T07:00:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [
@@ -9214,7 +9400,10 @@
             "longitude": 139.7671248,
             "latitude": 35.6812362
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T07:28:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [
@@ -9622,7 +9811,10 @@
             "longitude": 139.7774091,
             "latitude": 35.7141672
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T07:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -11005,7 +11197,10 @@
             "longitude": 139.6310595,
             "latitude": 35.4509136
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T08:30:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -11606,7 +11801,10 @@
             "longitude": 139.6310595,
             "latitude": 35.4509136
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T13:00:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -11619,7 +11817,7 @@
           "to_next": [
             {
               "mode": "train",
-              "note": "catches and tags Sam & Scotty (E2)",
+              "note": "Left the home defense to intercept Sam & Scotty at Shinagawa (Yokohama -> Shinagawa ~1:00-1:19 pm)",
               "players_override": null,
               "geometry": [
                 {
@@ -12609,7 +12807,10 @@
             "longitude": 139.7387597,
             "latitude": 35.6284713
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T13:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -12624,7 +12825,7 @@
           "to_next": [
             {
               "mode": "train",
-              "note": "meets Ben — yokosuka line & sobu line (same vehicle); Ben gets on at Shin-Nihombashi",
+              "note": "Tags Sam & Scotty here (E2) as they try to escape on the Shinkansen toward Shin-Yokohama; then Yokosuka line, meets Ben at Shin-Nihombashi (same vehicle)",
               "players_override": null,
               "geometry": [
                 {
@@ -14590,7 +14791,10 @@
             "longitude": 139.8139718,
             "latitude": 35.696779
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T07:50:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -14937,7 +15141,10 @@
             "longitude": 139.8139718,
             "latitude": 35.696779
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T08:20:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -16364,7 +16571,10 @@
             "longitude": 140.1133591,
             "latitude": 35.6131339
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T08:50:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -16519,7 +16729,10 @@
             "longitude": 140.119586530353,
             "latitude": 35.6101066444429
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T09:20:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -16598,7 +16811,10 @@
             "longitude": 140.1201432,
             "latitude": 35.6088834
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T09:25:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -16836,7 +17052,10 @@
             "longitude": 140.118029271037,
             "latitude": 35.6094920399774
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T10:00:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -16903,7 +17122,10 @@
             "longitude": 140.116374850378,
             "latitude": 35.6088350120405
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T10:05:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -17119,7 +17341,10 @@
             "longitude": 140.1133591,
             "latitude": 35.6131339
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T10:25:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -18748,7 +18973,10 @@
             "longitude": 139.7671248,
             "latitude": 35.6812362
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T11:08:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -18955,7 +19183,10 @@
             "longitude": 139.7475624,
             "latitude": 35.6457361
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T12:05:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -19134,7 +19365,10 @@
             "longitude": 139.7630204,
             "latitude": 35.6750133
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T12:20:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -19404,7 +19638,10 @@
             "longitude": 139.7671248,
             "latitude": 35.6812362
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T13:40:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -19479,7 +19716,10 @@
             "longitude": 139.774265,
             "latitude": 35.6890164
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T13:40:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -21048,7 +21288,10 @@
             "longitude": 140.1133591,
             "latitude": 35.6131339
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T14:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -21201,7 +21444,10 @@
             "longitude": 140.119586530353,
             "latitude": 35.6101066444429
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T14:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -21592,7 +21838,10 @@
             "longitude": 140.1133591,
             "latitude": 35.6131339
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T15:30:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -22501,7 +22750,10 @@
             "longitude": 139.995408803866,
             "latitude": 35.450701328748
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-16T15:58:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -25128,7 +25380,10 @@
             "longitude": 139.697463010194,
             "latitude": 35.531674103779
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T06:55:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25146,7 +25401,10 @@
             "longitude": 139.698713021657,
             "latitude": 35.5272376166938
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T07:00:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25164,7 +25422,10 @@
             "longitude": 139.624008777632,
             "latitude": 35.9064300820765
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T12:22:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -25180,7 +25441,10 @@
             "longitude": 137.381819293741,
             "latitude": 34.7628267308498
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T09:00:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25198,7 +25462,10 @@
             "longitude": 137.085047159474,
             "latitude": 34.9871584665623
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T09:40:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25216,7 +25483,10 @@
             "longitude": 137.057725667595,
             "latitude": 34.8638022285479
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T10:10:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25234,7 +25504,10 @@
             "longitude": 137.058771292458,
             "latitude": 34.8631893872482
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T10:15:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25270,7 +25543,10 @@
             "longitude": 137.091738950756,
             "latitude": 34.9545344247077
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T10:50:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25306,7 +25582,10 @@
             "longitude": 137.087233028098,
             "latitude": 34.9601780400541
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T11:06:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25324,7 +25603,10 @@
             "longitude": 137.061572590785,
             "latitude": 34.9696262240205
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T11:25:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25342,7 +25624,10 @@
             "longitude": 139.623182655923,
             "latitude": 35.9062860256651
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T11:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25360,7 +25645,10 @@
             "longitude": 139.623327228382,
             "latitude": 35.9063189640231
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T11:51:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25450,7 +25738,10 @@
             "longitude": 139.758172618751,
             "latitude": 35.6666909393895
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-17T13:38:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -25466,7 +25757,10 @@
             "longitude": 139.757975613803,
             "latitude": 35.6658365460543
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T08:00:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25484,7 +25778,10 @@
             "longitude": 139.75577279633,
             "latitude": 35.667696007406
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T08:05:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25520,7 +25817,10 @@
             "longitude": 139.751244805772,
             "latitude": 35.66056989498
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T08:32:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -25554,7 +25854,10 @@
             "longitude": 139.5440534,
             "latitude": 35.702047
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T08:30:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25572,7 +25875,10 @@
             "longitude": 139.489071196211,
             "latitude": 35.6563294118958
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T08:55:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25590,7 +25896,10 @@
             "longitude": 139.4880822,
             "latitude": 35.6598991
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T09:00:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25626,7 +25935,10 @@
             "longitude": 139.4831853,
             "latitude": 35.6599404
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T09:05:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25662,7 +25974,10 @@
             "longitude": 139.776978978734,
             "latitude": 35.6746345153085
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T10:09:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25680,7 +25995,10 @@
             "longitude": 139.780182787812,
             "latitude": 35.6799345390671
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T10:10:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25698,7 +26016,10 @@
             "longitude": 139.794862675607,
             "latitude": 35.6724060032651
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T10:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25716,7 +26037,10 @@
             "longitude": 139.784845827366,
             "latitude": 35.6644346158997
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T10:40:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25734,7 +26058,10 @@
             "longitude": 139.827007772464,
             "latitude": 35.6461674291184
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T10:55:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25752,7 +26079,10 @@
             "longitude": 139.479115685574,
             "latitude": 35.6654087286352
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T09:20:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25770,7 +26100,10 @@
             "longitude": 139.477092763621,
             "latitude": 35.66630117904
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T09:33:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25788,7 +26121,10 @@
             "longitude": 139.646920109718,
             "latitude": 35.8459873984353
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T10:05:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25806,7 +26142,10 @@
             "longitude": 138.922835707357,
             "latitude": 37.167649054121
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T13:00:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25824,7 +26163,10 @@
             "longitude": 138.922828513229,
             "latitude": 37.1675100999799
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T11:55:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25842,7 +26184,10 @@
             "longitude": 138.922830726943,
             "latitude": 37.1675035996208
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T11:58:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25878,7 +26223,10 @@
             "longitude": 139.7589162,
             "latitude": 35.6657591
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T12:30:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25896,7 +26244,10 @@
             "longitude": 138.853830814518,
             "latitude": 37.4477811251633
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T11:55:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25914,7 +26265,10 @@
             "longitude": 138.935045336056,
             "latitude": 37.1918067196345
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T13:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25932,7 +26286,10 @@
             "longitude": 138.9350355,
             "latitude": 37.1922989
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T13:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -25968,7 +26325,10 @@
             "longitude": 139.701052700463,
             "latitude": 35.6886056648335
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T13:30:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -25986,7 +26346,10 @@
             "longitude": 138.569032019299,
             "latitude": 35.6672260346946
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T15:03:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -26004,7 +26367,10 @@
             "longitude": 138.569241390793,
             "latitude": 35.6672045285695
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T15:10:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -26094,7 +26460,10 @@
             "longitude": 138.569308430939,
             "latitude": 35.6672091594922
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T15:30:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -26112,7 +26481,10 @@
             "longitude": 138.566276748413,
             "latitude": 35.6711111893871
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T15:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -26130,7 +26502,10 @@
             "longitude": 139.758278450698,
             "latitude": 35.6677325013708
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-18T16:40:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -26166,7 +26541,10 @@
             "longitude": 139.7567143,
             "latitude": 35.6663216
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:05:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -26184,7 +26562,10 @@
             "longitude": 139.756689218007,
             "latitude": 35.6663409933524
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:08:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -26202,14 +26583,17 @@
             "longitude": 139.7535196,
             "latitude": 35.6618674
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:13:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
           ],
           "additional_players": [],
           "notes": [
-            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam \n2) Adam (Tagged)\nChallenge: Eat wagyu (Adam)"
+            "Tagged by Sam (E6) at the Suzuki tax office after the failed wagyu challenge — first of two catches"
           ],
           "end_of_day": [],
           "to_next": []
@@ -26220,7 +26604,10 @@
             "longitude": 139.7634597,
             "latitude": 35.6778103
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T08:05:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -26238,14 +26625,17 @@
             "longitude": 139.7556332,
             "latitude": 35.6778493
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T08:15:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
           ],
           "additional_players": [],
           "notes": [
-            "Present in Jet Lag: Japan (Season 6) \nMembers who visited:\n1) Sam \n2) Adam (Tagged)\nChallenge: Get a half mile from nearest 7-11 (Adam)"
+            "Tagged by Sam (E6) again at Kokyo Gaien after the no-running-zone violation — second catch"
           ],
           "end_of_day": [],
           "to_next": []
@@ -26256,7 +26646,10 @@
             "longitude": 139.1553932,
             "latitude": 35.2564449
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T10:00:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -26272,7 +26665,10 @@
             "longitude": 139.1545956,
             "latitude": 35.2505602
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T10:29:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -26288,7 +26684,10 @@
             "longitude": 139.154738516906,
             "latitude": 35.2506425771265
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T10:25:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -26368,7 +26767,10 @@
             "longitude": 139.154835432128,
             "latitude": 35.2562425431817
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T13:01:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -26384,7 +26786,10 @@
             "longitude": 139.154813044829,
             "latitude": 35.2561640596345
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T13:02:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -26400,7 +26805,10 @@
             "longitude": 139.154809383191,
             "latitude": 35.2561756652127
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T13:02:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -26432,7 +26840,10 @@
             "longitude": 137.73522989642,
             "latitude": 34.7038787401987
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T14:46:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -26448,7 +26859,10 @@
             "longitude": 137.734938363258,
             "latitude": 34.7034778623175
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T14:45:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -26480,7 +26894,10 @@
             "longitude": 139.7414004,
             "latitude": 35.6721312
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:20:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -26498,7 +26915,10 @@
             "longitude": 139.7713654,
             "latitude": 35.6966524
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:25:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -26516,7 +26936,10 @@
             "longitude": 139.771788117285,
             "latitude": 35.6958575558505
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:26:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -26534,7 +26957,10 @@
             "longitude": 139.7390462,
             "latitude": 35.6739291
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:20:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -26552,7 +26978,10 @@
             "longitude": 139.7372686,
             "latitude": 35.6767946
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:39:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -26570,7 +26999,10 @@
             "longitude": 139.7735707,
             "latitude": 35.6871555
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:40:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -26588,7 +27020,10 @@
             "longitude": 139.7705088,
             "latitude": 35.7121932
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:50:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -26606,7 +27041,10 @@
             "longitude": 139.7644404,
             "latitude": 35.6997175
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T07:50:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"
@@ -26624,7 +27062,10 @@
             "longitude": 139.7977621,
             "latitude": 35.7107924
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T08:11:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -26642,7 +27083,10 @@
             "longitude": 139.7965305,
             "latitude": 35.7110098
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T08:15:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Adam Chase"
@@ -26660,7 +27104,10 @@
             "longitude": 139.7709318,
             "latitude": 35.6918216
           },
-          "when": null,
+          "when": {
+            "start": "2023-04-19T08:05:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": [
             "Ben Doyle"

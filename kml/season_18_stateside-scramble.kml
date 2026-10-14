@@ -8,7 +8,7 @@
         <name>Air Margaritaville, Detroit Metro Airport (DTW)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 (Mar 5): solar ~17:32 ET; ESPN &amp;#x27;Pardon the Interruption&amp;#x27; airing points to the 17:30 ET Mar 5 broadcast&lt;/li&gt;&lt;li&gt;Air Margaritaville not individually geocodable in OSM - using Detroit Metropolitan Wayne County Airport coordinates&lt;/li&gt;&lt;li&gt;Suspected Margaritaville wild-card trail: DTW (D1), Boston (D2), Mall of America (D4)&lt;/li&gt;&lt;li&gt;How Samy reached Detroit and then Boston by Day 2 is undocumented - no incoming/outgoing legs&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-03-05T17:32:00</begin>
+          <begin>2026-03-05T22:32:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -26,6 +26,9 @@
       <Placemark>
         <name>Boston (Zakim Bridge / Paul Revere Park)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 (Mar 6)&lt;/li&gt;&lt;li&gt;Mode of travel to Margaritaville Faneuil Hall not documented - connecting leg omitted&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-06T21:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffef50ea</color>
@@ -42,6 +45,9 @@
       <Placemark>
         <name>Margaritaville Boston (Faneuil Hall)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Likely Day 2 (Mar 6)&lt;/li&gt;&lt;li&gt;Margaritaville not geocodable in OSM - using Faneuil Hall coordinates&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-06T22:50:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffef50ea</color>
@@ -90,6 +96,9 @@
       <Placemark>
         <name>Budget Car Rental, STL Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 (Mar 7)&lt;/li&gt;&lt;li&gt;Flight into STL not identified - no incoming leg&lt;/li&gt;&lt;li&gt;Rental: 2022-2025 Ford Escape&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-07T19:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffef50ea</color>
@@ -122,6 +131,9 @@
       <Placemark>
         <name>Eddyville, IA</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 (Mar 7), solar 16:00-18:00&lt;/li&gt;&lt;li&gt;Dollar General bag sighting in clip&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-07T23:40:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffef50ea</color>
@@ -170,6 +182,9 @@
       <Placemark>
         <name>North Sioux City, SD</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4, solar 12:10 +/-30 (after DST switch, Mar 8)&lt;/li&gt;&lt;li&gt;Amy holding a deck of cards&lt;/li&gt;&lt;li&gt;Pin essentially identical to the Big Sioux Township entry (same scene confirmed by pole/shadow/clothing match) - no connecting leg&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-08T16:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffef50ea</color>
@@ -186,6 +201,9 @@
       <Placemark>
         <name>Big Sioux Township, SD (Waters Rd &amp; Cemetery Rd)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4 (Mar 8)&lt;/li&gt;&lt;li&gt;Two pins (teaser 42deg32&amp;#x27;48.2&amp;quot;N, trailer 42deg32&amp;#x27;47.6&amp;quot;N) confirmed same location&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-08T16:43:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffef50ea</color>
@@ -218,6 +236,9 @@
       <Placemark>
         <name>Windom, MN (Cottonwood Lake Park)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4, solar 14:25 +/-60 (park pin: 43.875449, -95.103855)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-08T19:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffef50ea</color>
@@ -234,6 +255,9 @@
       <Placemark>
         <name>St. James, MN (St. James Lake)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4, solar 15:10 +/-60&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-08T20:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffef50ea</color>
@@ -250,6 +274,9 @@
       <Placemark>
         <name>Mall of America, Bloomington, MN</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4 (Mar 8): 7:36 on Sam&amp;#x27;s phone outside Rainforest Cafe - AM vs PM ambiguous (game starts 9 AM after DST)&lt;/li&gt;&lt;li&gt;Rainforest Cafe (&amp;#x27;That&amp;#x27;s Adam, Ben, Amy, Sam!&amp;#x27;), Margaritaville Mall of America, Nickelodeon Universe; one teaser entry (clip #3) has team blank&lt;/li&gt;&lt;li&gt;Margaritaville wild-card trail inference&lt;/li&gt;&lt;li&gt;Travel from Minneapolis to New England for Day 5 not documented - no outgoing leg&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-08T23:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffef50ea</color>
@@ -282,6 +309,9 @@
       <Placemark>
         <name>Fort Foster, ME (Kittery)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Amy Muller&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 (Mar 9)&lt;/li&gt;&lt;li&gt;Three separate clip entries/pins (43.068360/-70.691923 and 43.070354/-70.686825 also given)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-09T19:58:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ffef50ea</color>
@@ -444,6 +474,9 @@
       <Placemark>
         <name>Central Park West &amp; 72nd St, New York</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 (Mar 5) selfie&lt;/li&gt;&lt;li&gt;Start of the confirmed Day 1 outline: New York - LGA - MEM - Norfolk, MS - MEM - ATL&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-05T13:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -460,6 +493,9 @@
       <Placemark>
         <name>Jackson Heights (Tenzin Salon, Broadway &amp; 74th St)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 (Mar 5)&lt;/li&gt;&lt;li&gt;E train clip ~74th St &amp;amp; Broadway (Q70 interchange)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-05T13:40:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -476,6 +512,9 @@
       <Placemark>
         <name>LaGuardia Airport (LGA)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 (Mar 5)&lt;/li&gt;&lt;li&gt;Terminal 3 per trailer entry; archived discussion says Terminal C - inconsistent&lt;/li&gt;&lt;li&gt;Transcript: &amp;#x27;I was like, I have a wife too, and her name is Tennessee, and I need to go claim her right now&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-05T14:19:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -492,6 +531,9 @@
       <Placemark>
         <name>Memphis International Airport (MEM)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 (Mar 5)&lt;/li&gt;&lt;li&gt;Timeline outline only - no located clip&lt;/li&gt;&lt;li&gt;Nominatim resolves MEM as &amp;#x27;Frederick W. Smith International Airport&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-05T17:17:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -524,6 +566,9 @@
       <Placemark>
         <name>Lake Cormorant, MS (10371 Old Hwy 61)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1, solar 15:45 +/-45&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-05T21:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -588,6 +633,9 @@
       <Placemark>
         <name>World of Coca-Cola, Atlanta</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 (Mar 6)&lt;/li&gt;&lt;li&gt;Intra-day order of Coca-Cola vs Villa Rica vs 13:37 WN899 departure unresolved in doc; ordered Coca-Cola first per seed reconstruction&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-06T16:40:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -604,6 +652,9 @@
       <Placemark>
         <name>Cinema Tavern, Villa Rica, GA</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 (Mar 6), two identical entries (teaser #28 + trailer #23)&lt;/li&gt;&lt;li&gt;Doc address: 200 W Montgomery St, Villa Rica GA 30180; Nominatim places Cinema Tavern on S Candler St - address discrepancy, flagged&lt;/li&gt;&lt;li&gt;Weather tab header &amp;#x27;Villa Rica (D1-2/4-5 in order)&amp;#x27; - meaning unclear&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-06T15:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -621,7 +672,7 @@
         <name>Hartsfield-Jackson Atlanta International Airport (ATL) [departure]</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 (Mar 6) departure&lt;/li&gt;&lt;li&gt;Terminal T Gate T8 (13:18 on departure board, team blank on that entry); Plane Train escalator, Concourse C; Southwest departure westbound, runway 27R (clip mirrored)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-03-06T13:37:00</begin>
+          <begin>2026-03-06T18:37:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -640,7 +691,7 @@
         <name>St. Louis Lambert International Airport (STL)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 (Mar 6) arrival on WN899&lt;/li&gt;&lt;li&gt;Approach/landing clip at 38deg48&amp;#x27;0.2&amp;quot;N 90deg28&amp;#x27;16.1&amp;quot;W (mirrored), team blank in doc - attributed to the WN899 arrival&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-03-06T14:11:00</begin>
+          <begin>2026-03-06T20:11:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -674,6 +725,9 @@
       <Placemark>
         <name>Gateway Arch, St. Louis</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 (Mar 6)&lt;/li&gt;&lt;li&gt;Doc: &amp;#x27;Challenge probably to claim Missouri&amp;#x27;&lt;/li&gt;&lt;li&gt;Social-media post says 2025/03/08 9:10 AM EDT - year typo, and the Mar 8 date conflicts with the Mar 6 visit; unresolved&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-06T20:55:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -739,7 +793,7 @@
         <name>St. Louis Lambert International Airport (STL) [departure]</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 (Mar 7): WN334 STL-DCA, dep 12:11 PM CST&lt;/li&gt;&lt;li&gt;Day 2 evening ended at Stella&amp;#x27;s, Paducah (bourbon shots clip; &amp;#x27;It is astonishing the effect that four shots of bourbon is having on my body&amp;#x27;) - Stella&amp;#x27;s not geocodable in OSM, stop omitted&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-03-07T12:11:00</begin>
+          <begin>2026-03-07T18:11:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -758,7 +812,7 @@
         <name>Ronald Reagan Washington National Airport (DCA)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 (Mar 7) arrival on WN334&lt;/li&gt;&lt;li&gt;Washington Union Station (team blank, likely Day 3) not attributed to either team - question for review&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-03-07T14:56:00</begin>
+          <begin>2026-03-07T19:56:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -792,6 +846,9 @@
       <Placemark>
         <name>Westmoreland County, VA</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Likely Badam, Day 3 - solar 16:30-17:30&lt;/li&gt;&lt;li&gt;Doc: &amp;#x27;on the way to James Monroe Birthplace, most likely challenge involved there&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-07T21:57:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -808,6 +865,9 @@
       <Placemark>
         <name>Baltimore, MD (Inner Harbor)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Likely Badam, Day 4 - solar 10:00 +/-30&lt;/li&gt;&lt;li&gt;Rest of Day 4 unknown; an unlocated Badam clip is tagged &amp;#x27;Day 4 likely&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-08T14:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -840,6 +900,9 @@
       <Placemark>
         <name>Atlantic City, NJ (Margaritaville)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Likely Badam, Day 5 - solar 11:30 +/-30&lt;/li&gt;&lt;li&gt;Margaritaville on Adam&amp;#x27;s left; multiple pins: 78 S North Carolina Ave (used), boardwalk/Ocean Club Condominiums area (39.358045/-74.421747, 39.366124/-74.454112, 39.3582/-74.4214)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-09T15:50:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -857,7 +920,7 @@
         <name>Newark Liberty International Airport (EWR)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 (Mar 9): UA3589 EWR-MYR, dep ~2:21 PM&lt;/li&gt;&lt;li&gt;United Express Embraer E175; overflew Tinton Falls NJ exit 105 (located clip, Day 5 likely)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-03-09T14:21:00</begin>
+          <begin>2026-03-09T18:21:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -876,7 +939,7 @@
         <name>Myrtle Beach International Airport (MYR)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 (Mar 9) arrival on UA3589&lt;/li&gt;&lt;li&gt;Transport from MYR to the beach clip not documented - connecting leg omitted&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-03-09T16:38:00</begin>
+          <begin>2026-03-09T20:38:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -894,6 +957,9 @@
       <Placemark>
         <name>Myrtle Beach, SC</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Likely Badam, Day 5 - solar 18:15 +/-15 (near dusk)&lt;/li&gt;&lt;li&gt;Clip is darker than the Central Park selfie&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2026-03-09T21:28:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>

@@ -15,7 +15,7 @@
             "latitude": 49.7734783014379
           },
           "when": {
-            "start": "2022-07-26T06:00:00",
+            "start": "2022-07-26T06:00:00+02:00",
             "end": null
           },
           "video": null,
@@ -8674,7 +8674,10 @@
             "longitude": 3.0699444,
             "latitude": 50.636579
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T12:09:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -12803,7 +12806,10 @@
             "longitude": 2.3689434,
             "latitude": 51.030461
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T12:52:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -18888,7 +18894,10 @@
             "longitude": 1.83650702953127,
             "latitude": 50.9528421734802
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T13:35:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -19295,7 +19304,10 @@
             "longitude": 1.854239,
             "latitude": 50.9525746
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T13:40:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -19440,7 +19452,10 @@
             "longitude": 1.8507692,
             "latitude": 50.9534577
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T14:36:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -26217,7 +26232,10 @@
             "longitude": 2.3553137,
             "latitude": 48.8809481
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T17:29:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -26493,7 +26511,10 @@
             "longitude": 2.3553137,
             "latitude": 48.8809481
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T18:10:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -27182,7 +27203,10 @@
             "longitude": 2.3449239,
             "latitude": 48.8535729
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T18:20:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -27677,7 +27701,10 @@
             "longitude": 2.3449239,
             "latitude": 48.8535729
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T19:20:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -28170,7 +28197,10 @@
             "longitude": 2.3767958,
             "latitude": 48.8298077
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T19:25:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -28291,7 +28321,10 @@
             "longitude": 2.37726538788549,
             "latitude": 48.8306945245751
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T20:00:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -28556,7 +28589,10 @@
             "longitude": 2.38482322234017,
             "latitude": 48.834767086321
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T06:00:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -28907,7 +28943,10 @@
             "longitude": 2.3767958,
             "latitude": 48.8298077
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T06:35:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -31096,7 +31135,10 @@
             "longitude": 2.3837008,
             "latitude": 48.6892408
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T06:45:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -34089,7 +34131,10 @@
             "longitude": 2.2613646,
             "latitude": 48.7258395
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T07:29:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -36442,7 +36487,10 @@
             "longitude": 2.3553137,
             "latitude": 48.8809481
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T10:34:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -40671,7 +40719,10 @@
             "longitude": 3.2972456,
             "latitude": 49.6592152
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T12:10:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -44856,7 +44907,10 @@
             "longitude": 2.3081396,
             "latitude": 49.8905368
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T15:45:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -48961,7 +49015,10 @@
             "longitude": 3.0699444,
             "latitude": 50.636579
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T17:18:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -52978,7 +53035,10 @@
             "longitude": 4.3354548,
             "latitude": 50.8360982
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T18:58:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -54715,7 +54775,10 @@
             "longitude": 4.482072,
             "latitude": 50.89646
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T19:21:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -57004,7 +57067,10 @@
             "longitude": 4.3354548,
             "latitude": 50.8360982
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T07:17:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -61125,7 +61191,10 @@
             "longitude": 7.73422,
             "latitude": 48.58528
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T11:05:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -64270,7 +64339,10 @@
             "longitude": 7.94672,
             "latitude": 48.47665
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T11:45:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -69928,7 +70000,10 @@
             "longitude": 8.401294,
             "latitude": 48.993279
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T12:45:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -74229,7 +74304,10 @@
             "longitude": 8.469814,
             "latitude": 49.4796984
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T13:25:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -78630,7 +78708,10 @@
             "longitude": 9.1823871,
             "latitude": 48.783068
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T14:51:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -82899,7 +82980,10 @@
             "longitude": 7.73422,
             "latitude": 48.58528
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T16:20:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -83541,7 +83625,10 @@
             "longitude": 7.73422,
             "latitude": 48.58528
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T17:17:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -87686,7 +87773,10 @@
             "longitude": 3.99462481559977,
             "latitude": 49.2147404389011
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T18:25:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -88279,7 +88369,10 @@
             "longitude": 3.94707910292827,
             "latitude": 49.2233590711748
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T19:40:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -88364,7 +88457,10 @@
             "longitude": 3.95582762548476,
             "latitude": 49.2285296116043
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T20:00:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -88389,7 +88485,7 @@
             "latitude": 49.7734783014379
           },
           "when": {
-            "start": "2022-07-26T06:00:00",
+            "start": "2022-07-26T06:00:00+02:00",
             "end": null
           },
           "video": null,
@@ -88644,7 +88740,10 @@
             "longitude": 4.72503517676732,
             "latitude": 49.7678342988678
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T06:25:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -92805,7 +92904,10 @@
             "longitude": 3.0699444,
             "latitude": 50.636579
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T08:55:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -92994,7 +93096,10 @@
             "longitude": 3.0640268,
             "latitude": 50.6364756
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T09:15:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -93183,7 +93288,10 @@
             "longitude": 3.0699444,
             "latitude": 50.636579
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T10:09:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -97312,7 +97420,10 @@
             "longitude": 2.3689434,
             "latitude": 51.030461
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T12:52:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -103397,7 +103508,10 @@
             "longitude": 1.83650702953127,
             "latitude": 50.9528421734802
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T13:35:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -103804,7 +103918,10 @@
             "longitude": 1.854239,
             "latitude": 50.9525746
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T13:40:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -104086,7 +104203,10 @@
             "longitude": 1.8507692,
             "latitude": 50.9534577
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T15:26:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -108143,7 +108263,10 @@
             "longitude": 2.3081,
             "latitude": 49.8905
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T17:11:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -112410,7 +112533,10 @@
             "longitude": 2.3553137,
             "latitude": 48.8809481
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T18:31:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -113099,7 +113225,10 @@
             "longitude": 2.3449239,
             "latitude": 48.8535729
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T18:45:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -114044,7 +114173,10 @@
             "longitude": 2.3743773,
             "latitude": 48.8443038
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T19:49:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -114405,7 +114537,10 @@
             "longitude": 2.3861091,
             "latitude": 48.8336691
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T20:00:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -115105,7 +115240,10 @@
             "longitude": 2.3767958,
             "latitude": 48.8298077
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T06:17:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -115322,7 +115460,10 @@
             "longitude": 2.3861091,
             "latitude": 48.8336691
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T06:19:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -115539,7 +115680,10 @@
             "longitude": 2.3767958,
             "latitude": 48.8298077
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T06:23:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -117668,7 +117812,10 @@
             "longitude": 2.2613646,
             "latitude": 48.7258395
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T07:29:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -119421,7 +119568,10 @@
             "longitude": 2.3449239,
             "latitude": 48.8535729
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T08:50:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -120110,7 +120260,10 @@
             "longitude": 2.3553137,
             "latitude": 48.8809481
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T09:07:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -124283,7 +124436,10 @@
             "longitude": 3.2970211,
             "latitude": 49.8400181
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T10:57:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -124541,7 +124697,10 @@
             "longitude": 3.2970211,
             "latitude": 49.8400181
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T12:15:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -128478,7 +128637,10 @@
             "longitude": 3.9664577,
             "latitude": 50.2729708
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T12:55:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -132463,7 +132625,10 @@
             "longitude": 3.0699444,
             "latitude": 50.636579
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T15:25:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -132641,7 +132806,10 @@
             "longitude": 3.0746495,
             "latitude": 50.6375896
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T16:08:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -136670,7 +136838,10 @@
             "longitude": 4.3354548,
             "latitude": 50.8360982
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T17:50:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -137019,7 +137190,10 @@
             "longitude": 4.3570964,
             "latitude": 50.845504
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T18:05:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -138672,7 +138846,10 @@
             "longitude": 4.482072,
             "latitude": 50.89646
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T19:21:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -140961,7 +141138,10 @@
             "longitude": 4.3354548,
             "latitude": 50.8360982
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T07:17:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -145082,7 +145262,10 @@
             "longitude": 7.73422,
             "latitude": 48.58528
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T11:05:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -148227,7 +148410,10 @@
             "longitude": 7.94672,
             "latitude": 48.47665
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T11:45:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -153885,7 +154071,10 @@
             "longitude": 8.401294,
             "latitude": 48.993279
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T12:45:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -158186,7 +158375,10 @@
             "longitude": 8.469814,
             "latitude": 49.4796984
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T13:25:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -162587,7 +162779,10 @@
             "longitude": 9.1823871,
             "latitude": 48.783068
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T14:51:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -166976,7 +167171,10 @@
             "longitude": 8.401294,
             "latitude": 48.993279
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T15:52:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -171125,7 +171323,10 @@
             "longitude": 7.8066597,
             "latitude": 48.5763433
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T17:15:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -172886,7 +173087,10 @@
             "longitude": 7.73422,
             "latitude": 48.58528
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T18:05:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -177031,7 +177235,10 @@
             "longitude": 3.99462481559977,
             "latitude": 49.2147404389011
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T19:25:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -178108,7 +178315,10 @@
             "longitude": 3.94707910292827,
             "latitude": 49.2233590711748
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T19:40:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -178193,7 +178403,10 @@
             "longitude": 3.95582762548476,
             "latitude": 49.2285296116043
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T20:00:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -178218,7 +178431,7 @@
             "latitude": 49.7734783014379
           },
           "when": {
-            "start": "2022-07-26T06:00:00",
+            "start": "2022-07-26T06:00:00+02:00",
             "end": null
           },
           "video": null,
@@ -178473,7 +178686,10 @@
             "longitude": 4.72503517676732,
             "latitude": 49.7678342988678
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T06:57:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -182876,7 +183092,10 @@
             "longitude": 4.0844155,
             "latitude": 49.9145302
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T07:45:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -186877,7 +187096,10 @@
             "longitude": 3.0699444,
             "latitude": 50.636579
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T10:13:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -190974,7 +191196,10 @@
             "longitude": 1.8507692,
             "latitude": 50.9534577
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T11:30:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -192329,7 +192554,10 @@
             "longitude": 1.854239,
             "latitude": 50.9525746
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T13:40:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -192611,7 +192839,10 @@
             "longitude": 1.8507692,
             "latitude": 50.9534577
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T15:26:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -196668,7 +196899,10 @@
             "longitude": 2.3081396,
             "latitude": 49.8905368
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T17:11:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -200937,7 +201171,10 @@
             "longitude": 2.3553137,
             "latitude": 48.8809481
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T18:31:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -201626,7 +201863,10 @@
             "longitude": 2.3449239,
             "latitude": 48.8535729
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T18:45:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -202571,7 +202811,10 @@
             "longitude": 2.3743773,
             "latitude": 48.8443038
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T19:49:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -202932,7 +203175,10 @@
             "longitude": 2.3861091,
             "latitude": 48.8336691
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-26T20:00:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -203632,7 +203878,10 @@
             "longitude": 2.3767958,
             "latitude": 48.8298077
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T06:17:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -203849,7 +204098,10 @@
             "longitude": 2.3861091,
             "latitude": 48.8336691
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T06:19:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -204066,7 +204318,10 @@
             "longitude": 2.3767958,
             "latitude": 48.8298077
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T06:23:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -206195,7 +206450,10 @@
             "longitude": 2.2613646,
             "latitude": 48.7258395
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T07:29:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -208548,7 +208806,10 @@
             "longitude": 2.3553137,
             "latitude": 48.8809481
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T10:34:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -212777,7 +213038,10 @@
             "longitude": 3.2972456,
             "latitude": 49.6592152
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T12:10:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -216962,7 +217226,10 @@
             "longitude": 2.3081396,
             "latitude": 49.8905368
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T15:45:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -221067,7 +221334,10 @@
             "longitude": 3.0699444,
             "latitude": 50.636579
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T17:18:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -225084,7 +225354,10 @@
             "longitude": 4.3354548,
             "latitude": 50.8360982
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T18:58:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -226821,7 +227094,10 @@
             "longitude": 4.482072,
             "latitude": 50.89646
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-27T19:21:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -228262,7 +228538,10 @@
             "longitude": 4.3601396,
             "latitude": 50.8604558
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T06:25:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -232363,7 +232642,10 @@
             "longitude": 6.9586017,
             "latitude": 50.9432141
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T08:16:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -233514,7 +233796,10 @@
             "longitude": 6.9748936,
             "latitude": 50.9409509
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T09:30:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -233947,7 +234232,10 @@
             "longitude": 6.9586017,
             "latitude": 50.9432141
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T09:35:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -234663,7 +234951,10 @@
             "longitude": 6.9586017,
             "latitude": 50.9432141
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T12:20:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -238736,7 +239027,10 @@
             "longitude": 8.56994692580597,
             "latitude": 50.0528409809253
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T13:33:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -247536,7 +247830,10 @@
             "longitude": 9.1823871,
             "latitude": 48.783068
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T14:51:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -251925,7 +252222,10 @@
             "longitude": 8.401294,
             "latitude": 48.993279
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T15:52:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -256074,7 +256374,10 @@
             "longitude": 7.8066597,
             "latitude": 48.5763433
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T17:15:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -257835,7 +258138,10 @@
             "longitude": 7.73422,
             "latitude": 48.58528
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T18:05:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -261980,7 +262286,10 @@
             "longitude": 3.99462481559977,
             "latitude": 49.2147404389011
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T19:25:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -263057,7 +263366,10 @@
             "longitude": 3.94707910292827,
             "latitude": 49.2233590711748
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T19:40:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -263142,7 +263454,10 @@
             "longitude": 3.95582762548476,
             "latitude": 49.2285296116043
           },
-          "when": null,
+          "when": {
+            "start": "2022-07-28T20:00:00+02:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],

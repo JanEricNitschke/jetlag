@@ -15,7 +15,7 @@
             "latitude": 51.5327196
           },
           "when": {
-            "start": "2025-09-08T07:00:00",
+            "start": "2025-09-08T07:00:00+01:00",
             "end": null
           },
           "video": null,
@@ -30,7 +30,8 @@
               "mode": "train",
               "note": "RTT+ verified options: 07:03 KGX → 09:31 Leeds → 10:59 Scarborough, or 07:06 KGX → 09:29 York → 10:59 Scarborough (the doc's original 07:00/08:00 options are infeasible per RTT+)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -80,7 +81,9 @@
           "notes": [
             "Day 1 afternoon clips ('Man, what a view.'); additional exact castle pins: 54.287476/-0.389799 and 54.286328/-0.388266 (the latter's day UNKNOWN)"
           ],
-          "end_of_day": [1],
+          "end_of_day": [
+            1
+          ],
           "to_next": []
         },
         {
@@ -119,7 +122,8 @@
               "mode": "train",
               "note": "15:47 TPE (Scarborough–Manchester Vic service) via York, arr Leeds 16:12 (Colton Junction passed 15:52; arrived 45s early)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -142,7 +146,8 @@
               "mode": "train",
               "note": "Leeds → Hebden Bridge (service unspecified in doc)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -160,7 +165,9 @@
             "Day 2 evening: FROZEN 19:30-20:00 (Ben's hide)",
             "Day 2 end (overnight)"
           ],
-          "end_of_day": [2],
+          "end_of_day": [
+            2
+          ],
           "to_next": []
         },
         {
@@ -182,7 +189,8 @@
               "mode": "train",
               "note": "Hebden Bridge → Milton Keynes (travel mode/service not stated in doc; doc's transport tab for Day 3 is empty)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -200,7 +208,9 @@
             "Day 3: arrival 17:00, FROZEN 18:00-20:00 (Ben's hide start)",
             "MK Central underpass clip ~08:00 is Day 3 or 4 (AMBIGUOUS) with no team attribution"
           ],
-          "end_of_day": [3],
+          "end_of_day": [
+            3
+          ],
           "to_next": []
         },
         {
@@ -223,7 +233,8 @@
               "mode": "train",
               "note": "Milton Keynes → Kendal (mode/service not stated in doc; likely via WCML/Oxenholme)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -242,7 +253,9 @@
             "AMBIGUOUS day: listed as Day 5 in located clips, rain/wind analysis matches Day 4; both Day 4 and Day 5 timelines include a Kendal 14:15 arrival",
             "Sam+Adam here (Sam wants 'aesthetic british flag picture')"
           ],
-          "end_of_day": [4],
+          "end_of_day": [
+            4
+          ],
           "to_next": []
         },
         {
@@ -264,7 +277,8 @@
               "mode": "bus",
               "note": "41A bus Kendal–Oxenholme (Adam 'driving the bus'); buses from Oxenholme at 12:33/13:33 per doc",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -288,7 +302,8 @@
               "mode": "train",
               "note": "Rail via Oxenholme → Carlisle (doc timeline: Carlisle 09:00; specific service not stated)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -311,7 +326,8 @@
               "mode": "train",
               "note": "Carlisle → Dumfries (doc's train analysis for the Dumfries line; ~12:50-12:53 arrival)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -330,7 +346,9 @@
             "Clip just north of Dumfries (~13:00, 55.075477/-3.605478): Adam's phone shows the Carlisle line",
             "Day 5 end (evening location unknown; doc Option 2 interleaved line: 'Carlisle? (20:00)')"
           ],
-          "end_of_day": [5],
+          "end_of_day": [
+            5
+          ],
           "to_next": []
         },
         {
@@ -348,7 +366,9 @@
             "Doc Option 1 has Adam at Dunbar at game end; Dunbar clips are mostly attributed to Sam — attribution AMBIGUOUS",
             "Dunbar Battery clip (~19:30 vs morning — significant disagreement in sun calcs) not separately placed"
           ],
-          "end_of_day": [6],
+          "end_of_day": [
+            6
+          ],
           "to_next": []
         }
       ]
@@ -366,7 +386,7 @@
             "latitude": 51.5327196
           },
           "when": {
-            "start": "2025-09-08T11:00:00",
+            "start": "2025-09-08T11:00:00+01:00",
             "end": null
           },
           "video": null,
@@ -381,7 +401,8 @@
               "mode": "train",
               "note": "KGX→York 11:03-13:30 (LNER) or 11:27-13:27 (Grand Central), then York→Leeds e.g. 14:08-15:23 (Northern) - not checked against timetables per doc",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -404,7 +425,8 @@
               "mode": "train",
               "note": "15:43 from platform 15 towards Scarborough, arr Bridlington ~20:00",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -421,7 +443,9 @@
           "notes": [
             "Day 1 evening (~20:00); Day 1 end (overnight)"
           ],
-          "end_of_day": [1],
+          "end_of_day": [
+            1
+          ],
           "to_next": []
         },
         {
@@ -444,7 +468,8 @@
               "mode": "train",
               "note": "08:12 Bridlington → Scarborough (class 170, RTT+ confirmed)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -467,7 +492,8 @@
               "mode": "train",
               "note": "Ben's hide run: left Scarborough midday to hide at Hebden Bridge (~14:30 arrival); service unspecified in doc",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -502,7 +528,9 @@
             "FOUND ~18:00-19:00, FROZEN 19:30-20:00",
             "Exact Day 2 hiding spot not stated; the Rowland Lane wall clip is dated UNKNOWN (doc treats it as the likely ENDGAME hiding spot)"
           ],
-          "end_of_day": [2],
+          "end_of_day": [
+            2
+          ],
           "to_next": []
         },
         {
@@ -524,7 +552,8 @@
               "mode": "train",
               "note": "Hebden Bridge → Milton Keynes (travel mode/service not stated in doc; Day 3 transport tab empty)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -542,7 +571,9 @@
             "Day 3: arrival 17:00; becomes HIDER at 18:00 (hides overnight)",
             "Day 3 end"
           ],
-          "end_of_day": [3],
+          "end_of_day": [
+            3
+          ],
           "to_next": []
         },
         {
@@ -564,7 +595,8 @@
               "mode": "train",
               "note": "MK → Kendal on the WCML (Hincaster clip ~12:45 on approach to Kendal); service unspecified in doc",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -583,7 +615,9 @@
             "FOUND 15:30 per doc, FROZEN 15:00-19:00",
             "Clip 6 attribution (Kendal street, listed 'Day 1 presumably after finding adam') is AMBIGUOUS in the doc"
           ],
-          "end_of_day": [4],
+          "end_of_day": [
+            4
+          ],
           "to_next": []
         },
         {
@@ -616,7 +650,9 @@
             "Day 5 ~13:00 per doc Option 1 line 'Kendal (7:00) -> Carlisle (9:00) -> Dumfries (13:00)' (attribution AMBIGUOUS)",
             "Dumfries Station clip ~12:50: Sam audible (suspected editing error); Adam is on the platform"
           ],
-          "end_of_day": [5],
+          "end_of_day": [
+            5
+          ],
           "to_next": []
         },
         {
@@ -652,7 +688,7 @@
             "latitude": 51.5327196
           },
           "when": {
-            "start": "2025-09-08T11:00:00",
+            "start": "2025-09-08T11:00:00+01:00",
             "end": null
           },
           "video": null,
@@ -667,7 +703,8 @@
               "mode": "train",
               "note": "KGX→York 11:03-13:30 (LNER) or 11:27-13:27 (Grand Central), then York→Leeds e.g. 14:08-15:23 (Northern)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -690,7 +727,8 @@
               "mode": "train",
               "note": "15:43 from platform 15 towards Scarborough, arr Bridlington ~20:00",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -707,7 +745,9 @@
           "notes": [
             "Day 1 evening (~20:00); Day 1 end (overnight)"
           ],
-          "end_of_day": [1],
+          "end_of_day": [
+            1
+          ],
           "to_next": []
         },
         {
@@ -730,7 +770,8 @@
               "mode": "train",
               "note": "08:12 Bridlington → Scarborough (class 170, RTT+ confirmed)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -754,7 +795,8 @@
               "mode": "train",
               "note": "15:47 TPE (Scarborough–Manchester Vic) via York, arr Leeds 16:12 (Colton Junction 15:52)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -777,7 +819,8 @@
               "mode": "train",
               "note": "Leeds → Hebden Bridge (service unspecified; doc lists Hebden Bridge departures from 17:17)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -794,7 +837,9 @@
           "notes": [
             "Day 2 evening: Sam becomes HIDER at 19:30 (run 2); Day 2 end"
           ],
-          "end_of_day": [2],
+          "end_of_day": [
+            2
+          ],
           "to_next": []
         },
         {
@@ -827,7 +872,9 @@
           "notes": [
             "Day 3: FROZEN 18:00-20:00 (Ben's hide start); Day 3 end"
           ],
-          "end_of_day": [3],
+          "end_of_day": [
+            3
+          ],
           "to_next": []
         },
         {
@@ -849,7 +896,8 @@
               "mode": "train",
               "note": "Milton Keynes → Kendal (mode/service not stated in doc)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -867,7 +915,9 @@
             "Day 4 14:15 (with Adam); Sam wants 'aesthetic british flag picture'",
             "AMBIGUOUS day: listed Day 5 in located clips, rain/wind analysis matches Day 4"
           ],
-          "end_of_day": [4],
+          "end_of_day": [
+            4
+          ],
           "to_next": []
         },
         {
@@ -889,7 +939,8 @@
               "mode": "bus",
               "note": "41A bus Kendal–Oxenholme (clip: Sam+Adam, Adam 'driving the bus')",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -956,7 +1007,9 @@
             "Day 6: sun calcs disagree (~19:30 ±30 evening vs ≤10:15 morning) — AMBIGUOUS",
             "Game end (Option 1: Sam found at Dunbar; schedule ends Sep 13 19:00, Option 2 says 20:00)"
           ],
-          "end_of_day": [6],
+          "end_of_day": [
+            6
+          ],
           "to_next": []
         }
       ]

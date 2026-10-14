@@ -15,7 +15,7 @@
             "latitude": 37.52995733
           },
           "when": {
-            "start": "2025-04-02T07:00:00",
+            "start": "2025-04-02T07:00:00+09:00",
             "end": null
           },
           "video": null,
@@ -2845,7 +2845,8 @@
                   "longitude": 127.1045762,
                   "latitude": 36.7943331
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -3665,7 +3666,8 @@
                   "longitude": 127.327378,
                   "latitude": 36.620453
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -8736,7 +8738,8 @@
                   "longitude": 128.2059487,
                   "latitude": 37.12707938
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -13804,7 +13807,8 @@
                   "longitude": 127.327378,
                   "latitude": 36.620453
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -15621,7 +15625,8 @@
                   "longitude": 126.9460147,
                   "latitude": 35.94116804
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -15632,7 +15637,7 @@
             "latitude": 35.94116804
           },
           "when": {
-            "start": "2025-04-02T11:54:00",
+            "start": "2025-04-02T11:54:00+09:00",
             "end": null
           },
           "video": null,
@@ -15651,7 +15656,10 @@
             "longitude": 126.9460147,
             "latitude": 35.94116804
           },
-          "when": null,
+          "when": {
+            "start": "2025-04-02T13:36:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -17413,7 +17421,8 @@
                   "longitude": 127.327378,
                   "latitude": 36.620453
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -17424,7 +17433,7 @@
             "latitude": 36.620453
           },
           "when": {
-            "start": "2025-04-02T14:11:00",
+            "start": "2025-04-02T14:11:00+09:00",
             "end": null
           },
           "video": null,
@@ -18701,7 +18710,8 @@
                   "longitude": 127.4346856,
                   "latitude": 36.33219999
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -18712,7 +18722,7 @@
             "latitude": 36.33219999
           },
           "when": {
-            "start": "2025-04-02T15:03:00",
+            "start": "2025-04-02T15:03:00+09:00",
             "end": null
           },
           "video": null,
@@ -20661,7 +20671,8 @@
                   "longitude": 128.6282898,
                   "latitude": 35.87916842
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -20672,7 +20683,7 @@
             "latitude": 35.87916842
           },
           "when": {
-            "start": "2025-04-02T16:57:00",
+            "start": "2025-04-02T16:57:00+09:00",
             "end": null
           },
           "video": null,
@@ -21290,7 +21301,8 @@
                   "longitude": 129.3415091,
                   "latitude": 36.0718893
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -21301,7 +21313,7 @@
             "latitude": 36.0718893
           },
           "when": {
-            "start": "2025-04-03T11:02:00",
+            "start": "2025-04-03T11:02:00+09:00",
             "end": null
           },
           "video": null,
@@ -21898,7 +21910,8 @@
                   "longitude": 129.2011734,
                   "latitude": 35.86876385
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -21909,7 +21922,7 @@
             "latitude": 35.86876385
           },
           "when": {
-            "start": "2025-04-03T14:14:00",
+            "start": "2025-04-03T14:14:00+09:00",
             "end": null
           },
           "video": null,
@@ -22962,7 +22975,8 @@
                   "longitude": 128.6282898,
                   "latitude": 35.87916842
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -22973,7 +22987,7 @@
             "latitude": 35.87916842
           },
           "when": {
-            "start": "2025-04-03T18:41:00",
+            "start": "2025-04-03T18:41:00+09:00",
             "end": null
           },
           "video": null,
@@ -22999,7 +23013,8 @@
                   "longitude": 127.327378,
                   "latitude": 36.620453
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -23010,7 +23025,7 @@
             "latitude": 36.620453
           },
           "when": {
-            "start": "2025-04-04T08:37:00",
+            "start": "2025-04-04T08:37:00+09:00",
             "end": null
           },
           "video": null,
@@ -23035,7 +23050,8 @@
                   "longitude": 126.9648276,
                   "latitude": 37.52995733
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -23046,7 +23062,7 @@
             "latitude": 37.52995733
           },
           "when": {
-            "start": "2025-04-04T10:59:00",
+            "start": "2025-04-04T10:59:00+09:00",
             "end": null
           },
           "video": null,
@@ -23095,7 +23111,7 @@
             "latitude": 37.52995733
           },
           "when": {
-            "start": "2025-04-02T08:00:00",
+            "start": "2025-04-02T08:00:00+09:00",
             "end": null
           },
           "video": null,
@@ -25683,7 +25699,8 @@
                   "longitude": 127.0852483,
                   "latitude": 36.99079025
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -25693,7 +25710,10 @@
             "longitude": 127.0852483,
             "latitude": 36.99079025
           },
-          "when": null,
+          "when": {
+            "start": "2025-04-02T09:23:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -26415,7 +26435,8 @@
                   "longitude": 127.1481572,
                   "latitude": 36.8090482
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -26426,7 +26447,7 @@
             "latitude": 36.8090482
           },
           "when": {
-            "start": "2025-04-02T09:46:00",
+            "start": "2025-04-02T09:46:00+09:00",
             "end": null
           },
           "video": null,
@@ -27030,7 +27051,8 @@
                   "longitude": 127.011401,
                   "latitude": 36.7794047
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -27041,7 +27063,7 @@
             "latitude": 36.7794047
           },
           "when": {
-            "start": "2025-04-02T10:36:00",
+            "start": "2025-04-02T10:36:00+09:00",
             "end": null
           },
           "video": null,
@@ -28805,7 +28827,8 @@
                   "longitude": 126.6812105,
                   "latitude": 36.59930176
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -28816,7 +28839,7 @@
             "latitude": 36.59930176
           },
           "when": {
-            "start": "2025-04-02T11:22:00",
+            "start": "2025-04-02T11:22:00+09:00",
             "end": null
           },
           "video": null,
@@ -28840,7 +28863,8 @@
                   "longitude": 126.9460147,
                   "latitude": 35.94116804
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -28851,7 +28875,7 @@
             "latitude": 35.94116804
           },
           "when": {
-            "start": "2025-04-02T12:49:00",
+            "start": "2025-04-02T12:49:00+09:00",
             "end": null
           },
           "video": null,
@@ -28871,7 +28895,10 @@
             "longitude": 126.9460147,
             "latitude": 35.94116804
           },
-          "when": null,
+          "when": {
+            "start": "2025-04-02T13:36:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -30633,7 +30660,8 @@
                   "longitude": 127.327378,
                   "latitude": 36.620453
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -30644,7 +30672,7 @@
             "latitude": 36.620453
           },
           "when": {
-            "start": "2025-04-02T14:11:00",
+            "start": "2025-04-02T14:11:00+09:00",
             "end": null
           },
           "video": null,
@@ -31920,7 +31948,8 @@
                   "longitude": 127.4346856,
                   "latitude": 36.33219999
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -31931,7 +31960,7 @@
             "latitude": 36.33219999
           },
           "when": {
-            "start": "2025-04-02T15:03:00",
+            "start": "2025-04-02T15:03:00+09:00",
             "end": null
           },
           "video": null,
@@ -33879,7 +33908,8 @@
                   "longitude": 128.6282898,
                   "latitude": 35.87916842
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -33890,7 +33920,7 @@
             "latitude": 35.87916842
           },
           "when": {
-            "start": "2025-04-02T16:57:00",
+            "start": "2025-04-02T16:57:00+09:00",
             "end": null
           },
           "video": null,
@@ -34506,7 +34536,8 @@
                   "longitude": 129.3415091,
                   "latitude": 36.0718893
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -34517,7 +34548,7 @@
             "latitude": 36.0718893
           },
           "when": {
-            "start": "2025-04-03T11:02:00",
+            "start": "2025-04-03T11:02:00+09:00",
             "end": null
           },
           "video": null,
@@ -35113,7 +35144,8 @@
                   "longitude": 129.2011734,
                   "latitude": 35.86876385
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -35124,7 +35156,7 @@
             "latitude": 35.86876385
           },
           "when": {
-            "start": "2025-04-03T14:14:00",
+            "start": "2025-04-03T14:14:00+09:00",
             "end": null
           },
           "video": null,
@@ -35721,7 +35753,8 @@
                   "longitude": 129.3415091,
                   "latitude": 36.0718893
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -35732,7 +35765,7 @@
             "latitude": 36.0718893
           },
           "when": {
-            "start": "2025-04-03T15:18:00",
+            "start": "2025-04-03T15:18:00+09:00",
             "end": null
           },
           "video": null,
@@ -35757,7 +35790,8 @@
                   "longitude": 128.6282898,
                   "latitude": 35.87916842
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -35768,7 +35802,7 @@
             "latitude": 35.87916842
           },
           "when": {
-            "start": "2025-04-03T16:56:00",
+            "start": "2025-04-03T16:56:00+09:00",
             "end": null
           },
           "video": null,
@@ -35783,7 +35817,8 @@
               "mode": "train",
               "note": "KTX 050 Dongdaegu→Osong (dep 17:48, arr 18:46)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -35794,7 +35829,7 @@
             "latitude": 36.620453
           },
           "when": {
-            "start": "2025-04-03T18:46:00",
+            "start": "2025-04-03T18:46:00+09:00",
             "end": null
           },
           "video": null,
@@ -35827,7 +35862,8 @@
               "mode": "train",
               "note": "KTX 472 Osong→Yongsan (dep 08:30, arr 09:25) — blockers eat 호두과자 north of Cheonan-Asan on this ride (Hwaseong-si/Bongdam-eup clip, no coords in doc)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -35838,7 +35874,7 @@
             "latitude": 37.52995733
           },
           "when": {
-            "start": "2025-04-04T09:25:00",
+            "start": "2025-04-04T09:25:00+09:00",
             "end": null
           },
           "video": null,
@@ -35868,7 +35904,7 @@
             "latitude": 37.52995733
           },
           "when": {
-            "start": "2025-04-02T07:00:00",
+            "start": "2025-04-02T07:00:00+09:00",
             "end": null
           },
           "video": null,
@@ -38697,7 +38733,8 @@
                   "longitude": 127.1045762,
                   "latitude": 36.7943331
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -38720,7 +38757,8 @@
               "mode": "train",
               "note": "KTX toward Shin Haeundae, Cheonan-Asan→Osong",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -43791,7 +43829,8 @@
                   "longitude": 128.2059487,
                   "latitude": 37.12707938
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -43814,7 +43853,8 @@
               "mode": "train",
               "note": "Return to Osong (service unknown) to catch KTX 413 at 11:26",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -43838,7 +43878,8 @@
               "mode": "train",
               "note": "KTX 413 toward Mokpo (dep Osong 11:26, arr Iksan 11:54)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -43849,7 +43890,7 @@
             "latitude": 35.94116804
           },
           "when": {
-            "start": "2025-04-02T11:54:00",
+            "start": "2025-04-02T11:54:00+09:00",
             "end": null
           },
           "video": null,
@@ -43867,7 +43908,10 @@
             "longitude": 126.9460147,
             "latitude": 35.94116804
           },
-          "when": null,
+          "when": {
+            "start": "2025-04-02T14:35:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -43880,7 +43924,8 @@
               "mode": "train",
               "note": "ITX-Saemaeul 512 Iksan→Osong (dep 14:35, arr 15:03; alt: KTX 418 dep 14:08, arr 14:35)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -43891,7 +43936,7 @@
             "latitude": 36.620453
           },
           "when": {
-            "start": "2025-04-02T15:03:00",
+            "start": "2025-04-02T15:03:00+09:00",
             "end": null
           },
           "video": null,
@@ -43908,7 +43953,8 @@
               "mode": "train",
               "note": "KTX-Sancheon 588 Osong→Yongsan (dep 16:33, arr 17:22; line passes Cheonan-Asan node per doc distance calc)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -43919,7 +43965,7 @@
             "latitude": 37.52995733
           },
           "when": {
-            "start": "2025-04-02T17:22:00",
+            "start": "2025-04-02T17:22:00+09:00",
             "end": null
           },
           "video": null,
@@ -43934,7 +43980,8 @@
               "mode": "train",
               "note": "ITX-Cheongchun 2025 Yongsan→Sangbong (dep 17:50, arr 18:16)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -43945,7 +43992,7 @@
             "latitude": 37.59701805
           },
           "when": {
-            "start": "2025-04-02T18:16:00",
+            "start": "2025-04-02T18:16:00+09:00",
             "end": null
           },
           "video": null,
@@ -43965,7 +44012,10 @@
             "longitude": 127.085664,
             "latitude": 37.59701805
           },
-          "when": null,
+          "when": {
+            "start": "2025-04-03T07:16:00+09:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -43978,7 +44028,8 @@
               "mode": "train",
               "note": "KTX 841 Sangbong→Jinbu (dep 07:16; doc line calc passes Seowonju node)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -43989,7 +44040,7 @@
             "latitude": 37.6427627
           },
           "when": {
-            "start": "2025-04-03T08:42:00",
+            "start": "2025-04-03T08:42:00+09:00",
             "end": null
           },
           "video": null,
@@ -44004,7 +44055,8 @@
               "mode": "train",
               "note": "KTX 841 Jinbu→Donghae (arr 09:39; passes Jeongdongjin node per doc line calc)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -44015,7 +44067,7 @@
             "latitude": 37.49755738
           },
           "when": {
-            "start": "2025-04-03T09:39:00",
+            "start": "2025-04-03T09:39:00+09:00",
             "end": null
           },
           "video": null,
@@ -44032,7 +44084,8 @@
               "mode": "train",
               "note": "Nuriro 1852 Donghae→Pohang (dep 09:51 (09:47), arr 12:37; trailer clip near Geomuyeok-ri 36.59721, 129.40507 on this coastal stretch)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -44043,7 +44096,7 @@
             "latitude": 36.0718893
           },
           "when": {
-            "start": "2025-04-03T12:37:00",
+            "start": "2025-04-03T12:37:00+09:00",
             "end": null
           },
           "video": null,
@@ -44059,7 +44112,8 @@
               "mode": "train",
               "note": "ITX-Maum 1252 Pohang→Seogyeongju (dep 13:54, arr 14:14) — doc main; alt: Nuriro 1854 dep 17:23 arr 17:46 (AMBIGUOUS per doc)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -44070,7 +44124,7 @@
             "latitude": 35.86876385
           },
           "when": {
-            "start": "2025-04-03T14:14:00",
+            "start": "2025-04-03T14:14:00+09:00",
             "end": null
           },
           "video": null,
@@ -44103,7 +44157,8 @@
               "mode": "train",
               "note": "ITX-Maum 1255 Seogyeongju→Pohang (dep 15:00, arr 15:18)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -44114,7 +44169,7 @@
             "latitude": 36.0718893
           },
           "when": {
-            "start": "2025-04-03T15:18:00",
+            "start": "2025-04-03T15:18:00+09:00",
             "end": null
           },
           "video": null,
@@ -44130,7 +44185,8 @@
               "mode": "train",
               "note": "KTX-Sancheon 248 Pohang→Dongdaegu (dep 16:21, arr 16:56)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -44141,7 +44197,7 @@
             "latitude": 35.87916842
           },
           "when": {
-            "start": "2025-04-03T16:56:00",
+            "start": "2025-04-03T16:56:00+09:00",
             "end": null
           },
           "video": null,
@@ -44156,7 +44212,8 @@
               "mode": "train",
               "note": "KTX 050 Dongdaegu→Osong (dep 17:48, arr 18:46)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -44167,7 +44224,7 @@
             "latitude": 36.620453
           },
           "when": {
-            "start": "2025-04-03T18:46:00",
+            "start": "2025-04-03T18:46:00+09:00",
             "end": null
           },
           "video": null,
@@ -44200,7 +44257,8 @@
               "mode": "train",
               "note": "KTX 472 Osong→Yongsan (dep 08:30, arr 09:25)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -44211,7 +44269,7 @@
             "latitude": 37.52995733
           },
           "when": {
-            "start": "2025-04-04T09:25:00",
+            "start": "2025-04-04T09:25:00+09:00",
             "end": null
           },
           "video": null,

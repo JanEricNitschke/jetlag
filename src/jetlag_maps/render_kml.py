@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import datetime as dt
 import html
 import re
 from typing import TYPE_CHECKING
@@ -91,9 +92,18 @@ def _render_legs(folder: Element, journey: Journey) -> None:
 
 def _add_time_span(placemark: Element, when: When) -> None:
     time_span = _sub(placemark, "TimeSpan")
-    _sub(time_span, "begin", when.start.isoformat())
+    _sub(time_span, "begin", _kml_time(when.start))
     if when.end is not None:
-        _sub(time_span, "end", when.end.isoformat())
+        _sub(time_span, "end", _kml_time(when.end))
+
+
+def _kml_time(moment: dt.datetime) -> str:
+    """Format a moment for a KML time primitive: UTC when zoned."""
+    return (
+        moment.astimezone(dt.UTC).isoformat()
+        if moment.tzinfo is not None
+        else moment.isoformat()
+    )
 
 
 def _add_pin_style(placemark: Element, color: Color) -> None:

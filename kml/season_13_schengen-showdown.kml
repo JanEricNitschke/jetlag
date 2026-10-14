@@ -8,7 +8,7 @@
         <name>Victoria Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start (doc: Jan 6 2025, ~6:30 UTC; teaser clock ~6:55)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-01-06T06:30:00</begin>
+          <begin>2025-01-06T06:30:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -26,6 +26,9 @@
       <Placemark>
         <name>London St Pancras</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott</description>
+        <TimeSpan>
+          <begin>2025-01-06T09:01:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -42,6 +45,9 @@
       <Placemark>
         <name>Brussels Midi</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott</description>
+        <TimeSpan>
+          <begin>2025-01-06T11:05:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -58,6 +64,9 @@
       <Placemark>
         <name>Liège-Guillemins</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott</description>
+        <TimeSpan>
+          <begin>2025-01-06T12:12:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -74,6 +83,9 @@
       <Placemark>
         <name>Carrefour Express Guillemins</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Probable waffle purchase, likely in relation with waffle pong (doc marks as probable)&lt;/li&gt;&lt;li&gt;Exact time within Day 1 not stated in doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-06T12:13:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -90,6 +102,9 @@
       <Placemark>
         <name>Liège-Guillemins</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Return to station for Maastricht train&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-06T13:08:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -106,6 +121,9 @@
       <Placemark>
         <name>Maastricht</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Striped traffic lights clip; Tom runs from station westwards&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-06T13:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -122,6 +140,9 @@
       <Placemark>
         <name>Liège-Guillemins</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 end (overnight)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-06T16:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -138,6 +159,9 @@
       <Placemark>
         <name>Brussels Airport (Gate A51)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Gate A51/A53 (Sam: &amp;#x27;I don&amp;#x27;t panic&amp;#x27; at gate A51)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-07T08:50:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -154,6 +178,9 @@
       <Placemark>
         <name>Vienna Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott</description>
+        <TimeSpan>
+          <begin>2025-01-07T10:26:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -170,6 +197,9 @@
       <Placemark>
         <name>Bratislava</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Slovakia; &amp;#x27;BT&amp;#x27; number plate clip&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-08T10:40:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -186,6 +216,9 @@
       <Placemark>
         <name>Hegyeshalom</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Hungary claim (doc: &amp;#x27;?&amp;#x27;, uncertain)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-07T13:55:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -202,6 +235,9 @@
       <Placemark>
         <name>Vienna (Wien Hauptbahnhof)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 end (overnight)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-07T15:23:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -218,6 +254,9 @@
       <Placemark>
         <name>Břeclav Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Czechia&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-08T08:38:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -234,6 +273,9 @@
       <Placemark>
         <name>Park in Brečlav</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Czechia challenge: &amp;#x27;Kill Time, Then Tell Time&amp;#x27; (oldest continuously working clock, 5-minute tolerance)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-08T08:39:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -250,6 +292,9 @@
       <Placemark>
         <name>Břeclav Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott</description>
+        <TimeSpan>
+          <begin>2025-01-08T09:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -282,6 +327,9 @@
       <Placemark>
         <name>Copenhagen Kastrup Airport (T2)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;AMBIGUOUS: doc places this under Sam+Tom in the photo-order section but Current Question #2 asks who is actually in Copenhagen; day unknown (Day 3 vs Day ?)&lt;/li&gt;&lt;li&gt;Arrival flight unidentified in doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-08T15:50:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -298,6 +346,9 @@
       <Placemark>
         <name>Malmö</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Tom Scott&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Sweden; day unknown (Day 3/4?)&lt;/li&gt;&lt;li&gt;Days after Malmö not covered by source doc; unknown Austrian Airlines flight (possibly Vienna→Bucharest on Day 6?)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-08T16:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff6b7900</color>
@@ -539,7 +590,7 @@
         <name>Victoria Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start (doc: Jan 6 2025, ~6:30 UTC)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-01-06T06:30:00</begin>
+          <begin>2025-01-06T06:30:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -573,6 +624,9 @@
       <Placemark>
         <name>Heathrow Terminal 4</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2025-01-06T08:55:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -589,6 +643,9 @@
       <Placemark>
         <name>Zurich Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2025-01-06T10:50:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -605,6 +662,9 @@
       <Placemark>
         <name>Zurich HB</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&amp;#x27;Leaving Zurich HB&amp;#x27; clip ~12:27 (Ep1 clip: Sam tracking Badam, &amp;#x27;both still in Zurich Station&amp;#x27;)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-06T11:28:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -637,6 +697,9 @@
       <Placemark>
         <name>Waldshut</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Germany&lt;/li&gt;&lt;li&gt;Doc puzzles over why they routed via Schaffhausen (cancelled IRE3, challenge defense, or ferry theory - unresolved)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-06T13:31:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -653,6 +716,9 @@
       <Placemark>
         <name>Basel SBB</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2025-01-06T15:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -669,6 +735,9 @@
       <Placemark>
         <name>Saint-Louis</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;France claim/steal (doc: &amp;#x27;France ? (steal)&amp;#x27; - uncertain)&lt;/li&gt;&lt;li&gt;Arrived from Basel evening of Jan 6; mode not stated in doc&lt;/li&gt;&lt;li&gt;Day 1 end (overnight)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 1&lt;/b&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-07T07:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -685,6 +754,9 @@
       <Placemark>
         <name>St. Margarethen</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Station clock shows 11:35 (Day 2)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-07T10:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -701,6 +773,9 @@
       <Placemark>
         <name>Höchst</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Austria (&amp;#x27;locked as it seems from the challenge&amp;#x27;)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-07T10:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -717,6 +792,9 @@
       <Placemark>
         <name>St. Margarethen</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Return from Höchst&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-07T12:46:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -733,6 +811,9 @@
       <Placemark>
         <name>Buchs SG</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2025-01-07T13:14:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -749,6 +830,9 @@
       <Placemark>
         <name>Schaan</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Liechtenstein&lt;/li&gt;&lt;li&gt;Day 2 end (overnight in Schaan or Buchs per doc)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 2&lt;/b&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-07T13:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -765,6 +849,9 @@
       <Placemark>
         <name>Buchs SG</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 start (returned from Schaan/Buchs overnight position; walk mode not stated in doc)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-07T13:37:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -781,6 +868,9 @@
       <Placemark>
         <name>Zurich Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2025-01-08T09:55:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -797,6 +887,9 @@
       <Placemark>
         <name>Rome</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Jan 8 12:56 UTC Twitter post (Creation of Adam drawing - &amp;#x27;Claiming Vatican City? Forge European art as a challenge?&amp;#x27;)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-08T11:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -813,6 +906,9 @@
       <Placemark>
         <name>Vatican City</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Vatican City; ~14:00 based on tweet challenge timing&lt;/li&gt;&lt;li&gt;Mode of travel within Rome not stated in doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-08T12:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -845,6 +941,9 @@
       <Placemark>
         <name>Copenhagen Kastrup Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;AMBIGUOUS: doc&amp;#x27;s Day 4 line is &amp;#x27;AMS? CPH? Malmo?&amp;#x27; - nothing confirmed; placed here because Day 5 starts with the CPH→TRF flight&lt;/li&gt;&lt;li&gt;Arrival into Copenhagen unidentified in doc&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-10T10:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -861,6 +960,9 @@
       <Placemark>
         <name>Oslo Torp Airport</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Claiming Norway&lt;/li&gt;&lt;li&gt;AMBIGUOUS: doc says &amp;#x27;Guessing this is Badam&amp;#x27; (Current Question #3: Oslo clip might not be Tom+Sam)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-10T11:40:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -877,6 +979,9 @@
       <Placemark>
         <name>Oslo</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 (Jan 10); Day 6 (Jan 11) not covered by source doc&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;End of day 5&lt;/b&gt;</description>
+        <TimeSpan>
+          <begin>2025-01-10T13:23:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>

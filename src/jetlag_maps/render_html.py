@@ -15,6 +15,7 @@ from folium.plugins import MarkerCluster, PolyLineTextPath
 from jetlag_maps.format import (
     SeasonFile,
     format_video_time,
+    format_when,
     join_players,
     load_seasons,
 )
@@ -130,10 +131,7 @@ def _stop_popup(stop: Stop, journey: Journey) -> str:
     names = ", ".join(html.escape(str(p)) for p in _stop_players(stop, journey))
     parts.append(f"<div>Players: {names}</div>")
     if stop.when is not None:
-        stamp = stop.when.start.strftime("%Y-%m-%d %H:%M")
-        if stop.when.end is not None:
-            stamp += f" - {stop.when.end.strftime('%Y-%m-%d %H:%M')}"
-        parts.append(f"<div>Time: {stamp}</div>")
+        parts.append(f"<div>Time: {format_when(stop.when)}</div>")
     if stop.video is not None:
         stamp = (
             f"{format_video_time(stop.video.start)}"
@@ -196,10 +194,7 @@ def _merged_team_popup(entries: Sequence[tuple[Journey, Stop]]) -> str:
 def _format_when(stop: Stop) -> str | None:
     if stop.when is None:
         return None
-    stamp = stop.when.start.strftime("%Y-%m-%d %H:%M")
-    if stop.when.end is not None:
-        stamp += f" - {stop.when.end.strftime('%Y-%m-%d %H:%M')}"
-    return stamp
+    return format_when(stop.when)
 
 
 def _format_video(stop: Stop) -> str | None:

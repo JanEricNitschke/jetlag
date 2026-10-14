@@ -7,6 +7,9 @@
       <Placemark>
         <name>Tokyo Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start as seeker (with Sam), chasing Ben&amp;#x27;s run 1&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-16T22:48:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -23,6 +26,9 @@
       <Placemark>
         <name>Sendai Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker hub chasing Ben (100-mile radar, thermometer, photo questions)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-17T02:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -39,6 +45,9 @@
       <Placemark>
         <name>Yamadera Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Ben under the bridge by the river (9:19:03 + 40 min = 9:59:03)&lt;/li&gt;&lt;li&gt;Run 1 start for Adam (3.5h from where Ben was found)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-17T07:49:03+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -55,6 +64,9 @@
       <Placemark>
         <name>Tobiyama Castle Site Station area</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 1 hiding spot: a park near the station (single-story tallest building)&lt;/li&gt;&lt;li&gt;FOUND at 7:11:12 + 30 min = 7:41:12 (Mediocre Travel Agent curse info used against him)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-18T06:11:12+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -71,6 +83,9 @@
       <Placemark>
         <name>Tokyo Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Cleared the Impressionable Consumer + Right Turn curses here&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-19T01:47:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -87,6 +102,9 @@
       <Placemark>
         <name>Higashi-Narita Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Sam at 7:42:45&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-19T05:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -103,6 +121,9 @@
       <Placemark>
         <name>Atami Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker stop (over 5 hours into Ben&amp;#x27;s run); refused the Ito-line theory; went WEST to Mishima instead (wrong)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-20T03:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -135,6 +156,9 @@
       <Placemark>
         <name>Izu-Kogen Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Ben at night — final 13:09:28&lt;/li&gt;&lt;li&gt;Run 2 start for Adam (from where Ben was found)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-20T09:29:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -151,6 +175,9 @@
       <Placemark>
         <name>Saruhashi Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 2 hiding spot; misled the seekers with answers and decoy photos&lt;/li&gt;&lt;li&gt;FOUND after an exhaustive search (final 11:21)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-21T08:46:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -167,6 +194,9 @@
       <Placemark>
         <name>Naka-Urawa Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Sam near Naka-Urawa after his Move card (final 10:46:04) — Ben wins the season&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-21T08:46:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -316,6 +346,9 @@
       <Placemark>
         <name>Tokyo Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 1 start (the day before the first game day)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-16T06:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -332,6 +365,9 @@
       <Placemark>
         <name>Yamadera Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 1 hiding spot: under a bridge next to the local river&lt;/li&gt;&lt;li&gt;FOUND at 9:19:03 + 40 min bonus = final 9:59:03 (seekers stalled ~2h in Sendai by the Jammed Door curse)&lt;/li&gt;&lt;li&gt;Seekers&amp;#x27; radar/thermometer questions put Ben in the northeast; found via Strava-analysis at Yamadera&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-17T07:49:03+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -348,6 +384,9 @@
       <Placemark>
         <name>Sendai Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker stop chasing Adam: corrected direction after questions (Adam was south)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-18T00:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -364,6 +403,9 @@
       <Placemark>
         <name>Utsunomiya Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Cleared the Curse of the Hidden Hangman here (won on &amp;#x27;fuzzy&amp;#x27;)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-18T04:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -380,6 +422,9 @@
       <Placemark>
         <name>Tobiyama Castle Site Station area</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Adam in a park near here at 7:11:12 + 30 min = 7:41:12&lt;/li&gt;&lt;li&gt;Pin is Tobiyama Castle (the castle-site station is nearby); fan wiki calls the station &amp;#x27;Konoyama&amp;#x27; — a mis-romanization&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-18T06:11:12+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -396,6 +441,9 @@
       <Placemark>
         <name>Tokyo Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker stop chasing Sam: cleared Impressionable Consumer + Right Turn curses here&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-19T01:47:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -412,6 +460,9 @@
       <Placemark>
         <name>Higashi-Narita Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Sam at 7:12:45 + 30 min = 7:42:45 (seekers accidentally took a train to his exact location)&lt;/li&gt;&lt;li&gt;Run 2 start for Ben (from where Sam was found)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-19T05:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -428,6 +479,9 @@
       <Placemark>
         <name>Izu-Kogen Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 2 hiding spot: near Izu-Kogen station; zone contained the Teddy Bear Museum&lt;/li&gt;&lt;li&gt;FOUND at night after the seekers&amp;#x27; Atami/Mishima/Gotemba detours — final 13:09:28 (2h+ of bonus cards)&lt;/li&gt;&lt;li&gt;SEASON-BEST RUN — Ben wins Season 12&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-20T09:29:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -444,6 +498,9 @@
       <Placemark>
         <name>Saruhashi Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Adam here on his 2nd run (final time 11:21); route details not in episode sources&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-21T08:46:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -460,6 +517,9 @@
       <Placemark>
         <name>Naka-Urawa Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Sam near Naka-Urawa after he used the Move card to relocate from Kawagoe — final 10:46:04&lt;/li&gt;&lt;li&gt;Game end — Ben wins with the longest hiding time (13:09:28)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-21T08:46:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -596,6 +656,9 @@
       <Placemark>
         <name>Tokyo Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start as seeker (with Adam), chasing Ben&amp;#x27;s run 1&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-16T22:48:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -612,6 +675,9 @@
       <Placemark>
         <name>Sendai Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker hub chasing Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-17T02:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -628,6 +694,9 @@
       <Placemark>
         <name>Yamadera Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Ben under the bridge (9:59:03)&lt;/li&gt;&lt;li&gt;Run 1 start for Ben; seekers chase Adam next&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-17T07:49:03+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -644,6 +713,9 @@
       <Placemark>
         <name>Utsunomiya Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker stop: transfer toward the station matching Adam&amp;#x27;s photo&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-18T04:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -660,6 +732,9 @@
       <Placemark>
         <name>Tobiyama Castle Site Station area</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Adam in a park (7:41:12)&lt;/li&gt;&lt;li&gt;Run 1 start for Sam (3.5h from where Adam was found) — hid at an airport&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-18T06:11:12+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -676,6 +751,9 @@
       <Placemark>
         <name>Higashi-Narita Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 1 hiding spot: Narita Airport area&lt;/li&gt;&lt;li&gt;FOUND at 7:42:45 (the seekers accidentally took a train to his exact location)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-19T05:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -692,6 +770,9 @@
       <Placemark>
         <name>Atami Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Seeker stop; rejected the &amp;#x27;south of Atami to Ito&amp;#x27; theory and went west — the mistake&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-20T03:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -724,6 +805,9 @@
       <Placemark>
         <name>Izu-Kogen Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Ben at night (13:09:28)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-20T09:29:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -740,6 +824,9 @@
       <Placemark>
         <name>Saruhashi Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND Adam on his 2nd run (11:21)&lt;/li&gt;&lt;li&gt;Run 2 start for Sam (from where Adam was found)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-21T08:46:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -756,6 +843,9 @@
       <Placemark>
         <name>Kawagoe Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 2 initial hiding spot near Kawagoe Station&lt;/li&gt;&lt;li&gt;Used the rare &amp;#x27;Move&amp;#x27; card as the seekers approached — relocated for 1 hour into a new hiding zone&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-21T04:59:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -772,6 +862,9 @@
       <Placemark>
         <name>Naka-Urawa Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;FOUND near Naka-Urawa after the Move (final 10:46:04)&lt;/li&gt;&lt;li&gt;Game end — Ben wins the season&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2024-09-21T08:46:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>

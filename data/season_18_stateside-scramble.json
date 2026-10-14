@@ -16,7 +16,7 @@
             "latitude": 42.2056991
           },
           "when": {
-            "start": "2026-03-05T17:32:00",
+            "start": "2026-03-05T17:32:00-05:00",
             "end": null
           },
           "video": null,
@@ -37,7 +37,10 @@
             "longitude": -71.062318,
             "latitude": 42.370194
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-06T16:10:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -54,7 +57,10 @@
             "longitude": -71.0562341,
             "latitude": 42.3600335
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-06T17:50:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -4449,7 +4455,8 @@
                   "longitude": -71.271212,
                   "latitude": 42.800363
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -7630,7 +7637,8 @@
                   "longitude": -71.557149,
                   "latitude": 42.901504
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -7659,7 +7667,10 @@
             "longitude": -90.361074,
             "latitude": 38.736298
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-07T13:35:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -8123,7 +8134,8 @@
                   "longitude": -90.369215,
                   "latitude": 38.739818
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -12607,7 +12619,8 @@
                   "longitude": -92.626358,
                   "latitude": 41.163425
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -12617,7 +12630,10 @@
             "longitude": -92.62636,
             "latitude": 41.163425
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-07T17:40:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -13204,7 +13220,8 @@
                   "longitude": -92.744043,
                   "latitude": 41.2887
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -16617,7 +16634,8 @@
                   "longitude": -95.730358,
                   "latitude": 41.499383
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -21114,7 +21132,8 @@
                   "longitude": -96.48789,
                   "latitude": 42.546568
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -21124,7 +21143,10 @@
             "longitude": -96.48789,
             "latitude": 42.546561
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-08T11:30:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -21142,7 +21164,10 @@
             "longitude": -96.488036,
             "latitude": 42.54672
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-08T11:43:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -23717,7 +23742,8 @@
                   "longitude": -96.074643,
                   "latitude": 42.915915
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -28107,7 +28133,8 @@
                   "longitude": -95.103347,
                   "latitude": 43.875798
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -28117,7 +28144,10 @@
             "longitude": -95.102735,
             "latitude": 43.875597
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-08T14:20:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -29995,7 +30025,8 @@
                   "longitude": -94.639256,
                   "latitude": 43.974183
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -30005,7 +30036,10 @@
             "longitude": -94.640206,
             "latitude": 43.9746
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-08T15:00:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -33487,7 +33521,8 @@
                   "longitude": -93.242118,
                   "latitude": 44.856021
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -33497,7 +33532,10 @@
             "longitude": -93.2421195,
             "latitude": 44.8550204
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-08T18:10:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -33533,7 +33571,10 @@
             "longitude": -70.688688,
             "latitude": 43.069476
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-09T15:58:00-04:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -33559,7 +33600,10 @@
             "longitude": -73.976099,
             "latitude": 40.776173
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-05T08:10:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -35558,7 +35602,8 @@
                   "longitude": -73.892739,
                   "latitude": 40.747014
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -35568,7 +35613,10 @@
             "longitude": -73.892739,
             "latitude": 40.747014
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-05T08:40:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -35591,7 +35639,8 @@
                   "longitude": -73.873364,
                   "latitude": 40.7757145
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -35601,7 +35650,10 @@
             "longitude": -73.873364,
             "latitude": 40.7757145
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-05T09:19:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -35745,7 +35797,8 @@
                   "longitude": -89.9769022,
                   "latitude": 35.0450205
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -35755,7 +35808,10 @@
             "longitude": -89.9769022,
             "latitude": 35.0450205
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-05T11:17:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -37639,7 +37695,8 @@
                   "longitude": -90.034694,
                   "latitude": 34.991805
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -38825,7 +38882,8 @@
                   "longitude": -90.172258,
                   "latitude": 34.962411
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -38835,7 +38893,10 @@
             "longitude": -90.172258,
             "latitude": 34.962427
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-05T15:10:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -39505,7 +39566,8 @@
                   "longitude": -90.245922,
                   "latitude": 34.952699
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -42359,7 +42421,8 @@
                   "longitude": -89.9788,
                   "latitude": 35.044994
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -42511,7 +42574,8 @@
                   "longitude": -84.423757,
                   "latitude": 33.63581
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -44323,7 +44387,8 @@
                   "longitude": -84.392435,
                   "latitude": 33.762281
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -44333,7 +44398,10 @@
             "longitude": -84.392436,
             "latitude": 33.762556
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-06T11:40:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -47232,7 +47300,8 @@
                   "longitude": -84.920036,
                   "latitude": 33.731611
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -47242,7 +47311,10 @@
             "longitude": -84.9201624,
             "latitude": 33.7317359
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-06T10:10:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -51026,7 +51098,8 @@
                   "longitude": -84.417019,
                   "latitude": 33.637441
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -51037,7 +51110,7 @@
             "latitude": 33.63581
           },
           "when": {
-            "start": "2026-03-06T13:37:00",
+            "start": "2026-03-06T13:37:00-05:00",
             "end": null
           },
           "video": null,
@@ -51910,7 +51983,8 @@
                   "longitude": -90.3749,
                   "latitude": 38.7561
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -51921,7 +51995,7 @@
             "latitude": 38.7496273
           },
           "when": {
-            "start": "2026-03-06T14:11:00",
+            "start": "2026-03-06T14:11:00-06:00",
             "end": null
           },
           "video": null,
@@ -54278,7 +54352,8 @@
                   "longitude": -90.187279,
                   "latitude": 38.62531
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -54305,7 +54380,10 @@
             "longitude": -90.187242,
             "latitude": 38.6253
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-06T14:55:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -55369,7 +55447,8 @@
                   "longitude": -90.146199,
                   "latitude": 38.62085
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -60325,7 +60404,8 @@
                   "longitude": -88.911911,
                   "latitude": 38.101377
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -61659,7 +61739,8 @@
                   "longitude": -88.958031,
                   "latitude": 37.74123
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -65977,7 +66058,8 @@
                   "longitude": -90.373804,
                   "latitude": 38.745163
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -65988,7 +66070,7 @@
             "latitude": 38.7496273
           },
           "when": {
-            "start": "2026-03-07T12:11:00",
+            "start": "2026-03-07T12:11:00-06:00",
             "end": null
           },
           "video": null,
@@ -67081,7 +67163,8 @@
                   "longitude": -77.0373,
                   "latitude": 38.8464
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -67092,7 +67175,7 @@
             "latitude": 38.8512894
           },
           "when": {
-            "start": "2026-03-07T14:56:00",
+            "start": "2026-03-07T14:56:00-05:00",
             "end": null
           },
           "video": null,
@@ -70925,7 +71008,8 @@
                   "longitude": -76.953201,
                   "latitude": 38.377404
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -72775,7 +72859,8 @@
                   "longitude": -77.026682,
                   "latitude": 38.226008
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -72785,7 +72870,10 @@
             "longitude": -77.02668,
             "latitude": 38.226004
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-07T16:57:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -78144,7 +78232,8 @@
                   "longitude": -76.612709,
                   "latitude": 39.283754
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -78154,7 +78243,10 @@
             "longitude": -76.611864,
             "latitude": 39.283932
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-08T10:20:00-04:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -82773,7 +82865,8 @@
                   "longitude": -74.229385,
                   "latitude": 39.818716
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -86975,7 +87068,8 @@
                   "longitude": -74.42477,
                   "latitude": 39.361886
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -86985,7 +87079,10 @@
             "longitude": -74.424738,
             "latitude": 39.361899
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-09T11:50:00-04:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -91584,7 +91681,8 @@
                   "longitude": -74.177952,
                   "latitude": 40.689229
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -91595,7 +91693,7 @@
             "latitude": 40.6890641
           },
           "when": {
-            "start": "2026-03-09T14:21:00",
+            "start": "2026-03-09T14:21:00-04:00",
             "end": null
           },
           "video": null,
@@ -92568,7 +92666,8 @@
                   "longitude": -78.925,
                   "latitude": 33.6669
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -92579,7 +92678,7 @@
             "latitude": 33.6806406
           },
           "when": {
-            "start": "2026-03-09T16:38:00",
+            "start": "2026-03-09T16:38:00-04:00",
             "end": null
           },
           "video": null,
@@ -92598,7 +92697,10 @@
             "longitude": -78.879554,
             "latitude": 33.690878
           },
-          "when": null,
+          "when": {
+            "start": "2026-03-09T17:28:00-04:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],

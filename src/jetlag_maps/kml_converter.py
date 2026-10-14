@@ -32,6 +32,10 @@ Import rules
   stop count and a dated flight row is present; otherwise they are appended
   to the notes and reported. Unknown ``??:??`` timing lines are appended to
   the notes of the stops with the same episode and reported.
+- Naive ``when`` values get the stop's coordinate-derived IANA zone name
+  attached (see :func:`jetlag_maps.format.ensure_timezones`); the raw
+  ``datetime:`` zone suffix (e.g. ``MST``) is ignored, the stop location
+  wins.
 - ``to_next`` lists stay empty (filled in by later tooling).
 - Journeys are ordered by video chronology: stops with a ``video`` sort
   by ``(episode, start)`` while untimed stops keep their document
@@ -69,6 +73,7 @@ from jetlag_maps.format import (
     TravelMode,
     Video,
     When,
+    ensure_timezones,
 )
 from jetlag_maps.import_overrides import EXCLUDED_MEMBERS, STOP_ORDER_AFTER
 
@@ -643,7 +648,9 @@ def build_season(season: KmlSeason) -> SeasonFile | None:
             for team, stops in journeys.items()
         },
     )
-    return SeasonFile(season=season.number, name=season.name, journeys=built)
+    season_file = SeasonFile(season=season.number, name=season.name, journeys=built)
+    ensure_timezones(season_file)
+    return season_file
 
 
 def merge_season(fresh: SeasonFile, existing: SeasonFile) -> SeasonFile:

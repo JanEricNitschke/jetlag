@@ -7,6 +7,9 @@
       <Placemark>
         <name>Ferrara (Castello Estense)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start (front of the Castello Estense); Adam is the first runner (random), aiming for Bratislava&lt;/li&gt;&lt;li&gt;Filmed ~May 29-31, 2024; game days 6:00-20:00 CET&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-29T04:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -23,6 +26,9 @@
       <Placemark>
         <name>Venice Mestre</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase</description>
+        <TimeSpan>
+          <begin>2023-05-29T06:08:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -55,6 +61,9 @@
       <Placemark>
         <name>Susegana</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Failed &amp;#x27;Play Local Spirit Pong&amp;#x27;&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-29T07:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -71,6 +80,9 @@
       <Placemark>
         <name>Conegliano</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase</description>
+        <TimeSpan>
+          <begin>2023-05-29T08:18:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -87,6 +99,9 @@
       <Placemark>
         <name>Gorizia</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase</description>
+        <TimeSpan>
+          <begin>2023-05-29T10:17:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -103,6 +118,9 @@
       <Placemark>
         <name>Nova Gorica</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Vetoed &amp;#x27;Get Lucky on Coin Flips&amp;#x27;; completed &amp;#x27;Build a Spaghetti Tower&amp;#x27;&lt;/li&gt;&lt;li&gt;TAGGED at Nova Gorica station (local teen Teo tried to mislead the chasers)&lt;/li&gt;&lt;li&gt;Chaser movement to here: Trieste -&amp;gt; Monfalcone -&amp;gt; Gorizia&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-29T12:48:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -119,6 +137,9 @@
       <Placemark>
         <name>Monfalcone</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase</description>
+        <TimeSpan>
+          <begin>2023-05-29T15:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -135,6 +156,9 @@
       <Placemark>
         <name>Vicenza</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Chasers&amp;#x27; base for the night (plan: block Trento in the morning)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-29T17:31:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -151,6 +175,9 @@
       <Placemark>
         <name>Verona</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase</description>
+        <TimeSpan>
+          <begin>2023-05-30T04:52:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -167,6 +194,9 @@
       <Placemark>
         <name>Trento</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Ben caught Sam here (E3); post-tag freeze&lt;/li&gt;&lt;li&gt;Ben&amp;#x27;s run 1: chasers initially followed his original plan toward Verona (not placed)&lt;/li&gt;&lt;li&gt;Day 2 end&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-30T06:56:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -199,6 +229,9 @@
       <Placemark>
         <name>Castelfranco Veneto</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;TAGGED in Castelfranco Veneto on his 2nd run (had evaded the chasers twice while at the same train station)&lt;/li&gt;&lt;li&gt;Day 3&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-31T07:17:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -231,6 +264,9 @@
       <Placemark>
         <name>Milan</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase</description>
+        <TimeSpan>
+          <begin>2023-05-31T11:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -247,6 +283,9 @@
       <Placemark>
         <name>Hospental</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Caught Sam with 58 minutes left in the game (Sam posted up at Hospental Castle — Adam&amp;#x27;s S9-E1 hiding spot)&lt;/li&gt;&lt;li&gt;Game end; Sam wins (closest to his own win location, Lyon)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-31T17:01:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -435,6 +474,9 @@
       <Placemark>
         <name>Ferrara (Castello Estense)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start as chaser (with Sam); 07:43 train, delayed, missed the Udine connection&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-29T05:43:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -467,6 +509,9 @@
       <Placemark>
         <name>Monfalcone</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Good connection toward Venice/Gorizia&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-29T10:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -483,6 +528,9 @@
       <Placemark>
         <name>Gorizia</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-05-29T11:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -499,6 +547,9 @@
       <Placemark>
         <name>Nova Gorica</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Adam tagged at the station (E1); Ben becomes chaser&lt;/li&gt;&lt;li&gt;Day 1 end&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-29T12:48:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -515,6 +566,9 @@
       <Placemark>
         <name>Monfalcone</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-05-29T15:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -531,6 +585,9 @@
       <Placemark>
         <name>Vicenza</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-05-29T17:31:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -547,6 +604,9 @@
       <Placemark>
         <name>Verona</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-05-30T04:52:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -563,6 +623,9 @@
       <Placemark>
         <name>Trento</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Ben caught Sam here (E3) and became the runner&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-30T06:56:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -579,6 +642,9 @@
       <Placemark>
         <name>Bassano del Grappa</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Run 1: slower route via Bassano; then rethought toward Bologna&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-30T10:19:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -595,6 +661,9 @@
       <Placemark>
         <name>Castelfranco Veneto</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-05-30T10:44:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -611,6 +680,9 @@
       <Placemark>
         <name>Padua</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Planned challenge stops to fund the run (challenges in Castelfranco and Padua per E4)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-30T12:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -627,6 +699,9 @@
       <Placemark>
         <name>Bologna</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Fan wiki E5 places the post-tag freeze in Bologna; Wikipedia says his run only made it back to the starting point of Ferrara — AMBIGUOUS&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-30T13:01:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -659,6 +734,9 @@
       <Placemark>
         <name>Padua</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Chasing Sam&amp;#x27;s 2nd run (with Adam) — bad trains for the chasers from Padua &amp;amp; Milan per the season result&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-31T05:41:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -675,6 +753,9 @@
       <Placemark>
         <name>Milan</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle</description>
+        <TimeSpan>
+          <begin>2023-05-31T11:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -691,6 +772,9 @@
       <Placemark>
         <name>Hospental</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Caught Sam with 58 minutes left (Sam posted up to be caught); game over — Sam wins, Ben finishes as runner-up&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-31T17:01:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff58eeff</color>
@@ -892,6 +976,9 @@
       <Placemark>
         <name>Ferrara (Castello Estense)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start as chaser (with Ben); 07:43 train, delayed, missed the Udine connection&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-29T05:43:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -924,6 +1011,9 @@
       <Placemark>
         <name>Monfalcone</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby</description>
+        <TimeSpan>
+          <begin>2023-05-29T10:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -940,6 +1030,9 @@
       <Placemark>
         <name>Gorizia</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby</description>
+        <TimeSpan>
+          <begin>2023-05-29T11:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -956,6 +1049,9 @@
       <Placemark>
         <name>Nova Gorica</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Adam tagged (E1); Sam becomes the runner (round-robin)&lt;/li&gt;&lt;li&gt;Day 1 end&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-29T12:48:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -972,6 +1068,9 @@
       <Placemark>
         <name>Udine</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby</description>
+        <TimeSpan>
+          <begin>2023-05-29T14:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -1004,6 +1103,9 @@
       <Placemark>
         <name>Trento</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;1st visit en route; then off early at Castelfranco Veneto for the Bassano connection&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-30T07:29:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -1020,6 +1122,9 @@
       <Placemark>
         <name>Castelfranco Veneto</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Got off early to make the connection to his strategic hub&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-29T16:05:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -1036,6 +1141,9 @@
       <Placemark>
         <name>Bassano del Grappa</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Strategic hub; missed an onward connection toward Trento; vetoed &amp;#x27;Solve Amy&amp;#x27;s Puzzle Box&amp;#x27; (a piece was lost in his backpack)&lt;/li&gt;&lt;li&gt;Day 1 end&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-29T16:45:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -1052,6 +1160,9 @@
       <Placemark>
         <name>Trento</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;TAGGED by Ben in Trento (E3); kept his large coin balance for a later run&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-30T10:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -1068,6 +1179,9 @@
       <Placemark>
         <name>Ferrara (Castello Estense)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Ben&amp;#x27;s run ended back at Ferrara (E4/E5); post-tag freeze (fan wiki places it in Bologna)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-30T13:01:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -1084,6 +1198,9 @@
       <Placemark>
         <name>Castelfranco Veneto</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;TAGGED Adam here on his 2nd run (E5); Sam becomes the runner again&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-31T07:18:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -1100,6 +1217,9 @@
       <Placemark>
         <name>Padua</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Good trains for Sam / bad trains for the chasers from Padua &amp;amp; Milan (season result)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-31T07:55:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -1116,6 +1236,9 @@
       <Placemark>
         <name>Milan</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby</description>
+        <TimeSpan>
+          <begin>2023-05-31T10:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>
@@ -1132,6 +1255,9 @@
       <Placemark>
         <name>Hospental</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Posted up at Hospental Castle (Adam&amp;#x27;s S9-E1 hiding spot) and let himself be caught with 58 minutes left&lt;/li&gt;&lt;li&gt;Closest to his own win location (Lyon) -&amp;gt; WINNER of Season 11&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-05-31T14:40:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff007cf5</color>

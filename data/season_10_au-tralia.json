@@ -15,7 +15,10 @@
             "longitude": 151.2151234,
             "latitude": -33.857198
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-11T07:30:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -29,7 +32,8 @@
               "mode": "plane",
               "note": "Inter-region travel is by full-price flight per the rules",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -39,7 +43,10 @@
             "longitude": 153.5098183,
             "latitude": -28.1675254
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-11T13:25:00+11:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -53,7 +60,8 @@
               "mode": "bus",
               "note": "Bus toward the Gold Coast challenge board (missed connection)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -63,7 +71,10 @@
             "longitude": 153.3170517,
             "latitude": -27.8523611
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-11T15:20:00+10:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -76,7 +87,8 @@
               "mode": "bus",
               "note": "Bus to Brisbane, positioning for the steal at the Brisbane Sign",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -86,7 +98,10 @@
             "longitude": 153.0203174,
             "latitude": -27.4738881
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-11T19:30:00+10:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -100,7 +115,8 @@
               "mode": "plane",
               "note": "AMBIGUOUS ordering: day of the ACT claim is not in the sources; inter-region flight per rules",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -110,7 +126,10 @@
             "longitude": 149.1246038,
             "latitude": -35.3075604
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-12T20:30:00+11:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -124,7 +143,8 @@
               "mode": "plane",
               "note": "AMBIGUOUS ordering: flight to the NT not dated in sources",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -148,7 +168,8 @@
               "mode": "plane",
               "note": "Final day: flight to Gold Coast Airport",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -158,7 +179,10 @@
             "longitude": 153.5098183,
             "latitude": -28.1675254
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-14T20:20:00+11:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -183,7 +207,10 @@
             "longitude": 151.2151234,
             "latitude": -33.857198
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-11T07:30:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -196,7 +223,8 @@
               "mode": "plane",
               "note": "'Really cheap flight to Hobart'",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -206,7 +234,10 @@
             "longitude": 147.3361735,
             "latitude": -42.8769885
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-11T12:30:00+11:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -220,7 +251,8 @@
               "mode": "plane",
               "note": "Inter-region flight per rules (AMBIGUOUS day order for TAS->SA->VIC->NT)",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -230,7 +262,10 @@
             "longitude": 138.5999227,
             "latitude": -34.9289493
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-11T20:00:00+10:30",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -244,7 +279,8 @@
               "mode": "plane",
               "note": "Inter-region flight per rules",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -254,7 +290,10 @@
             "longitude": 144.9664779,
             "latitude": -37.8184161
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-12T20:30:00+11:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -267,7 +306,8 @@
               "mode": "plane",
               "note": "AMBIGUOUS: order of the NT visit not in sources",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -277,7 +317,10 @@
             "longitude": 133.88211,
             "latitude": -23.69473
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-13T19:00:00+09:30",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -290,7 +333,8 @@
               "mode": "plane",
               "note": "Final day: direct flights to Canberra booked out, so they flew to Sydney",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -300,7 +344,10 @@
             "longitude": 151.2151234,
             "latitude": -33.857198
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-14T17:35:00+11:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -314,7 +361,8 @@
               "mode": "plane",
               "note": "Believing Sam+Toby were heading to Tasmania, they flew to Melbourne",
               "players_override": null,
-              "geometry": []
+              "geometry": [],
+              "quality": "unknown"
             }
           ]
         },
@@ -324,7 +372,10 @@
             "longitude": 144.9664779,
             "latitude": -37.8184161
           },
-          "when": null,
+          "when": {
+            "start": "2024-03-14T20:05:00+11:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],

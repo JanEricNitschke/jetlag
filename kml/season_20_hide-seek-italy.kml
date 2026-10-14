@@ -8,7 +8,7 @@
         <name>Narni Amelia Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start, Day 1 (Tue 15 Sep 2026) 7:00; start video location per doc&lt;/li&gt;&lt;li&gt;Seeker (Sam is the first hider); movements after leaving Narni Amelia not given in doc&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-09-15T07:00:00</begin>
+          <begin>2026-09-15T05:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -27,7 +27,7 @@
         <name>Villa Comunale, Vietri sul Mare</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 (Wed 16 Sep 2026) ~10:30 (±15 min) per doc timeline; timeline only says &amp;#x27;Vietri sul Mare&amp;#x27;, Villa Comunale is the located Day-2 clip site (S19E06 stinger)&lt;/li&gt;&lt;li&gt;Coordinates from doc extract (maps search query, lower confidence than a place pin)&lt;/li&gt;&lt;li&gt;Movements after 10:30 unknown; Days 3-6 not covered by source doc&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-09-16T10:30:00</begin>
+          <begin>2026-09-16T08:30:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -49,7 +49,7 @@
         <name>Narni Amelia Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start, Day 1 (Tue 15 Sep 2026) 7:00; start video location per doc&lt;/li&gt;&lt;li&gt;Seeker (Sam is the first hider); movements after leaving Narni Amelia not given in doc&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-09-15T07:00:00</begin>
+          <begin>2026-09-15T05:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -68,7 +68,7 @@
         <name>Villa Comunale, Vietri sul Mare</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 (Wed 16 Sep 2026) ~10:30 (±15 min) per doc timeline; timeline only says &amp;#x27;Vietri sul Mare&amp;#x27;, Villa Comunale is the located Day-2 clip site (S19E06 stinger)&lt;/li&gt;&lt;li&gt;Coordinates from doc extract (maps search query, lower confidence than a place pin)&lt;/li&gt;&lt;li&gt;Movements after 10:30 unknown; Days 3-6 not covered by source doc&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-09-16T10:30:00</begin>
+          <begin>2026-09-16T08:30:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -154,7 +154,7 @@
         <name>Crestarella (Beach), Vietri sul Mare</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Start video location, Day 1 (Tue 15 Sep 2026) 7:00, located by SeaOwl per doc&lt;/li&gt;&lt;li&gt;Coordinates from Nominatim (Spiaggia della Crestarella)&lt;/li&gt;&lt;li&gt;No travel between Day 0 arrival and this Day 1 sighting documented; Sam was hiding in Vietri sul Mare&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-09-15T07:00:00</begin>
+          <begin>2026-09-15T05:00:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -173,7 +173,7 @@
         <name>Villa Comunale, Vietri sul Mare</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;S19E06 stinger, Day 2 (Wed 16 Sep 2026) ~10:30 (±15 min), located by anotherdoofus; clothing changes from the start of the game&lt;/li&gt;&lt;li&gt;Coordinates from doc extract (maps search query, lower confidence than a place pin)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-09-16T10:30:00</begin>
+          <begin>2026-09-16T08:30:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -192,7 +192,7 @@
         <name>Vietri sul Mare</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 (Wed 16 Sep 2026) 14:30 sighting per doc timeline; exact spot within Vietri sul Mare not given in doc&lt;/li&gt;&lt;li&gt;Coordinates from Nominatim (town); same-town sighting, no travel leg between the two Day 2 Vietri stops&lt;/li&gt;&lt;li&gt;Movements after 14:30 unknown; Days 3-6 not covered by source doc&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2026-09-16T14:30:00</begin>
+          <begin>2026-09-16T12:30:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>

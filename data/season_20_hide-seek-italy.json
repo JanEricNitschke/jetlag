@@ -15,7 +15,7 @@
             "latitude": 42.5307121
           },
           "when": {
-            "start": "2026-09-15T07:00:00",
+            "start": "2026-09-15T07:00:00+02:00",
             "end": null
           },
           "video": null,
@@ -35,14 +35,14 @@
             "latitude": 40.670683
           },
           "when": {
-            "start": "2026-09-16T10:30:00",
+            "start": "2026-09-16T10:30:00+02:00",
             "end": null
           },
           "video": null,
           "players_override": null,
           "additional_players": [],
           "notes": [
-            "Day 2 (Wed 16 Sep 2026) ~10:30 (\u00b115 min) per doc timeline; timeline only says 'Vietri sul Mare', Villa Comunale is the located Day-2 clip site (S19E06 stinger)",
+            "Day 2 (Wed 16 Sep 2026) ~10:30 (±15 min) per doc timeline; timeline only says 'Vietri sul Mare', Villa Comunale is the located Day-2 clip site (S19E06 stinger)",
             "Coordinates from doc extract (maps search query, lower confidence than a place pin)",
             "Movements after 10:30 unknown; Days 3-6 not covered by source doc"
           ],
@@ -64,7 +64,7 @@
             "latitude": 42.5307121
           },
           "when": {
-            "start": "2026-09-15T07:00:00",
+            "start": "2026-09-15T07:00:00+02:00",
             "end": null
           },
           "video": null,
@@ -84,14 +84,14 @@
             "latitude": 40.670683
           },
           "when": {
-            "start": "2026-09-16T10:30:00",
+            "start": "2026-09-16T10:30:00+02:00",
             "end": null
           },
           "video": null,
           "players_override": null,
           "additional_players": [],
           "notes": [
-            "Day 2 (Wed 16 Sep 2026) ~10:30 (\u00b115 min) per doc timeline; timeline only says 'Vietri sul Mare', Villa Comunale is the located Day-2 clip site (S19E06 stinger)",
+            "Day 2 (Wed 16 Sep 2026) ~10:30 (±15 min) per doc timeline; timeline only says 'Vietri sul Mare', Villa Comunale is the located Day-2 clip site (S19E06 stinger)",
             "Coordinates from doc extract (maps search query, lower confidence than a place pin)",
             "Movements after 10:30 unknown; Days 3-6 not covered by source doc"
           ],
@@ -3243,7 +3243,8 @@
                   "longitude": 12.5016713,
                   "latitude": 41.901195
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -3276,7 +3277,8 @@
                   "longitude": 14.7726212,
                   "latitude": 40.6754966
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -3689,7 +3691,8 @@
                   "longitude": 14.7286002,
                   "latitude": 40.6715477
                 }
-              ]
+              ],
+              "quality": "unknown"
             }
           ]
         },
@@ -3717,7 +3720,7 @@
             "latitude": 40.6692866
           },
           "when": {
-            "start": "2026-09-15T07:00:00",
+            "start": "2026-09-15T07:00:00+02:00",
             "end": null
           },
           "video": null,
@@ -3738,14 +3741,14 @@
             "latitude": 40.670683
           },
           "when": {
-            "start": "2026-09-16T10:30:00",
+            "start": "2026-09-16T10:30:00+02:00",
             "end": null
           },
           "video": null,
           "players_override": null,
           "additional_players": [],
           "notes": [
-            "S19E06 stinger, Day 2 (Wed 16 Sep 2026) ~10:30 (\u00b115 min), located by anotherdoofus; clothing changes from the start of the game",
+            "S19E06 stinger, Day 2 (Wed 16 Sep 2026) ~10:30 (±15 min), located by anotherdoofus; clothing changes from the start of the game",
             "Coordinates from doc extract (maps search query, lower confidence than a place pin)"
           ],
           "end_of_day": [],
@@ -3758,7 +3761,7 @@
             "latitude": 40.6715477
           },
           "when": {
-            "start": "2026-09-16T14:30:00",
+            "start": "2026-09-16T14:30:00+02:00",
             "end": null
           },
           "video": null,

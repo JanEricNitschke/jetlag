@@ -16,7 +16,7 @@
             "latitude": 71.2984596
           },
           "when": {
-            "start": "2023-10-23T15:00:00",
+            "start": "2023-10-23T15:00:00-08:00",
             "end": null
           },
           "video": null,
@@ -128,7 +128,10 @@
             "longitude": -156.7750106,
             "latitude": 71.2877074
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-23T17:37:00-08:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -174,7 +177,10 @@
             "longitude": -149.9815668,
             "latitude": 61.1737247
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-23T19:25:00-08:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -196,7 +202,10 @@
             "longitude": -149.9761076,
             "latitude": 61.19602
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-23T19:45:00-08:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -218,7 +227,10 @@
             "longitude": -149.9760996,
             "latitude": 61.1959459
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-23T20:00:00-08:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -240,7 +252,10 @@
             "longitude": -149.9740191,
             "latitude": 61.1993843
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-24T08:30:00-08:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -262,7 +277,10 @@
             "longitude": -149.73191,
             "latitude": 61.0163947
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-24T08:55:00-08:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -281,10 +299,13 @@
         {
           "name": "Walmart",
           "coordinate": {
-            "longitude": -96.8248818,
-            "latitude": 32.6843023
+            "longitude": -149.8700635,
+            "latitude": 61.1402298
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-24T09:55:00-08:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -306,7 +327,10 @@
             "longitude": -149.7904736,
             "latitude": 61.1238285
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-24T10:10:00-08:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -328,7 +352,10 @@
             "longitude": -149.9815668,
             "latitude": 61.1737247
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-24T12:15:00-08:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -350,7 +377,10 @@
             "longitude": -122.3021074,
             "latitude": 47.4436055
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-24T16:45:00-07:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -372,7 +402,10 @@
             "longitude": -122.3417195,
             "latitude": 47.6616019
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-24T18:00:00-07:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -394,7 +427,10 @@
             "longitude": -122.3578014,
             "latitude": 47.6235718
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-24T19:00:00-07:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -416,7 +452,10 @@
             "longitude": -122.3021074,
             "latitude": 47.4436055
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T07:35:00-07:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -438,7 +477,10 @@
             "longitude": -116.221826,
             "latitude": 43.5689181
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T09:55:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -504,7 +546,10 @@
             "longitude": -116.2155749,
             "latitude": 43.5890494
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T10:45:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -570,7 +615,10 @@
             "longitude": -116.0926371,
             "latitude": 43.5387703
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T11:20:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -592,7 +640,10 @@
             "longitude": -116.1850664,
             "latitude": 43.567904
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T11:50:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -636,7 +687,10 @@
             "longitude": -116.221826,
             "latitude": 43.5689181
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T13:10:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -658,7 +712,10 @@
             "longitude": -111.9848892,
             "latitude": 40.7841203
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T14:15:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -680,7 +737,10 @@
             "longitude": -111.9575089,
             "latitude": 40.6935977
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T15:00:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -746,7 +806,10 @@
             "longitude": -111.9575089,
             "latitude": 40.6935977
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T16:30:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -768,7 +831,10 @@
             "longitude": -110.8321657,
             "latitude": 39.6011831
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T19:00:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -812,7 +878,10 @@
             "longitude": -110.8321657,
             "latitude": 39.6011831
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T06:00:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -944,7 +1013,10 @@
             "longitude": -107.9009654,
             "latitude": 38.498703
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T09:16:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -966,7 +1038,10 @@
             "longitude": -107.8993246,
             "latitude": 38.5004165
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T12:35:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -988,7 +1063,10 @@
             "longitude": -97.0402445,
             "latitude": 32.8977625
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T16:25:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1032,7 +1110,10 @@
             "longitude": -96.8248818,
             "latitude": 32.6843023
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T17:00:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1076,7 +1157,10 @@
             "longitude": -96.8030828,
             "latitude": 32.766399
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T18:15:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1120,7 +1204,10 @@
             "longitude": -97.0388297,
             "latitude": 32.8545716
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T19:00:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1142,7 +1229,10 @@
             "longitude": -97.0402445,
             "latitude": 32.8977625
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-27T07:29:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1164,7 +1254,10 @@
             "longitude": -86.7519238,
             "latitude": 33.5620255
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-27T09:15:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1230,7 +1323,10 @@
             "longitude": -84.445113,
             "latitude": 33.6408608
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-27T13:03:00-04:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1252,7 +1348,10 @@
             "longitude": -81.7551279,
             "latitude": 24.5535319
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-27T16:50:00-04:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1274,7 +1373,10 @@
             "longitude": -81.7967238,
             "latitude": 24.5471576
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-27T17:40:00-04:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1296,7 +1398,10 @@
             "longitude": -81.7975114,
             "latitude": 24.5465123
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-27T17:44:00-04:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1320,7 +1425,7 @@
             "latitude": 71.2984596
           },
           "when": {
-            "start": "2023-10-23T15:00:00",
+            "start": "2023-10-23T15:00:00-08:00",
             "end": null
           },
           "video": null,
@@ -1476,7 +1581,10 @@
             "longitude": -156.7714318,
             "latitude": 71.2977743
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-23T20:00:00-08:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1542,7 +1650,10 @@
             "longitude": -156.7750392,
             "latitude": 71.2876775
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-24T11:45:00-08:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1566,7 +1677,10 @@
             "longitude": -149.9816322,
             "latitude": 61.17363
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-24T14:25:00-08:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1588,7 +1702,10 @@
             "longitude": -122.3018693,
             "latitude": 47.443317
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-24T18:35:00-07:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1610,7 +1727,10 @@
             "longitude": -122.3018693,
             "latitude": 47.443317
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T06:15:00-07:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1632,7 +1752,10 @@
             "longitude": -122.3215395,
             "latitude": 47.654658
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T06:47:00-07:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1654,7 +1777,10 @@
             "longitude": -122.3268963,
             "latitude": 47.587364
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T07:35:00-07:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1676,7 +1802,10 @@
             "longitude": -122.3269175,
             "latitude": 47.5629776
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T08:35:00-07:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1698,7 +1827,10 @@
             "longitude": -122.3209547,
             "latitude": 47.544964
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T08:50:00-07:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1720,7 +1852,10 @@
             "longitude": -122.3216995,
             "latitude": 47.5451051
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T09:50:00-07:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1786,7 +1921,10 @@
             "longitude": -122.2981878,
             "latitude": 47.4391848
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T15:10:00-07:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1808,7 +1946,10 @@
             "longitude": -104.6741164,
             "latitude": 39.8501816
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-25T18:10:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1874,7 +2015,10 @@
             "longitude": -104.9631486,
             "latitude": 39.7416936
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T07:15:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1918,7 +2062,10 @@
             "longitude": -104.8170228,
             "latitude": 39.6147226
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T08:05:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1962,7 +2109,10 @@
             "longitude": -104.6741164,
             "latitude": 39.8501816
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T10:55:00-06:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -1984,7 +2134,10 @@
             "longitude": -87.9000843,
             "latitude": 42.9502114
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T14:15:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -2006,7 +2159,10 @@
             "longitude": -87.9250122,
             "latitude": 42.9405754
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T15:10:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -2028,7 +2184,10 @@
             "longitude": -87.6403414,
             "latitude": 41.878727
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T16:30:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -2074,7 +2233,10 @@
             "longitude": -87.6273264,
             "latitude": 41.8715643
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T17:15:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -2096,7 +2258,10 @@
             "longitude": -87.6403414,
             "latitude": 41.878727
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-26T18:40:00-05:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -2120,7 +2285,10 @@
             "longitude": -79.5928053,
             "latitude": 40.0202052
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-27T07:00:00-04:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -2274,7 +2442,10 @@
             "longitude": -80.2560336,
             "latitude": 40.4958304
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-27T11:45:00-04:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -2296,7 +2467,10 @@
             "longitude": -84.439251,
             "latitude": 33.6437278
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-27T14:57:00-04:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],
@@ -2340,7 +2514,10 @@
             "longitude": -84.4388611,
             "latitude": 33.6379439
           },
-          "when": null,
+          "when": {
+            "start": "2023-10-27T17:20:00-04:00",
+            "end": null
+          },
           "video": null,
           "players_override": null,
           "additional_players": [],

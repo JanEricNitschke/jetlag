@@ -8,7 +8,7 @@
         <name>Chiang Kai-shek Memorial Hall</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start, Day 1 (Dec 5) 07:30 per doc; teaser clips 1 &amp;amp; 4. Coordinates from Dec 4 23:22 UTC social post (DMS).&lt;/li&gt;&lt;li&gt;Leg to Taipei Main Station omitted: mode (MRT/walk) not stated in doc.&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-12-05T07:30:00</begin>
+          <begin>2025-12-04T23:30:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -26,6 +26,9 @@
       <Placemark>
         <name>Taipei Main Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1. MRT transfer platform coordinate (clip 11); chip route &amp;#x27;Taipei → Houtong&amp;#x27;.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T00:50:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -42,6 +45,9 @@
       <Placemark>
         <name>Houtong Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1. No coordinates in doc; Nominatim returned no result, resolved via OSM railway-station query (node &amp;#x27;猴硐&amp;#x27;).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T02:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -58,6 +64,9 @@
       <Placemark>
         <name>Jiaoxi Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1. Clip ~13:33 (Local 4178 south on Platform A crossing Puyuma 219 arriving north 13:32).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T04:40:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -74,6 +83,9 @@
       <Placemark>
         <name>Taipei Main Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 afternoon, return visit.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T07:02:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -90,6 +102,9 @@
       <Placemark>
         <name>Hsinchu HSR Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1, Timeline 1 node &amp;#x27;Hsinchu HSR/Liujia&amp;#x27;.&lt;/li&gt;&lt;li&gt;AMBIGUOUS: HSR (Timeline 1, end balance 54↔30 chips) vs TRA via Hsinchu TR (Timeline 2, 13↔0 chips) route after Jiaoxi unresolved in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T07:53:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -106,6 +121,9 @@
       <Placemark>
         <name>Xinzhuang Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 end position (Timeline 1).&lt;/li&gt;&lt;li&gt;No coordinates in doc; Nominatim returned no result, resolved via OSM railway-station query (node &amp;#x27;新莊&amp;#x27; on the Hsinchu–Liujia branch).&lt;/li&gt;&lt;li&gt;Overnight repositioning to Hsinchu HSR (Day 2 start) not in doc; leg omitted.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T08:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -122,6 +140,9 @@
       <Placemark>
         <name>Hsinchu HSR Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 start. Clock clip 7:47 (&amp;#x27;Go, Sam!&amp;#x27;, HS 805 south towards Zuoying).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T09:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -138,6 +159,9 @@
       <Placemark>
         <name>HSR Taichung Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2, arrival 8:17 (HS 805). Station coordinate from Miss Croissant store clip (the 12:16 clock clip belongs to Badam Day 1).&lt;/li&gt;&lt;li&gt;Leg towards downtown omitted: chip route &amp;#x27;Xinwuri → Taichung TR (−6)&amp;#x27; — transfer mode from the HSR station not stated in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T00:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -154,6 +178,9 @@
       <Placemark>
         <name>Chun Shui Tang (Minsheng Village, Taichung)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 ~9:15 ±45. Bubble-tea challenge (&amp;#x27;juicy balls&amp;#x27; transcript, Chun Shui Tang golden horse award cup).&lt;/li&gt;&lt;li&gt;School sports day tents in clip = Dec 6, supporting Day 2 for this sequence (doc hedges &amp;#x27;might not be that day&amp;#x27;; chip table says Day 2).&lt;/li&gt;&lt;li&gt;Legs to/from here omitted: mode (HSR Taichung → here, here → Taichung TR) not stated in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T01:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -170,6 +197,9 @@
       <Placemark>
         <name>Taichung Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2. Clock clip 10:13.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T00:55:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -202,6 +232,9 @@
       <Placemark>
         <name>Hsinchu Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2, arrival 12:08 (Local 3132).&lt;/li&gt;&lt;li&gt;No coordinates in doc; Nominatim matched the HSR-complex &amp;#x27;新竹&amp;#x27; node instead, resolved via OSM railway-station query (TRA &amp;#x27;新竹&amp;#x27; station node in Hsinchu City).&lt;/li&gt;&lt;li&gt;Leg to Hsinchu Zoo omitted: mode not stated in doc (zoo clips ~12:20–13:15, ~1–2 km away).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T03:50:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -218,6 +251,9 @@
       <Placemark>
         <name>Hsinchu Zoo</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2, clips ~12:20–13:15 (&amp;#x27;We&amp;#x27;re back-er, baby!&amp;#x27;). Zoo is closed Mondays, supporting Day 2 = Dec 6 (a Sunday) for this sequence.&lt;/li&gt;&lt;li&gt;Leg to Hsinchu HSR omitted: mode not stated in doc; chip route &amp;#x27;Hsinchu TR → Hsinchu HSR (−7)&amp;#x27; covers the zoo visit in between.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T04:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -250,6 +286,9 @@
       <Placemark>
         <name>Taoyuan HSR Station (A18)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2. Mike clip: underground HSR ticket hall to Taoyuan MRT station.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T06:47:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -266,6 +305,9 @@
       <Placemark>
         <name>Huanbei Station (A21)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2, ~16:00 clip (very long shadows).&lt;/li&gt;&lt;li&gt;No coordinates in doc; Nominatim lookup (&amp;#x27;環北&amp;#x27; station node).&lt;/li&gt;&lt;li&gt;Chip routes &amp;#x27;Taoyuan HSR → Huanbei −0&amp;#x27; and &amp;#x27;Zhongli → Taipei −0&amp;#x27;. Leg onward to Taipei omitted: route/mode via Zhongli not stated in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T08:13:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -282,6 +324,9 @@
       <Placemark>
         <name>Taipei Main Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 end position per chip route &amp;#x27;Zhongli → Taipei −0&amp;#x27; (passed through Zhongli; movement from Huanbei not detailed in doc).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T23:43:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -298,6 +343,9 @@
       <Placemark>
         <name>Yilan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3, clip 9:22, Platform 2 southbound; Tze-Chiang (likely 272 to Xincheng per schedule).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-07T01:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -314,6 +362,9 @@
       <Placemark>
         <name>Xincheng Taroko Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3, clips ~10:35–10:40; Sanrio special train passes ~10:40 (runs once daily each direction, Fri–Mon); Tze-Chiang 272 arrives 10:28.&lt;/li&gt;&lt;li&gt;Sam running on Ren&amp;#x27;ai Road Lane 3, Xincheng ~10:30–10:45 (clip 31, 24.1271261 121.6505099) folded into this stop.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-07T02:28:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -330,6 +381,9 @@
       <Placemark>
         <name>Su'aoxin Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3, arrival from Xincheng (~13:00).&lt;/li&gt;&lt;li&gt;Leg to Lucky Art Crayon Factory omitted: mode not stated in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-07T04:52:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -346,6 +400,9 @@
       <Placemark>
         <name>Lucky Art Crayon Factory, Su'ao</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3. Challenge &amp;#x27;Win Crayon Mastermind&amp;#x27;, 13:08 ±5 to ~14:00, between Xincheng and the 14:30 Su&amp;#x27;aoxin clip.&lt;/li&gt;&lt;li&gt;Leg back to Su&amp;#x27;aoxin omitted: mode not stated in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-07T05:05:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -362,6 +419,9 @@
       <Placemark>
         <name>Su'aoxin Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3, return visit; ~14:30 clip (&amp;#x27;We just gotta think the (bleep) out of this, Mike&amp;#x27;).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-07T05:42:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -378,6 +438,9 @@
       <Placemark>
         <name>Nuannuan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3, ~17:00 clip (around sunset); Local 4193 at Nuannuan ~17:35 due to ~90-min delay; clip suggests possibly train 4191 westbound to Taoyuan.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-07T07:39:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -442,6 +505,9 @@
       <Placemark>
         <name>Miaoli HSR Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4 end position per chip route (station MIL/06, next to TRA Fengfu 3150).&lt;/li&gt;&lt;li&gt;No coordinates in doc; Nominatim returned no result, resolved via OSM railway-station query (&amp;#x27;苗栗&amp;#x27; HSR station node next to the Hakka Round House).&lt;/li&gt;&lt;li&gt;Leg to Hakka Round House omitted: mode not stated in doc (adjacent to the station).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-08T08:19:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -458,6 +524,9 @@
       <Placemark>
         <name>Hakka Round House, Houlong, Miaoli</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Challenge (&amp;#x27;Do you know this foot dance thing?&amp;#x27;); next to Miaoli HSR station; Day 4 per chip route.&lt;/li&gt;&lt;li&gt;AMBIGUOUS: teaser note says the clips are cloudy and &amp;#x27;only really seen on day 3 or 4&amp;#x27;, could even be Day 3 — day attribution uncertain in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-08T08:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -474,6 +543,9 @@
       <Placemark>
         <name>Miaoli HSR Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5 start per chip route &amp;#x27;Miaoli HSR → Taipei −0&amp;#x27;.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-09T00:25:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -490,6 +562,9 @@
       <Placemark>
         <name>Taipei Main Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-09T01:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -506,6 +581,9 @@
       <Placemark>
         <name>Hualien Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 5. No coordinates in doc; Nominatim lookup (花蓮車站 front-station node).&lt;/li&gt;&lt;li&gt;Qixingtan Beach clips (near Hualien Airport) likely belong here; leg to the beach omitted: mode not stated in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-09T05:18:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -522,6 +600,9 @@
       <Placemark>
         <name>Qixingtan Beach, Hualien</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Michael Downie&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Beach/filming stop (&amp;#x27;Oh, gawrgeous&amp;#x27;); very close to Hualien Airport, ~equidistant from Beipu or Hualien stations.&lt;/li&gt;&lt;li&gt;AMBIGUOUS day: &amp;#x27;poor visibility + high tide = potential to be early morning Day 4&amp;#x27; (Mr Calipso) vs Sike Day 5 Taipei → Hualien chip route; placed on Day 5 as the leading theory.&lt;/li&gt;&lt;li&gt;Last located Sike stop; nothing further in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-09T06:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff3c8e38</color>
@@ -789,7 +870,7 @@
         <name>Chiang Kai-shek Memorial Hall</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Game start, Day 1 (Dec 5) 07:30 per doc (teaser clips 1 &amp;amp; 4).&lt;/li&gt;&lt;li&gt;Leg to Taipei Main Station omitted: mode (MRT/walk) not stated in doc.&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2025-12-05T07:30:00</begin>
+          <begin>2025-12-04T23:30:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -807,6 +888,9 @@
       <Placemark>
         <name>Taipei Main Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1. Clip 11 (MRT transfer platform): Adam &amp;amp; Ben discussing their map.&lt;/li&gt;&lt;li&gt;AMBIGUOUS: chip table says &amp;#x27;Taipei → Hsinchu TR (21 stations, 5 chips placed in Banqiao)&amp;#x27; but the floating Day-1 train list has High-Speed 613 Taipei 8:21 → Hsinchu 8:53; modeled per the train list (HSR), chip-route node names treated as area labels.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T00:13:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -839,6 +923,9 @@
       <Placemark>
         <name>Xinzhuang Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1, 9:09–11:07 (Locals 1713/1726).&lt;/li&gt;&lt;li&gt;No coordinates in doc; Nominatim returned no result, resolved via OSM railway-station query (node &amp;#x27;新莊&amp;#x27; on the Hsinchu–Liujia branch).&lt;/li&gt;&lt;li&gt;Zhudong Township clips (10:00 ±60, trailer clips 9 &amp;amp; 12) are in this area but carry no team/day attribution in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T01:40:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -855,6 +942,9 @@
       <Placemark>
         <name>Liujia Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1, arrival 11:15 (Local 1726); Hsinchu HSR clips 11:21–11:22 (board shows 11:22/11:25, &amp;#x27;I think we might miss our train&amp;#x27;) and ~11:30.&lt;/li&gt;&lt;li&gt;No coordinates in doc; Nominatim lookup (&amp;#x27;六家&amp;#x27; station node at the Hsinchu HSR complex).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T03:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -871,6 +961,9 @@
       <Placemark>
         <name>HSR Taichung Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1, arrival 12:16 (clock clip; located via the only in-station &amp;#x27;Miss Croissant&amp;#x27; store).&lt;/li&gt;&lt;li&gt;Leg to Xinwuri omitted: transfer mode between the adjacent HSR and TRA stations not stated in doc; chip route treats &amp;#x27;Taichung HSR/Xinwuri&amp;#x27; as one node.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T04:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -887,6 +980,9 @@
       <Placemark>
         <name>Xinwuri Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1, ~12:15 clip (southbound platform, MRT sign visible; possibly train 2159 to Changhua, but train list says Local 2163 dep 12:42).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T04:47:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -903,6 +999,9 @@
       <Placemark>
         <name>Changhua Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1, arrival 12:53 (Local 2163).&lt;/li&gt;&lt;li&gt;No coordinates in doc; Nominatim lookup (&amp;#x27;彰化&amp;#x27; station node).&lt;/li&gt;&lt;li&gt;AMBIGUOUS: Episode 1 chip table ends at Changhua; Timeline 1 continues Changhua → Shanhua → Xinshi. Day-end position (Changhua vs Shanhua/Xinshi) not fully resolved in doc.&lt;/li&gt;&lt;li&gt;Leg to Eight Trigram Mountains omitted: mode not stated in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T04:53:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -919,6 +1018,9 @@
       <Placemark>
         <name>Eight Trigram Mountains (Baguashan), Changhua</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Challenge visit, 13:30 ±30.&lt;/li&gt;&lt;li&gt;Attribution inferred: near Changhua, Badam&amp;#x27;s Day 1 terminus; day/team not explicitly stated in doc.&lt;/li&gt;&lt;li&gt;Leg back to Changhua omitted: mode not stated in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T05:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -935,6 +1037,9 @@
       <Placemark>
         <name>Changhua Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1, return visit; southbound departure.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T06:36:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -951,6 +1056,9 @@
       <Placemark>
         <name>Shanhua Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 (Timeline 1). No coordinates in doc; Nominatim lookup (&amp;#x27;善化&amp;#x27; station node).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T08:04:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -967,6 +1075,9 @@
       <Placemark>
         <name>Xinshi Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 1 end (Timeline 1). No coordinates in doc; Nominatim lookup (&amp;#x27;新市&amp;#x27; station node).&lt;/li&gt;&lt;li&gt;AMBIGUOUS day-end position: Xinshi (Timeline 1) vs Changhua (Episode 1 chip table) unresolved in doc.&lt;/li&gt;&lt;li&gt;Overnight repositioning to Zuoying not in doc (possibly after the 17:30 game end); leg omitted.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T08:20:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -983,6 +1094,9 @@
       <Placemark>
         <name>Dragon &amp; Tiger Pagodas, Zuoying</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2, ~7:30–8:00 (before opening); Adam filming from the northern tower (8:00), Ben from the southern tower (8:00); challenge &amp;#x27;Test your luck&amp;#x27; per trailer clip 15 (~17:00).&lt;/li&gt;&lt;li&gt;How Badam got from the Day-1 position (Changhua/Shanhua/Xinshi area) to Zuoying is not in doc; leg to Zuoying HSR omitted (mode not stated).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-09T00:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -999,6 +1113,9 @@
       <Placemark>
         <name>Zuoying HSR Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2. No coordinates in doc; Nominatim lookup (&amp;#x27;左營&amp;#x27; HSR station node).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-09T02:55:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1031,6 +1148,9 @@
       <Placemark>
         <name>Tainan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 2 end position (chip route &amp;#x27;Zuoying HSR → Tainan TR&amp;#x27;).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T09:10:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1047,6 +1167,9 @@
       <Placemark>
         <name>Tainan Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 start; clock 7:28, Track 6, Tze-Chiang 112.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-05T23:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1063,6 +1186,9 @@
       <Placemark>
         <name>Kaohsiung Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3. Underground station, no exact coordinates in doc (identified via 高雄市區鐵路地下化 III design photos); Nominatim returned the &amp;#x27;高雄站&amp;#x27; bus stop at the station — approximate position.&lt;/li&gt;&lt;li&gt;Leg to Gushan omitted: mode not stated in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T04:47:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1079,6 +1205,9 @@
       <Placemark>
         <name>Gushan District, Kaohsiung (Qian'anguang Temple)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3, clip ~11:30 ±30 (&amp;#x27;I think that we have the opportunity here to go big&amp;#x27;); temple 千光宮, Qingquan St 92, Gushan District.&lt;/li&gt;&lt;li&gt;No coordinates in doc; Nominatim lookup (&amp;#x27;千光宮&amp;#x27; place_of_worship).&lt;/li&gt;&lt;li&gt;Leg back to Kaohsiung Station omitted: mode not stated in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T03:15:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1095,6 +1224,9 @@
       <Placemark>
         <name>Kaohsiung Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3, return visit; southbound departure.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T04:53:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1111,6 +1243,9 @@
       <Placemark>
         <name>Nanzhou Athletic Park, Pingtung</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3, challenge &amp;#x27;Demonstrate synesthesia&amp;#x27;, 13:45 ±30; chip-route node &amp;#x27;Nanzhou&amp;#x27;.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T05:55:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1127,6 +1262,9 @@
       <Placemark>
         <name>Dawu Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 3 end; station ID 5190; teaser clip 6 shows Adam on the Dawu flood control barrier (viewpoint 22.362351 120.903414).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-06T08:30:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1143,6 +1281,9 @@
       <Placemark>
         <name>Dawu Station</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4 start position (Badam ended Day 3 at Dawu per chip route).&lt;/li&gt;&lt;li&gt;AMBIGUOUS (direction dispute): the chip timeline says Dawu → Yuli (−17) → Sanmin (−1~), but BlizzardMist&amp;#x27;s weather/train analysis puts the Yuli &amp;amp; Dawu clips (same day by clothing) on Day 4 = Dec 8 as Yuli → Dawu: Chu-kuang Express 602 Yuli 8:22 → Taitung 9:47, then Tze-Chiang 372 Taitung 10:17 → Dawu 11:12; alternatives: Tze-Chiang 306 Yuli 7:34 → Dawu 9:24, or the 9:10/9:36 departures from Yuli; later Taitung → Dawu trains 11:08 (arr 12:17), 12:35 (arr 13:22), 14:22 (arr 15:17, likely too late given rain). The connecting leg is omitted; direction/order unresolved in doc.&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-07T00:33:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -1159,6 +1300,9 @@
       <Placemark>
         <name>Yuli (Eurasian &amp; Philippine Sea Plate Junction)</name>
         <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Day 4 (Dec 8 by clothing/weather analysis). Beer-challenge clip ~12:04 ±10 (Adam holding 6 cans of Buckskin beer; challenge likely involves crossing the plate junction without dropping the cans); plate-junction teaser clip solar 11:02 ±10.&lt;/li&gt;&lt;li&gt;Station ID 6110. Other candidate points in doc: Yuli bridge clip 23.323397 121.325648 (tentative), &amp;#x27;near Yuli&amp;#x27; montage clip 23.302916 121.311953, north-of-Yuli train clip 23.3991603 121.335032 (~13:00 northbound leaving Yuli).&lt;/li&gt;&lt;li&gt;No leg from Dawu: direction of the Dawu ↔ Yuli movement is contested in doc (see Dawu Day 4 note).&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2025-12-07T02:35:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
