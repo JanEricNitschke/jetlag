@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import colorsys
 import html
 import json
 from enum import StrEnum
@@ -22,7 +23,7 @@ if TYPE_CHECKING:
     from collections.abc import Callable, Sequence
 
     from jetlag_maps.cli import WebArgs
-    from jetlag_maps.format import Journey, Stop, ToNext
+    from jetlag_maps.format import Journey, Player, Stop, ToNext
 
 _POPUP_MAX_WIDTH = 320
 _DOT_PX = 22
@@ -35,6 +36,8 @@ _EOD_COLOR = "#FFEE58"
 _EOD_BADGE_CSS = (
     "background-color:#FFEE58;padding:2px 6px;border-radius:4px;font-weight:bold"
 )
+_SOLO_LIGHTNESS_STEP = 0.16
+"""How much to lighten/darken a team color for a single player's shade."""
 
 
 class MarkerMode(StrEnum):
@@ -86,9 +89,39 @@ def index_content(seasons: Sequence[SeasonFile]) -> str:
     )
 
 
-def _stop_players(stop: Stop, journey: Journey) -> Sequence[str]:
+def _stop_players(stop: Stop, journey: Journey) -> Sequence[Player]:
     """Return the players present at a stop, in display order."""
     return [*(stop.players_override or journey.team), *stop.additional_players]
+
+
+def _shaded(color: str, step: int) -> str:
+    """Lighten (``step`` > 0) or darken (``step`` < 0) a ``#rrggbb`` color."""
+    red, green, blue = (int(color[i : i + 2], 16) / 255 for i in (1, 3, 5))
+    hue, lightness, saturation = colorsys.rgb_to_hls(red, green, blue)
+    lightness = min(1.0, max(0.0, lightness + step * _SOLO_LIGHTNESS_STEP))
+    red, green, blue = colorsys.hls_to_rgb(hue, lightness, saturation)
+    return f"#{round(red * 255):02x}{round(green * 255):02x}{round(blue * 255):02x}"
+
+
+def _player_step(journey: Journey, player: Player) -> int:
+    """Lightness step of a player's solo shade, up/down per team position."""
+    index = journey.team.index(player)
+    magnitude = index // 2 + 1
+    return magnitude if index % 2 == 0 else -magnitude
+
+
+def _stop_colors(journey: Journey, stop: Stop) -> list[str]:
+    """Marker colors of a stop, shading partial-team presence.
+
+    Stops visited by the full team keep the journey color; stops visited
+    by only part of the team get one lighter/darker shade of it per
+    player present (first team member lighter, second darker, ...).
+    """
+    team = set(journey.team)
+    present = [p for p in _stop_players(stop, journey) if p in team]
+    if not present or len(present) == len(journey.team):
+        return [str(journey.color)]
+    return [_shaded(str(journey.color), _player_step(journey, p)) for p in present]
 
 
 def _stop_popup(stop: Stop, journey: Journey) -> str:
@@ -206,7 +239,7 @@ def _add_clustered_stop_markers(cluster: MarkerCluster, journey: Journey) -> Non
             folium.Marker(
                 location=(lat, lon),
                 icon=_dot_icon(
-                    [str(journey.color)],
+                    _stop_colors(journey, stops[0]),
                     eod=any(s.end_of_day for s in stops),
                 ),
                 tooltip=tooltip,
@@ -244,7 +277,7 @@ def _add_split_stop_markers(group: folium.FeatureGroup, season: SeasonFile) -> N
                 loc_key = (stop.coordinate.latitude, stop.coordinate.longitude)
                 by_location.setdefault(loc_key, []).append((journey, stop))
     for (latitude, longitude), entries in by_location.items():
-        colors = [str(journey.color) for journey, _ in entries]
+        colors = [c for journey, stop in entries for c in _stop_colors(journey, stop)]
         has_eod = any(stop.end_of_day for _, stop in entries)
         tooltip = " / ".join(dict.fromkeys(_stop_tooltip(stop) for _, stop in entries))
         popup = folium.Popup(
@@ -265,7 +298,7 @@ def _stop_marker(
     """Build a single-journey stop marker with a solid dot icon."""
     return folium.Marker(
         location=location,
-        icon=_dot_icon([str(journey.color)], eod=bool(stop.end_of_day)),
+        icon=_dot_icon(_stop_colors(journey, stop), eod=bool(stop.end_of_day)),
         tooltip=_stop_tooltip(stop),
         popup=folium.Popup(_stop_popup(stop, journey), max_width=_POPUP_MAX_WIDTH),
     )
@@ -407,6 +440,19 @@ def _add_legend(map_: folium.Map, layers: Sequence[tuple[str, SeasonFile]]) -> N
                 f"{html.escape(join_players(journey.team))}"
                 "</div>"
             )
+            if len(journey.team) > 1:
+                dots = []
+                for player in journey.team:
+                    shade = _shaded(str(journey.color), _player_step(journey, player))
+                    dots.append(
+                        '<span style="display:inline-block;margin-right:10px">'
+                        '<span style="display:inline-block;width:9px;height:9px;'
+                        f"border-radius:50%;background:{shade};"
+                        'margin-right:4px;vertical-align:middle"></span>'
+                        '<span style="font-size:12px;vertical-align:middle">'
+                        f"{html.escape(str(player))}</span></span>"
+                    )
+                rows.append(f'<div style="margin-left:18px">{"".join(dots)}</div>')
     has_eod = any(
         stop.end_of_day
         for _, season in layers
@@ -420,6 +466,20 @@ def _add_legend(map_: folium.Map, layers: Sequence[tuple[str, SeasonFile]]) -> N
             f"border:{_EOD_EDGE_PX}px solid {_EOD_COLOR};border-radius:50%;"
             'margin-right:6px;vertical-align:middle"></span>'
             "= stop ends a day (End of Day N)"
+            "</div>"
+        )
+    if any(
+        stop.players_override
+        for _, season in layers
+        for journey in season.journeys
+        for stop in journey.stops
+    ):
+        rows.append(
+            "<div>"
+            '<span style="display:inline-block;width:12px;height:12px;'
+            "border-radius:50%;margin-right:6px;vertical-align:middle;"
+            'background:linear-gradient(180deg,#fff 50%,#333 50%)"></span>'
+            "= stop visited by only the shaded player"
             "</div>"
         )
     legend = (

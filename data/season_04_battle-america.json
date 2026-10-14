@@ -13056,7 +13056,9 @@
           },
           "when": null,
           "video": null,
-          "players_override": null,
+          "players_override": [
+            "Sam Denby"
+          ],
           "additional_players": [],
           "notes": [
             "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Sam\nChallenge: Photograph your partner from far away"
@@ -13873,7 +13875,9 @@
           },
           "when": null,
           "video": null,
-          "players_override": null,
+          "players_override": [
+            "Brian McManus"
+          ],
           "additional_players": [],
           "notes": [
             "Present in Jet Lag: Battle for America (Season 4) \nMembers who visited:\n1) Brian\nChallenge: Photograph your partner from far away"
