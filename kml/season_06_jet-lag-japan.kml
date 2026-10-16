@@ -2176,7 +2176,10 @@ Members who visited:
       </Placemark>
       <Placemark>
         <name>Tokyo Station</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Start of Tiebreaker&lt;/li&gt;&lt;li&gt;TB start — all players at Tokyo Station&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby &amp; Scotty Allen&lt;br&gt;&lt;b&gt;Also present:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Start of Tiebreaker&lt;/li&gt;&lt;li&gt;TB start — all players at Tokyo Station&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T22:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>fff5a542</color>
@@ -2191,13 +2194,10 @@ Members who visited:
         </Point>
       </Placemark>
       <Placemark>
-        <name>Tameike-sannō Sta.</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Scotty
-2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Shimbashi Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Also present:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;transfer to the Ginza Line&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2023-04-18T22:25:00+00:00</begin>
+          <begin>2023-04-19T22:15:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -2209,17 +2209,148 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>139.7414004,35.6721312</coordinates>
+          <coordinates>139.75814,35.6672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akihabara Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Also present:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;same Keihin-Tōhoku train as Adam (E7)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T22:15:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.77335,35.69872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tameike-sannō Sta.</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Also present:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Scotty walks on to Akasaka-Mitsuke (E7)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T22:20:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.74115,35.67202</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akihabara Station Exit</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7747447,35.6980183</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kanda Fureai Bridge Entrance</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7734028,35.6974</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kanda Fureai Bridge Exit</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7732242,35.6966535</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam Waiting Spot</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7726315,35.6965101</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam Wandering Spot</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.772263,35.6965924</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam Wandering Spot 2</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7721092,35.6962445</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Phototag Spot</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Sam (Tagged)
-2) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Also present:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Adam tags Sam from behind — first blood to A&amp;amp;B (E7)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2023-04-18T22:26:00+00:00</begin>
+          <begin>2023-04-19T22:26:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -2236,10 +2367,7 @@ Members who visited:
       </Placemark>
       <Placemark>
         <name>Akasaka-Mitsuke Station</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Scotty
-2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;walked from Tameike-sannō (E7)&lt;/li&gt;&lt;/ul&gt;</description>
         <Style>
           <IconStyle>
             <color>fff5a542</color>
@@ -2250,56 +2378,12 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>139.7372686,35.6767946</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Awajichō Sta.</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Sam&lt;/li&gt;&lt;/ul&gt;</description>
-        <TimeSpan>
-          <begin>2023-04-18T22:35:00+00:00</begin>
-        </TimeSpan>
-        <Style>
-          <IconStyle>
-            <color>fff5a542</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>139.7674597,35.69496</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Korakuen Sta.</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Sam&lt;/li&gt;&lt;/ul&gt;</description>
-        <TimeSpan>
-          <begin>2023-04-18T22:40:00+00:00</begin>
-        </TimeSpan>
-        <Style>
-          <IconStyle>
-            <color>fff5a542</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>139.7518216,35.7084859</coordinates>
+          <coordinates>139.73724,35.67699</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Kokkai-gijidōmae Sta.</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Scotty&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;boards the Chiyoda Line here; transfers to the Hibiya Line at Kasumigaseki (E7)&lt;/li&gt;&lt;/ul&gt;</description>
         <Style>
           <IconStyle>
             <color>fff5a542</color>
@@ -2310,16 +2394,78 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>139.7449634,35.6738959</coordinates>
+          <coordinates>139.74478,35.67438</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam Walking Spot</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7705181,35.6955836</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Awajichō Sta.</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;boards the Marunouchi Line (dep ~07:35)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.76746,35.69535</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kamiyachō Sta.</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Chiyoda Line to Kasumigaseki, transfers to the Hibiya Line (E7 review)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.74526,35.66319</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Korakuen Sta.</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.75164,35.70734</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Tiebreaker Flag</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Sam&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;CAPTURED (House Hongo Building)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2023-04-18T22:45:00+00:00</begin>
+          <begin>2023-04-19T22:45:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -2335,10 +2481,8 @@ Members who visited:
         </Point>
       </Placemark>
       <Placemark>
-        <name>Suidōbashi Station</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Sam&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Korakuen Sta.</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;boards the Marunouchi Line (dep ~7:55–8:05)&lt;/li&gt;&lt;/ul&gt;</description>
         <Style>
           <IconStyle>
             <color>fff5a542</color>
@@ -2349,15 +2493,15 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>139.7535016,35.7020484</coordinates>
+          <coordinates>139.75164,35.70734</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Ochanomizu Station</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Sam
-2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Tokyo Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;flag returned&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T23:05:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>fff5a542</color>
@@ -2368,17 +2512,12 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>139.7644404,35.6997175</coordinates>
+          <coordinates>139.7671248,35.6812362</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Tiebreaker Flag</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Scotty&lt;/li&gt;&lt;/ul&gt;</description>
-        <TimeSpan>
-          <begin>2023-04-18T23:50:00+00:00</begin>
-        </TimeSpan>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;CAPTURED (Tokyo Tower flag) — reached via Kamiyachō, probable (E7 review)&lt;/li&gt;&lt;/ul&gt;</description>
         <Style>
           <IconStyle>
             <color>fff5a542</color>
@@ -2393,11 +2532,8 @@ Members who visited:
         </Point>
       </Placemark>
       <Placemark>
-        <name>Kanda Station</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Sam
-2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Onarimon Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;probable (E7 review)&lt;/li&gt;&lt;/ul&gt;</description>
         <Style>
           <IconStyle>
             <color>fff5a542</color>
@@ -2408,7 +2544,96 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>139.7709318,35.6918216</coordinates>
+          <coordinates>139.75114,35.66028</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ōtemachi Sta.</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Mita Line from Onarimon, probable (E7 review)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.76286,35.6849</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mitsukoshimae Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;defense run — boards the Ginza Line (dep ~08:30)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.77378,35.68671</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kanda Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;departs ~08:35&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T23:30:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.77071,35.69414</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;season end — A&amp;amp;B win 4–2&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T23:35:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7671248,35.6812362</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;flag returned&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T23:50:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>fff5a542</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7671248,35.6812362</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -3735,6 +3960,409 @@ Members who visited:
         </Style>
         <LineString>
           <coordinates>137.73522989642,34.7038787401987 137.734897,34.703388</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station to Shimbashi Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Yamanote Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.76728,35.68105 139.76663,35.67955 139.76586,35.6779 139.76523,35.67711 139.76499,35.67662 139.76471,35.67626 139.76444,35.67597 139.76398,35.6756 139.76254,35.67448 139.76206,35.6741 139.7616,35.67372 139.76116,35.67336 139.76074,35.67299 139.76054,35.67274 139.76034,35.67244 139.75991,35.67163 139.7598,35.67143 139.75899,35.66991 139.75851,35.66913 139.75836,35.66886 139.75826,35.66863 139.7582,35.66841 139.75817,35.66821 139.75814,35.6672</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station to Shimbashi Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Keihin-Tōhoku Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.76728,35.68105 139.76778,35.68294 139.76764,35.68359 139.76849,35.68586 139.76933,35.6881 139.77054,35.69096 139.77121,35.69258 139.77159,35.69345 139.77185,35.69403 139.77229,35.69494 139.77268,35.69586 139.7728,35.69635 139.77309,35.69725 139.77313,35.69743 139.77335,35.69872</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Shimbashi Station to Akihabara Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;transfer at Shimbashi&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.758105,35.667197 139.758092,35.667284 139.758065,35.667673 139.758057,35.667673 139.758073,35.667289 139.758142,35.666824 139.758112,35.666825 139.758092,35.666964 139.758203,35.666976 139.75819,35.66706 139.758178,35.667147 139.757846,35.667099 139.757809,35.667106 139.757806,35.667208 139.757806,35.667222 139.757833,35.66749 139.757613,35.667563 139.757635,35.66761 139.757673,35.66769 139.757691,35.667728 139.757729,35.667807 139.757775,35.667793 139.757759,35.667763 139.75772,35.667678 139.757706,35.667647 139.757877,35.667593</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Shimbashi Station to Akihabara Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Ginza Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.75788,35.6676 139.75767,35.66766 139.75645,35.66804 139.75573,35.66829 139.75501,35.66852 139.75408,35.66882 139.75344,35.66903 139.75258,35.66931 139.75155,35.66965 139.75082,35.66991 139.75056,35.67 139.74968,35.67032 139.74936,35.67043 139.74906,35.67052 139.74809,35.67041 139.7475,35.67031 139.74697,35.67027 139.74544,35.67043 139.74376,35.67071 139.74303,35.67091 139.7425,35.67116 139.74178,35.67161 139.74139,35.67187 139.74115,35.67202</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Akihabara Station to Tameike-sannō Sta. (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.773258,35.698652 139.773292,35.698622 139.77327,35.698436 139.773285,35.698401 139.773493,35.698384 139.773501,35.698392 139.773507,35.698382 139.773544,35.698379 139.773556,35.698388 139.773565,35.698377 139.773838,35.698355 139.773851,35.698374 139.773857,35.698353 139.774249,35.698322 139.774407,35.698309 139.774419,35.698331 139.774471,35.698327 139.77449,35.698314 139.774483,35.698251 139.774566,35.698244 139.774863,35.69822 139.774843,35.698066 139.774747,35.698069</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tameike-sannō Sta. to Akihabara Station Exit (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;walk&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.741108,35.672037 139.74107,35.671974 139.740824,35.672178 139.74055,35.672357 139.740324,35.672507 139.739575,35.672984 139.739233,35.673203 139.739131,35.673268 139.739033,35.673336 139.738961,35.673397 139.738872,35.673491 139.738827,35.673545 139.738648,35.673816 139.738583,35.673945 139.738381,35.67439 139.738331,35.674484 139.738319,35.674508 139.738309,35.674529 139.738301,35.674548 139.738146,35.674934 139.738083,35.675103 139.738037,35.675212 139.737997,35.675287 139.737915,35.675443 139.737899,35.675474 139.737883,35.675504 139.737764,35.675709 139.737712,35.675771 139.737635,35.67586 139.737517,35.676008 139.737131,35.676502 139.737051,35.676646 139.737034,35.67668 139.736946,35.676996 139.736909,35.676988 139.736886,35.67706 139.736872,35.677076 139.737108,35.677118 139.737153,35.677 139.737163,35.676972</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Akihabara Station Exit to Kanda Fureai Bridge Entrance (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.774747,35.698069 139.774552,35.698074 139.774231,35.698081 139.774205,35.698082 139.77418,35.698083 139.774165,35.698048 139.774036,35.697671 139.773967,35.697673 139.773893,35.697675 139.773811,35.697677 139.773793,35.697634 139.773748,35.697619 139.773748,35.697579 139.773747,35.697511 139.773745,35.697456 139.773406,35.697459 139.773404,35.6974</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kanda Fureai Bridge Entrance to Kanda Fureai Bridge Exit (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.773404,35.6974 139.773403,35.697381 139.773393,35.697202 139.773364,35.697139 139.773213,35.696785 139.773188,35.696652 139.773224,35.69665</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kanda Fureai Bridge Exit to Sam Waiting Spot (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.773224,35.69665 139.773188,35.696652 139.773176,35.696602 139.773164,35.696552 139.772686,35.696582 139.772675,35.696506</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sam Waiting Spot to Sam Wandering Spot (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.772675,35.696506 139.772686,35.696582 139.772266,35.696616</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sam Wandering Spot to Sam Wandering Spot 2 (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.772266,35.696616 139.772686,35.696582 139.772663,35.696423 139.772614,35.696212 139.772567,35.696216 139.772123,35.696258 139.772122,35.696245</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sam Wandering Spot 2 to Phototag Spot (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.772122,35.696245 139.7721,35.695844 139.771905,35.695851 139.771788,35.695855</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Phototag Spot to Akasaka-Mitsuke Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.771788,35.695855 139.771685,35.695859 139.771649,35.69586 139.771597,35.695862 139.771475,35.695866 139.771342,35.695879 139.771304,35.695883 139.771267,35.695884 139.770729,35.695906 139.770725,35.695874 139.770719,35.695828 139.770703,35.695711 139.770698,35.695671 139.770693,35.695638 139.770616,35.695639 139.77058,35.695629 139.770558,35.695609 139.770539,35.695588 139.770532,35.695568 139.770516,35.69557</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Akasaka-Mitsuke Station to Kokkai-gijidōmae Sta. (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Marunouchi Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.73724,35.67699 139.73745,35.67661 139.73773,35.67621 139.73814,35.67552 139.73867,35.67494 139.73906,35.67452 139.73934,35.67428 139.73989,35.67391 139.74039,35.67367 139.74103,35.67354 139.74127,35.67354 139.74171,35.67355 139.74208,35.67358 139.74266,35.67368 139.74342,35.67381 139.74398,35.67403 139.74455,35.67429 139.74478,35.67438</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kokkai-gijidōmae Sta. to Sam Walking Spot (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;transfer at Kokkai-gijidōmae&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.7448,35.67431 139.744666,35.674285 139.744634,35.674247 139.744604,35.674221 139.744547,35.674179 139.744508,35.674134 139.744488,35.674089 139.744461,35.674048 139.744494,35.674035 139.744517,35.673946 139.744544,35.673846 139.744582,35.673853</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kokkai-gijidōmae Sta. to Sam Walking Spot (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Chiyoda Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.74458,35.67386 139.74591,35.67416 139.74677,35.67432 139.74714,35.67437 139.74748,35.6743 139.74796,35.67405 139.75055,35.67304 139.75094,35.67289</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kokkai-gijidōmae Sta. to Sam Walking Spot (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;transfer at Kasumigaseki&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.750925,35.672869 139.750835,35.672911 139.75069,35.672971 139.750653,35.672986 139.750622,35.673023 139.750569,35.673123 139.750552,35.67315 139.750544,35.673176 139.750542,35.673217 139.750568,35.673264 139.750647,35.6734 139.75084,35.673438 139.750881,35.673504 139.750842,35.673519 139.751021,35.673883 139.751259,35.6743 139.751271,35.674295 139.751297,35.674338 139.751314,35.67435 139.751372,35.674441 139.751425,35.674526</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kokkai-gijidōmae Sta. to Sam Walking Spot (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Hibiya Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.75144,35.67452 139.75068,35.67323 139.75055,35.67304 139.75039,35.67278 139.74987,35.67165 139.74978,35.67143 139.74965,35.67113 139.74952,35.67083 139.74936,35.67043 139.74912,35.66991 139.74895,35.66963 139.74848,35.66887 139.748,35.66785 139.74755,35.66681 139.7469,35.66539 139.74677,35.66503 139.74636,35.66438 139.74602,35.66395 139.74526,35.66319</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Sam Walking Spot to Awajichō Sta. (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;walk&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.770516,35.69557 139.770504,35.695571 139.770437,35.695579 139.770306,35.695594 139.770234,35.695602 139.770095,35.695609 139.770057,35.6956 139.770015,35.695587 139.769996,35.695581 139.769976,35.695631 139.769954,35.695655 139.769845,35.695672 139.769602,35.695683 139.769114,35.69569 139.768742,35.695696 139.768658,35.695663 139.768587,35.695646 139.768528,35.695632 139.768469,35.695633 139.76824,35.695542 139.768048,35.695472 139.768013,35.695458 139.767969,35.695441 139.767758,35.695357 139.767693,35.695331 139.767647,35.695313 139.767647,35.695345 139.767649,35.695412 139.767655,35.69555 139.767656,35.695594 139.767657,35.695616 139.76761,35.695619 139.767579,35.69564 139.767554,35.695629 139.767479,35.695595 139.767405,35.695562 139.767366,35.695544 139.767339,35.695509 139.767307,35.695564 139.767379,35.695595 139.76738,35.69553 139.767373,35.695478 139.767388,35.695415 139.767401,35.695419 139.767405,35.695427 139.767422,35.695439 139.767437,35.695444 139.767436,35.69535</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Awajichō Sta. to Kamiyachō Sta. (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Marunouchi Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.76746,35.69535 139.76741,35.69598 139.76753,35.69645 139.76747,35.697 139.76721,35.69799 139.76671,35.69905 139.7665,35.6994 139.7662,35.69974 139.76593,35.69995 139.76554,35.70009 139.76526,35.70017 139.76355,35.70069 139.76317,35.70092 139.76285,35.70121 139.76244,35.70163 139.76205,35.70181 139.76193,35.70281 139.76185,35.70365 139.7618,35.7043 139.76136,35.70469 139.76118,35.70487 139.76098,35.70536 139.7609,35.70565 139.76077,35.70613 139.76006,35.70685 139.7595,35.70728 139.75924,35.70737 139.75831,35.70747 139.75702,35.70742 139.7561,35.70742 139.75549,35.70738 139.75498,35.70737 139.75442,35.70737 139.75164,35.70734</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kamiyachō Sta. to Korakuen Sta. (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.745285,35.66321 139.745326,35.663177 139.745198,35.663045 139.745248,35.663016 139.744934,35.662672 139.744816,35.662542 139.744712,35.662427 139.744678,35.662384 139.74466,35.662365 139.744499,35.662187 139.744468,35.662153 139.744352,35.662014 139.744346,35.661984 139.744275,35.661894 139.744209,35.66181 139.744085,35.661662 139.743999,35.661577 139.743766,35.661269 139.743701,35.661178 139.743686,35.661153 139.743504,35.6609 139.743478,35.660854 139.743463,35.660827 139.743354,35.660648 139.743294,35.660522 139.743192,35.660264 139.743161,35.660165 139.743153,35.660132 139.743141,35.660085 139.743136,35.660058 139.743136,35.660038 139.743141,35.660019 139.74317,35.659991 139.743187,35.659983 139.7432,35.659977 139.743252,35.659959 139.743904,35.659857 139.744101,35.65982 139.744276,35.659807 139.744315,35.659786 139.744346,35.659766 139.74438,35.659697 139.745341,35.659261 139.745796,35.659016 139.745761,35.65897 139.74574,35.65894 139.745645,35.658812 139.745851,35.6587 139.746006,35.658615 139.746126,35.658546 139.746095,35.658467 139.745987,35.658338 139.745884,35.65825 139.745838,35.658204</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Korakuen Sta. to Tiebreaker Flag (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.75164,35.707345 139.751613,35.707345 139.751612,35.707236 139.751657,35.707235 139.751702,35.707235 139.751725,35.707235 139.751724,35.707121 139.751853,35.70712 139.751955,35.707118 139.753794,35.705932 139.754059,35.705763 139.754098,35.705755 139.754135,35.705755 139.754167,35.705769 139.754177,35.705791 139.75418,35.705816 139.754242,35.70579 139.754346,35.705746 139.754423,35.705713 139.754552,35.705658 139.754662,35.705618 139.754611,35.705783</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tiebreaker Flag to Korakuen Sta. (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;walk back to Korakuen Station&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.754611,35.705783 139.754662,35.705618 139.754552,35.705658 139.754423,35.705713 139.754346,35.705746 139.754242,35.70579 139.75418,35.705816 139.754177,35.705791 139.754167,35.705769 139.754135,35.705755 139.754098,35.705755 139.754059,35.705763 139.753794,35.705932 139.751955,35.707118 139.751853,35.70712 139.751724,35.707121 139.751725,35.707235 139.751702,35.707235 139.751657,35.707235 139.751612,35.707236 139.751613,35.707345 139.75164,35.707345</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Korakuen Sta. to Tokyo Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Marunouchi Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.75164,35.70734 139.75442,35.70737 139.75498,35.70737 139.75549,35.70738 139.7561,35.70742 139.75702,35.70742 139.75831,35.70747 139.75924,35.70737 139.7595,35.70728 139.76006,35.70685 139.76077,35.70613 139.7609,35.70565 139.76098,35.70536 139.76118,35.70487 139.76136,35.70469 139.7618,35.7043 139.76185,35.70365 139.76193,35.70281 139.76205,35.70181 139.76244,35.70163 139.76285,35.70121 139.76317,35.70092 139.76355,35.70069 139.76526,35.70017 139.76554,35.70009 139.76593,35.69995 139.7662,35.69974 139.7665,35.6994 139.76671,35.69905 139.76721,35.69799 139.76747,35.697 139.76753,35.69645 139.76741,35.69598 139.76746,35.69535 139.76745,35.69439 139.76747,35.69386 139.76747,35.69335 139.76746,35.69279 139.76745,35.69218 139.76737,35.69177 139.76729,35.69139 139.76713,35.69068 139.76699,35.69009 139.76688,35.68959 139.76645,35.68784 139.76633,35.68736 139.76608,35.68639 139.76566,35.68478 139.76539,35.68394 139.7651,35.68306 139.765,35.68273</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station to Tiebreaker Flag (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.764993,35.682707 139.765004,35.682705 139.765188,35.68267 139.765273,35.682651 139.76536,35.682631 139.765682,35.682559 139.76574,35.682507 139.765782,35.682497 139.765866,35.682478 139.765922,35.682466 139.765963,35.682458 139.765993,35.682485 139.76621,35.682551 139.766916,35.68287 139.767056,35.682964 139.767121,35.683026 139.76759,35.683949 139.767614,35.683997 139.767678,35.684135 139.767742,35.684176 139.768435,35.684021 139.768824,35.683934 139.768849,35.683928 139.768915,35.683913 139.769351,35.683809 139.769404,35.683797 139.769497,35.683776 139.769536,35.683767 139.769607,35.683749 139.76963,35.683743 139.769862,35.683694 139.770117,35.683638 139.770211,35.683618 139.770465,35.683564 139.770635,35.683527 139.770682,35.683617 139.770741,35.683729 139.770777,35.683797 139.770857,35.683793 139.770902,35.683824 139.770944,35.683859 139.771082,35.68425 139.771142,35.684419 139.771219,35.684989 139.771189,35.685074 139.771311,35.685053 139.771432,35.685032 139.771522,35.685016 139.771528,35.685053 139.771534,35.685074 139.771587,35.685094 139.771553,35.68519 139.771526,35.685269 139.771438,35.685301 139.771382,35.685429 139.771411,35.685453 139.77253,35.68579 139.772571,35.685774 139.772638,35.685789 139.772697,35.685803 139.772717,35.685834 139.773664,35.68611 139.773678,35.686091 139.773686,35.686073 139.773732,35.686003 139.774063,35.686102 139.774025,35.686191 139.773937,35.686232 139.773846,35.686448 139.773894,35.686463 139.773889,35.686479 139.773881,35.686501 139.773825,35.686589 139.773798,35.686583 139.774012,35.6861 139.774042,35.686074 139.773774,35.686708</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tiebreaker Flag to Onarimon Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.745838,35.658204 139.745884,35.65825 139.745987,35.658338 139.746095,35.658467 139.746126,35.658546 139.746248,35.658654 139.746312,35.658623 139.746392,35.658587 139.746868,35.658417 139.746889,35.658362 139.746917,35.658344 139.746963,35.65834 139.747071,35.658327 139.747139,35.658316 139.747161,35.658452 139.747178,35.658601 139.747186,35.658659 139.747196,35.658724 139.747267,35.658932 139.747547,35.659514 139.747603,35.659604 139.747647,35.659648 139.747708,35.659687 139.747794,35.65972 139.747844,35.659727 139.747866,35.659731 139.748365,35.659755 139.748579,35.65975 139.748791,35.65974 139.749092,35.659726 139.749522,35.659663 139.750176,35.659567 139.750413,35.659532 139.750549,35.659512 139.750546,35.659499 139.750519,35.659368 139.75046,35.659375 139.750581,35.659342 139.750734,35.659689 139.750937,35.660126 139.751024,35.660101 139.751037,35.660133 139.751056,35.660178 139.751062,35.660196 139.751102,35.660187 139.751143,35.660279</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Onarimon Station to Ōtemachi Sta. (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Mita Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.75114,35.66028 139.75149,35.66096 139.75183,35.66169 139.75201,35.66207 139.75243,35.66293 139.75278,35.66373 139.75287,35.66392 139.75317,35.66457 139.75367,35.66563 139.75427,35.66694 139.75467,35.66778 139.75501,35.66852 139.75533,35.66918 139.75554,35.66958 139.75567,35.66983 139.75583,35.67015 139.75595,35.67036 139.75611,35.67063 139.75631,35.67106 139.7568,35.67186 139.75755,35.6731 139.75883,35.67433 139.75916,35.67466 139.75952,35.67502 139.75969,35.67523 139.75989,35.67589 139.7604,35.67735 139.76102,35.67914 139.76182,35.68162 139.76214,35.6825 139.76236,35.68324 139.76286,35.6849</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ōtemachi Sta. to Mitsukoshimae Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Scotty Allen</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.762851,35.684902 139.762783,35.68466 139.762754,35.684554 139.76269,35.684326 139.762671,35.684259 139.762651,35.684187 139.762516,35.683706 139.76255,35.683699 139.762611,35.683686 139.762754,35.683657 139.762819,35.683644 139.762867,35.683634 139.762853,35.683592 139.762878,35.683571 139.763267,35.683483 139.763822,35.683358 139.763857,35.683368 139.763871,35.683376 139.763897,35.683371 139.763944,35.683362 139.763981,35.683356 139.764007,35.683351 139.76402,35.683336 139.764051,35.683323 139.764397,35.683248 139.76496,35.683125 139.764991,35.683132 139.765008,35.683146 139.765041,35.683137 139.765137,35.683113 139.76522,35.683093 139.765255,35.683085 139.765248,35.683068 139.765232,35.683031 139.765262,35.682989 139.765283,35.682958 139.765388,35.682816 139.765323,35.682605 139.76567,35.682526 139.76574,35.682507 139.765782,35.682497 139.765866,35.682478 139.765922,35.682466 139.765963,35.682458 139.765938,35.682382 139.765968,35.682337 139.765891,35.682095 139.765829,35.681908 139.765851,35.681785 139.7658,35.681637 139.765872,35.681621 139.765961,35.681599 139.76602,35.681585 139.766214,35.681538 139.76629,35.68152 139.766393,35.681496 139.766553,35.681459 139.766658,35.681434 139.766754,35.681412 139.766848,35.68139 139.766869,35.681385 139.76696,35.681364 139.767052,35.681342 139.767153,35.681318 139.767123,35.681236</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mitsukoshimae Station to Kanda Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Ginza Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.77378,35.68671 139.77339,35.68764 139.7733,35.68785 139.77299,35.68864 139.77282,35.68904 139.77269,35.68938 139.77254,35.68974 139.77246,35.68993 139.77234,35.6902 139.77205,35.69094 139.77176,35.69158 139.77155,35.69203 139.77113,35.69315 139.77071,35.69414</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kanda Station to Tokyo Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;transfer at Kanda&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.770724,35.694144 139.770741,35.694104 139.771075,35.693272 139.771089,35.693242 139.771116,35.693174 139.771166,35.693045 139.771188,35.692977 139.771238,35.69286 139.771216,35.692827 139.770997,35.692729 139.771048,35.692707 139.771125,35.692816 139.771153,35.692747 139.771227,35.692585</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kanda Station to Tokyo Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Chūō Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Sam Denby</description>
+        <Style>
+          <LineStyle>
+            <color>fff5a542</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.77121,35.69258 139.77054,35.69096 139.76933,35.6881 139.76849,35.68586 139.76764,35.68359 139.76778,35.68294 139.76728,35.68105</coordinates>
         </LineString>
       </Placemark>
     </Folder>
@@ -6879,7 +7507,10 @@ Members who visited:
       </Placemark>
       <Placemark>
         <name>Tokyo Station</name>
-        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Start of Tiebreaker&lt;/li&gt;&lt;li&gt;TB start — all players at Tokyo Station&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Team:&lt;/b&gt; Adam Chase &amp; Ben Doyle&lt;br&gt;&lt;b&gt;Also present:&lt;/b&gt; Sam Denby &amp; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Start of Tiebreaker&lt;/li&gt;&lt;li&gt;TB start — all players at Tokyo Station&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T22:00:00+00:00</begin>
+        </TimeSpan>
         <Style>
           <IconStyle>
             <color>ff2f2fd3</color>
@@ -6894,13 +7525,10 @@ Members who visited:
         </Point>
       </Placemark>
       <Placemark>
-        <name>Tameike-sannō Sta.</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Scotty
-2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Shimbashi Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Also present:&lt;/b&gt; Scotty Allen&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;transfer to the Ginza Line&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2023-04-18T22:20:00+00:00</begin>
+          <begin>2023-04-19T22:15:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -6912,16 +7540,132 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>139.7414004,35.6721312</coordinates>
+          <coordinates>139.75814,35.6672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akihabara Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Also present:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;same Keihin-Tōhoku train as Sam (E7)&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T22:15:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.77335,35.69872</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tameike-sannō Sta.</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Also present:&lt;/b&gt; Scotty Allen</description>
+        <TimeSpan>
+          <begin>2023-04-19T22:20:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.74115,35.67202</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akihabara Station Exit</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.775023,35.6978752</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Looks Back</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7741643,35.6966183</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Conoe</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7726028,35.6966883</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Running</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7716,35.6967848</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Searching for Flag</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7709574,35.6966637</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Tiebreaker Flag</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;CAPTURED (weird vending machine corner) — reaches the flag first and hides (E7)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2023-04-18T22:25:00+00:00</begin>
+          <begin>2023-04-19T22:20:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -6937,34 +7681,10 @@ Members who visited:
         </Point>
       </Placemark>
       <Placemark>
-        <name>Phototag Spot</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Sam (Tagged)
-2) Adam&lt;/li&gt;&lt;/ul&gt;</description>
-        <TimeSpan>
-          <begin>2023-04-18T22:26:00+00:00</begin>
-        </TimeSpan>
-        <Style>
-          <IconStyle>
-            <color>ff2f2fd3</color>
-            <scale>1.2</scale>
-            <Icon>
-              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
-            </Icon>
-          </IconStyle>
-        </Style>
-        <Point>
-          <coordinates>139.771788117285,35.6958575558505</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Tiebreaker Flag</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1)  Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;CAPTURED (Akasaka Sanno Center Building)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2023-04-18T22:20:00+00:00</begin>
+          <begin>2023-04-19T22:25:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -6980,13 +7700,42 @@ Members who visited:
         </Point>
       </Placemark>
       <Placemark>
-        <name>Akasaka-Mitsuke Station</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Scotty
-2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Adam Chasing Sam</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7717536,35.6962999</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Chasing Sam 2</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.77211,35.6960532</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phototag Spot</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Also present:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;tags Sam from behind — A&amp;amp;B 1 (E7)&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2023-04-18T22:39:00+00:00</begin>
+          <begin>2023-04-19T22:26:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -6998,16 +7747,81 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>139.7372686,35.6767946</coordinates>
+          <coordinates>139.771788117285,35.6958575558505</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akasaka-Mitsuke Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;walk back from the flag; boards the Marunouchi Line (dep 07:39)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.73724,35.67699</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Running to Tokyo Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7701715,35.6889733</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam Flag Returned Spot</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;flag returned&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T22:32:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7701943,35.6875551</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Mitsukoshimae Station</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;the 2-flag northern run — boards the Ginza Line (dep 7:40–7:45)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.77378,35.68671</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ueno Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
         <TimeSpan>
-          <begin>2023-04-18T22:40:00+00:00</begin>
+          <begin>2023-04-19T22:45:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -7019,16 +7833,33 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>139.7735707,35.6871555</coordinates>
+          <coordinates>139.7774091,35.7141672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;flag returned untagged&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T22:45:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7671248,35.6812362</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Tiebreaker Flag</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;CAPTURED (Ueno Park boat dock) — 3rd flag&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2023-04-18T22:50:00+00:00</begin>
+          <begin>2023-04-19T22:50:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -7045,12 +7876,9 @@ Members who visited:
       </Placemark>
       <Placemark>
         <name>Ochanomizu Station</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Sam
-2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;departs ~08:05&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2023-04-18T22:50:00+00:00</begin>
+          <begin>2023-04-19T22:50:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -7062,16 +7890,49 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>139.7644404,35.6997175</coordinates>
+          <coordinates>139.76372,35.69995</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ueno Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;walk back from the boat dock; boards the Ginza Line (dep 08:03)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7774091,35.7141672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kanda Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;departs ~08:20&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T23:05:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.77054,35.69096</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Asakusa Sta.</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
         <TimeSpan>
-          <begin>2023-04-18T23:11:00+00:00</begin>
+          <begin>2023-04-19T23:11:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -7088,11 +7949,9 @@ Members who visited:
       </Placemark>
       <Placemark>
         <name>Tiebreaker Flag</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Adam&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;CAPTURED (Aonoyavir) — 4th flag; A&amp;amp;B WIN 4–2&lt;/li&gt;&lt;/ul&gt;</description>
         <TimeSpan>
-          <begin>2023-04-18T23:15:00+00:00</begin>
+          <begin>2023-04-19T23:15:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -7108,13 +7967,26 @@ Members who visited:
         </Point>
       </Placemark>
       <Placemark>
-        <name>Kanda Station</name>
-        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Present in Jet Lag: Japan (Season 6) 
-Members who visited:
-1) Sam
-2) Ben&lt;/li&gt;&lt;/ul&gt;</description>
+        <name>Asakusa Sta.</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;walk back from Aonoyavir; boards the Ginza Line (dep ~08:20–30)&lt;/li&gt;&lt;/ul&gt;</description>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7977621,35.7107924</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ueno Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
         <TimeSpan>
-          <begin>2023-04-18T23:05:00+00:00</begin>
+          <begin>2023-04-19T23:25:00+00:00</begin>
         </TimeSpan>
         <Style>
           <IconStyle>
@@ -7126,7 +7998,64 @@ Members who visited:
           </IconStyle>
         </Style>
         <Point>
-          <coordinates>139.7709318,35.6918216</coordinates>
+          <coordinates>139.7774091,35.7141672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ueno Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <TimeSpan>
+          <begin>2023-04-19T23:30:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7774091,35.7141672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Adam Chase&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;4th flag returned — zero-stop Shinkansen from Ueno (E7); season end&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T23:34:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7671248,35.6812362</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station</name>
+        <description>&lt;b&gt;Players:&lt;/b&gt; Ben Doyle&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;flags returned — season end, A&amp;amp;B win 4–2&lt;/li&gt;&lt;/ul&gt;</description>
+        <TimeSpan>
+          <begin>2023-04-19T23:34:00+00:00</begin>
+        </TimeSpan>
+        <Style>
+          <IconStyle>
+            <color>ff2f2fd3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>139.7671248,35.6812362</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -8830,6 +9759,461 @@ Members who visited:
         </Style>
         <LineString>
           <coordinates>137.73522989642,34.7038787401987 137.734897,34.703388</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station to Shimbashi Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Yamanote Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.76728,35.68105 139.76663,35.67955 139.76586,35.6779 139.76523,35.67711 139.76499,35.67662 139.76471,35.67626 139.76444,35.67597 139.76398,35.6756 139.76254,35.67448 139.76206,35.6741 139.7616,35.67372 139.76116,35.67336 139.76074,35.67299 139.76054,35.67274 139.76034,35.67244 139.75991,35.67163 139.7598,35.67143 139.75899,35.66991 139.75851,35.66913 139.75836,35.66886 139.75826,35.66863 139.7582,35.66841 139.75817,35.66821 139.75814,35.6672</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station to Shimbashi Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Keihin-Tōhoku Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.76728,35.68105 139.76778,35.68294 139.76764,35.68359 139.76849,35.68586 139.76933,35.6881 139.77054,35.69096 139.77121,35.69258 139.77159,35.69345 139.77185,35.69403 139.77229,35.69494 139.77268,35.69586 139.7728,35.69635 139.77309,35.69725 139.77313,35.69743 139.77335,35.69872</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Shimbashi Station to Akihabara Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;transfer at Shimbashi&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.758105,35.667197 139.758092,35.667284 139.758065,35.667673 139.758057,35.667673 139.758073,35.667289 139.758142,35.666824 139.758112,35.666825 139.758092,35.666964 139.758203,35.666976 139.75819,35.66706 139.758178,35.667147 139.757846,35.667099 139.757809,35.667106 139.757806,35.667208 139.757806,35.667222 139.757833,35.66749 139.757613,35.667563 139.757635,35.66761 139.757673,35.66769 139.757691,35.667728 139.757729,35.667807 139.757775,35.667793 139.757759,35.667763 139.75772,35.667678 139.757706,35.667647 139.757877,35.667593</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Shimbashi Station to Akihabara Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Ginza Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.75788,35.6676 139.75767,35.66766 139.75645,35.66804 139.75573,35.66829 139.75501,35.66852 139.75408,35.66882 139.75344,35.66903 139.75258,35.66931 139.75155,35.66965 139.75082,35.66991 139.75056,35.67 139.74968,35.67032 139.74936,35.67043 139.74906,35.67052 139.74809,35.67041 139.7475,35.67031 139.74697,35.67027 139.74544,35.67043 139.74376,35.67071 139.74303,35.67091 139.7425,35.67116 139.74178,35.67161 139.74139,35.67187 139.74115,35.67202</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Akihabara Station to Tameike-sannō Sta. (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.773258,35.698652 139.773292,35.698622 139.77327,35.698436 139.773285,35.698401 139.773493,35.698384 139.773501,35.698392 139.773507,35.698382 139.773544,35.698379 139.773556,35.698388 139.773565,35.698377 139.773838,35.698355 139.773851,35.698374 139.773857,35.698353 139.774249,35.698322 139.774407,35.698309 139.774419,35.698331 139.774471,35.698327 139.77449,35.698314 139.774483,35.698251 139.774566,35.698244 139.774863,35.69822 139.774935,35.698214 139.774977,35.698175 139.774972,35.698101 139.774953,35.698064 139.77495,35.697871 139.775023,35.697871</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tameike-sannō Sta. to Akihabara Station Exit (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.741108,35.672037 139.741131,35.672076 139.74119,35.672175 139.741248,35.672243 139.741091,35.672411 139.740106,35.673029 139.73993,35.67315 139.73951,35.673434 139.73942,35.673494 139.739399,35.673513 139.739354,35.673552 139.739286,35.673612 139.73921,35.673681 139.739163,35.673738 139.739056,35.673879 139.73903,35.673923</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Akihabara Station Exit to Adam Looks Back (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.775023,35.697871 139.775038,35.697871 139.775033,35.697598 139.775179,35.697598 139.775224,35.697606 139.775257,35.697617 139.775253,35.697551 139.775251,35.697491 139.77525,35.697412 139.775279,35.697388 139.775272,35.697158 139.775269,35.697123 139.775267,35.697088 139.775254,35.696766 139.775231,35.696616 139.775192,35.696571 139.774164,35.696612</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Adam Looks Back to Adam Conoe (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.774164,35.696612 139.773631,35.696633 139.773188,35.696652 139.772693,35.696684 139.772604,35.696692</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Adam Conoe to Adam Running (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.772604,35.696692 139.771599,35.696779</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Adam Running to Adam Searching for Flag (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.771599,35.696779 139.771226,35.696812 139.7712,35.696815 139.771137,35.696823 139.771076,35.696876 139.771035,35.696779 139.771008,35.696717 139.770994,35.696709 139.770984,35.696693 139.770971,35.69666</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Adam Searching for Flag to Tiebreaker Flag (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.770971,35.69666 139.770984,35.696693 139.770994,35.696709 139.771008,35.696717 139.771111,35.696708 139.77127,35.696696 139.771312,35.696691 139.771329,35.696651 139.771333,35.696643</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tiebreaker Flag to Tiebreaker Flag (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.771333,35.696643 139.771472,35.69632 139.771753,35.696293</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tiebreaker Flag to Adam Chasing Sam (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;walk back from the flag&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.73903,35.673923 139.738934,35.674089 139.738753,35.674496 139.738706,35.674603 139.738661,35.674719 139.738569,35.674955 139.738278,35.675627 139.738172,35.675781 139.738016,35.675985 139.738055,35.676006 139.738169,35.676083 139.738044,35.676226 139.737878,35.676127 139.737728,35.676039 139.7377,35.676076 139.737685,35.676096 139.737666,35.676084 139.737624,35.67614 139.737609,35.676163 139.737577,35.676205 139.737552,35.676192 139.737318,35.676503 139.737354,35.676519 139.737304,35.676623 139.737271,35.676681 139.737261,35.67674 139.737208,35.676865 139.737169,35.676956 139.737163,35.676972</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Adam Chasing Sam to Adam Chasing Sam 2 (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.771753,35.696293 139.772123,35.696258 139.772112,35.696053</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Adam Chasing Sam 2 to Phototag Spot (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.772112,35.696053 139.7721,35.695844 139.771905,35.695851 139.771788,35.695855</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Phototag Spot to Akasaka-Mitsuke Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.771788,35.695855 139.771905,35.695851 139.771903,35.695825 139.771901,35.695777 139.771894,35.695658 139.771891,35.695615 139.771888,35.695572 139.771847,35.695571 139.771826,35.695558 139.771822,35.695534 139.772117,35.694795 139.772101,35.69475 139.772111,35.694723 139.772129,35.694672 139.772142,35.694638 139.772078,35.69462 139.772278,35.694133 139.771995,35.693464 139.771949,35.69335 139.771919,35.693269 139.771897,35.693201 139.771869,35.693138 139.771807,35.692953 139.77166,35.692467 139.771588,35.692338 139.771533,35.692273 139.771569,35.692185 139.771595,35.692122 139.771503,35.6921 139.771478,35.692094 139.771448,35.692087 139.771437,35.692061 139.771464,35.691994 139.771473,35.691971 139.771429,35.691906 139.771245,35.691542 139.770993,35.691079 139.770961,35.69102 139.770887,35.690883 139.770861,35.690891 139.770789,35.690683 139.770765,35.69063 139.770798,35.690608 139.770769,35.690552 139.770742,35.690502 139.770704,35.690436 139.770708,35.690374 139.77068,35.69028 139.770524,35.689757 139.770509,35.689701 139.770496,35.689655 139.770351,35.689379 139.770244,35.689123 139.770199,35.689016 139.770182,35.688971</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Akasaka-Mitsuke Station to Adam Running to Tokyo Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Marunouchi Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.73724,35.67699 139.73745,35.67661 139.73773,35.67621 139.73814,35.67552 139.73867,35.67494 139.73906,35.67452 139.73934,35.67428 139.73989,35.67391 139.74039,35.67367 139.74103,35.67354 139.74127,35.67354 139.74171,35.67355 139.74208,35.67358 139.74266,35.67368 139.74342,35.67381 139.74398,35.67403 139.74455,35.67429 139.74478,35.67438 139.74511,35.67463 139.74546,35.67482 139.74588,35.67523 139.74627,35.67572 139.74677,35.67593 139.747,35.676 139.74734,35.67605 139.74782,35.67607 139.74836,35.676 139.749,35.67578 139.75155,35.67471 139.7519,35.67456 139.75346,35.67391 139.75393,35.67373 139.75585,35.67321 139.75646,35.67316 139.75718,35.67326 139.75755,35.6731 139.75777,35.67304 139.75937,35.67249 139.76002,35.67228 139.7604,35.67224 139.76075,35.67224 139.76139,35.67248 139.76239,35.67277 139.76281,35.67278 139.76323,35.67289 139.76382,35.67306 139.76413,35.67325 139.76443,35.67358 139.76496,35.67421 139.76564,35.67523 139.76571,35.67548 139.76554,35.676 139.76525,35.67692 139.76515,35.67771 139.76564,35.67933 139.76566,35.67968 139.76467,35.68076 139.7646,35.68114 139.765,35.68273</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Adam Running to Tokyo Station to Adam Flag Returned Spot (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.770182,35.688971 139.770199,35.689016 139.770222,35.688967 139.770037,35.688503 139.769811,35.687938 139.769963,35.687768 139.769992,35.687767 139.770018,35.687771 139.770042,35.687777 139.770122,35.68767 139.770202,35.687559</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Adam Flag Returned Spot to Mitsukoshimae Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.770202,35.687559 139.770209,35.68755 139.770212,35.687575 139.770227,35.687598 139.770242,35.687612 139.770364,35.687658 139.770522,35.687709 139.770826,35.687808 139.771341,35.687975 139.771651,35.688076 139.771667,35.688082 139.7717,35.68809 139.771732,35.688098 139.771762,35.688102 139.771789,35.688129 139.771864,35.688154 139.772157,35.688247 139.772278,35.688285 139.772842,35.688465 139.77287,35.688455 139.772914,35.68844 139.772948,35.68845 139.773038,35.688476 139.773126,35.688501 139.773159,35.68851 139.773262,35.688255 139.773378,35.687971 139.7735,35.687669 139.773548,35.687681 139.773479,35.68767 139.773511,35.687592 139.773546,35.68751 139.773519,35.687503 139.773462,35.687484 139.773503,35.687381 139.773532,35.687389 139.773395,35.687672 139.773358,35.687696 139.773628,35.687054 139.773774,35.686708</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mitsukoshimae Station to Ueno Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Ginza Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.77378,35.68671 139.77339,35.68764 139.7733,35.68785 139.77299,35.68864 139.77282,35.68904 139.77269,35.68938 139.77254,35.68974 139.77246,35.68993 139.77234,35.6902 139.77205,35.69094 139.77176,35.69158 139.77155,35.69203 139.77113,35.69315 139.77071,35.69414 139.77043,35.69485 139.77032,35.69515 139.77032,35.69534 139.77047,35.69581 139.77095,35.69692 139.77114,35.69744 139.7712,35.69768 139.7714,35.69967 139.77146,35.7002 139.77154,35.70082 139.7716,35.70138 139.77166,35.70186 139.77172,35.70237 139.77178,35.70296 139.77181,35.70319 139.77186,35.70363 139.77188,35.70381 139.77195,35.70448 139.77202,35.70519 139.77215,35.70587 139.77241,35.70635 139.77254,35.70658 139.77285,35.70716 139.77315,35.70838 139.77324,35.70882 139.77333,35.70916 139.77339,35.70937 139.77354,35.70977 139.77383,35.71054 139.77414,35.71122 139.7743,35.71145 139.77455,35.71154 139.77487,35.71163 139.77531,35.71175</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ueno Station to Tokyo Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.775305,35.71173 139.775112,35.711758 139.775004,35.711774 139.774833,35.7118 139.774786,35.711807 139.774786,35.711825 139.774758,35.711829 139.774712,35.711836 139.774646,35.711844 139.774618,35.711848 139.774583,35.711769 139.774506,35.711722 139.774207,35.711539 139.774148,35.711479 139.774119,35.711402 139.774062,35.711404 139.773852,35.711409 139.773793,35.711413 139.773758,35.711414 139.773554,35.711421 139.773535,35.711484 139.773477,35.711449 139.773382,35.711474 139.773337,35.711468 139.773187,35.711445 139.77309,35.711849 139.773067,35.711916 139.773055,35.711951 139.772962,35.712166 139.772789,35.712474 139.772733,35.712454 139.77267,35.712434 139.772427,35.712383 139.77233,35.712361 139.77204,35.712302 139.771952,35.712284 139.771449,35.712181 139.771433,35.712266 139.771231,35.712243 139.771171,35.712238 139.771146,35.712237 139.771076,35.712234 139.771033,35.712251 139.770969,35.712278 139.770868,35.712283 139.770797,35.712286 139.770669,35.712275 139.770556,35.712262 139.770559,35.71225 139.770563,35.712221 139.770522,35.712217 139.770506,35.712216</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station to Tiebreaker Flag (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;transfer at Tokyo Station&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.764993,35.682707 139.765004,35.682705 139.765188,35.68267 139.765273,35.682651 139.76536,35.682631 139.765682,35.682559 139.76574,35.682507 139.765782,35.682497 139.765866,35.682478 139.765922,35.682466 139.765963,35.682458 139.765938,35.682382 139.765968,35.682337 139.766005,35.682328 139.766062,35.682312 139.766388,35.682228 139.766513,35.682195 139.766538,35.682203 139.766599,35.682187 139.766609,35.682172 139.766671,35.682156 139.766697,35.682149 139.766754,35.682135 139.766824,35.682117 139.766907,35.682096 139.766743,35.681661 139.766841,35.681635 139.767015,35.681589 139.767018,35.681588 139.767022,35.681587 139.76703,35.681585 139.767039,35.681583 139.767132,35.681559 139.767249,35.681528 139.767354,35.681502 139.767455,35.681477 139.767337,35.681136 139.767294,35.68113 139.767266,35.681053</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Station to Tiebreaker Flag (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Chūō Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.76728,35.68105 139.76778,35.68294 139.76764,35.68359 139.76849,35.68586 139.76933,35.6881 139.77054,35.69096 139.77121,35.69258 139.77121,35.69258 139.77054,35.69096 139.77121,35.69258 139.77159,35.69345 139.77162,35.69376 139.77164,35.69422 139.77167,35.69448 139.77165,35.6951 139.77161,35.69552 139.77149,35.6958 139.7712,35.69624 139.77052,35.69696 139.76953,35.69769 139.76889,35.69815 139.76863,35.6983 139.76817,35.69852 139.76755,35.69883 139.76634,35.69926 139.76372,35.69995</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tiebreaker Flag to Ochanomizu Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;walk back to Ueno Station&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.770506,35.712216 139.770522,35.712217 139.770563,35.712221 139.770559,35.71225 139.770556,35.712262 139.770669,35.712275 139.770797,35.712286 139.770868,35.712283 139.770969,35.712278 139.771033,35.712251 139.771076,35.712234 139.771146,35.712237 139.771171,35.712238 139.771231,35.712243 139.771433,35.712266 139.771449,35.712181 139.771952,35.712284 139.77204,35.712302 139.77233,35.712361 139.772427,35.712383 139.77267,35.712434 139.772733,35.712454 139.772789,35.712474 139.772962,35.712166 139.773055,35.711951 139.773067,35.711916 139.77309,35.711849 139.773187,35.711445 139.773337,35.711468 139.773382,35.711474 139.773477,35.711449 139.773535,35.711484 139.773554,35.711421 139.773758,35.711414 139.773793,35.711413 139.773852,35.711409 139.774062,35.711404 139.774119,35.711402 139.774148,35.711479 139.774207,35.711539 139.774506,35.711722 139.774583,35.711769 139.774618,35.711848 139.774646,35.711844 139.774712,35.711836 139.774758,35.711829 139.774786,35.711825 139.774786,35.711807 139.774833,35.7118 139.775004,35.711774 139.775112,35.711758 139.775305,35.71173</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ochanomizu Station to Ueno Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Chūō Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.76372,35.69995 139.76634,35.69926 139.76755,35.69883 139.76817,35.69852 139.76863,35.6983 139.76889,35.69815 139.76953,35.69769 139.77052,35.69696 139.7712,35.69624 139.77149,35.6958 139.77161,35.69552 139.77165,35.6951 139.77167,35.69448 139.77164,35.69422 139.77162,35.69376 139.77159,35.69345 139.77121,35.69258 139.77054,35.69096</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ueno Station to Kanda Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Ginza Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.77531,35.71175 139.7767,35.71213 139.77709,35.71223 139.77743,35.71225 139.7779,35.71215 139.77817,35.7121 139.77839,35.71207 139.77907,35.71195 139.78011,35.71176 139.78056,35.71168 139.78151,35.71151 139.78194,35.71144 139.78303,35.71124 139.7839,35.71109 139.78505,35.71088 139.78579,35.71076 139.78631,35.71066 139.78678,35.71058 139.7875,35.71045 139.78776,35.71039 139.78823,35.71031 139.789,35.71016 139.7898,35.71001 139.79043,35.7099 139.79081,35.70981 139.79139,35.70968 139.7922,35.70953 139.79279,35.70942 139.79307,35.70937 139.79347,35.7093 139.79428,35.70915 139.79518,35.70898 139.79593,35.70909 139.79646,35.70928 139.79673,35.70949 139.79697,35.70976 139.79752,35.71042 139.79775,35.71072</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kanda Station to Asakusa Sta. (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;transfer at Kanda&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.770528,35.690956 139.770435,35.691166 139.770421,35.69121 139.770427,35.691265 139.770439,35.691297 139.770415,35.691358 139.770589,35.691757 139.770658,35.691924 139.770919,35.692493 139.770981,35.692593 139.771048,35.692707 139.770997,35.692729 139.771216,35.692827 139.771238,35.69286 139.771188,35.692977 139.771166,35.693045 139.771116,35.693174 139.771089,35.693242 139.771075,35.693272 139.770741,35.694104 139.770724,35.694144</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Kanda Station to Asakusa Sta. (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Ginza Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.77071,35.69414 139.77043,35.69485 139.77032,35.69515 139.77032,35.69534 139.77047,35.69581 139.77095,35.69692 139.77114,35.69744 139.7712,35.69768 139.7714,35.69967 139.77146,35.7002 139.77154,35.70082 139.7716,35.70138 139.77166,35.70186 139.77172,35.70237 139.77178,35.70296 139.77181,35.70319 139.77186,35.70363 139.77188,35.70381 139.77195,35.70448 139.77202,35.70519 139.77215,35.70587 139.77241,35.70635 139.77254,35.70658 139.77285,35.70716 139.77315,35.70838 139.77324,35.70882 139.77333,35.70916 139.77339,35.70937 139.77354,35.70977 139.77383,35.71054 139.77414,35.71122 139.7743,35.71145 139.77455,35.71154 139.77487,35.71163 139.77531,35.71175</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Asakusa Sta. to Tiebreaker Flag (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.797747,35.71072 139.797744,35.7107 139.797678,35.710759 139.797451,35.710786 139.797465,35.710825 139.797199,35.710865 139.797053,35.710888 139.796987,35.710898 139.796569,35.710946 139.796552,35.710949 139.796528,35.710952 139.79649,35.710958 139.796496,35.711012</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tiebreaker Flag to Asakusa Sta. (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;walk back to Asakusa Station&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.796496,35.711012 139.79649,35.710958 139.796528,35.710952 139.796552,35.710949 139.796569,35.710946 139.796987,35.710898 139.797053,35.710888 139.797199,35.710865 139.797465,35.710825 139.797451,35.710786 139.797678,35.710759 139.797744,35.7107 139.797747,35.71072</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Asakusa Sta. to Ueno Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Ginza Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.79775,35.71072 139.79752,35.71042 139.79697,35.70976 139.79673,35.70949 139.79646,35.70928 139.79593,35.70909 139.79518,35.70898 139.79428,35.70915 139.79347,35.7093 139.79307,35.70937 139.79279,35.70942 139.7922,35.70953 139.79139,35.70968 139.79081,35.70981 139.79043,35.7099 139.7898,35.71001 139.789,35.71016 139.78823,35.71031 139.78776,35.71039 139.7875,35.71045 139.78678,35.71058 139.78631,35.71066 139.78579,35.71076 139.78505,35.71088 139.7839,35.71109 139.78303,35.71124 139.78194,35.71144 139.78151,35.71151 139.78056,35.71168 139.78011,35.71176 139.77907,35.71195 139.77839,35.71207 139.77817,35.7121 139.7779,35.71215 139.77743,35.71225 139.77709,35.71223 139.7767,35.71213 139.77531,35.71175</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ueno Station to Ueno Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;transfer at Ueno&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.775305,35.71173 139.775112,35.711758 139.775004,35.711774 139.774833,35.7118 139.774786,35.711807 139.774786,35.711825 139.774876,35.712043 139.774926,35.712139 139.774994,35.71227 139.774981,35.712275 139.774933,35.712295 139.774894,35.712309 139.774851,35.712325 139.774872,35.712369 139.774883,35.712391 139.774892,35.71241 139.774897,35.712421 139.774916,35.712467 139.774935,35.712461 139.774953,35.712493 139.77497,35.712519 139.774998,35.712516 139.775141,35.712737 139.775154,35.712757 139.775315,35.712955 139.775459,35.713154 139.775636,35.713494 139.77572,35.713716 139.775729,35.713783 139.77577,35.713872 139.775773,35.713878 139.775827,35.713972 139.775856,35.714024 139.775983,35.714209 139.776095,35.714215 139.776134,35.714282 139.776202,35.714249 139.77621,35.714245 139.77634,35.714404 139.776407,35.714487 139.776424,35.714509 139.776492,35.714534</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ueno Station to Ueno Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Ueno-Tokyo Line&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Ben Doyle</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.77664,35.71439 139.77573,35.71239 139.77542,35.71192 139.77531,35.71175 139.77513,35.71135 139.775,35.71091 139.77496,35.71049 139.77503,35.70992 139.77518,35.70886 139.77517,35.70827 139.77494,35.70689 139.77482,35.70608 139.77458,35.70496 139.77422,35.70296 139.77413,35.70261 139.77386,35.70199 139.77375,35.70167 139.77346,35.69952 139.77335,35.69872 139.77313,35.69743 139.77309,35.69725 139.7728,35.69635 139.77268,35.69586 139.77229,35.69494 139.77185,35.69403 139.77159,35.69345 139.77121,35.69258 139.77054,35.69096 139.76933,35.6881 139.76849,35.68586 139.76764,35.68359 139.76778,35.68294 139.76728,35.68105</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ueno Station to Tokyo Station (foot)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; foot&lt;br&gt;transfer at Ueno&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.775305,35.71173 139.775371,35.71172 139.775589,35.711687 139.775664,35.711677 139.775733,35.71167 139.77583,35.71166 139.776035,35.711647 139.776152,35.71168 139.776162,35.711683 139.776307,35.711791 139.776437,35.711887 139.776604,35.71199 139.776643,35.712013 139.776976,35.712218 139.777033,35.712302 139.777084,35.712386 139.777105,35.712472 139.777119,35.71253 139.777306,35.712806 139.778238,35.71418 139.778326,35.71431 139.77829,35.714325 139.77829,35.714325</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ueno Station to Tokyo Station (train)</name>
+        <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;zero-stop Shinkansen from Ueno&lt;br&gt;&lt;b&gt;Players:&lt;/b&gt; Adam Chase</description>
+        <Style>
+          <LineStyle>
+            <color>ff2f2fd3</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>139.77802,35.71432 139.77675,35.71231 139.77626,35.71122 139.77573,35.70942 139.77531,35.70773 139.77479,35.70497 139.77436,35.70269 139.77404,35.70156 139.77374,35.69977 139.77355,35.69811 139.77341,35.69732 139.77305,35.69649 139.77229,35.69442 139.77138,35.69222 139.77033,35.68994 139.7695,35.68798 139.76819,35.68429 139.76798,35.68339 139.76811,35.68099</coordinates>
         </LineString>
       </Placemark>
     </Folder>

@@ -66,7 +66,7 @@ the doc's "Filmed" lines when they conflict.
 | 3 | Tag Across Europe | Central Europe | 26-Jul-2022 06:00 UTC+02 | 28-Jul-2022 20:00 UTC+02 | 2 | 7-Sep-2022 | 14-Sep-2022 | 7 | 7 | 19-Oct-2022 | 26-Oct-2022 |
 | 4 | Race To The Most States | US | 25-Oct-2022 08:00 UTC−04 | 28-Oct-2022 19:28 UTC−06 | 3 | 7-Dec-2022 | 14-Dec-2022 | 5 | 7 | 4-Jan-2023 | 11-Jan-2023 |
 | 5 | Race to the End of the World | New Zealand | 22-Jan-2023 08:00 UTC+13 | 26-Jan-2023 ~14:00 UTC+13 | 4 | 1-Mar-2023 | 8-Mar-2023 | 8 | 7 | 19-Apr-2023 | 26-Apr-2023 |
-| 6 | Capture the Flag | Japan | 16-Apr-2023 07:00 UTC+09 | 19-Apr-2023 ~16:00 UTC+09 | 3 | 31-May-2023 | 7-Jun-2023 | 7 | 7 | 12-Jul-2023 | 19-Jul-2023 |
+| 6 | Capture the Flag | Japan | 16-Apr-2023 07:00 UTC+09 | 20-Apr-2023 ~08:34 UTC+09 | 4 | 31-May-2023 | 7-Jun-2023 | 7 | 7 | 12-Jul-2023 | 19-Jul-2023 |
 | 7 | Tag Across Europe 2 | Central Europe | 8-Jul-2023 06:00 UTC+02 | 10-Jul-2023 ~17:40 UTC+02 | 2 | 6-Sep-2023 | 13-Sep-2023 | 6 | 7 | 11-Oct-2023 | 18-Oct-2023 |
 | 8 | Arctic Escape | US | 23-Oct-2023 15:00 UTC−08 | 27-Oct-2023 ~17:30 UTC−04 | 4 | 13-Dec-2023 | 20-Dec-2023 | 6 | 7 | 17-Jan-2024 | 24-Jan-2024 |
 | 9 | Hide + Seek | Switzerland | 11-Dec-2023 08:30 UTC+01* | 14-Dec-2023 17:06 UTC+01 | 3 | 28-Feb-2024 | 6-Mar-2024 | 5 | 7 | 27-Mar-2024 | 3-Apr-2024 |
@@ -90,9 +90,12 @@ multi-day gap (e.g. S13.5 filmed Dec + Jan pickup).
 Known discrepancies with the timeline docs (resolved in favour of this
 schedule): S2 finish (elapsed-time misread as 1:37 am → actually 21:37
 16-May UTC−06), S5 weekday label (Mon-Fri → actually Sun-Thu), S6 entire
-date range (doc said Aug, actually Apr), S12 7th day (doc said Sep 22,
-actually Sep 21), S13.5 first-day date (doc said Dec 18, actually Dec 17),
-S14 date range (doc said Apr 1-4, actually Apr 2-5).
+date range (doc said Aug, actually Apr), S6 prod end (schedule originally
+said Apr 19 ~16:00; E7's title math — "a 96 hour game" from the Apr 16
+07:00 start — puts the tiebreaker the following morning, winner
+determined Apr 20 ~08:34), S12 7th day (doc said Sep 22, actually Sep 21),
+S13.5 first-day date (doc said Dec 18, actually Dec 17), S14 date range
+(doc said Apr 1-4, actually Apr 2-5).
 
 ### Fan wiki (jetlagthegame.fandom.com)
 
