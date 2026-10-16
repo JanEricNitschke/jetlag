@@ -628,7 +628,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -647,7 +647,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -666,7 +666,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -685,7 +685,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -704,7 +704,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -723,7 +723,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -742,7 +742,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -761,7 +761,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -780,7 +780,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -799,7 +799,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -818,7 +818,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -837,7 +837,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -856,7 +856,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -875,7 +875,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -891,7 +891,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Charleville 7:04 -&amp;gt; Poix-Terron 7:15 (TER Sedan-Champagne-Ardenne line)</description>
         <Style>
           <LineStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -904,7 +904,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Poix-Terron 7:15 -&amp;gt; Reims 8:00</description>
         <Style>
           <LineStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -917,7 +917,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; plane&lt;br&gt;CDG-&amp;gt;ZRH flight, dep 6:37 (primary) or 9:17 (alt); no flight number in doc</description>
         <Style>
           <LineStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -930,7 +930,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Zurich Airport 8:08 -&amp;gt; Zermatt 11:50 via Visp (alt 10:38/10:48 -&amp;gt; 14:17); passes Bern-Spiez (trailer clip 6)</description>
         <Style>
           <LineStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -943,7 +943,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Visp -&amp;gt; Zermatt (change here; arrival 11:50 primary)</description>
         <Style>
           <LineStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -956,7 +956,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Zurich 6:05 -&amp;gt; Singen 7:18 (or 6:37 IC); Rheinfall clip ~6:45 on this line — attribution uncertain (Bean or Soby per doc)</description>
         <Style>
           <LineStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -969,7 +969,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Singen 7:18 -&amp;gt; Ulm 9:40 (doc cost 1260 for Zurich-&amp;gt;Singen-&amp;gt;Ulm)</description>
         <Style>
           <LineStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -982,7 +982,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Nürnberg 13:34 -&amp;gt; Kassel 15:34 (doc cost 2000)</description>
         <Style>
           <LineStyle>
-            <color>fff5a542</color>
+            <color>ff007cf5</color>
             <width>3</width>
           </LineStyle>
         </Style>

@@ -71,6 +71,7 @@ class Color(StrEnum):
     LIGHT_GRAY = "#757575"
     TEAL = "#00796B"
     YELLOW = "#FFEE58"
+    AMBER = "#FBC02D"
     DARK_GREEN = "#388E3C"
     DARK_BLUE = "#1976D2"
     LIGHT_BLUE = "#42A5F5"

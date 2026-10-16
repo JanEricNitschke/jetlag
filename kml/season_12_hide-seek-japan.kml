@@ -351,7 +351,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -370,7 +370,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -389,7 +389,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -408,7 +408,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -427,7 +427,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -446,7 +446,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -465,7 +465,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -484,7 +484,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -503,7 +503,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -522,7 +522,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -538,7 +538,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Northeast via Sendai (service not specified in sources)</description>
         <Style>
           <LineStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -551,7 +551,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker (with Sam): Shinkansen out of Sendai — the WRONG way (north) at first</description>
         <Style>
           <LineStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -564,7 +564,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Toward Utsunomiya</description>
         <Style>
           <LineStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -577,7 +577,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Toward the station that matched Adam&amp;#x27;s tallest-building photo</description>
         <Style>
           <LineStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -590,7 +590,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Seekers (with Adam) cleared two curses at Tokyo Station</description>
         <Style>
           <LineStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -603,7 +603,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;To Narita — the tallest-building photo gave away Narita Airport</description>
         <Style>
           <LineStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -616,7 +616,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Run 2: south toward the Izu peninsula (via Tokyo/Atami presumably — not specified in sources)</description>
         <Style>
           <LineStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -629,7 +629,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker: pursuing Adam&amp;#x27;s 2nd run</description>
         <Style>
           <LineStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -642,7 +642,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker: chasing Sam&amp;#x27;s 2nd run through Tokyo&amp;#x27;s dense urban landscape</description>
         <Style>
           <LineStyle>
-            <color>ff58eeff</color>
+            <color>ff2dc0fb</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -661,7 +661,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -680,7 +680,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -699,7 +699,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -718,7 +718,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -737,7 +737,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -756,7 +756,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -775,7 +775,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -791,7 +791,7 @@
         <description>&lt;b&gt;Team:&lt;/b&gt; Sam Denby&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;25-mile radar hit; Gotemba-line check; realized Ben went south of Atami&lt;/li&gt;&lt;/ul&gt;</description>
         <Style>
           <IconStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -810,7 +810,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -829,7 +829,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -848,7 +848,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -867,7 +867,7 @@
         </TimeSpan>
         <Style>
           <IconStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <scale>1.2</scale>
             <Icon>
               <href>https://maps.google.com/mapfiles/kml/pushpin/wht-blank.png</href>
@@ -883,7 +883,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Shinkansen northeast to Sendai</description>
         <Style>
           <LineStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -896,7 +896,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Local line toward Yamadera</description>
         <Style>
           <LineStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -909,7 +909,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Shinkansen out of Sendai (wrong way north), then south</description>
         <Style>
           <LineStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -922,7 +922,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;To the Tobiyama Castle Site area</description>
         <Style>
           <LineStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -935,7 +935,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Run 1: toward Narita</description>
         <Style>
           <LineStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -948,7 +948,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker chasing Ben&amp;#x27;s run 2: Atami</description>
         <Style>
           <LineStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -961,7 +961,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;West to Mishima</description>
         <Style>
           <LineStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -974,7 +974,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;South to Izu-Kogen</description>
         <Style>
           <LineStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -987,7 +987,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;As seeker: pursuing Adam&amp;#x27;s 2nd run</description>
         <Style>
           <LineStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <width>3</width>
           </LineStyle>
         </Style>
@@ -1000,7 +1000,7 @@
         <description>&lt;b&gt;Mode:&lt;/b&gt; train&lt;br&gt;Run 2: toward Kawagoe (routing not specified in sources)</description>
         <Style>
           <LineStyle>
-            <color>ff007cf5</color>
+            <color>ffd27619</color>
             <width>3</width>
           </LineStyle>
         </Style>

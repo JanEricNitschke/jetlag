@@ -5,6 +5,7 @@ from __future__ import annotations
 import colorsys
 import html
 import json
+import re
 from enum import StrEnum
 from pathlib import Path
 from typing import TYPE_CHECKING
@@ -13,7 +14,9 @@ import folium
 from folium.plugins import MarkerCluster, PolyLineTextPath
 
 from jetlag_maps.format import (
+    Journey,
     SeasonFile,
+    Stop,
     format_video_time,
     format_when,
     join_players,
@@ -24,7 +27,7 @@ if TYPE_CHECKING:
     from collections.abc import Callable, Sequence
 
     from jetlag_maps.cli import WebArgs
-    from jetlag_maps.format import Journey, Player, Stop, ToNext
+    from jetlag_maps.format import Player, ToNext
 
 _POPUP_MAX_WIDTH = 320
 _DOT_PX = 22
@@ -395,27 +398,150 @@ def _unwrapped(points: Sequence[tuple[float, float]]) -> list[tuple[float, float
     return result
 
 
-_LINE_DASHES = ("", "14 8", "2 7", "8 4 2 4", "2 4 8 4")
-"""Dash patterns per journey index, so legs of different journeys that run
-along the same corridor stay distinguishable instead of hiding each other."""
+_LINE_DASHES = ("", "28 18", "2 14", "12 8 2 8", "2 8 12 8")
+"""Dash patterns per journey index: the first team's legs render solid,
+the second long-dashed with wide gaps, the third sparsely dotted — the
+gaps are large enough that the pattern survives being zoomed out."""
+
+_SegmentKey = tuple[
+    tuple[float, float],
+    tuple[float, float],
+]
+_Chunk = tuple[list[tuple[float, float]], list[int], bool]
+
+_KEY_PRECISION = 6
+
+
+def _segment_key(a: tuple[float, float], b: tuple[float, float]) -> _SegmentKey | None:
+    """Key of the segment between two points, direction-insensitive.
+
+    The two endpoints are rounded to ``_KEY_PRECISION`` decimals (well
+    below a metre) and sorted, so two polylines sharing the same track
+    — stitched deterministically — produce identical keys regardless of
+    travel direction. Degenerate (zero-length) segments return ``None``
+    and never take part in deduplication.
+    """
+    first = (round(a[0], _KEY_PRECISION), round(a[1], _KEY_PRECISION))
+    second = (round(b[0], _KEY_PRECISION), round(b[1], _KEY_PRECISION))
+    if first == second:
+        return None
+    return (first, second) if first < second else (second, first)
+
+
+def _popup_leg_ids(
+    traversals: dict[_SegmentKey, list[int]],
+    keys: Sequence[_SegmentKey | None],
+    start: int,
+    end: int,
+) -> list[int]:
+    """Leg indices traversing the segments ``[start, end)``, in order."""
+    popup_ids: list[int] = []
+    seen: set[int] = set()
+    for k in range(start, end):
+        key = keys[k]
+        if key is None:
+            continue
+        for other in traversals[key]:
+            if other not in seen:
+                seen.add(other)
+                popup_ids.append(other)
+    return popup_ids
+
+
+def _owned_leg_chunks(
+    leg_points: Sequence[Sequence[tuple[float, float]]],
+) -> list[list[_Chunk]]:
+    """Split each leg's polyline into runs of owned and borrowed segments.
+
+    Within one journey (team) each physical segment is drawn at most
+    once: the first leg to traverse a segment owns it and later legs
+    only keep the segments nobody drew yet. The result holds one run
+    list per leg; each run is ``(points, popup_leg_indices, owned)``.
+    Owned runs draw as visible polylines whose popup lists every leg
+    that traverses their segments (in travel order); borrowed runs are
+    already drawn by an earlier leg of the same journey, but still
+    carry the leg's own travel direction, so the renderer overlays
+    direction arrows for them too.
+    """
+    owner: dict[_SegmentKey, int] = {}
+    traversals: dict[_SegmentKey, list[int]] = {}
+    keys_per_leg: list[list[_SegmentKey | None]] = []
+    for idx, points in enumerate(leg_points):
+        keys = [_segment_key(points[i], points[i + 1]) for i in range(len(points) - 1)]
+        keys_per_leg.append(keys)
+        for key in keys:
+            if key is None:
+                continue
+            traversals.setdefault(key, []).append(idx)
+            owner.setdefault(key, idx)
+
+    out: list[list[_Chunk]] = []
+    for idx, keys in enumerate(keys_per_leg):
+        points = leg_points[idx]
+        # per-segment state; degenerate segments inherit the previous one
+        states: list[bool] = []
+        for key in keys:
+            if key is None:
+                state = states[-1] if states else True
+            else:
+                state = owner[key] == idx
+            states.append(state)
+        runs: list[_Chunk] = []
+        start = 0
+        for i in range(1, len(states) + 1):
+            if i < len(states) and states[i] == states[start]:
+                continue
+            run_pts = list(points[start : i + 1])
+            owned = states[start]
+            popup_ids: list[int] = (
+                _popup_leg_ids(traversals, keys, start, i) if owned else []
+            )
+            runs.append((run_pts, popup_ids, owned))
+            start = i
+        out.append(runs)
+    return out
+
+
+def _merged_leg_popup(entries: Sequence[ToNext]) -> str:
+    """Build one popup listing every leg sharing a drawn polyline."""
+    return "<hr>".join(_leg_popup(leg) for leg in entries)
 
 
 def _add_leg_lines(
     group: folium.FeatureGroup, journey: Journey, journey_index: int = 0
 ) -> None:
-    """Add one journey-colored, arrowed polyline per ``to_next`` leg."""
+    """Add the journey's legs, drawing each team-corridor once.
+
+    One journey-colored, arrowed polyline is added per leg — but
+    segments already drawn for the same journey (the same team riding
+    the same track twice) are skipped, so a shared corridor renders as
+    one line whose popup lists every leg that used it. Legs of other
+    journeys still draw over the corridor in their own dash pattern;
+    the dash gaps keep the underlying line visible and clickable.
+    """
     color = str(journey.color)
     dash = _LINE_DASHES[journey_index % len(_LINE_DASHES)]
+    legs: list[tuple[ToNext, list[tuple[float, float]]]] = []
     for stop, nxt in zip(journey.stops, journey.stops[1:], strict=False):
         for leg in stop.to_next:
             coordinates = leg.geometry or [stop.coordinate, nxt.coordinate]
-            points = _unwrapped([(c.latitude, c.longitude) for c in coordinates])
+            legs.append(
+                (leg, _unwrapped([(c.latitude, c.longitude) for c in coordinates]))
+            )
+    for (_leg, _points), runs in zip(
+        legs, _owned_leg_chunks([points for _leg, points in legs]), strict=True
+    ):
+        for run_pts, popup_ids, owned in runs:
+            popup = (
+                _merged_leg_popup([legs[i][0] for i in popup_ids]) if owned else None
+            )
             line = folium.PolyLine(
-                points,
+                run_pts,
                 color=color,
-                weight=4,
-                opacity=0.8,
-                popup=_leg_popup(leg),
+                weight=5,
+                opacity=0.8 if owned else 0,
+                interactive=owned,
+                popup=popup,
                 dash_array=dash,
             )
             line.add_to(group)
@@ -439,6 +565,7 @@ def _add_direction_arrows(
             "paint-order": "stroke",
             "font-weight": "900",
             "font-size": "24px",
+            "pointer-events": "none",
         },
     ).add_to(group)
 
@@ -554,6 +681,120 @@ def _add_boundary_overlay(map_: folium.Map) -> None:
         ).add_to(map_)
 
 
+_ROUND_START_RE = re.compile(r"^Start of (?:Round (\d+)|Tiebreaker)\s*$")
+
+
+def _journey_rounds(journey: Journey) -> list[tuple[str, list[Stop]]]:
+    """Split a journey's stops into per-round groups via note markers.
+
+    Scans each stop's notes for ``"Start of Round N"`` or
+    ``"Start of Tiebreaker"``. Everything from one marker up to the next
+    belongs to that round. Returns one ``(label, stops)`` entry per
+    round, in journey order; a journey without markers returns a single
+    empty-label group with all its stops.
+    """
+    starts: list[tuple[int, str]] = []
+    for index, stop in enumerate(journey.stops):
+        for note in stop.notes:
+            match = _ROUND_START_RE.match(note.strip())
+            if match:
+                label = f"R{match.group(1)}" if match.group(1) else "TB"
+                starts.append((index, label))
+                break
+    if not starts:
+        return [("", list(journey.stops))]
+    groups: list[tuple[str, list[Stop]]] = []
+    for i, (index, label) in enumerate(starts):
+        end = starts[i + 1][0] if i + 1 < len(starts) else len(journey.stops)
+        groups.append((label, journey.stops[index:end]))
+    return groups
+
+
+def _round_labels(season: SeasonFile) -> list[str]:
+    """Collect the ordered round labels present in a season."""
+    labels: list[str] = []
+    for journey in season.journeys:
+        for label, _stops in _journey_rounds(journey):
+            if label and label not in labels:
+                labels.append(label)
+    return labels
+
+
+def _round_subseason(season: SeasonFile, label: str) -> SeasonFile | None:
+    """Build a SeasonFile containing only the stops of one round.
+
+    Each journey is filtered to the stops whose round label matches;
+    legs are kept when their origin stop survives the filter.
+    """
+    journeys: list[Journey] = []
+    for journey in season.journeys:
+        round_stops: list[Stop] = []
+        for _label, stops in _journey_rounds(journey):
+            if _label == label:
+                round_stops.extend(stops)
+        if round_stops:
+            journeys.append(
+                Journey(team=journey.team, color=journey.color, stops=round_stops)
+            )
+    if not journeys:
+        return None
+    return SeasonFile(season=season.season, name=season.name, journeys=journeys)
+
+
+def _render_round_layers(
+    map_: folium.Map,
+    name: str,
+    season: SeasonFile,
+    markers: MarkerMode,
+    all_points: list[tuple[float, float]],
+) -> None:
+    """Add one toggleable FeatureGroup per round of a season."""
+    for label in _round_labels(season):
+        sub = _round_subseason(season, label)
+        if sub is None:
+            continue
+        group = folium.FeatureGroup(name=f"{name} — {label}")
+        match markers:
+            case MarkerMode.CLUSTER:
+                cluster = MarkerCluster(options=_CLUSTER_OPTIONS)
+                _add_clustered_stop_markers(cluster, sub)
+                for ji, journey in enumerate(sub.journeys):
+                    _add_leg_lines(group, journey, ji)
+                    all_points.extend(_journey_points(journey))
+                group.add_child(cluster)
+            case MarkerMode.SPLIT:
+                _add_split_stop_markers(group, sub)
+                for ji, journey in enumerate(sub.journeys):
+                    _add_leg_lines(group, journey, ji)
+                    all_points.extend(_journey_points(journey))
+        group.add_to(map_)
+
+
+def _render_season_layer(
+    map_: folium.Map,
+    name: str,
+    season: SeasonFile,
+    markers: MarkerMode,
+    all_points: list[tuple[float, float]],
+) -> None:
+    """Add a single toggleable FeatureGroup for a whole season."""
+    group = folium.FeatureGroup(name=name)
+    match markers:
+        case MarkerMode.CLUSTER:
+            cluster = MarkerCluster(options=_CLUSTER_OPTIONS)
+            _add_clustered_stop_markers(cluster, season)
+            for journey_index, journey in enumerate(season.journeys):
+                _add_leg_lines(group, journey, journey_index)
+                all_points.extend(_journey_points(journey))
+            group.add_child(cluster)
+        case MarkerMode.SPLIT:
+            _add_split_stop_markers(group, season)
+            for journey_index, journey in enumerate(season.journeys):
+                _add_leg_lines(group, journey, journey_index)
+                all_points.extend(_journey_points(journey))
+    group.add_to(map_)
+
+
 def _build_map(
     layers: Sequence[tuple[str, SeasonFile]], markers: MarkerMode
 ) -> folium.Map:
@@ -576,7 +817,7 @@ def _build_map(
         show=False,
     ).add_to(map_)
     folium.TileLayer(
-        tiles="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+        tiles="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Gray_Base/MapServer/tile/{z}/{y}/{x}",
         attr="Esri",
         name="Light Gray",
         show=False,
@@ -590,21 +831,10 @@ def _build_map(
     _add_boundary_overlay(map_)
     all_points: list[tuple[float, float]] = []
     for name, season in layers:
-        group = folium.FeatureGroup(name=name)
-        match markers:
-            case MarkerMode.CLUSTER:
-                cluster = MarkerCluster(options=_CLUSTER_OPTIONS)
-                _add_clustered_stop_markers(cluster, season)
-                for journey_index, journey in enumerate(season.journeys):
-                    _add_leg_lines(group, journey, journey_index)
-                    all_points.extend(_journey_points(journey))
-                group.add_child(cluster)
-            case MarkerMode.SPLIT:
-                _add_split_stop_markers(group, season)
-                for journey_index, journey in enumerate(season.journeys):
-                    _add_leg_lines(group, journey, journey_index)
-                    all_points.extend(_journey_points(journey))
-        group.add_to(map_)
+        if _round_labels(season):
+            _render_round_layers(map_, name, season, markers, all_points)
+        else:
+            _render_season_layer(map_, name, season, markers, all_points)
     if markers == MarkerMode.CLUSTER:
         _scale_cluster_icons(map_)
     folium.LayerControl(collapsed=False).add_to(map_)
