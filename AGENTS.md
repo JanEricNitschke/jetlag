@@ -146,6 +146,11 @@ The fan-curated master KML. Contains one placemark per location with
 
 - Times are timezone-aware (`+HH:MM` offsets in JSON), attached from stop
   coordinates via `timezonefinder` (DST-correct for the visited date).
+- **Iconic moments and lines must be attached to their location
+  markers** — every "Key Moments" / "Iconic lines" placemark from the
+  source KML goes into the matching stop's note (challenge/ticket
+  events, rest periods, quotes) so it survives into the rendered notes.
+  Check coverage after applying a model.
 - `when.start` on a stop = the moment the player arrived there (or the
   notable event if it's an event stop). `end` = rest-period end.
 - Travel legs (`to_next`) carry the geometry; mode + note describe the
